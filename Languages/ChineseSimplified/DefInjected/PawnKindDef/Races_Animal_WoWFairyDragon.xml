@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- FairyDragon Def -->
+
+  <WoW_Animal_FairyDragon.label>fairy dragon</WoW_Animal_FairyDragon.label>
+  <WoW_Animal_FairyDragon.labelPlural>fairy dragons</WoW_Animal_FairyDragon.labelPlural>
+  <WoW_Animal_FairyDragon.lifeStages.0.label>FairyDragon chick</WoW_Animal_FairyDragon.lifeStages.0.label>
+  <WoW_Animal_FairyDragon.lifeStages.0.labelPlural>FairyDragon chicks</WoW_Animal_FairyDragon.lifeStages.0.labelPlural>
+  <WoW_Animal_FairyDragon.lifeStages.0.labelMale>male FairyDragon chick</WoW_Animal_FairyDragon.lifeStages.0.labelMale>
+  <WoW_Animal_FairyDragon.lifeStages.0.labelMalePlural>male FairyDragon chicks</WoW_Animal_FairyDragon.lifeStages.0.labelMalePlural>
+  <WoW_Animal_FairyDragon.lifeStages.0.labelFemale>female FairyDragon chick</WoW_Animal_FairyDragon.lifeStages.0.labelFemale>
+  <WoW_Animal_FairyDragon.lifeStages.0.labelFemalePlural>female FairyDragon chicks</WoW_Animal_FairyDragon.lifeStages.0.labelFemalePlural>
+  <WoW_Animal_FairyDragon.lifeStages.1.label>fairy dragon</WoW_Animal_FairyDragon.lifeStages.1.label>
+  <WoW_Animal_FairyDragon.lifeStages.1.labelPlural>fairy dragon</WoW_Animal_FairyDragon.lifeStages.1.labelPlural>
+  <WoW_Animal_FairyDragon.lifeStages.1.labelMale>male fairy dragon</WoW_Animal_FairyDragon.lifeStages.1.labelMale>
+  <WoW_Animal_FairyDragon.lifeStages.1.labelMalePlural>male fairy dragons</WoW_Animal_FairyDragon.lifeStages.1.labelMalePlural>
+  <WoW_Animal_FairyDragon.lifeStages.1.labelFemale>female fairy dragon</WoW_Animal_FairyDragon.lifeStages.1.labelFemale>
+  <WoW_Animal_FairyDragon.lifeStages.1.labelFemalePlural>female fairy dragons</WoW_Animal_FairyDragon.lifeStages.1.labelFemalePlural>
+  <WoW_Animal_FairyDragon.lifeStages.2.label>fairy dragon</WoW_Animal_FairyDragon.lifeStages.2.label>
+  <WoW_Animal_FairyDragon.lifeStages.2.labelPlural>fairy dragon</WoW_Animal_FairyDragon.lifeStages.2.labelPlural>
+  <WoW_Animal_FairyDragon.lifeStages.2.labelMale>male fairy dragon</WoW_Animal_FairyDragon.lifeStages.2.labelMale>
+  <WoW_Animal_FairyDragon.lifeStages.2.labelMalePlural>male fairy dragons</WoW_Animal_FairyDragon.lifeStages.2.labelMalePlural>
+  <WoW_Animal_FairyDragon.lifeStages.2.labelFemale>female fairy dragon</WoW_Animal_FairyDragon.lifeStages.2.labelFemale>
+  <WoW_Animal_FairyDragon.lifeStages.2.labelFemalePlural>female fairy dragons</WoW_Animal_FairyDragon.lifeStages.2.labelFemalePlural>
+  <WoW_Animal_FairyDragon.labelMale>male fairy dragon</WoW_Animal_FairyDragon.labelMale>
+  <WoW_Animal_FairyDragon.labelMalePlural>male fairy dragons</WoW_Animal_FairyDragon.labelMalePlural>
+  <WoW_Animal_FairyDragon.labelFemale>female fairy dragon</WoW_Animal_FairyDragon.labelFemale>
+  <WoW_Animal_FairyDragon.labelFemalePlural>female fairy dragons</WoW_Animal_FairyDragon.labelFemalePlural>
+
+
+</LanguageData>

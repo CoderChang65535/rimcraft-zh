@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- WoW Human Base -->
+
+  <WoW_Human.label>azerothian human</WoW_Human.label>
+  <WoW_Human.description>Humans (collectively referred to as mankind or humanity) are a resilient species native to the world of Azeroth. Recent discoveries have shown that humans are descended from the barbaric half-giant vrykul of Northrend. Though humans are among the younger races on Azeroth, they have faced many challenges with fortitude and resilience. Their continued ability to adapt and rebuild has made them a vital force in an ever-changing world.</WoW_Human.description>
+  <WoW_Human.tools.0.label>left fist</WoW_Human.tools.0.label>
+  <WoW_Human.tools.1.label>right fist</WoW_Human.tools.1.label>
+  <WoW_Human.tools.2.label>teeth</WoW_Human.tools.2.label>
+  <WoW_Human.tools.3.label>head</WoW_Human.tools.3.label>
+
+
+</LanguageData>

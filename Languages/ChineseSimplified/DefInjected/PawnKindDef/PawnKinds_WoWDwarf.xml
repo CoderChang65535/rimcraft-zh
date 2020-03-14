@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- WoWDwarf Civilians -->
+
+  <WoW_Dwarf_Citizen.label>dwarf citizen</WoW_Dwarf_Citizen.label>
+  <WoW_Dwarf_Citizen.labelPlural>dwarf citizens</WoW_Dwarf_Citizen.labelPlural>
+  <WoW_Dwarf_Citizen.labelMale>male dwarf citizen</WoW_Dwarf_Citizen.labelMale>
+  <WoW_Dwarf_Citizen.labelMalePlural>male dwarf citizens</WoW_Dwarf_Citizen.labelMalePlural>
+  <WoW_Dwarf_Citizen.labelFemale>female dwarf citizen</WoW_Dwarf_Citizen.labelFemale>
+  <WoW_Dwarf_Citizen.labelFemalePlural>female dwarf citizens</WoW_Dwarf_Citizen.labelFemalePlural>
+
+  <WoW_Dwarf_Trader.label>dwarf trader</WoW_Dwarf_Trader.label>
+  <WoW_Dwarf_Trader.labelPlural>dwarf traders</WoW_Dwarf_Trader.labelPlural>
+  <WoW_Dwarf_Trader.labelMale>male dwarf trader</WoW_Dwarf_Trader.labelMale>
+  <WoW_Dwarf_Trader.labelMalePlural>male dwarf traders</WoW_Dwarf_Trader.labelMalePlural>
+  <WoW_Dwarf_Trader.labelFemale>female dwarf trader</WoW_Dwarf_Trader.labelFemale>
+  <WoW_Dwarf_Trader.labelFemalePlural>female dwarf traders</WoW_Dwarf_Trader.labelFemalePlural>
+
+  <WoW_Dwarf_Slave.label>dwarf slave</WoW_Dwarf_Slave.label>
+  <WoW_Dwarf_Slave.labelPlural>dwarf slaves</WoW_Dwarf_Slave.labelPlural>
+  <WoW_Dwarf_Slave.labelMale>male dwarf slave</WoW_Dwarf_Slave.labelMale>
+  <WoW_Dwarf_Slave.labelMalePlural>male dwarf slaves</WoW_Dwarf_Slave.labelMalePlural>
+  <WoW_Dwarf_Slave.labelFemale>female dwarf slave</WoW_Dwarf_Slave.labelFemale>
+  <WoW_Dwarf_Slave.labelFemalePlural>female dwarf slaves</WoW_Dwarf_Slave.labelFemalePlural>
+
+
+  <!-- WoWDwarf Military -->
+
+  <WoW_Dwarf_Guard.label>dwarf guard</WoW_Dwarf_Guard.label>
+  <WoW_Dwarf_Guard.labelPlural>dwarf guards</WoW_Dwarf_Guard.labelPlural>
+  <WoW_Dwarf_Guard.labelMale>male dwarf guard</WoW_Dwarf_Guard.labelMale>
+  <WoW_Dwarf_Guard.labelMalePlural>male dwarf guards</WoW_Dwarf_Guard.labelMalePlural>
+  <WoW_Dwarf_Guard.labelFemale>female dwarf guard</WoW_Dwarf_Guard.labelFemale>
+  <WoW_Dwarf_Guard.labelFemalePlural>female dwarf guards</WoW_Dwarf_Guard.labelFemalePlural>
+
+  <WoW_Dwarf_Mountaineer.label>dwarf mountaineer</WoW_Dwarf_Mountaineer.label>
+  <WoW_Dwarf_Mountaineer.labelPlural>dwarf mountaineers</WoW_Dwarf_Mountaineer.labelPlural>
+  <WoW_Dwarf_Mountaineer.labelMale>male dwarf mountaineer</WoW_Dwarf_Mountaineer.labelMale>
+  <WoW_Dwarf_Mountaineer.labelMalePlural>male dwarf mountaineers</WoW_Dwarf_Mountaineer.labelMalePlural>
+  <WoW_Dwarf_Mountaineer.labelFemale>female dwarf mountaineer</WoW_Dwarf_Mountaineer.labelFemale>
+  <WoW_Dwarf_Mountaineer.labelFemalePlural>female dwarf mountaineers</WoW_Dwarf_Mountaineer.labelFemalePlural>
+
+  <WoW_Dwarf_Officer.label>dwarf officer</WoW_Dwarf_Officer.label>
+  <WoW_Dwarf_Officer.labelPlural>dwarf officers</WoW_Dwarf_Officer.labelPlural>
+  <WoW_Dwarf_Officer.labelMale>male dwarf officer</WoW_Dwarf_Officer.labelMale>
+  <WoW_Dwarf_Officer.labelMalePlural>male dwarf officers</WoW_Dwarf_Officer.labelMalePlural>
+  <WoW_Dwarf_Officer.labelFemale>female dwarf officer</WoW_Dwarf_Officer.labelFemale>
+  <WoW_Dwarf_Officer.labelFemalePlural>female dwarf officers</WoW_Dwarf_Officer.labelFemalePlural>
+
+  <WoW_Dwarf_MountainLord.label>dwarf mountain lord</WoW_Dwarf_MountainLord.label>
+  <WoW_Dwarf_MountainLord.labelPlural>dwarf mountain lords</WoW_Dwarf_MountainLord.labelPlural>
+  <WoW_Dwarf_MountainLord.labelMale>male dwarf mountain lord</WoW_Dwarf_MountainLord.labelMale>
+  <WoW_Dwarf_MountainLord.labelMalePlural>male dwarf mountain lords</WoW_Dwarf_MountainLord.labelMalePlural>
+  <WoW_Dwarf_MountainLord.labelFemale>female dwarf mountain lord</WoW_Dwarf_MountainLord.labelFemale>
+  <WoW_Dwarf_MountainLord.labelFemalePlural>female dwarf mountain lords</WoW_Dwarf_MountainLord.labelFemalePlural>
+
+
+</LanguageData>

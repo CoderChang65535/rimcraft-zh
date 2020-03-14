@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- WoW Goblin Base -->
+
+  <WoW_Goblin.label>Goblin</WoW_Goblin.label>
+  <WoW_Goblin.description>The draenei (meaning Exiled Ones in their own tongue) are a faction of uncorrupted eredar who fled their homeworld of Argus to escape the corruption of the demonic Burning Legion.</WoW_Goblin.description>
+  <WoW_Goblin.tools.0.label>left fist</WoW_Goblin.tools.0.label>
+  <WoW_Goblin.tools.1.label>right fist</WoW_Goblin.tools.1.label>
+  <WoW_Goblin.tools.2.label>teeth</WoW_Goblin.tools.2.label>
+  <WoW_Goblin.tools.3.label>head</WoW_Goblin.tools.3.label>
+
+
+</LanguageData>

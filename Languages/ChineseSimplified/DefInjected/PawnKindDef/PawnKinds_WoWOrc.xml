@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Orc Civilians -->
+
+  <WoW_Orc_Villager.label>orc villager</WoW_Orc_Villager.label>
+  <WoW_Orc_Villager.labelPlural>orc villagers</WoW_Orc_Villager.labelPlural>
+  <WoW_Orc_Villager.labelMale>male orc villager</WoW_Orc_Villager.labelMale>
+  <WoW_Orc_Villager.labelMalePlural>male orc villagers</WoW_Orc_Villager.labelMalePlural>
+  <WoW_Orc_Villager.labelFemale>female orc villager</WoW_Orc_Villager.labelFemale>
+  <WoW_Orc_Villager.labelFemalePlural>female orc villagers</WoW_Orc_Villager.labelFemalePlural>
+
+  <WoW_Orc_Trader.label>orc trader</WoW_Orc_Trader.label>
+  <WoW_Orc_Trader.labelPlural>orc traders</WoW_Orc_Trader.labelPlural>
+  <WoW_Orc_Trader.labelMale>male orc trader</WoW_Orc_Trader.labelMale>
+  <WoW_Orc_Trader.labelMalePlural>male orc traders</WoW_Orc_Trader.labelMalePlural>
+  <WoW_Orc_Trader.labelFemale>female orc trader</WoW_Orc_Trader.labelFemale>
+  <WoW_Orc_Trader.labelFemalePlural>female orc traders</WoW_Orc_Trader.labelFemalePlural>
+
+  <WoW_Orc_slave.label>orc slave</WoW_Orc_slave.label>
+  <WoW_Orc_slave.labelPlural>orc slaves</WoW_Orc_slave.labelPlural>
+  <WoW_Orc_slave.labelMale>male orc slave</WoW_Orc_slave.labelMale>
+  <WoW_Orc_slave.labelMalePlural>male orc slaves</WoW_Orc_slave.labelMalePlural>
+  <WoW_Orc_slave.labelFemale>female orc slave</WoW_Orc_slave.labelFemale>
+  <WoW_Orc_slave.labelFemalePlural>female orc slaves</WoW_Orc_slave.labelFemalePlural>
+
+
+  <!-- Orc Military -->
+
+  <WoW_Orc_Grunt.label>orc grunt</WoW_Orc_Grunt.label>
+  <WoW_Orc_Grunt.labelPlural>orc grunts</WoW_Orc_Grunt.labelPlural>
+  <WoW_Orc_Grunt.labelMale>male orc grunt</WoW_Orc_Grunt.labelMale>
+  <WoW_Orc_Grunt.labelMalePlural>male orc grunts</WoW_Orc_Grunt.labelMalePlural>
+  <WoW_Orc_Grunt.labelFemale>female orc grunt</WoW_Orc_Grunt.labelFemale>
+  <WoW_Orc_Grunt.labelFemalePlural>female orc grunts</WoW_Orc_Grunt.labelFemalePlural>
+
+  <WoW_Orc_Scout.label>orc scout</WoW_Orc_Scout.label>
+  <WoW_Orc_Scout.labelPlural>orc scouts</WoW_Orc_Scout.labelPlural>
+  <WoW_Orc_Scout.labelMale>male orc scout</WoW_Orc_Scout.labelMale>
+  <WoW_Orc_Scout.labelMalePlural>male orc scouts</WoW_Orc_Scout.labelMalePlural>
+  <WoW_Orc_Scout.labelFemale>female orc scout</WoW_Orc_Scout.labelFemale>
+  <WoW_Orc_Scout.labelFemalePlural>female orc scouts</WoW_Orc_Scout.labelFemalePlural>
+
+  <WoW_Orc_Legionnaire.label>orc legionnaire</WoW_Orc_Legionnaire.label>
+  <WoW_Orc_Legionnaire.labelPlural>orc legionnaires</WoW_Orc_Legionnaire.labelPlural>
+  <WoW_Orc_Legionnaire.labelMale>male orc legionnaire</WoW_Orc_Legionnaire.labelMale>
+  <WoW_Orc_Legionnaire.labelMalePlural>male orc legionnaires</WoW_Orc_Legionnaire.labelMalePlural>
+  <WoW_Orc_Legionnaire.labelFemale>female orc legionnaire</WoW_Orc_Legionnaire.labelFemale>
+  <WoW_Orc_Legionnaire.labelFemalePlural>female orc legionnaires</WoW_Orc_Legionnaire.labelFemalePlural>
+
+  <WoW_Orc_Champion.label>orc champion</WoW_Orc_Champion.label>
+  <WoW_Orc_Champion.labelPlural>orc champions</WoW_Orc_Champion.labelPlural>
+  <WoW_Orc_Champion.labelMale>male orc champion</WoW_Orc_Champion.labelMale>
+  <WoW_Orc_Champion.labelMalePlural>male orc champions</WoW_Orc_Champion.labelMalePlural>
+  <WoW_Orc_Champion.labelFemale>female orc champion</WoW_Orc_Champion.labelFemale>
+  <WoW_Orc_Champion.labelFemalePlural>female orc champions</WoW_Orc_Champion.labelFemalePlural>
+
+  <WoW_Orc_Bladesmaster.label>orc bladesmaster</WoW_Orc_Bladesmaster.label>
+  <WoW_Orc_Bladesmaster.labelPlural>orc bladesmasters</WoW_Orc_Bladesmaster.labelPlural>
+  <WoW_Orc_Bladesmaster.labelMale>male orc bladesmaster</WoW_Orc_Bladesmaster.labelMale>
+  <WoW_Orc_Bladesmaster.labelMalePlural>male orc bladesmasters</WoW_Orc_Bladesmaster.labelMalePlural>
+  <WoW_Orc_Bladesmaster.labelFemale>female orc bladesmaster</WoW_Orc_Bladesmaster.labelFemale>
+  <WoW_Orc_Bladesmaster.labelFemalePlural>female orc bladesmasters</WoW_Orc_Bladesmaster.labelFemalePlural>
+
+  <WoW_Orc_HighWarlord.label>orc high warlord</WoW_Orc_HighWarlord.label>
+  <WoW_Orc_HighWarlord.labelPlural>orc high warlords</WoW_Orc_HighWarlord.labelPlural>
+  <WoW_Orc_HighWarlord.labelMale>male orc high warlord</WoW_Orc_HighWarlord.labelMale>
+  <WoW_Orc_HighWarlord.labelMalePlural>male orc high warlords</WoW_Orc_HighWarlord.labelMalePlural>
+  <WoW_Orc_HighWarlord.labelFemale>female orc high warlord</WoW_Orc_HighWarlord.labelFemale>
+  <WoW_Orc_HighWarlord.labelFemalePlural>female orc high warlords</WoW_Orc_HighWarlord.labelFemalePlural>
+
+
+</LanguageData>

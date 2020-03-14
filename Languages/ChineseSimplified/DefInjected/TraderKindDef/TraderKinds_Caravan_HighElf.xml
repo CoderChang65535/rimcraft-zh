@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Bulk Goods Trader -->
+
+  <Caravan_WoWHE_BulkGoods.label>bulk goods trader</Caravan_WoWHE_BulkGoods.label>
+
+
+  <!-- War Merchant -->
+
+  <Caravan_WoWHE_WarMerchant.label>war merchant</Caravan_WoWHE_WarMerchant.label>
+
+
+  <!-- Slaver Merchant -->
+
+  <Caravan_WoWHE_Slaver.label>slaver</Caravan_WoWHE_Slaver.label>
+
+
+  <!-- Shaman Merchant -->
+
+  <Caravan_WoWHE_ShamanMerchant.label>shaman merchant</Caravan_WoWHE_ShamanMerchant.label>
+
+
+</LanguageData>

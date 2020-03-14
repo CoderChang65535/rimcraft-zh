@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <WoWForsaken.label>colonist</WoWForsaken.label>
+  <WoWForsaken.labelPlural>colonists</WoWForsaken.labelPlural>
+  <WoWForsaken.labelMale>male colonist</WoWForsaken.labelMale>
+  <WoWForsaken.labelMalePlural>male colonists</WoWForsaken.labelMalePlural>
+  <WoWForsaken.labelFemale>female colonist</WoWForsaken.labelFemale>
+  <WoWForsaken.labelFemalePlural>female colonists</WoWForsaken.labelFemalePlural>
+
+  <WoWForsakenHighElf.label>colonist</WoWForsakenHighElf.label>
+  <WoWForsakenHighElf.labelPlural>colonists</WoWForsakenHighElf.labelPlural>
+  <WoWForsakenHighElf.labelMale>male colonist</WoWForsakenHighElf.labelMale>
+  <WoWForsakenHighElf.labelMalePlural>male colonists</WoWForsakenHighElf.labelMalePlural>
+  <WoWForsakenHighElf.labelFemale>female colonist</WoWForsakenHighElf.labelFemale>
+  <WoWForsakenHighElf.labelFemalePlural>female colonists</WoWForsakenHighElf.labelFemalePlural>
+
+  <WoWForsakenNightElf.label>colonist</WoWForsakenNightElf.label>
+  <WoWForsakenNightElf.labelPlural>colonists</WoWForsakenNightElf.labelPlural>
+  <WoWForsakenNightElf.labelMale>male colonist</WoWForsakenNightElf.labelMale>
+  <WoWForsakenNightElf.labelMalePlural>male colonists</WoWForsakenNightElf.labelMalePlural>
+  <WoWForsakenNightElf.labelFemale>female colonist</WoWForsakenNightElf.labelFemale>
+  <WoWForsakenNightElf.labelFemalePlural>female colonists</WoWForsakenNightElf.labelFemalePlural>
+
+
+</LanguageData>

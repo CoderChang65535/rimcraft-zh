@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- WoW Skeleton Base -->
+
+  <WoW_Skeleton.label>skeleton</WoW_Skeleton.label>
+  <WoW_Skeleton.description>Skeleton of the Scourge</WoW_Skeleton.description>
+  <WoW_Skeleton.tools.0.label>left fist</WoW_Skeleton.tools.0.label>
+  <WoW_Skeleton.tools.1.label>right fist</WoW_Skeleton.tools.1.label>
+  <WoW_Skeleton.tools.2.label>teeth</WoW_Skeleton.tools.2.label>
+  <WoW_Skeleton.tools.3.label>head</WoW_Skeleton.tools.3.label>
+
+
+</LanguageData>

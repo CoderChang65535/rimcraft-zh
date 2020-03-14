@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BloodElf.label>blood elf camp</BloodElf.label>
+  <BloodElf.description>The Blood Elves or Sin'dorei in Thalassian ("children of the blood"), are a race composed of former high elves who renamed themselves in honor of their people who were killed during the siege of Quel'Thalas by the Scourge during the Third War.</BloodElf.description>
+  <BloodElf.fixedName>The Sin'dorei</BloodElf.fixedName>
+  <BloodElf.pawnsPlural>Blood Elves</BloodElf.pawnsPlural>
+  <BloodElf.leaderTitle>King</BloodElf.leaderTitle>
+
+
+</LanguageData>

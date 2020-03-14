@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Troll Base -->
+
+  <WoW_Troll.label>Troll</WoW_Troll.label>
+  <WoW_Troll.description>Trolls (collectively referred to as trollkind) are a diverse sapient race that can be found in every part of Azeroth. They are one of the earliest known native races of Azeroth. Trolls are a species where multiple subspecies exist, these subspecies vary from being tall, lanky and muscular, with each subspecies being different than the others both physically and culturally. They have both elven and orc-like characteristics with their fierce tusks and long ears. Their long arms, strong legs, quick reflexes as well as their incredible agility and strength make them adept hunters.</WoW_Troll.description>
+  <WoW_Troll.tools.0.label>left fist</WoW_Troll.tools.0.label>
+  <WoW_Troll.tools.1.label>right fist</WoW_Troll.tools.1.label>
+  <WoW_Troll.tools.2.label>teeth</WoW_Troll.tools.2.label>
+  <WoW_Troll.tools.3.label>head</WoW_Troll.tools.3.label>
+  <WoW_Troll.tools.4.label>left fist</WoW_Troll.tools.4.label>
+  <WoW_Troll.tools.5.label>right fist</WoW_Troll.tools.5.label>
+  <WoW_Troll.tools.6.label>teeth</WoW_Troll.tools.6.label>
+  <WoW_Troll.tools.7.label>head</WoW_Troll.tools.7.label>
+
+
+</LanguageData>

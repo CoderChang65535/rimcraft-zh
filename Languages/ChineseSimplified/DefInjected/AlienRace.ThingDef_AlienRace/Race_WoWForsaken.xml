@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Forsaken Base -->
+
+  <WoW_Forsaken.label>forsaken</WoW_Forsaken.label>
+  <WoW_Forsaken.description>The undead Forsaken or simply the Forsaken and Undead are a race and a faction of intelligent undead who broke away from the Scourge and took control of much of the kingdom of Lordaeron, destroyed during the Third War by the death knight Arthas. While comprised vastly of undead humans, the Forsaken are a diverse faction that include several different races at their biological core. However, they have all assumed their racial identity as "Forsaken," due to their shared goals and loyalties.</WoW_Forsaken.description>
+  <WoW_Forsaken.tools.0.label>left fist</WoW_Forsaken.tools.0.label>
+  <WoW_Forsaken.tools.1.label>right fist</WoW_Forsaken.tools.1.label>
+  <WoW_Forsaken.tools.2.label>teeth</WoW_Forsaken.tools.2.label>
+  <WoW_Forsaken.tools.3.label>head</WoW_Forsaken.tools.3.label>
+
+
+</LanguageData>

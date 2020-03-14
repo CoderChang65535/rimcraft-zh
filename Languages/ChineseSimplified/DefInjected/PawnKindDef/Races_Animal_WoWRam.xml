@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ram Def -->
+
+  <WoW_Animal_Ram.label>ram</WoW_Animal_Ram.label>
+  <WoW_Animal_Ram.labelPlural>rams</WoW_Animal_Ram.labelPlural>
+  <WoW_Animal_Ram.lifeStages.0.label>Ram foal</WoW_Animal_Ram.lifeStages.0.label>
+  <WoW_Animal_Ram.lifeStages.0.labelPlural>Ram lamb</WoW_Animal_Ram.lifeStages.0.labelPlural>
+  <WoW_Animal_Ram.lifeStages.0.labelMale>male Ram foal</WoW_Animal_Ram.lifeStages.0.labelMale>
+  <WoW_Animal_Ram.lifeStages.0.labelMalePlural>male Ram lamb</WoW_Animal_Ram.lifeStages.0.labelMalePlural>
+  <WoW_Animal_Ram.lifeStages.0.labelFemale>female Ram foal</WoW_Animal_Ram.lifeStages.0.labelFemale>
+  <WoW_Animal_Ram.lifeStages.0.labelFemalePlural>female Ram lamb</WoW_Animal_Ram.lifeStages.0.labelFemalePlural>
+  <WoW_Animal_Ram.lifeStages.1.label>ram</WoW_Animal_Ram.lifeStages.1.label>
+  <WoW_Animal_Ram.lifeStages.1.labelPlural>ram</WoW_Animal_Ram.lifeStages.1.labelPlural>
+  <WoW_Animal_Ram.lifeStages.1.labelMale>male ram</WoW_Animal_Ram.lifeStages.1.labelMale>
+  <WoW_Animal_Ram.lifeStages.1.labelMalePlural>male rams</WoW_Animal_Ram.lifeStages.1.labelMalePlural>
+  <WoW_Animal_Ram.lifeStages.1.labelFemale>Ram ewe</WoW_Animal_Ram.lifeStages.1.labelFemale>
+  <WoW_Animal_Ram.lifeStages.1.labelFemalePlural>female rams</WoW_Animal_Ram.lifeStages.1.labelFemalePlural>
+  <WoW_Animal_Ram.lifeStages.2.label>ram</WoW_Animal_Ram.lifeStages.2.label>
+  <WoW_Animal_Ram.lifeStages.2.labelPlural>ram</WoW_Animal_Ram.lifeStages.2.labelPlural>
+  <WoW_Animal_Ram.lifeStages.2.labelMale>male ram</WoW_Animal_Ram.lifeStages.2.labelMale>
+  <WoW_Animal_Ram.lifeStages.2.labelMalePlural>male rams</WoW_Animal_Ram.lifeStages.2.labelMalePlural>
+  <WoW_Animal_Ram.lifeStages.2.labelFemale>Ram ewe</WoW_Animal_Ram.lifeStages.2.labelFemale>
+  <WoW_Animal_Ram.lifeStages.2.labelFemalePlural>female rams</WoW_Animal_Ram.lifeStages.2.labelFemalePlural>
+  <WoW_Animal_Ram.labelMale>male ram</WoW_Animal_Ram.labelMale>
+  <WoW_Animal_Ram.labelMalePlural>male rams</WoW_Animal_Ram.labelMalePlural>
+  <WoW_Animal_Ram.labelFemale>Ram ewe</WoW_Animal_Ram.labelFemale>
+  <WoW_Animal_Ram.labelFemalePlural>Ram ewes</WoW_Animal_Ram.labelFemalePlural>
+
+
+</LanguageData>

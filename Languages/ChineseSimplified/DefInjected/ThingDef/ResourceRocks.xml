@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Thorium -->
+
+  <WoW_thorium_deposit.label>thorium deposit</WoW_thorium_deposit.label>
+  <WoW_thorium_deposit.description>A vein of thorium ore.</WoW_thorium_deposit.description>
+
+
+  <!-- Dark Iron -->
+
+  <WoW_darkiron_deposit.label>dark iron deposit</WoW_darkiron_deposit.label>
+  <WoW_darkiron_deposit.description>A vein of dark iron ore.</WoW_darkiron_deposit.description>
+
+
+  <!-- Mithril -->
+
+  <WoW_mithril_deposit.label>mithril deposit</WoW_mithril_deposit.label>
+  <WoW_mithril_deposit.description>A vein of mithril ore.</WoW_mithril_deposit.description>
+
+
+  <!-- Adamantite -->
+
+  <WoW_adamantite_deposit.label>adamantite deposit</WoW_adamantite_deposit.label>
+  <WoW_adamantite_deposit.description>A vein of adamantite ore.</WoW_adamantite_deposit.description>
+
+
+  <!-- TrueSilver -->
+
+  <WoW_truesilver_deposit.label>truesilver deposit</WoW_truesilver_deposit.label>
+  <WoW_truesilver_deposit.description>A vein of truesilver ore.</WoW_truesilver_deposit.description>
+
+
+</LanguageData>

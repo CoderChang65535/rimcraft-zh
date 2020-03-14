@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ModMetaData>
+	<name>[Ry]Rimcraft-zh 边缘魔兽汉化包</name>
+	<author>CN-CoderZhang</author>
+	<supportedVersions>
+		<li>1.1</li>
+	</supportedVersions>
+	<packageId>CNCoderZhang.Rimcraft-zh</packageId>
+	<url>https://github.com/CoderChang65535/rimcraft-zh/</url>
+	<description>
+Rimcraft的汉化mod
+	</description>
+</ModMetaData>

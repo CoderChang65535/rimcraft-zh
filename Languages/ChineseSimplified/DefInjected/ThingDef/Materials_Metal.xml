@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Thorium -->
+
+  <WoW_thorium_ore.label>thorium ore</WoW_thorium_ore.label>
+  <WoW_thorium_ore.description>Raw Thorium ore. Thorium is a strong metal, mostly used in armor and weapons.</WoW_thorium_ore.description>
+
+  <WoW_thorium.label>thorium</WoW_thorium.label>
+  <WoW_thorium.description>Refined Thorium Ingots. Thorium is a strong metal, mostly used in armor and weapons.</WoW_thorium.description>
+
+
+  <!-- Dark Iron -->
+
+  <WoW_darkiron_ore.label>dark iron ore</WoW_darkiron_ore.label>
+  <WoW_darkiron_ore.description>Raw dark iron ore. Dark Iron is the most fire-retardant, fire-resistant metal known.</WoW_darkiron_ore.description>
+
+  <WoW_darkiron.label>dark iron</WoW_darkiron.label>
+  <WoW_darkiron.description>Refined dark iron ingots. Dark Iron is the most fire-retardant, fire-resistant metal known.</WoW_darkiron.description>
+
+
+  <!-- Mithril -->
+
+  <WoW_mithril_ore.label>mithril ore</WoW_mithril_ore.label>
+  <WoW_mithril_ore.description>Raw Mithril ore. “The magician’s metal”, Mithril is revered by craftsman of all trades for its extremely magical properties and light weight.</WoW_mithril_ore.description>
+
+  <WoW_mithril.label>mithril</WoW_mithril.label>
+  <WoW_mithril.description>Refined mithril ingots. “The magician’s metal”, Mithril is revered by craftsman of all trades for its extremely magical properties and light weight.</WoW_mithril.description>
+
+
+  <!-- Adamantite -->
+
+  <WoW_adamantite_ore.label>adamantite ore</WoW_adamantite_ore.label>
+  <WoW_adamantite_ore.description>Raw Adamantite ore. Adamantite is a strong magically attuned metal.</WoW_adamantite_ore.description>
+
+  <WoW_adamantite.label>adamantite</WoW_adamantite.label>
+  <WoW_adamantite.description>Refined adamantite ingots. Adamantite is a strong magically attuned metal.</WoW_adamantite.description>
+
+  <WoW_hardened_adamantite.label>hardened adamantite</WoW_hardened_adamantite.label>
+  <WoW_hardened_adamantite.description>Hardened adamantite ingots.</WoW_hardened_adamantite.description>
+
+
+  <!-- Truesilver -->
+
+  <WoW_truesilver_ore.label>truesilver ore</WoW_truesilver_ore.label>
+  <WoW_truesilver_ore.description>Raw Truesilver ore.</WoW_truesilver_ore.description>
+
+  <WoW_truesilver.label>truesilver</WoW_truesilver.label>
+  <WoW_truesilver.description>Refined Truesilver ingots.</WoW_truesilver.description>
+
+
+</LanguageData>

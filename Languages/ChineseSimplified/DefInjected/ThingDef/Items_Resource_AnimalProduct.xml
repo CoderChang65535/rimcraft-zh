@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Raptor -->
+
+  <EggWoWRaptorFertilized.label>raptor egg (fert.)</EggWoWRaptorFertilized.label>
+  <EggWoWRaptorFertilized.description>A fertilized chicken egg. If all goes well, it should hatch into a raptor juvenile. It can be eaten raw, but it's much better cooked.</EggWoWRaptorFertilized.description>
+
+
+  <!-- Hawkstrider -->
+
+  <EggWoWHawkstriderFertilized.label>hawkstrider egg (fert.)</EggWoWHawkstriderFertilized.label>
+  <EggWoWHawkstriderFertilized.description>A fertilized hawkstrider egg. If all goes well, it should hatch into a hawkstrider chick. It can be eaten raw, but it's much better cooked.</EggWoWHawkstriderFertilized.description>
+
+
+  <!-- Kodo -->
+
+  <EggWoWKodoFertilized.label>kodo egg (fert.)</EggWoWKodoFertilized.label>
+  <EggWoWKodoFertilized.description>A fertilized kodo egg. If all goes well, it should hatch into a kodo calf. It can be eaten raw, but it's much better cooked.</EggWoWKodoFertilized.description>
+
+
+  <!-- Voidstrider -->
+
+  <EggWoWVoidstriderFertilized.label>hawkstrider egg (fert.)</EggWoWVoidstriderFertilized.label>
+  <EggWoWVoidstriderFertilized.description>A fertilized voidstrider egg. If all goes well, it should hatch into a voidstrider chick. It can be eaten raw, but it's much better cooked.</EggWoWVoidstriderFertilized.description>
+
+
+  <!-- Dragonhawk -->
+
+  <EggWoWDragonhawkFertilized.label>dragonhawk egg (fert.)</EggWoWDragonhawkFertilized.label>
+  <EggWoWDragonhawkFertilized.description>A fertilized voidstrider egg. If all goes well, it should hatch into a dragonhawk chick. It can be eaten raw, but it's much better cooked.</EggWoWDragonhawkFertilized.description>
+
+
+  <!-- Murloc -->
+
+  <EggWoWMurlocFertilized.label>dmurloc egg (fert.)</EggWoWMurlocFertilized.label>
+  <EggWoWMurlocFertilized.description>A fertilized murloc egg. If all goes well, it should hatch into a murloc tadpole. It can be eaten raw, but it's much better cooked.</EggWoWMurlocFertilized.description>
+
+  <EggWoWFairyDragonFertilized.label>fairy dragon egg (fert.)</EggWoWFairyDragonFertilized.label>
+  <EggWoWFairyDragonFertilized.description>A fertilized fairy dragon egg. If all goes well, it should hatch into a fairy dragon chick. It can be eaten raw, but it's much better cooked.</EggWoWFairyDragonFertilized.description>
+
+
+</LanguageData>

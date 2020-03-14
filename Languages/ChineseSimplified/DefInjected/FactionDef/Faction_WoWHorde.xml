@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Horde.label>horde settlement</Horde.label>
+  <Horde.description>The Horde is one of the two major political factions of the mortal races in Azeroth, its counterpart being the Alliance. The Horde, a faction led by off-worlders and composed of outsiders has survived these obstacles by bonding together, fighting as family, comrades, or even uneasy allies.</Horde.description>
+  <Horde.fixedName>The Horde</Horde.fixedName>
+  <Horde.pawnsPlural>Horde</Horde.pawnsPlural>
+  <Horde.leaderTitle>Warchief</Horde.leaderTitle>
+
+
+</LanguageData>

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Raptor Def -->
+
+  <WoW_Animal_Raptor.label>raptor</WoW_Animal_Raptor.label>
+  <WoW_Animal_Raptor.labelPlural>raptors</WoW_Animal_Raptor.labelPlural>
+  <WoW_Animal_Raptor.lifeStages.0.label>raptor juvenile</WoW_Animal_Raptor.lifeStages.0.label>
+  <WoW_Animal_Raptor.lifeStages.0.labelPlural>raptor juveniles</WoW_Animal_Raptor.lifeStages.0.labelPlural>
+  <WoW_Animal_Raptor.lifeStages.0.labelMale>male raptor juvenile</WoW_Animal_Raptor.lifeStages.0.labelMale>
+  <WoW_Animal_Raptor.lifeStages.0.labelMalePlural>male raptor juveniles</WoW_Animal_Raptor.lifeStages.0.labelMalePlural>
+  <WoW_Animal_Raptor.lifeStages.0.labelFemale>female raptor juvenile</WoW_Animal_Raptor.lifeStages.0.labelFemale>
+  <WoW_Animal_Raptor.lifeStages.0.labelFemalePlural>female raptor juveniles</WoW_Animal_Raptor.lifeStages.0.labelFemalePlural>
+  <WoW_Animal_Raptor.lifeStages.1.label>raptor</WoW_Animal_Raptor.lifeStages.1.label>
+  <WoW_Animal_Raptor.lifeStages.1.labelPlural>raptor</WoW_Animal_Raptor.lifeStages.1.labelPlural>
+  <WoW_Animal_Raptor.lifeStages.1.labelMale>male raptor</WoW_Animal_Raptor.lifeStages.1.labelMale>
+  <WoW_Animal_Raptor.lifeStages.1.labelMalePlural>male raptors</WoW_Animal_Raptor.lifeStages.1.labelMalePlural>
+  <WoW_Animal_Raptor.lifeStages.1.labelFemale>female raptor</WoW_Animal_Raptor.lifeStages.1.labelFemale>
+  <WoW_Animal_Raptor.lifeStages.1.labelFemalePlural>female raptors</WoW_Animal_Raptor.lifeStages.1.labelFemalePlural>
+  <WoW_Animal_Raptor.lifeStages.2.label>raptor</WoW_Animal_Raptor.lifeStages.2.label>
+  <WoW_Animal_Raptor.lifeStages.2.labelPlural>raptor</WoW_Animal_Raptor.lifeStages.2.labelPlural>
+  <WoW_Animal_Raptor.lifeStages.2.labelMale>male raptor</WoW_Animal_Raptor.lifeStages.2.labelMale>
+  <WoW_Animal_Raptor.lifeStages.2.labelMalePlural>male raptors</WoW_Animal_Raptor.lifeStages.2.labelMalePlural>
+  <WoW_Animal_Raptor.lifeStages.2.labelFemale>female raptor</WoW_Animal_Raptor.lifeStages.2.labelFemale>
+  <WoW_Animal_Raptor.lifeStages.2.labelFemalePlural>female raptors</WoW_Animal_Raptor.lifeStages.2.labelFemalePlural>
+  <WoW_Animal_Raptor.labelMale>male raptor</WoW_Animal_Raptor.labelMale>
+  <WoW_Animal_Raptor.labelMalePlural>male raptors</WoW_Animal_Raptor.labelMalePlural>
+  <WoW_Animal_Raptor.labelFemale>female raptor</WoW_Animal_Raptor.labelFemale>
+  <WoW_Animal_Raptor.labelFemalePlural>female raptors</WoW_Animal_Raptor.labelFemalePlural>
+
+
+</LanguageData>

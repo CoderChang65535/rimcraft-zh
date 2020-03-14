@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Thorium Refining -->
+
+  <WoW_refine_thorium.label>smelt thorium ingots from ore</WoW_refine_thorium.label>
+  <WoW_refine_thorium.description>Refine 2 thorium ore into 1 thorium ingot</WoW_refine_thorium.description>
+  <WoW_refine_thorium.jobString>Smelting thorium.</WoW_refine_thorium.jobString>
+
+  <WoW_refine_bulkthorium.label>bulk smelt thorium ingots from ore</WoW_refine_bulkthorium.label>
+  <WoW_refine_bulkthorium.description>Refine 20 thorium ore into thorium 10 ingots</WoW_refine_bulkthorium.description>
+  <WoW_refine_bulkthorium.jobString>Smelting thorium.</WoW_refine_bulkthorium.jobString>
+
+
+  <!-- Dark Iron Refining -->
+
+  <WoW_refine_darkiron.label>smelt dark iron ingots from ore</WoW_refine_darkiron.label>
+  <WoW_refine_darkiron.description>Refine 8 dark iron ore into 1 dark iron ingot</WoW_refine_darkiron.description>
+  <WoW_refine_darkiron.jobString>Smelting dark iron.</WoW_refine_darkiron.jobString>
+
+  <WoW_refine_bulkdarkiron.label>bulk smelt dark iron ingots from ore</WoW_refine_bulkdarkiron.label>
+  <WoW_refine_bulkdarkiron.description>Refine 80 dark iron ore into 10 dark iron ingots</WoW_refine_bulkdarkiron.description>
+  <WoW_refine_bulkdarkiron.jobString>Smelting dark iron.</WoW_refine_bulkdarkiron.jobString>
+
+
+  <!-- Mithril Refining -->
+
+  <WoW_refine_mithril.label>smelt mithril ingots from ore</WoW_refine_mithril.label>
+  <WoW_refine_mithril.description>Refine 2 mithril ore into 1 mithril ingot</WoW_refine_mithril.description>
+  <WoW_refine_mithril.jobString>Smelting mithril.</WoW_refine_mithril.jobString>
+
+  <WoW_refine_bulkmithril.label>bulk smelt mithril ingots from ore</WoW_refine_bulkmithril.label>
+  <WoW_refine_bulkmithril.description>Refine 20 mithril ore into mithril 10 ingots</WoW_refine_bulkmithril.description>
+  <WoW_refine_bulkmithril.jobString>Smelting mithril.</WoW_refine_bulkmithril.jobString>
+
+
+  <!-- Adamantite Refining -->
+
+  <WoW_refine_adamantite.label>smelt adamantite ingots from ore</WoW_refine_adamantite.label>
+  <WoW_refine_adamantite.description>Refine 2 adamantite ore into 1 adamantite ingot</WoW_refine_adamantite.description>
+  <WoW_refine_adamantite.jobString>Smelting adamantite.</WoW_refine_adamantite.jobString>
+
+  <WoW_refine_bulkadamantite.label>bulk smelt adamantite ingots from ore</WoW_refine_bulkadamantite.label>
+  <WoW_refine_bulkadamantite.description>Refine 20 adamantite ore into adamantite 10 ingots</WoW_refine_bulkadamantite.description>
+  <WoW_refine_bulkadamantite.jobString>Smelting adamantite.</WoW_refine_bulkadamantite.jobString>
+
+  <WoW_refine_hardened_adamantite.label>smelt hardened adamantite ingots from adamantite</WoW_refine_hardened_adamantite.label>
+  <WoW_refine_hardened_adamantite.description>Refine 10 adamantite ingots into 1 hardened adamantite ingot</WoW_refine_hardened_adamantite.description>
+  <WoW_refine_hardened_adamantite.jobString>Smelting hardened adamantite.</WoW_refine_hardened_adamantite.jobString>
+
+  <WoW_refine_bulkhardened_adamantite.label>smelt hardened adamantite ingots from adamantite</WoW_refine_bulkhardened_adamantite.label>
+  <WoW_refine_bulkhardened_adamantite.description>Refine 100 adamantite ingots into 10 hardened adamantite ingot</WoW_refine_bulkhardened_adamantite.description>
+  <WoW_refine_bulkhardened_adamantite.jobString>Smelting hardened adamantite.</WoW_refine_bulkhardened_adamantite.jobString>
+
+
+  <!-- TrueSilver Refining -->
+
+  <WoW_refine_truesilver.label>smelt truesilver ingots from ore</WoW_refine_truesilver.label>
+  <WoW_refine_truesilver.description>Refine 2 truesilver ore into 1 truesilver ingot</WoW_refine_truesilver.description>
+  <WoW_refine_truesilver.jobString>Smelting truesilver.</WoW_refine_truesilver.jobString>
+
+  <WoW_refine_bulktruesilver.label>bulk smelt truesilver ingots from ore</WoW_refine_bulktruesilver.label>
+  <WoW_refine_bulktruesilver.description>Refine 20 truesilver ore into truesilver 10 ingots</WoW_refine_bulktruesilver.description>
+  <WoW_refine_bulktruesilver.jobString>Smelting truesilver.</WoW_refine_bulktruesilver.jobString>
+
+
+</LanguageData>

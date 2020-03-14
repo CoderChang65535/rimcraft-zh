@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Hawkstrider Def -->
+
+  <WoW_Animal_Hawkstrider.label>hawkstrider</WoW_Animal_Hawkstrider.label>
+  <WoW_Animal_Hawkstrider.description>The hawkstrider is a large flightless bird that is the blood elves' mount of choice. As their name implies, hawkstriders resemble the tallstrider family, though their plumage is both larger and more vibrant. They come in a variety of bright colors and have a thin, curved beak and burning orange eyes. The hawkstrider's movements exhibit the same rhythmic, back-and-forth motion which characterizes the other two-legged mounts.When Kael'thas led his followers to the ruined world of Outland, the vibrant hawkstriders that were brought with them proved to be welcome reminders of the blood elves’ beauteous home in Quel'Thalas. Valued for their trustworthiness and speed, these colorful avian creatures embody the inherent splendor of the forests within the blood elven kingdom. While tragedy has befallen Quel’Thalas in recent years, the hawkstriders remain an integral part of the elves’ day-to-day lives</WoW_Animal_Hawkstrider.description>
+  <WoW_Animal_Hawkstrider.tools.0.label>claws</WoW_Animal_Hawkstrider.tools.0.label>
+  <WoW_Animal_Hawkstrider.tools.1.label>beak</WoW_Animal_Hawkstrider.tools.1.label>
+  <WoW_Animal_Hawkstrider.tools.2.label>head</WoW_Animal_Hawkstrider.tools.2.label>
+
+
+  <!-- Voidstrider Def -->
+
+  <WoW_Animal_Voidstrider.label>voidstrider</WoW_Animal_Voidstrider.label>
+  <WoW_Animal_Voidstrider.description>This shadow-infused strider embodies the elves' commitment to harness the power of the Void in the name of the Alliance. These shadow-infused striders make ideal companions for elves delving into the powers of the void. Those that follow the void tend to prefer the companionship of a steed without form or substance.</WoW_Animal_Voidstrider.description>
+  <WoW_Animal_Voidstrider.tools.0.label>claws</WoW_Animal_Voidstrider.tools.0.label>
+  <WoW_Animal_Voidstrider.tools.1.label>beak</WoW_Animal_Voidstrider.tools.1.label>
+  <WoW_Animal_Voidstrider.tools.2.label>head</WoW_Animal_Voidstrider.tools.2.label>
+
+
+</LanguageData>

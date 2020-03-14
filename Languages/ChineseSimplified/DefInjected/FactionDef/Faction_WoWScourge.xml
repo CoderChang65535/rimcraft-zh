@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Scourge.label>Scourge Ruins</Scourge.label>
+  <Scourge.description>The Scourge is the vast army of the undead serving the Lich King. Under the control of the Burning Legion, the Scourge's mission is to spread terror and destruction across the world in anticipation of the Legion's inevitable invasion.</Scourge.description>
+  <Scourge.fixedName>The Scourge</Scourge.fixedName>
+  <Scourge.pawnsPlural>Undead</Scourge.pawnsPlural>
+  <Scourge.leaderTitle>Lich King</Scourge.leaderTitle>
+
+
+</LanguageData>

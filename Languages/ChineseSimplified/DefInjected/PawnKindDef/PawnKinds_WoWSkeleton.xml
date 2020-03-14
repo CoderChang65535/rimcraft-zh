@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- WoWScourge Military -->
+
+  <WoW_Scourge_Skeleton_Human.label>skeleton</WoW_Scourge_Skeleton_Human.label>
+  <WoW_Scourge_Skeleton_Human.labelPlural>skeletons</WoW_Scourge_Skeleton_Human.labelPlural>
+  <WoW_Scourge_Skeleton_Human.labelMale>male skeleton</WoW_Scourge_Skeleton_Human.labelMale>
+  <WoW_Scourge_Skeleton_Human.labelMalePlural>male skeletons</WoW_Scourge_Skeleton_Human.labelMalePlural>
+  <WoW_Scourge_Skeleton_Human.labelFemale>female skeleton</WoW_Scourge_Skeleton_Human.labelFemale>
+  <WoW_Scourge_Skeleton_Human.labelFemalePlural>female skeletons</WoW_Scourge_Skeleton_Human.labelFemalePlural>
+
+  <WoW_Scourge_Skeleton_Orc.label>skeletal orc</WoW_Scourge_Skeleton_Orc.label>
+  <WoW_Scourge_Skeleton_Orc.labelPlural>skeletal orcs</WoW_Scourge_Skeleton_Orc.labelPlural>
+  <WoW_Scourge_Skeleton_Orc.labelMale>male skeletal orc</WoW_Scourge_Skeleton_Orc.labelMale>
+  <WoW_Scourge_Skeleton_Orc.labelMalePlural>male skeletal orcs</WoW_Scourge_Skeleton_Orc.labelMalePlural>
+  <WoW_Scourge_Skeleton_Orc.labelFemale>female skeletal orc</WoW_Scourge_Skeleton_Orc.labelFemale>
+  <WoW_Scourge_Skeleton_Orc.labelFemalePlural>female skeletal orcs</WoW_Scourge_Skeleton_Orc.labelFemalePlural>
+
+
+</LanguageData>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Orc Base -->
+
+  <WoW_Orc.label>Orc</WoW_Orc.label>
+  <WoW_Orc.description>The orcs are a race native to the world of Draenor, now known as Outland, they arrived to Azeroth through the Dark Portal a massive structure that allowed orcs passage from their world.</WoW_Orc.description>
+  <WoW_Orc.tools.0.label>left fist</WoW_Orc.tools.0.label>
+  <WoW_Orc.tools.1.label>right fist</WoW_Orc.tools.1.label>
+  <WoW_Orc.tools.2.label>teeth</WoW_Orc.tools.2.label>
+  <WoW_Orc.tools.3.label>head</WoW_Orc.tools.3.label>
+  <WoW_Orc.tools.4.label>left fist</WoW_Orc.tools.4.label>
+  <WoW_Orc.tools.5.label>right fist</WoW_Orc.tools.5.label>
+  <WoW_Orc.tools.6.label>teeth</WoW_Orc.tools.6.label>
+  <WoW_Orc.tools.7.label>head</WoW_Orc.tools.7.label>
+
+
+</LanguageData>

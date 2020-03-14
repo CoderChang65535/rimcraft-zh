@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Child backstories -->
+
+  <WoW_Orc_Backstory_Child_1.title>War Orphan</WoW_Orc_Backstory_Child_1.title>
+  <WoW_Orc_Backstory_Child_1.baseDescription>[PAWN_nameDef]'s family was killed during the Cataclysm when the barrens was torn asunder and split in two. [PAWN_nameDef] then after lived at the Orgimmar orphanage dreaming of exploring the world while helping to look after various small animals.</WoW_Orc_Backstory_Child_1.baseDescription>
+
+  <WoW_Orc_Backstory_Child_2.title>Orgrimmar Child</WoW_Orc_Backstory_Child_2.title>
+  <WoW_Orc_Backstory_Child_2.baseDescription>[PAWN_nameDef] was raised as a normal orc child within the walls of Orgrimmar. While fighting was encouraged [PAWN_pronoun] was allowed to try other things and gained various skills.</WoW_Orc_Backstory_Child_2.baseDescription>
+
+  <WoW_Orc_Backstory_Child_3.title>Young Brawler</WoW_Orc_Backstory_Child_3.title>
+  <WoW_Orc_Backstory_Child_3.baseDescription>[PAWN_nameDef] could be found tussling with other orc children, earning many scratches and bruises. [PAWN_nameDef] was encouraged to continue these practices as a form of young warrior training.</WoW_Orc_Backstory_Child_3.baseDescription>
+
+  <WoW_Orc_Backstory_Child_4.title>Fledgling Shaman</WoW_Orc_Backstory_Child_4.title>
+  <WoW_Orc_Backstory_Child_4.baseDescription>Young orcs are encouraged to listen for the voices of the spirits from an early age. [PAWN_nameDef] made the long pilgrimage to the Throne of Elements to receive the spirits' blessing and was welcomed by the elements, learning the skills needed to carve intricate totems through which shaman commune with the spirits.</WoW_Orc_Backstory_Child_4.baseDescription>
+
+  <WoW_Orc_Backstory_Child_5.title>Child Scout</WoW_Orc_Backstory_Child_5.title>
+  <WoW_Orc_Backstory_Child_5.baseDescription>[PAWN_nameDef] was often employed to use [PAWN_possessive]  speed and small size to sneak around Orgrimmar and collect information for the adults. [PAWN_pronoun] became adept at using a slingshot for distraction and was quickly trained to use a bow.</WoW_Orc_Backstory_Child_5.baseDescription>
+
+
+  <!-- Adult backstories -->
+
+  <WoW_Orc_Backstory_Adult_1.title>Peon</WoW_Orc_Backstory_Adult_1.title>
+  <WoW_Orc_Backstory_Adult_1.baseDescription>[PAWN_nameDef] is definitely not the brightest kind of orc, but can get things done quickly. As long as [PAWN_pronoun] is given the right motivation.</WoW_Orc_Backstory_Adult_1.baseDescription>
+
+  <WoW_Orc_Backstory_Adult_2.title>Grunt</WoW_Orc_Backstory_Adult_2.title>
+  <WoW_Orc_Backstory_Adult_2.baseDescription>[PAWN_nameDef] is definitely not the brightest kind of orc, but can get things done quickly. As long as [PAWN_pronoun] is given the right motivation.</WoW_Orc_Backstory_Adult_2.baseDescription>
+
+  <WoW_Orc_Backstory_Adult_3.title>Wolf Breeder</WoW_Orc_Backstory_Adult_3.title>
+  <WoW_Orc_Backstory_Adult_3.baseDescription>The orcs befriended rather than domesticated the large and swift wolves of Draenor. When the orcs became more warlike their wolves were bred for size and stamina to bear their armoured riders. [PAWN_nameDef] is one such individual who breeds these mighty beasts.</WoW_Orc_Backstory_Adult_3.baseDescription>
+
+  <WoW_Orc_Backstory_Adult_4.title>Shaman</WoW_Orc_Backstory_Adult_4.title>
+  <WoW_Orc_Backstory_Adult_4.baseDescription>After many long years of rekindling their shamanistic origins [PAWN_nameDef] was one of many able to restore their favour with the spirits and call upon them for many, often healing, tasks.</WoW_Orc_Backstory_Adult_4.baseDescription>
+
+  <WoW_Orc_Backstory_Adult_5.title>Farseer</WoW_Orc_Backstory_Adult_5.title>
+  <WoW_Orc_Backstory_Adult_5.baseDescription>[PAWN_nameDef] is a shaman so attuned with the spirits that [PAWN_pronoun] can see visions of the future. With this power and the ability to call upon spiritual animal companions [PAWN_nameDef] is a force to be reckoned with, but is often shaken by the visions [PAWN_pronoun] receives.</WoW_Orc_Backstory_Adult_5.baseDescription>
+
+  <WoW_Orc_Backstory_Adult_6.title>Outrider</WoW_Orc_Backstory_Adult_6.title>
+  <WoW_Orc_Backstory_Adult_6.baseDescription>[PAWN_nameDef] is an able scout capable of employing animals to cross great distances in order to deliver vital information to various outposts.</WoW_Orc_Backstory_Adult_6.baseDescription>
+
+  <WoW_Orc_Backstory_Adult_7.title>Scout</WoW_Orc_Backstory_Adult_7.title>
+  <WoW_Orc_Backstory_Adult_7.baseDescription>[PAWN_nameDef] excels in wilderness survival and is capable of tracking day-old trails and sniping from the treetops.</WoW_Orc_Backstory_Adult_7.baseDescription>
+
+  <WoW_Orc_Backstory_Adult_8.title>Shamed Warrior</WoW_Orc_Backstory_Adult_8.title>
+  <WoW_Orc_Backstory_Adult_8.baseDescription>[PAWN_nameDef] was one of many orcs who had succumbed to bloodlust after drinking demon's blood. Captured and held within a human internment camp [PAWN_pronoun] fell into lethargy and, while since freed, is now content to live a simple life.</WoW_Orc_Backstory_Adult_8.baseDescription>
+
+  <WoW_Orc_Backstory_Adult_9.title>Berserker</WoW_Orc_Backstory_Adult_9.title>
+  <WoW_Orc_Backstory_Adult_9.baseDescription>[PAWN_nameDef] lives to fight with little to no regard for self-preservation. The only good enemy is a dead one and [PAWN_pronoun] is often the first on the scene of battle. Blood and Thunder!</WoW_Orc_Backstory_Adult_9.baseDescription>
+
+  <WoW_Orc_Backstory_Adult_10.title>Storyteller</WoW_Orc_Backstory_Adult_10.title>
+  <WoW_Orc_Backstory_Adult_10.baseDescription>[PAWN_nameDef] did not participate in any fighting nor was [PAWN_pronoun] attuned to the spirits or any magic. Instead [PAWN_pronoun] retells the tales of glory and sings songs to the younger generations and those else who care to listen.</WoW_Orc_Backstory_Adult_10.baseDescription>
+
+
+</LanguageData>

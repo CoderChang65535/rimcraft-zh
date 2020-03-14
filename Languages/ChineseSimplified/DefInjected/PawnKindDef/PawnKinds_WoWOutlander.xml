@@ -1,0 +1,224 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Outlander Villager Base -->
+
+  <WoWOutlanderVillagerBase.label>villager</WoWOutlanderVillagerBase.label>
+
+
+  <!-- Town Guard Base -->
+
+  <WoWOutlanderTownGuardBase.label>town guard</WoWOutlanderTownGuardBase.label>
+
+
+  <!-- Town Trader Base -->
+
+  <WoWOutlanderTownTraderBase.label>town trader</WoWOutlanderTownTraderBase.label>
+
+
+  <!-- WoWOutlanderVillager -->
+
+  <WoW_Outlander_Villager_NightElf.label>nightelf villager</WoW_Outlander_Villager_NightElf.label>
+  <WoW_Outlander_Villager_NightElf.labelPlural>nightelf villagers</WoW_Outlander_Villager_NightElf.labelPlural>
+  <WoW_Outlander_Villager_NightElf.labelMale>male nightelf villager</WoW_Outlander_Villager_NightElf.labelMale>
+  <WoW_Outlander_Villager_NightElf.labelMalePlural>male nightelf villagers</WoW_Outlander_Villager_NightElf.labelMalePlural>
+  <WoW_Outlander_Villager_NightElf.labelFemale>female nightelf villager</WoW_Outlander_Villager_NightElf.labelFemale>
+  <WoW_Outlander_Villager_NightElf.labelFemalePlural>female nightelf villagers</WoW_Outlander_Villager_NightElf.labelFemalePlural>
+
+  <WoW_Outlander_Villager_BloodElf.label>blood elf villager</WoW_Outlander_Villager_BloodElf.label>
+  <WoW_Outlander_Villager_BloodElf.labelPlural>blood elf villagers</WoW_Outlander_Villager_BloodElf.labelPlural>
+  <WoW_Outlander_Villager_BloodElf.labelMale>male blood elf villager</WoW_Outlander_Villager_BloodElf.labelMale>
+  <WoW_Outlander_Villager_BloodElf.labelMalePlural>male blood elf villagers</WoW_Outlander_Villager_BloodElf.labelMalePlural>
+  <WoW_Outlander_Villager_BloodElf.labelFemale>female blood elf villager</WoW_Outlander_Villager_BloodElf.labelFemale>
+  <WoW_Outlander_Villager_BloodElf.labelFemalePlural>female blood elf villagers</WoW_Outlander_Villager_BloodElf.labelFemalePlural>
+
+  <WoW_Outlander_Villager_Orc.label>orc villager</WoW_Outlander_Villager_Orc.label>
+  <WoW_Outlander_Villager_Orc.labelPlural>orc villagers</WoW_Outlander_Villager_Orc.labelPlural>
+  <WoW_Outlander_Villager_Orc.labelMale>male orc villager</WoW_Outlander_Villager_Orc.labelMale>
+  <WoW_Outlander_Villager_Orc.labelMalePlural>male orc villagers</WoW_Outlander_Villager_Orc.labelMalePlural>
+  <WoW_Outlander_Villager_Orc.labelFemale>female orc villager</WoW_Outlander_Villager_Orc.labelFemale>
+  <WoW_Outlander_Villager_Orc.labelFemalePlural>female orc villagers</WoW_Outlander_Villager_Orc.labelFemalePlural>
+
+  <WoW_Outlander_Villager_WoWHuman.label>human villager</WoW_Outlander_Villager_WoWHuman.label>
+  <WoW_Outlander_Villager_WoWHuman.labelPlural>human villagers</WoW_Outlander_Villager_WoWHuman.labelPlural>
+  <WoW_Outlander_Villager_WoWHuman.labelMale>male human villager</WoW_Outlander_Villager_WoWHuman.labelMale>
+  <WoW_Outlander_Villager_WoWHuman.labelMalePlural>male human villagers</WoW_Outlander_Villager_WoWHuman.labelMalePlural>
+  <WoW_Outlander_Villager_WoWHuman.labelFemale>female human villager</WoW_Outlander_Villager_WoWHuman.labelFemale>
+  <WoW_Outlander_Villager_WoWHuman.labelFemalePlural>female human villagers</WoW_Outlander_Villager_WoWHuman.labelFemalePlural>
+
+  <WoW_Outlander_Villager_HighElf.label>high elf villager</WoW_Outlander_Villager_HighElf.label>
+  <WoW_Outlander_Villager_HighElf.labelPlural>high elf villagers</WoW_Outlander_Villager_HighElf.labelPlural>
+  <WoW_Outlander_Villager_HighElf.labelMale>male high elf villager</WoW_Outlander_Villager_HighElf.labelMale>
+  <WoW_Outlander_Villager_HighElf.labelMalePlural>male high elf villagers</WoW_Outlander_Villager_HighElf.labelMalePlural>
+  <WoW_Outlander_Villager_HighElf.labelFemale>female high elf villager</WoW_Outlander_Villager_HighElf.labelFemale>
+  <WoW_Outlander_Villager_HighElf.labelFemalePlural>female high elf villagers</WoW_Outlander_Villager_HighElf.labelFemalePlural>
+
+  <WoW_Outlander_Villager_Troll.label>troll villager</WoW_Outlander_Villager_Troll.label>
+  <WoW_Outlander_Villager_Troll.labelPlural>troll villagers</WoW_Outlander_Villager_Troll.labelPlural>
+  <WoW_Outlander_Villager_Troll.labelMale>male troll villager</WoW_Outlander_Villager_Troll.labelMale>
+  <WoW_Outlander_Villager_Troll.labelMalePlural>male troll villagers</WoW_Outlander_Villager_Troll.labelMalePlural>
+  <WoW_Outlander_Villager_Troll.labelFemale>female troll villager</WoW_Outlander_Villager_Troll.labelFemale>
+  <WoW_Outlander_Villager_Troll.labelFemalePlural>female troll villagers</WoW_Outlander_Villager_Troll.labelFemalePlural>
+
+  <WoW_Outlander_Villager_Forsaken.label>forsaken villager</WoW_Outlander_Villager_Forsaken.label>
+  <WoW_Outlander_Villager_Forsaken.labelPlural>forsaken villagers</WoW_Outlander_Villager_Forsaken.labelPlural>
+  <WoW_Outlander_Villager_Forsaken.labelMale>male forsaken villager</WoW_Outlander_Villager_Forsaken.labelMale>
+  <WoW_Outlander_Villager_Forsaken.labelMalePlural>male forsaken villagers</WoW_Outlander_Villager_Forsaken.labelMalePlural>
+  <WoW_Outlander_Villager_Forsaken.labelFemale>female forsaken villager</WoW_Outlander_Villager_Forsaken.labelFemale>
+  <WoW_Outlander_Villager_Forsaken.labelFemalePlural>female forsaken villagers</WoW_Outlander_Villager_Forsaken.labelFemalePlural>
+
+  <WoW_Outlander_Villager_Draenei.label>draenei villager</WoW_Outlander_Villager_Draenei.label>
+  <WoW_Outlander_Villager_Draenei.labelPlural>draenei villagers</WoW_Outlander_Villager_Draenei.labelPlural>
+  <WoW_Outlander_Villager_Draenei.labelMale>male draenei villager</WoW_Outlander_Villager_Draenei.labelMale>
+  <WoW_Outlander_Villager_Draenei.labelMalePlural>male draenei villagers</WoW_Outlander_Villager_Draenei.labelMalePlural>
+  <WoW_Outlander_Villager_Draenei.labelFemale>female draenei villager</WoW_Outlander_Villager_Draenei.labelFemale>
+  <WoW_Outlander_Villager_Draenei.labelFemalePlural>female draenei villagers</WoW_Outlander_Villager_Draenei.labelFemalePlural>
+
+  <WoW_Outlander_Villager_Gnome.label>gnome villager</WoW_Outlander_Villager_Gnome.label>
+  <WoW_Outlander_Villager_Gnome.labelPlural>gnome villagers</WoW_Outlander_Villager_Gnome.labelPlural>
+  <WoW_Outlander_Villager_Gnome.labelMale>male gnome villager</WoW_Outlander_Villager_Gnome.labelMale>
+  <WoW_Outlander_Villager_Gnome.labelMalePlural>male gnome villagers</WoW_Outlander_Villager_Gnome.labelMalePlural>
+  <WoW_Outlander_Villager_Gnome.labelFemale>female gnome villager</WoW_Outlander_Villager_Gnome.labelFemale>
+  <WoW_Outlander_Villager_Gnome.labelFemalePlural>female gnome villagers</WoW_Outlander_Villager_Gnome.labelFemalePlural>
+
+
+  <!-- WoWOutlanderTownGuard -->
+
+  <WoW_Outlander_TownGuard_NightElf.label>nightelf town guard</WoW_Outlander_TownGuard_NightElf.label>
+  <WoW_Outlander_TownGuard_NightElf.labelPlural>nightelf town guards</WoW_Outlander_TownGuard_NightElf.labelPlural>
+  <WoW_Outlander_TownGuard_NightElf.labelMale>male nightelf town guard</WoW_Outlander_TownGuard_NightElf.labelMale>
+  <WoW_Outlander_TownGuard_NightElf.labelMalePlural>male nightelf town guards</WoW_Outlander_TownGuard_NightElf.labelMalePlural>
+  <WoW_Outlander_TownGuard_NightElf.labelFemale>female nightelf town guard</WoW_Outlander_TownGuard_NightElf.labelFemale>
+  <WoW_Outlander_TownGuard_NightElf.labelFemalePlural>female nightelf town guards</WoW_Outlander_TownGuard_NightElf.labelFemalePlural>
+
+  <WoW_Outlander_TownGuard_BloodElf.label>blood elf town guard</WoW_Outlander_TownGuard_BloodElf.label>
+  <WoW_Outlander_TownGuard_BloodElf.labelPlural>blood elf town guards</WoW_Outlander_TownGuard_BloodElf.labelPlural>
+  <WoW_Outlander_TownGuard_BloodElf.labelMale>male blood elf town guard</WoW_Outlander_TownGuard_BloodElf.labelMale>
+  <WoW_Outlander_TownGuard_BloodElf.labelMalePlural>male blood elf town guards</WoW_Outlander_TownGuard_BloodElf.labelMalePlural>
+  <WoW_Outlander_TownGuard_BloodElf.labelFemale>female blood elf town guard</WoW_Outlander_TownGuard_BloodElf.labelFemale>
+  <WoW_Outlander_TownGuard_BloodElf.labelFemalePlural>female blood elf town guards</WoW_Outlander_TownGuard_BloodElf.labelFemalePlural>
+
+  <WoW_Outlander_TownGuard_Orc.label>orc town guard</WoW_Outlander_TownGuard_Orc.label>
+  <WoW_Outlander_TownGuard_Orc.labelPlural>orc town guards</WoW_Outlander_TownGuard_Orc.labelPlural>
+  <WoW_Outlander_TownGuard_Orc.labelMale>male orc town guard</WoW_Outlander_TownGuard_Orc.labelMale>
+  <WoW_Outlander_TownGuard_Orc.labelMalePlural>male orc town guards</WoW_Outlander_TownGuard_Orc.labelMalePlural>
+  <WoW_Outlander_TownGuard_Orc.labelFemale>female orc town guard</WoW_Outlander_TownGuard_Orc.labelFemale>
+  <WoW_Outlander_TownGuard_Orc.labelFemalePlural>female orc town guards</WoW_Outlander_TownGuard_Orc.labelFemalePlural>
+
+  <WoW_Outlander_TownGuard_WoWHuman.label>human town guard</WoW_Outlander_TownGuard_WoWHuman.label>
+  <WoW_Outlander_TownGuard_WoWHuman.labelPlural>human town guards</WoW_Outlander_TownGuard_WoWHuman.labelPlural>
+  <WoW_Outlander_TownGuard_WoWHuman.labelMale>male human town guard</WoW_Outlander_TownGuard_WoWHuman.labelMale>
+  <WoW_Outlander_TownGuard_WoWHuman.labelMalePlural>male human town guards</WoW_Outlander_TownGuard_WoWHuman.labelMalePlural>
+  <WoW_Outlander_TownGuard_WoWHuman.labelFemale>female human town guard</WoW_Outlander_TownGuard_WoWHuman.labelFemale>
+  <WoW_Outlander_TownGuard_WoWHuman.labelFemalePlural>female human town guards</WoW_Outlander_TownGuard_WoWHuman.labelFemalePlural>
+
+  <WoW_Outlander_TownGuard_HighElf.label>high elf town guard</WoW_Outlander_TownGuard_HighElf.label>
+  <WoW_Outlander_TownGuard_HighElf.labelPlural>high elf town guards</WoW_Outlander_TownGuard_HighElf.labelPlural>
+  <WoW_Outlander_TownGuard_HighElf.labelMale>male high elf town guard</WoW_Outlander_TownGuard_HighElf.labelMale>
+  <WoW_Outlander_TownGuard_HighElf.labelMalePlural>male high elf town guards</WoW_Outlander_TownGuard_HighElf.labelMalePlural>
+  <WoW_Outlander_TownGuard_HighElf.labelFemale>female high elf town guard</WoW_Outlander_TownGuard_HighElf.labelFemale>
+  <WoW_Outlander_TownGuard_HighElf.labelFemalePlural>female high elf town guards</WoW_Outlander_TownGuard_HighElf.labelFemalePlural>
+
+  <WoW_Outlander_TownGuard_Troll.label>troll town guard</WoW_Outlander_TownGuard_Troll.label>
+  <WoW_Outlander_TownGuard_Troll.labelPlural>troll town guards</WoW_Outlander_TownGuard_Troll.labelPlural>
+  <WoW_Outlander_TownGuard_Troll.labelMale>male troll town guard</WoW_Outlander_TownGuard_Troll.labelMale>
+  <WoW_Outlander_TownGuard_Troll.labelMalePlural>male troll town guards</WoW_Outlander_TownGuard_Troll.labelMalePlural>
+  <WoW_Outlander_TownGuard_Troll.labelFemale>female troll town guard</WoW_Outlander_TownGuard_Troll.labelFemale>
+  <WoW_Outlander_TownGuard_Troll.labelFemalePlural>female troll town guards</WoW_Outlander_TownGuard_Troll.labelFemalePlural>
+
+  <WoW_Outlander_TownGuard_Forsaken.label>forsaken town guard</WoW_Outlander_TownGuard_Forsaken.label>
+  <WoW_Outlander_TownGuard_Forsaken.labelPlural>forsaken town guards</WoW_Outlander_TownGuard_Forsaken.labelPlural>
+  <WoW_Outlander_TownGuard_Forsaken.labelMale>male forsaken town guard</WoW_Outlander_TownGuard_Forsaken.labelMale>
+  <WoW_Outlander_TownGuard_Forsaken.labelMalePlural>male forsaken town guards</WoW_Outlander_TownGuard_Forsaken.labelMalePlural>
+  <WoW_Outlander_TownGuard_Forsaken.labelFemale>female forsaken town guard</WoW_Outlander_TownGuard_Forsaken.labelFemale>
+  <WoW_Outlander_TownGuard_Forsaken.labelFemalePlural>female forsaken town guards</WoW_Outlander_TownGuard_Forsaken.labelFemalePlural>
+
+  <WoW_Outlander_TownGuard_Draenei.label>draenei town guard</WoW_Outlander_TownGuard_Draenei.label>
+  <WoW_Outlander_TownGuard_Draenei.labelPlural>draenei town guards</WoW_Outlander_TownGuard_Draenei.labelPlural>
+  <WoW_Outlander_TownGuard_Draenei.labelMale>male draenei town guard</WoW_Outlander_TownGuard_Draenei.labelMale>
+  <WoW_Outlander_TownGuard_Draenei.labelMalePlural>male draenei town guards</WoW_Outlander_TownGuard_Draenei.labelMalePlural>
+  <WoW_Outlander_TownGuard_Draenei.labelFemale>female draenei town guard</WoW_Outlander_TownGuard_Draenei.labelFemale>
+  <WoW_Outlander_TownGuard_Draenei.labelFemalePlural>female draenei town guards</WoW_Outlander_TownGuard_Draenei.labelFemalePlural>
+
+  <WoW_Outlander_TownGuard_Gnome.label>gnome town guard</WoW_Outlander_TownGuard_Gnome.label>
+  <WoW_Outlander_TownGuard_Gnome.labelPlural>gnome town guards</WoW_Outlander_TownGuard_Gnome.labelPlural>
+  <WoW_Outlander_TownGuard_Gnome.labelMale>male gnome town guard</WoW_Outlander_TownGuard_Gnome.labelMale>
+  <WoW_Outlander_TownGuard_Gnome.labelMalePlural>male gnome town guards</WoW_Outlander_TownGuard_Gnome.labelMalePlural>
+  <WoW_Outlander_TownGuard_Gnome.labelFemale>female gnome town guard</WoW_Outlander_TownGuard_Gnome.labelFemale>
+  <WoW_Outlander_TownGuard_Gnome.labelFemalePlural>female gnome town guards</WoW_Outlander_TownGuard_Gnome.labelFemalePlural>
+
+
+  <!-- WoWOutlanderTrader -->
+
+  <WoW_Outlander_Trader_NightElf.label>nightelf trader</WoW_Outlander_Trader_NightElf.label>
+  <WoW_Outlander_Trader_NightElf.labelPlural>nightelf traders</WoW_Outlander_Trader_NightElf.labelPlural>
+  <WoW_Outlander_Trader_NightElf.labelMale>male nightelf trader</WoW_Outlander_Trader_NightElf.labelMale>
+  <WoW_Outlander_Trader_NightElf.labelMalePlural>male nightelf traders</WoW_Outlander_Trader_NightElf.labelMalePlural>
+  <WoW_Outlander_Trader_NightElf.labelFemale>female nightelf trader</WoW_Outlander_Trader_NightElf.labelFemale>
+  <WoW_Outlander_Trader_NightElf.labelFemalePlural>female nightelf traders</WoW_Outlander_Trader_NightElf.labelFemalePlural>
+
+  <WoW_Outlander_Trader_BloodElf.label>blood elf trader</WoW_Outlander_Trader_BloodElf.label>
+  <WoW_Outlander_Trader_BloodElf.labelPlural>blood elf traders</WoW_Outlander_Trader_BloodElf.labelPlural>
+  <WoW_Outlander_Trader_BloodElf.labelMale>male blood elf trader</WoW_Outlander_Trader_BloodElf.labelMale>
+  <WoW_Outlander_Trader_BloodElf.labelMalePlural>male blood elf traders</WoW_Outlander_Trader_BloodElf.labelMalePlural>
+  <WoW_Outlander_Trader_BloodElf.labelFemale>female blood elf trader</WoW_Outlander_Trader_BloodElf.labelFemale>
+  <WoW_Outlander_Trader_BloodElf.labelFemalePlural>female blood elf traders</WoW_Outlander_Trader_BloodElf.labelFemalePlural>
+
+  <WoW_Outlander_Trader_Orc.label>orc trader</WoW_Outlander_Trader_Orc.label>
+  <WoW_Outlander_Trader_Orc.labelPlural>orc traders</WoW_Outlander_Trader_Orc.labelPlural>
+  <WoW_Outlander_Trader_Orc.labelMale>male orc trader</WoW_Outlander_Trader_Orc.labelMale>
+  <WoW_Outlander_Trader_Orc.labelMalePlural>male orc traders</WoW_Outlander_Trader_Orc.labelMalePlural>
+  <WoW_Outlander_Trader_Orc.labelFemale>female orc trader</WoW_Outlander_Trader_Orc.labelFemale>
+  <WoW_Outlander_Trader_Orc.labelFemalePlural>female orc traders</WoW_Outlander_Trader_Orc.labelFemalePlural>
+
+  <WoW_Outlander_Trader_WoWHuman.label>human trader</WoW_Outlander_Trader_WoWHuman.label>
+  <WoW_Outlander_Trader_WoWHuman.labelPlural>human traders</WoW_Outlander_Trader_WoWHuman.labelPlural>
+  <WoW_Outlander_Trader_WoWHuman.labelMale>male human trader</WoW_Outlander_Trader_WoWHuman.labelMale>
+  <WoW_Outlander_Trader_WoWHuman.labelMalePlural>male human traders</WoW_Outlander_Trader_WoWHuman.labelMalePlural>
+  <WoW_Outlander_Trader_WoWHuman.labelFemale>female human trader</WoW_Outlander_Trader_WoWHuman.labelFemale>
+  <WoW_Outlander_Trader_WoWHuman.labelFemalePlural>female human traders</WoW_Outlander_Trader_WoWHuman.labelFemalePlural>
+
+  <WoW_Outlander_Trader_HighElf.label>high elf trader</WoW_Outlander_Trader_HighElf.label>
+  <WoW_Outlander_Trader_HighElf.labelPlural>high elf traders</WoW_Outlander_Trader_HighElf.labelPlural>
+  <WoW_Outlander_Trader_HighElf.labelMale>male high elf trader</WoW_Outlander_Trader_HighElf.labelMale>
+  <WoW_Outlander_Trader_HighElf.labelMalePlural>male high elf traders</WoW_Outlander_Trader_HighElf.labelMalePlural>
+  <WoW_Outlander_Trader_HighElf.labelFemale>female high elf trader</WoW_Outlander_Trader_HighElf.labelFemale>
+  <WoW_Outlander_Trader_HighElf.labelFemalePlural>female high elf traders</WoW_Outlander_Trader_HighElf.labelFemalePlural>
+
+  <WoW_Outlander_Trader_Troll.label>troll trader</WoW_Outlander_Trader_Troll.label>
+  <WoW_Outlander_Trader_Troll.labelPlural>troll traders</WoW_Outlander_Trader_Troll.labelPlural>
+  <WoW_Outlander_Trader_Troll.labelMale>male troll trader</WoW_Outlander_Trader_Troll.labelMale>
+  <WoW_Outlander_Trader_Troll.labelMalePlural>male troll traders</WoW_Outlander_Trader_Troll.labelMalePlural>
+  <WoW_Outlander_Trader_Troll.labelFemale>female troll trader</WoW_Outlander_Trader_Troll.labelFemale>
+  <WoW_Outlander_Trader_Troll.labelFemalePlural>female troll traders</WoW_Outlander_Trader_Troll.labelFemalePlural>
+
+  <WoW_Outlander_Trader_Forsaken.label>forsaken trader</WoW_Outlander_Trader_Forsaken.label>
+  <WoW_Outlander_Trader_Forsaken.labelPlural>forsaken traders</WoW_Outlander_Trader_Forsaken.labelPlural>
+  <WoW_Outlander_Trader_Forsaken.labelMale>male forsaken trader</WoW_Outlander_Trader_Forsaken.labelMale>
+  <WoW_Outlander_Trader_Forsaken.labelMalePlural>male forsaken traders</WoW_Outlander_Trader_Forsaken.labelMalePlural>
+  <WoW_Outlander_Trader_Forsaken.labelFemale>female forsaken trader</WoW_Outlander_Trader_Forsaken.labelFemale>
+  <WoW_Outlander_Trader_Forsaken.labelFemalePlural>female forsaken traders</WoW_Outlander_Trader_Forsaken.labelFemalePlural>
+
+  <WoW_Outlander_Trader_Draenei.label>draenei trader</WoW_Outlander_Trader_Draenei.label>
+  <WoW_Outlander_Trader_Draenei.labelPlural>draenei traders</WoW_Outlander_Trader_Draenei.labelPlural>
+  <WoW_Outlander_Trader_Draenei.labelMale>male draenei trader</WoW_Outlander_Trader_Draenei.labelMale>
+  <WoW_Outlander_Trader_Draenei.labelMalePlural>male draenei traders</WoW_Outlander_Trader_Draenei.labelMalePlural>
+  <WoW_Outlander_Trader_Draenei.labelFemale>female draenei trader</WoW_Outlander_Trader_Draenei.labelFemale>
+  <WoW_Outlander_Trader_Draenei.labelFemalePlural>female draenei traders</WoW_Outlander_Trader_Draenei.labelFemalePlural>
+
+  <WoW_Outlander_Trader_Worgen.label>worgen trader</WoW_Outlander_Trader_Worgen.label>
+  <WoW_Outlander_Trader_Worgen.labelPlural>worgen traders</WoW_Outlander_Trader_Worgen.labelPlural>
+  <WoW_Outlander_Trader_Worgen.labelMale>male worgen trader</WoW_Outlander_Trader_Worgen.labelMale>
+  <WoW_Outlander_Trader_Worgen.labelMalePlural>male worgen traders</WoW_Outlander_Trader_Worgen.labelMalePlural>
+  <WoW_Outlander_Trader_Worgen.labelFemale>female worgen trader</WoW_Outlander_Trader_Worgen.labelFemale>
+  <WoW_Outlander_Trader_Worgen.labelFemalePlural>female worgen traders</WoW_Outlander_Trader_Worgen.labelFemalePlural>
+
+  <WoW_Outlander_Trader_Gnome.label>gnome trader</WoW_Outlander_Trader_Gnome.label>
+  <WoW_Outlander_Trader_Gnome.labelPlural>gnome traders</WoW_Outlander_Trader_Gnome.labelPlural>
+  <WoW_Outlander_Trader_Gnome.labelMale>male gnome trader</WoW_Outlander_Trader_Gnome.labelMale>
+  <WoW_Outlander_Trader_Gnome.labelMalePlural>male gnome traders</WoW_Outlander_Trader_Gnome.labelMalePlural>
+  <WoW_Outlander_Trader_Gnome.labelFemale>female gnome trader</WoW_Outlander_Trader_Gnome.labelFemale>
+  <WoW_Outlander_Trader_Gnome.labelFemalePlural>female gnome traders</WoW_Outlander_Trader_Gnome.labelFemalePlural>
+
+
+</LanguageData>

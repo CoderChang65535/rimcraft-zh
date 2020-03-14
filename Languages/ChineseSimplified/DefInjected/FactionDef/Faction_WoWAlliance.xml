@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Alliance.label>alliance settlement</Alliance.label>
+  <Alliance.description>The Alliance is one of two major political factions of the mortal races in Azeroth, its counterpart being the Horde. The Alliance consists of powerful cultures and groups bound not by desperation or necessity, but by their deep commitments to abstract concepts like nobility and justice, and, striving to represent these high ideals, its many different peoples all contribute their technical, arcane, and spiritual wisdom "toward the goal of a just and peaceful world.</Alliance.description>
+  <Alliance.fixedName>The Alliance</Alliance.fixedName>
+  <Alliance.pawnsPlural>Alliance</Alliance.pawnsPlural>
+  <Alliance.leaderTitle>High King</Alliance.leaderTitle>
+
+
+</LanguageData>

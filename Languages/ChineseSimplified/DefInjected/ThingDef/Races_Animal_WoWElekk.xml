@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Elekk Def -->
+
+  <WoW_Animal_Elekk.label>elekk</WoW_Animal_Elekk.label>
+  <WoW_Animal_Elekk.description>Elekks are a species of large, elephant-like creatures native to Draenor that the draenei commonly employ as mounts. Elekks became sickly and corrupt as a result of Draenor's fel corruption and subsequent transformation into Outland. Patient and strong, the elekk exemplify the draenei attitude towards the hardships of life. They can live to be over a hundred years old. It is said an elekk never forgets.</WoW_Animal_Elekk.description>
+  <WoW_Animal_Elekk.tools.0.label>tusk</WoW_Animal_Elekk.tools.0.label>
+  <WoW_Animal_Elekk.tools.1.label>left foot</WoW_Animal_Elekk.tools.1.label>
+  <WoW_Animal_Elekk.tools.2.label>right foot</WoW_Animal_Elekk.tools.2.label>
+  <WoW_Animal_Elekk.tools.3.label>head</WoW_Animal_Elekk.tools.3.label>
+
+
+</LanguageData>
