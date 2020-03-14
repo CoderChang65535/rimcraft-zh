@@ -1,57 +1,57 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Tauren.label>tauren</Tauren.label>
-  <Tauren.corePart.parts.6.customLabel>left lung</Tauren.corePart.parts.6.customLabel>
-  <Tauren.corePart.parts.7.customLabel>right lung</Tauren.corePart.parts.7.customLabel>
-  <Tauren.corePart.parts.8.customLabel>left kidney</Tauren.corePart.parts.8.customLabel>
-  <Tauren.corePart.parts.9.customLabel>right kidney</Tauren.corePart.parts.9.customLabel>
-  <Tauren.corePart.parts.11.parts.0.parts.1.customLabel>left eye</Tauren.corePart.parts.11.parts.0.parts.1.customLabel>
-  <Tauren.corePart.parts.11.parts.0.parts.2.customLabel>right eye</Tauren.corePart.parts.11.parts.0.parts.2.customLabel>
-  <Tauren.corePart.parts.11.parts.0.parts.3.customLabel>left horn</Tauren.corePart.parts.11.parts.0.parts.3.customLabel>
-  <Tauren.corePart.parts.11.parts.0.parts.4.customLabel>right horn</Tauren.corePart.parts.11.parts.0.parts.4.customLabel>
-  <Tauren.corePart.parts.11.parts.0.parts.5.customLabel>left ear</Tauren.corePart.parts.11.parts.0.parts.5.customLabel>
-  <Tauren.corePart.parts.11.parts.0.parts.6.customLabel>right ear</Tauren.corePart.parts.11.parts.0.parts.6.customLabel>
-  <Tauren.corePart.parts.12.customLabel>left shoulder</Tauren.corePart.parts.12.customLabel>
-  <Tauren.corePart.parts.12.parts.0.customLabel>left clavicle</Tauren.corePart.parts.12.parts.0.customLabel>
-  <Tauren.corePart.parts.12.parts.1.customLabel>left arm</Tauren.corePart.parts.12.parts.1.customLabel>
-  <Tauren.corePart.parts.12.parts.1.parts.0.customLabel>left humerus</Tauren.corePart.parts.12.parts.1.parts.0.customLabel>
-  <Tauren.corePart.parts.12.parts.1.parts.1.customLabel>left radius</Tauren.corePart.parts.12.parts.1.parts.1.customLabel>
-  <Tauren.corePart.parts.12.parts.1.parts.2.customLabel>left hand</Tauren.corePart.parts.12.parts.1.parts.2.customLabel>
-  <Tauren.corePart.parts.12.parts.1.parts.2.parts.0.customLabel>left pinky</Tauren.corePart.parts.12.parts.1.parts.2.parts.0.customLabel>
-  <Tauren.corePart.parts.12.parts.1.parts.2.parts.1.customLabel>left ring finger</Tauren.corePart.parts.12.parts.1.parts.2.parts.1.customLabel>
-  <Tauren.corePart.parts.12.parts.1.parts.2.parts.2.customLabel>left middle finger</Tauren.corePart.parts.12.parts.1.parts.2.parts.2.customLabel>
-  <Tauren.corePart.parts.12.parts.1.parts.2.parts.3.customLabel>left index finger</Tauren.corePart.parts.12.parts.1.parts.2.parts.3.customLabel>
-  <Tauren.corePart.parts.12.parts.1.parts.2.parts.4.customLabel>left thumb</Tauren.corePart.parts.12.parts.1.parts.2.parts.4.customLabel>
-  <Tauren.corePart.parts.13.customLabel>right shoulder</Tauren.corePart.parts.13.customLabel>
-  <Tauren.corePart.parts.13.parts.0.customLabel>right clavicle</Tauren.corePart.parts.13.parts.0.customLabel>
-  <Tauren.corePart.parts.13.parts.1.customLabel>right arm</Tauren.corePart.parts.13.parts.1.customLabel>
-  <Tauren.corePart.parts.13.parts.1.parts.0.customLabel>right humerus</Tauren.corePart.parts.13.parts.1.parts.0.customLabel>
-  <Tauren.corePart.parts.13.parts.1.parts.1.customLabel>right radius</Tauren.corePart.parts.13.parts.1.parts.1.customLabel>
-  <Tauren.corePart.parts.13.parts.1.parts.2.customLabel>right hand</Tauren.corePart.parts.13.parts.1.parts.2.customLabel>
-  <Tauren.corePart.parts.13.parts.1.parts.2.parts.0.customLabel>right pinky</Tauren.corePart.parts.13.parts.1.parts.2.parts.0.customLabel>
-  <Tauren.corePart.parts.13.parts.1.parts.2.parts.1.customLabel>right ring finger</Tauren.corePart.parts.13.parts.1.parts.2.parts.1.customLabel>
-  <Tauren.corePart.parts.13.parts.1.parts.2.parts.2.customLabel>right middle finger</Tauren.corePart.parts.13.parts.1.parts.2.parts.2.customLabel>
-  <Tauren.corePart.parts.13.parts.1.parts.2.parts.3.customLabel>right index finger</Tauren.corePart.parts.13.parts.1.parts.2.parts.3.customLabel>
-  <Tauren.corePart.parts.13.parts.1.parts.2.parts.4.customLabel>right thumb</Tauren.corePart.parts.13.parts.1.parts.2.parts.4.customLabel>
-  <Tauren.corePart.parts.15.customLabel>left leg</Tauren.corePart.parts.15.customLabel>
-  <Tauren.corePart.parts.15.parts.0.customLabel>left femur</Tauren.corePart.parts.15.parts.0.customLabel>
-  <Tauren.corePart.parts.15.parts.1.customLabel>left tibia</Tauren.corePart.parts.15.parts.1.customLabel>
-  <Tauren.corePart.parts.15.parts.2.customLabel>left foot</Tauren.corePart.parts.15.parts.2.customLabel>
-  <Tauren.corePart.parts.15.parts.2.parts.0.customLabel>left little toe</Tauren.corePart.parts.15.parts.2.parts.0.customLabel>
-  <Tauren.corePart.parts.15.parts.2.parts.1.customLabel>left fourth toe</Tauren.corePart.parts.15.parts.2.parts.1.customLabel>
-  <Tauren.corePart.parts.15.parts.2.parts.2.customLabel>left middle toe</Tauren.corePart.parts.15.parts.2.parts.2.customLabel>
-  <Tauren.corePart.parts.15.parts.2.parts.3.customLabel>left second toe</Tauren.corePart.parts.15.parts.2.parts.3.customLabel>
-  <Tauren.corePart.parts.15.parts.2.parts.4.customLabel>left big toe</Tauren.corePart.parts.15.parts.2.parts.4.customLabel>
-  <Tauren.corePart.parts.16.customLabel>right leg</Tauren.corePart.parts.16.customLabel>
-  <Tauren.corePart.parts.16.parts.0.customLabel>right femur</Tauren.corePart.parts.16.parts.0.customLabel>
-  <Tauren.corePart.parts.16.parts.1.customLabel>right tibia</Tauren.corePart.parts.16.parts.1.customLabel>
-  <Tauren.corePart.parts.16.parts.2.customLabel>right foot</Tauren.corePart.parts.16.parts.2.customLabel>
-  <Tauren.corePart.parts.16.parts.2.parts.0.customLabel>right little toe</Tauren.corePart.parts.16.parts.2.parts.0.customLabel>
-  <Tauren.corePart.parts.16.parts.2.parts.1.customLabel>right fourth toe</Tauren.corePart.parts.16.parts.2.parts.1.customLabel>
-  <Tauren.corePart.parts.16.parts.2.parts.2.customLabel>right middle toe</Tauren.corePart.parts.16.parts.2.parts.2.customLabel>
-  <Tauren.corePart.parts.16.parts.2.parts.3.customLabel>right second toe</Tauren.corePart.parts.16.parts.2.parts.3.customLabel>
-  <Tauren.corePart.parts.16.parts.2.parts.4.customLabel>right big toe</Tauren.corePart.parts.16.parts.2.parts.4.customLabel>
+  <Tauren.label>牛头人</Tauren.label>
+  <Tauren.corePart.parts.6.customLabel>左肺</Tauren.corePart.parts.6.customLabel>
+  <Tauren.corePart.parts.7.customLabel>右肺</Tauren.corePart.parts.7.customLabel>
+  <Tauren.corePart.parts.8.customLabel>左肾</Tauren.corePart.parts.8.customLabel>
+  <Tauren.corePart.parts.9.customLabel>右肾</Tauren.corePart.parts.9.customLabel>
+  <Tauren.corePart.parts.11.parts.0.parts.1.customLabel>左眼</Tauren.corePart.parts.11.parts.0.parts.1.customLabel>
+  <Tauren.corePart.parts.11.parts.0.parts.2.customLabel>右眼</Tauren.corePart.parts.11.parts.0.parts.2.customLabel>
+  <Tauren.corePart.parts.11.parts.0.parts.3.customLabel>左角</Tauren.corePart.parts.11.parts.0.parts.3.customLabel>
+  <Tauren.corePart.parts.11.parts.0.parts.4.customLabel>右角</Tauren.corePart.parts.11.parts.0.parts.4.customLabel>
+  <Tauren.corePart.parts.11.parts.0.parts.5.customLabel>左耳</Tauren.corePart.parts.11.parts.0.parts.5.customLabel>
+  <Tauren.corePart.parts.11.parts.0.parts.6.customLabel>右耳</Tauren.corePart.parts.11.parts.0.parts.6.customLabel>
+  <Tauren.corePart.parts.12.customLabel>左肩</Tauren.corePart.parts.12.customLabel>
+  <Tauren.corePart.parts.12.parts.0.customLabel>左锁骨</Tauren.corePart.parts.12.parts.0.customLabel>
+  <Tauren.corePart.parts.12.parts.1.customLabel>左臂</Tauren.corePart.parts.12.parts.1.customLabel>
+  <Tauren.corePart.parts.12.parts.1.parts.0.customLabel>左肱</Tauren.corePart.parts.12.parts.1.parts.0.customLabel>
+  <Tauren.corePart.parts.12.parts.1.parts.1.customLabel>左桡骨</Tauren.corePart.parts.12.parts.1.parts.1.customLabel>
+  <Tauren.corePart.parts.12.parts.1.parts.2.customLabel>左hand</Tauren.corePart.parts.12.parts.1.parts.2.customLabel>
+  <Tauren.corePart.parts.12.parts.1.parts.2.parts.0.customLabel>左小指</Tauren.corePart.parts.12.parts.1.parts.2.parts.0.customLabel>
+  <Tauren.corePart.parts.12.parts.1.parts.2.parts.1.customLabel>左无名指</Tauren.corePart.parts.12.parts.1.parts.2.parts.1.customLabel>
+  <Tauren.corePart.parts.12.parts.1.parts.2.parts.2.customLabel>左中指</Tauren.corePart.parts.12.parts.1.parts.2.parts.2.customLabel>
+  <Tauren.corePart.parts.12.parts.1.parts.2.parts.3.customLabel>左食指</Tauren.corePart.parts.12.parts.1.parts.2.parts.3.customLabel>
+  <Tauren.corePart.parts.12.parts.1.parts.2.parts.4.customLabel>左拇指</Tauren.corePart.parts.12.parts.1.parts.2.parts.4.customLabel>
+  <Tauren.corePart.parts.13.customLabel>右肩</Tauren.corePart.parts.13.customLabel>
+  <Tauren.corePart.parts.13.parts.0.customLabel>右锁骨</Tauren.corePart.parts.13.parts.0.customLabel>
+  <Tauren.corePart.parts.13.parts.1.customLabel>右臂</Tauren.corePart.parts.13.parts.1.customLabel>
+  <Tauren.corePart.parts.13.parts.1.parts.0.customLabel>右肱</Tauren.corePart.parts.13.parts.1.parts.0.customLabel>
+  <Tauren.corePart.parts.13.parts.1.parts.1.customLabel>右桡骨</Tauren.corePart.parts.13.parts.1.parts.1.customLabel>
+  <Tauren.corePart.parts.13.parts.1.parts.2.customLabel>右hand</Tauren.corePart.parts.13.parts.1.parts.2.customLabel>
+  <Tauren.corePart.parts.13.parts.1.parts.2.parts.0.customLabel>右小指</Tauren.corePart.parts.13.parts.1.parts.2.parts.0.customLabel>
+  <Tauren.corePart.parts.13.parts.1.parts.2.parts.1.customLabel>右无名指</Tauren.corePart.parts.13.parts.1.parts.2.parts.1.customLabel>
+  <Tauren.corePart.parts.13.parts.1.parts.2.parts.2.customLabel>右中指</Tauren.corePart.parts.13.parts.1.parts.2.parts.2.customLabel>
+  <Tauren.corePart.parts.13.parts.1.parts.2.parts.3.customLabel>右食指</Tauren.corePart.parts.13.parts.1.parts.2.parts.3.customLabel>
+  <Tauren.corePart.parts.13.parts.1.parts.2.parts.4.customLabel>右拇指</Tauren.corePart.parts.13.parts.1.parts.2.parts.4.customLabel>
+  <Tauren.corePart.parts.15.customLabel>左腿</Tauren.corePart.parts.15.customLabel>
+  <Tauren.corePart.parts.15.parts.0.customLabel>左股骨</Tauren.corePart.parts.15.parts.0.customLabel>
+  <Tauren.corePart.parts.15.parts.1.customLabel>左胫骨</Tauren.corePart.parts.15.parts.1.customLabel>
+  <Tauren.corePart.parts.15.parts.2.customLabel>左足</Tauren.corePart.parts.15.parts.2.customLabel>
+  <Tauren.corePart.parts.15.parts.2.parts.0.customLabel>左小脚趾</Tauren.corePart.parts.15.parts.2.parts.0.customLabel>
+  <Tauren.corePart.parts.15.parts.2.parts.1.customLabel>左四脚趾</Tauren.corePart.parts.15.parts.2.parts.1.customLabel>
+  <Tauren.corePart.parts.15.parts.2.parts.2.customLabel>左中脚趾</Tauren.corePart.parts.15.parts.2.parts.2.customLabel>
+  <Tauren.corePart.parts.15.parts.2.parts.3.customLabel>左二脚趾</Tauren.corePart.parts.15.parts.2.parts.3.customLabel>
+  <Tauren.corePart.parts.15.parts.2.parts.4.customLabel>左大脚趾</Tauren.corePart.parts.15.parts.2.parts.4.customLabel>
+  <Tauren.corePart.parts.16.customLabel>右腿</Tauren.corePart.parts.16.customLabel>
+  <Tauren.corePart.parts.16.parts.0.customLabel>右股骨</Tauren.corePart.parts.16.parts.0.customLabel>
+  <Tauren.corePart.parts.16.parts.1.customLabel>右胫骨</Tauren.corePart.parts.16.parts.1.customLabel>
+  <Tauren.corePart.parts.16.parts.2.customLabel>右足</Tauren.corePart.parts.16.parts.2.customLabel>
+  <Tauren.corePart.parts.16.parts.2.parts.0.customLabel>右小脚趾</Tauren.corePart.parts.16.parts.2.parts.0.customLabel>
+  <Tauren.corePart.parts.16.parts.2.parts.1.customLabel>右四脚趾</Tauren.corePart.parts.16.parts.2.parts.1.customLabel>
+  <Tauren.corePart.parts.16.parts.2.parts.2.customLabel>右中脚趾</Tauren.corePart.parts.16.parts.2.parts.2.customLabel>
+  <Tauren.corePart.parts.16.parts.2.parts.3.customLabel>右二脚趾</Tauren.corePart.parts.16.parts.2.parts.3.customLabel>
+  <Tauren.corePart.parts.16.parts.2.parts.4.customLabel>右大脚趾</Tauren.corePart.parts.16.parts.2.parts.4.customLabel>
 
 
 </LanguageData>

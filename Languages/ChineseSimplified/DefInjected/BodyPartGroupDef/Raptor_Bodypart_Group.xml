@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <ArmClawAttackTool.label>arm claws</ArmClawAttackTool.label>
-  <FootClawAttackTool.label>sickle claws</FootClawAttackTool.label>
-  <LeftLeg.label>left leg</LeftLeg.label>
-  <RightLeg.label>right leg</RightLeg.label>
+  <ArmClawAttackTool.label>臂爪</ArmClawAttackTool.label>
+  <FootClawAttackTool.label>镰爪</FootClawAttackTool.label>
+  <LeftLeg.label>左腿</LeftLeg.label>
+  <RightLeg.label>右腿</RightLeg.label>
 
 
 </LanguageData>

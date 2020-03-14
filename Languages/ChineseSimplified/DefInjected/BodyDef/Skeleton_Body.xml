@@ -1,47 +1,47 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <WoWScourgeSkeleton_Body.label>skeleton</WoWScourgeSkeleton_Body.label>
-  <WoWScourgeSkeleton_Body.corePart.parts.5.customLabel>left shoulder</WoWScourgeSkeleton_Body.corePart.parts.5.customLabel>
-  <WoWScourgeSkeleton_Body.corePart.parts.5.parts.0.customLabel>left clavicle</WoWScourgeSkeleton_Body.corePart.parts.5.parts.0.customLabel>
-  <WoWScourgeSkeleton_Body.corePart.parts.5.parts.1.customLabel>left arm</WoWScourgeSkeleton_Body.corePart.parts.5.parts.1.customLabel>
-  <WoWScourgeSkeleton_Body.corePart.parts.5.parts.1.parts.0.customLabel>left humerus</WoWScourgeSkeleton_Body.corePart.parts.5.parts.1.parts.0.customLabel>
-  <WoWScourgeSkeleton_Body.corePart.parts.5.parts.1.parts.1.customLabel>left radius</WoWScourgeSkeleton_Body.corePart.parts.5.parts.1.parts.1.customLabel>
-  <WoWScourgeSkeleton_Body.corePart.parts.5.parts.1.parts.2.customLabel>left hand</WoWScourgeSkeleton_Body.corePart.parts.5.parts.1.parts.2.customLabel>
-  <WoWScourgeSkeleton_Body.corePart.parts.5.parts.1.parts.2.parts.0.customLabel>left pinky</WoWScourgeSkeleton_Body.corePart.parts.5.parts.1.parts.2.parts.0.customLabel>
-  <WoWScourgeSkeleton_Body.corePart.parts.5.parts.1.parts.2.parts.1.customLabel>left ring finger</WoWScourgeSkeleton_Body.corePart.parts.5.parts.1.parts.2.parts.1.customLabel>
-  <WoWScourgeSkeleton_Body.corePart.parts.5.parts.1.parts.2.parts.2.customLabel>left middle finger</WoWScourgeSkeleton_Body.corePart.parts.5.parts.1.parts.2.parts.2.customLabel>
-  <WoWScourgeSkeleton_Body.corePart.parts.5.parts.1.parts.2.parts.3.customLabel>left index finger</WoWScourgeSkeleton_Body.corePart.parts.5.parts.1.parts.2.parts.3.customLabel>
-  <WoWScourgeSkeleton_Body.corePart.parts.5.parts.1.parts.2.parts.4.customLabel>left thumb</WoWScourgeSkeleton_Body.corePart.parts.5.parts.1.parts.2.parts.4.customLabel>
-  <WoWScourgeSkeleton_Body.corePart.parts.6.customLabel>right shoulder</WoWScourgeSkeleton_Body.corePart.parts.6.customLabel>
-  <WoWScourgeSkeleton_Body.corePart.parts.6.parts.0.customLabel>right clavicle</WoWScourgeSkeleton_Body.corePart.parts.6.parts.0.customLabel>
-  <WoWScourgeSkeleton_Body.corePart.parts.6.parts.1.customLabel>right arm</WoWScourgeSkeleton_Body.corePart.parts.6.parts.1.customLabel>
-  <WoWScourgeSkeleton_Body.corePart.parts.6.parts.1.parts.0.customLabel>right humerus</WoWScourgeSkeleton_Body.corePart.parts.6.parts.1.parts.0.customLabel>
-  <WoWScourgeSkeleton_Body.corePart.parts.6.parts.1.parts.1.customLabel>right radius</WoWScourgeSkeleton_Body.corePart.parts.6.parts.1.parts.1.customLabel>
-  <WoWScourgeSkeleton_Body.corePart.parts.6.parts.1.parts.2.customLabel>right hand</WoWScourgeSkeleton_Body.corePart.parts.6.parts.1.parts.2.customLabel>
-  <WoWScourgeSkeleton_Body.corePart.parts.6.parts.1.parts.2.parts.0.customLabel>right pinky</WoWScourgeSkeleton_Body.corePart.parts.6.parts.1.parts.2.parts.0.customLabel>
-  <WoWScourgeSkeleton_Body.corePart.parts.6.parts.1.parts.2.parts.1.customLabel>right ring finger</WoWScourgeSkeleton_Body.corePart.parts.6.parts.1.parts.2.parts.1.customLabel>
-  <WoWScourgeSkeleton_Body.corePart.parts.6.parts.1.parts.2.parts.2.customLabel>right middle finger</WoWScourgeSkeleton_Body.corePart.parts.6.parts.1.parts.2.parts.2.customLabel>
-  <WoWScourgeSkeleton_Body.corePart.parts.6.parts.1.parts.2.parts.3.customLabel>right index finger</WoWScourgeSkeleton_Body.corePart.parts.6.parts.1.parts.2.parts.3.customLabel>
-  <WoWScourgeSkeleton_Body.corePart.parts.6.parts.1.parts.2.parts.4.customLabel>right thumb</WoWScourgeSkeleton_Body.corePart.parts.6.parts.1.parts.2.parts.4.customLabel>
-  <WoWScourgeSkeleton_Body.corePart.parts.8.customLabel>left leg</WoWScourgeSkeleton_Body.corePart.parts.8.customLabel>
-  <WoWScourgeSkeleton_Body.corePart.parts.8.parts.0.customLabel>left femur</WoWScourgeSkeleton_Body.corePart.parts.8.parts.0.customLabel>
-  <WoWScourgeSkeleton_Body.corePart.parts.8.parts.1.customLabel>left tibia</WoWScourgeSkeleton_Body.corePart.parts.8.parts.1.customLabel>
-  <WoWScourgeSkeleton_Body.corePart.parts.8.parts.2.customLabel>left foot</WoWScourgeSkeleton_Body.corePart.parts.8.parts.2.customLabel>
-  <WoWScourgeSkeleton_Body.corePart.parts.8.parts.2.parts.0.customLabel>left little toe</WoWScourgeSkeleton_Body.corePart.parts.8.parts.2.parts.0.customLabel>
-  <WoWScourgeSkeleton_Body.corePart.parts.8.parts.2.parts.1.customLabel>left fourth toe</WoWScourgeSkeleton_Body.corePart.parts.8.parts.2.parts.1.customLabel>
-  <WoWScourgeSkeleton_Body.corePart.parts.8.parts.2.parts.2.customLabel>left middle toe</WoWScourgeSkeleton_Body.corePart.parts.8.parts.2.parts.2.customLabel>
-  <WoWScourgeSkeleton_Body.corePart.parts.8.parts.2.parts.3.customLabel>left second toe</WoWScourgeSkeleton_Body.corePart.parts.8.parts.2.parts.3.customLabel>
-  <WoWScourgeSkeleton_Body.corePart.parts.8.parts.2.parts.4.customLabel>left big toe</WoWScourgeSkeleton_Body.corePart.parts.8.parts.2.parts.4.customLabel>
-  <WoWScourgeSkeleton_Body.corePart.parts.9.customLabel>right leg</WoWScourgeSkeleton_Body.corePart.parts.9.customLabel>
-  <WoWScourgeSkeleton_Body.corePart.parts.9.parts.0.customLabel>right femur</WoWScourgeSkeleton_Body.corePart.parts.9.parts.0.customLabel>
-  <WoWScourgeSkeleton_Body.corePart.parts.9.parts.1.customLabel>right tibia</WoWScourgeSkeleton_Body.corePart.parts.9.parts.1.customLabel>
-  <WoWScourgeSkeleton_Body.corePart.parts.9.parts.2.customLabel>right foot</WoWScourgeSkeleton_Body.corePart.parts.9.parts.2.customLabel>
-  <WoWScourgeSkeleton_Body.corePart.parts.9.parts.2.parts.0.customLabel>right little toe</WoWScourgeSkeleton_Body.corePart.parts.9.parts.2.parts.0.customLabel>
-  <WoWScourgeSkeleton_Body.corePart.parts.9.parts.2.parts.1.customLabel>right fourth toe</WoWScourgeSkeleton_Body.corePart.parts.9.parts.2.parts.1.customLabel>
-  <WoWScourgeSkeleton_Body.corePart.parts.9.parts.2.parts.2.customLabel>right middle toe</WoWScourgeSkeleton_Body.corePart.parts.9.parts.2.parts.2.customLabel>
-  <WoWScourgeSkeleton_Body.corePart.parts.9.parts.2.parts.3.customLabel>right second toe</WoWScourgeSkeleton_Body.corePart.parts.9.parts.2.parts.3.customLabel>
-  <WoWScourgeSkeleton_Body.corePart.parts.9.parts.2.parts.4.customLabel>right big toe</WoWScourgeSkeleton_Body.corePart.parts.9.parts.2.parts.4.customLabel>
+  <WoWScourgeSkeleton_Body.label>骷髅</WoWScourgeSkeleton_Body.label>
+  <WoWScourgeSkeleton_Body.corePart.parts.5.customLabel>左肩</WoWScourgeSkeleton_Body.corePart.parts.5.customLabel>
+  <WoWScourgeSkeleton_Body.corePart.parts.5.parts.0.customLabel>左锁骨</WoWScourgeSkeleton_Body.corePart.parts.5.parts.0.customLabel>
+  <WoWScourgeSkeleton_Body.corePart.parts.5.parts.1.customLabel>左臂</WoWScourgeSkeleton_Body.corePart.parts.5.parts.1.customLabel>
+  <WoWScourgeSkeleton_Body.corePart.parts.5.parts.1.parts.0.customLabel>左肱</WoWScourgeSkeleton_Body.corePart.parts.5.parts.1.parts.0.customLabel>
+  <WoWScourgeSkeleton_Body.corePart.parts.5.parts.1.parts.1.customLabel>左桡骨</WoWScourgeSkeleton_Body.corePart.parts.5.parts.1.parts.1.customLabel>
+  <WoWScourgeSkeleton_Body.corePart.parts.5.parts.1.parts.2.customLabel>左hand</WoWScourgeSkeleton_Body.corePart.parts.5.parts.1.parts.2.customLabel>
+  <WoWScourgeSkeleton_Body.corePart.parts.5.parts.1.parts.2.parts.0.customLabel>左小指</WoWScourgeSkeleton_Body.corePart.parts.5.parts.1.parts.2.parts.0.customLabel>
+  <WoWScourgeSkeleton_Body.corePart.parts.5.parts.1.parts.2.parts.1.customLabel>左无名指</WoWScourgeSkeleton_Body.corePart.parts.5.parts.1.parts.2.parts.1.customLabel>
+  <WoWScourgeSkeleton_Body.corePart.parts.5.parts.1.parts.2.parts.2.customLabel>左中指</WoWScourgeSkeleton_Body.corePart.parts.5.parts.1.parts.2.parts.2.customLabel>
+  <WoWScourgeSkeleton_Body.corePart.parts.5.parts.1.parts.2.parts.3.customLabel>左食指</WoWScourgeSkeleton_Body.corePart.parts.5.parts.1.parts.2.parts.3.customLabel>
+  <WoWScourgeSkeleton_Body.corePart.parts.5.parts.1.parts.2.parts.4.customLabel>左拇指</WoWScourgeSkeleton_Body.corePart.parts.5.parts.1.parts.2.parts.4.customLabel>
+  <WoWScourgeSkeleton_Body.corePart.parts.6.customLabel>右肩</WoWScourgeSkeleton_Body.corePart.parts.6.customLabel>
+  <WoWScourgeSkeleton_Body.corePart.parts.6.parts.0.customLabel>右锁骨</WoWScourgeSkeleton_Body.corePart.parts.6.parts.0.customLabel>
+  <WoWScourgeSkeleton_Body.corePart.parts.6.parts.1.customLabel>右臂</WoWScourgeSkeleton_Body.corePart.parts.6.parts.1.customLabel>
+  <WoWScourgeSkeleton_Body.corePart.parts.6.parts.1.parts.0.customLabel>右肱</WoWScourgeSkeleton_Body.corePart.parts.6.parts.1.parts.0.customLabel>
+  <WoWScourgeSkeleton_Body.corePart.parts.6.parts.1.parts.1.customLabel>右桡骨</WoWScourgeSkeleton_Body.corePart.parts.6.parts.1.parts.1.customLabel>
+  <WoWScourgeSkeleton_Body.corePart.parts.6.parts.1.parts.2.customLabel>右hand</WoWScourgeSkeleton_Body.corePart.parts.6.parts.1.parts.2.customLabel>
+  <WoWScourgeSkeleton_Body.corePart.parts.6.parts.1.parts.2.parts.0.customLabel>右小指</WoWScourgeSkeleton_Body.corePart.parts.6.parts.1.parts.2.parts.0.customLabel>
+  <WoWScourgeSkeleton_Body.corePart.parts.6.parts.1.parts.2.parts.1.customLabel>右无名指</WoWScourgeSkeleton_Body.corePart.parts.6.parts.1.parts.2.parts.1.customLabel>
+  <WoWScourgeSkeleton_Body.corePart.parts.6.parts.1.parts.2.parts.2.customLabel>右中指</WoWScourgeSkeleton_Body.corePart.parts.6.parts.1.parts.2.parts.2.customLabel>
+  <WoWScourgeSkeleton_Body.corePart.parts.6.parts.1.parts.2.parts.3.customLabel>右食指</WoWScourgeSkeleton_Body.corePart.parts.6.parts.1.parts.2.parts.3.customLabel>
+  <WoWScourgeSkeleton_Body.corePart.parts.6.parts.1.parts.2.parts.4.customLabel>右拇指</WoWScourgeSkeleton_Body.corePart.parts.6.parts.1.parts.2.parts.4.customLabel>
+  <WoWScourgeSkeleton_Body.corePart.parts.8.customLabel>左腿</WoWScourgeSkeleton_Body.corePart.parts.8.customLabel>
+  <WoWScourgeSkeleton_Body.corePart.parts.8.parts.0.customLabel>左股骨</WoWScourgeSkeleton_Body.corePart.parts.8.parts.0.customLabel>
+  <WoWScourgeSkeleton_Body.corePart.parts.8.parts.1.customLabel>左胫骨</WoWScourgeSkeleton_Body.corePart.parts.8.parts.1.customLabel>
+  <WoWScourgeSkeleton_Body.corePart.parts.8.parts.2.customLabel>左足</WoWScourgeSkeleton_Body.corePart.parts.8.parts.2.customLabel>
+  <WoWScourgeSkeleton_Body.corePart.parts.8.parts.2.parts.0.customLabel>左小脚趾</WoWScourgeSkeleton_Body.corePart.parts.8.parts.2.parts.0.customLabel>
+  <WoWScourgeSkeleton_Body.corePart.parts.8.parts.2.parts.1.customLabel>左四脚趾</WoWScourgeSkeleton_Body.corePart.parts.8.parts.2.parts.1.customLabel>
+  <WoWScourgeSkeleton_Body.corePart.parts.8.parts.2.parts.2.customLabel>左中脚趾</WoWScourgeSkeleton_Body.corePart.parts.8.parts.2.parts.2.customLabel>
+  <WoWScourgeSkeleton_Body.corePart.parts.8.parts.2.parts.3.customLabel>左二脚趾</WoWScourgeSkeleton_Body.corePart.parts.8.parts.2.parts.3.customLabel>
+  <WoWScourgeSkeleton_Body.corePart.parts.8.parts.2.parts.4.customLabel>左大脚趾</WoWScourgeSkeleton_Body.corePart.parts.8.parts.2.parts.4.customLabel>
+  <WoWScourgeSkeleton_Body.corePart.parts.9.customLabel>右腿</WoWScourgeSkeleton_Body.corePart.parts.9.customLabel>
+  <WoWScourgeSkeleton_Body.corePart.parts.9.parts.0.customLabel>右股骨</WoWScourgeSkeleton_Body.corePart.parts.9.parts.0.customLabel>
+  <WoWScourgeSkeleton_Body.corePart.parts.9.parts.1.customLabel>右胫骨</WoWScourgeSkeleton_Body.corePart.parts.9.parts.1.customLabel>
+  <WoWScourgeSkeleton_Body.corePart.parts.9.parts.2.customLabel>右足</WoWScourgeSkeleton_Body.corePart.parts.9.parts.2.customLabel>
+  <WoWScourgeSkeleton_Body.corePart.parts.9.parts.2.parts.0.customLabel>右小脚趾</WoWScourgeSkeleton_Body.corePart.parts.9.parts.2.parts.0.customLabel>
+  <WoWScourgeSkeleton_Body.corePart.parts.9.parts.2.parts.1.customLabel>右四脚趾</WoWScourgeSkeleton_Body.corePart.parts.9.parts.2.parts.1.customLabel>
+  <WoWScourgeSkeleton_Body.corePart.parts.9.parts.2.parts.2.customLabel>右中脚趾</WoWScourgeSkeleton_Body.corePart.parts.9.parts.2.parts.2.customLabel>
+  <WoWScourgeSkeleton_Body.corePart.parts.9.parts.2.parts.3.customLabel>右二脚趾</WoWScourgeSkeleton_Body.corePart.parts.9.parts.2.parts.3.customLabel>
+  <WoWScourgeSkeleton_Body.corePart.parts.9.parts.2.parts.4.customLabel>右大脚趾</WoWScourgeSkeleton_Body.corePart.parts.9.parts.2.parts.4.customLabel>
 
 
 </LanguageData>
