@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Draenei.label>The Draenei</Draenei.label>
-  <Draenei.description>The Draenei</Draenei.description>
-  <Draenei.fixedName>The Draenei</Draenei.fixedName>
-  <Draenei.pawnsPlural>Draenei</Draenei.pawnsPlural>
-  <Draenei.leaderTitle>Exarch</Draenei.leaderTitle>
+  <Draenei.label>德莱尼</Draenei.label>
+  <Draenei.description>德莱尼</Draenei.description>
+  <Draenei.fixedName>德莱尼</Draenei.fixedName>
+  <Draenei.pawnsPlural>德莱尼</Draenei.pawnsPlural>
+  <Draenei.leaderTitle>大主教</Draenei.leaderTitle>
 
 
 </LanguageData>

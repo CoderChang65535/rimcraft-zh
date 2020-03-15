@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <HighElf.label>silver covenant enclave</HighElf.label>
-  <HighElf.description>The Silver Covenant is a militant faction and the largest bastion of high elves on azeroth. They reject the admission of blood elves into the Kirin Tor and have taken it upon themselves to serve as a military deterrent for any potential Horde uprising.</HighElf.description>
-  <HighElf.fixedName>The Silver Covenant</HighElf.fixedName>
-  <HighElf.pawnsPlural>High Elves</HighElf.pawnsPlural>
-  <HighElf.leaderTitle>Ranger General</HighElf.leaderTitle>
+  <HighElf.label>银色盟约先遣军</HighElf.label>
+  <HighElf.description>银色盟约是一个激进的派系，也是艾泽拉斯中高等精灵的最大势力。他们拒绝接纳血精灵进入肯瑞托并承担压制任何潜在的部落袭击的军事威慑作用。，</HighElf.description>
+  <HighElf.fixedName>银色盟约</HighElf.fixedName>
+  <HighElf.pawnsPlural>高等精灵</HighElf.pawnsPlural>
+  <HighElf.leaderTitle>游侠将军</HighElf.leaderTitle>
 
 
 </LanguageData>

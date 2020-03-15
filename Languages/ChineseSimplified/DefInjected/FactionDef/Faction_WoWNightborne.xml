@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Nightborne.label>nightborne camp</Nightborne.label>
-  <Nightborne.description>The nightborne (also spelled the Nightborne) or shal'dorei in the native tongue, are a powerful and mystical race of elves who live in Suramar. Since the city was first separated from the rest of the world over 10,000 years ago, they are no longer true night elves and have evolved by the Nightwell into a unique elven species.[5] For the majority of their secluded existence, virtually the entire group resided in the ancient city of Suramar and were led solely until recent times by Grand Magistrix Elisande. The nightborne race owes much of its unique physical characteristics to its long dependence on the Nightwell, an ancient source of power crafted by Suramar's Highborne residents during the War of the Ancients. Over their lengthy isolation, the exposure of the nightborne to the Nightwell's energies gradually transformed them from their original Kaldorei night elven appearance to their present darker, more night-based form.</Nightborne.description>
-  <Nightborne.fixedName>The Shal'dorei</Nightborne.fixedName>
-  <Nightborne.pawnsPlural>Nightborne</Nightborne.pawnsPlural>
-  <Nightborne.leaderTitle>GrandMagistrix</Nightborne.leaderTitle>
+  <Nightborne.label>夜之子营地</Nightborne.label>
+  <Nightborne.description>夜之子，在他们的语言中称作夏多雷，是居住在苏拉玛的强大而神秘的精灵。自一万年前这座城市与世界上的其他地区分离以来，他们就不再是暗夜精灵，而是进化为独立的精灵种族。他们大多数隐居在古城苏拉玛，直到最近一直由大魔导师艾利桑德领导。夜之子的大部分特征源于对暗月井的长期依赖，暗月井是苏拉玛上层居民在远古战争中创造的古老力量之源。夜之子由于暴露在暗月井的能量中而逐渐将其从最初的卡多雷外观转变为目前更基于夜晚的深色形态。</Nightborne.description>
+  <Nightborne.fixedName>夏多雷</Nightborne.fixedName>
+  <Nightborne.pawnsPlural>夜之子</Nightborne.pawnsPlural>
+  <Nightborne.leaderTitle>大魔导师</Nightborne.leaderTitle>
 
 
 </LanguageData>

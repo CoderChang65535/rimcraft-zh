@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Scourge.label>Scourge Ruins</Scourge.label>
-  <Scourge.description>The Scourge is the vast army of the undead serving the Lich King. Under the control of the Burning Legion, the Scourge's mission is to spread terror and destruction across the world in anticipation of the Legion's inevitable invasion.</Scourge.description>
-  <Scourge.fixedName>The Scourge</Scourge.fixedName>
-  <Scourge.pawnsPlural>Undead</Scourge.pawnsPlural>
-  <Scourge.leaderTitle>Lich King</Scourge.leaderTitle>
+  <Scourge.label>天灾遗迹</Scourge.label>
+  <Scourge.description>天灾军团是为巫妖王服务的庞大亡灵军队。在燃烧军团的控制下，天灾军团的任务是在军团不可避免的入侵之前，在世界范围内散布恐怖和破坏。</Scourge.description>
+  <Scourge.fixedName>亡灵</Scourge.fixedName>
+  <Scourge.pawnsPlural>不死者</Scourge.pawnsPlural>
+  <Scourge.leaderTitle>巫妖王</Scourge.leaderTitle>
 
 
 </LanguageData>

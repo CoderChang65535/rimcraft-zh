@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <NightElf.label>night elf camp</NightElf.label>
-  <NightElf.description>The Kaldorei, the Night Elves are a powerful and mystical race whose origins extend back to ancient times. These then-immortal beings were among the first to study magic and let it loose throughout the world nearly ten thousand years before the First War on Azeroth. The far-reaching and ancient legacy of the night elves shaped them into a race of very self-sufficient and self-conscious individuals, who often display strong streaks of isolationism.</NightElf.description>
-  <NightElf.fixedName>The Kaldorei</NightElf.fixedName>
-  <NightElf.pawnsPlural>Night Elves</NightElf.pawnsPlural>
-  <NightElf.leaderTitle>High Priestess</NightElf.leaderTitle>
+  <NightElf.label>暗夜精灵营地</NightElf.label>
+  <NightElf.description>卡多雷，暗夜精灵是一个强大而神秘的种族，其起源可以追溯到远古。这些在当时不朽的生物是最早研究奥术的种族之一，并在一万年前的上古之战后使得奥术在全世界传播。暗夜精灵的深远影响和古老的遗产使他们成为一个自给自足且具有自我意识的族群，他们经常表现出强烈的孤立主义色彩。</NightElf.description>
+  <NightElf.fixedName>卡多雷</NightElf.fixedName>
+  <NightElf.pawnsPlural>暗夜精灵</NightElf.pawnsPlural>
+  <NightElf.leaderTitle>大祭司</NightElf.leaderTitle>
 
 
 </LanguageData>
