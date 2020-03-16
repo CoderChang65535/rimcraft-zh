@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <AllianceScenario.label>Alliance - A Different Story</AllianceScenario.label>
-  <AllianceScenario.description>The three of you have fled Stormwind, the human capital of Azeroth, after orcs invaded and razed it to the ground. You were barely able to board a ship and escape by sea, but have limited supplies to last your arrival in this strange, new land.</AllianceScenario.description>
-  <AllianceScenario.scenario.name>Alliance - A Different Story</AllianceScenario.scenario.name>
-  <AllianceScenario.scenario.summary>Human refugees fleeing the destroyed city of Stormwind.</AllianceScenario.scenario.summary>
-  <AllianceScenario.scenario.description>The three of you have fled Stormwind, the human capital of Azeroth, after orcs invaded and razed it to the ground. You were barely able to board a ship and escape by sea, but have limited supplies to last your arrival in this strange, new land.</AllianceScenario.scenario.description>
-  <AllianceScenario.scenario.parts.9.text>Human refugees fleeing the destroyed city of Stormwind.</AllianceScenario.scenario.parts.9.text>
+  <AllianceScenario.label>联盟 - 一个不同的故事<</AllianceScenario.label>
+  <AllianceScenario.description>在兽人入侵艾泽拉斯的人类首都暴风城并将其夷为平地之后，你们三个人逃离了那座城市。你们差点就没办法坐上船并出海逃走，现在物资有限，无法维持到你们抵达陌生的新大陆。</AllianceScenario.description>
+  <AllianceScenario.scenario.name>联盟 - 一个不同的故事</AllianceScenario.scenario.name>
+  <AllianceScenario.scenario.summary>逃离被摧毁的暴风城的人类难民。</AllianceScenario.scenario.summary>
+  <AllianceScenario.scenario.description>在兽人入侵艾泽拉斯的人类首都暴风城并将其夷为平地之后，你们三个人逃离了那座城市。你们差点就没办法坐上船并出海逃走，现在物资有限，无法维持到你们抵达陌生的新大陆。</AllianceScenario.scenario.description>
+  <AllianceScenario.scenario.parts.9.text>逃离被摧毁的暴风城的人类难民。</AllianceScenario.scenario.parts.9.text>
 
 
 </LanguageData>
