@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Alliance.label>联盟居民</Alliance.label>
+  <Alliance.description>联盟是艾泽拉斯凡人种族的两个主要势力之一，它的对手是部落。联盟由强大的文化和群体、对贵族和正义之类的抽象概念的深刻承诺组成，并为这些崇高理想而努力。许多不同的种族都贡献了自己的技术，奥秘和智慧，以实现一个公正与和平的世界的目标。</Alliance.description>
+  <Alliance.fixedName>联盟</Alliance.fixedName>
+  <Alliance.pawnsPlural>联盟</Alliance.pawnsPlural>
+  <Alliance.leaderTitle>至高王</Alliance.leaderTitle>
+
+
+</LanguageData>

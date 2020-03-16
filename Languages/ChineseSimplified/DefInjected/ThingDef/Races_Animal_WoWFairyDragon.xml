@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- FairyDragon Def -->
+
+  <WoW_Animal_FairyDragon.label>fairy dragon</WoW_Animal_FairyDragon.label>
+  <WoW_Animal_FairyDragon.description>FairyDragons are flying creatures native to Quel'Thalas and tamed by the blood elves of Quel'Thalas. They are deft predators that rend their foes with razor-sharp talons. FairyDragons are among the deadliest known predators. They are able to spot prey from great distances, rush in, and rend with both talon and beak. In addition, they're capable of breathing fire. FairyDragons liberated from troll enslavement are considered among the most loyal of all their kin.</WoW_Animal_FairyDragon.description>
+  <WoW_Animal_FairyDragon.tools.0.label>claws</WoW_Animal_FairyDragon.tools.0.label>
+  <WoW_Animal_FairyDragon.tools.1.label>beak</WoW_Animal_FairyDragon.tools.1.label>
+  <WoW_Animal_FairyDragon.tools.2.label>head</WoW_Animal_FairyDragon.tools.2.label>
+
+
+</LanguageData>

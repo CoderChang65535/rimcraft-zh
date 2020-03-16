@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Void Elf Military -->
+
+  <WoW_VoidElf_RiftWarden.label>void elf rift warden</WoW_VoidElf_RiftWarden.label>
+  <WoW_VoidElf_RiftWarden.labelPlural>void elf rift wardens</WoW_VoidElf_RiftWarden.labelPlural>
+  <WoW_VoidElf_RiftWarden.labelMale>male void elf rift warden</WoW_VoidElf_RiftWarden.labelMale>
+  <WoW_VoidElf_RiftWarden.labelMalePlural>male void elf rift wardens</WoW_VoidElf_RiftWarden.labelMalePlural>
+  <WoW_VoidElf_RiftWarden.labelFemale>female void elf rift warden</WoW_VoidElf_RiftWarden.labelFemale>
+  <WoW_VoidElf_RiftWarden.labelFemalePlural>female void elf rift wardens</WoW_VoidElf_RiftWarden.labelFemalePlural>
+
+  <WoW_VoidElf_RendoreiRanger.label>void elf ren'dorei ranger</WoW_VoidElf_RendoreiRanger.label>
+  <WoW_VoidElf_RendoreiRanger.labelPlural>void elf ren'dorei rangers</WoW_VoidElf_RendoreiRanger.labelPlural>
+  <WoW_VoidElf_RendoreiRanger.labelMale>male void elf ren'dorei ranger</WoW_VoidElf_RendoreiRanger.labelMale>
+  <WoW_VoidElf_RendoreiRanger.labelMalePlural>male void elf ren'dorei rangers</WoW_VoidElf_RendoreiRanger.labelMalePlural>
+  <WoW_VoidElf_RendoreiRanger.labelFemale>female void elf ren'dorei ranger</WoW_VoidElf_RendoreiRanger.labelFemale>
+  <WoW_VoidElf_RendoreiRanger.labelFemalePlural>female void elf ren'dorei rangers</WoW_VoidElf_RendoreiRanger.labelFemalePlural>
+
+
+</LanguageData>

@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Meat Cleaver -->
+
+  <WoWM_Forsaken_Cleaver.label>forsaken cleaver</WoWM_Forsaken_Cleaver.label>
+  <WoWM_Forsaken_Cleaver.description>Forsaken Cleaver</WoWM_Forsaken_Cleaver.description>
+  <WoWM_Forsaken_Cleaver.tools.0.label>edge</WoWM_Forsaken_Cleaver.tools.0.label>
+
+
+  <!-- Plaguebringer's Dirk -->
+
+  <WoWM_Forsaken_Dirk.label>forsaken dirk</WoWM_Forsaken_Dirk.label>
+  <WoWM_Forsaken_Dirk.description>Forsaken Dirk</WoWM_Forsaken_Dirk.description>
+  <WoWM_Forsaken_Dirk.tools.0.label>blade</WoWM_Forsaken_Dirk.tools.0.label>
+  <WoWM_Forsaken_Dirk.tools.1.label>point</WoWM_Forsaken_Dirk.tools.1.label>
+
+
+  <!-- Deathguard's Blade -->
+
+  <WoWM_Forsaken_Blade.label>forsaken blade</WoWM_Forsaken_Blade.label>
+  <WoWM_Forsaken_Blade.description>Forsaken blade</WoWM_Forsaken_Blade.description>
+  <WoWM_Forsaken_Blade.tools.0.label>point</WoWM_Forsaken_Blade.tools.0.label>
+  <WoWM_Forsaken_Blade.tools.1.label>edge</WoWM_Forsaken_Blade.tools.1.label>
+
+
+  <!-- PlagueBringer's Halberd -->
+
+  <WoWM_Forsaken_Halberd.label>forsaken halberd</WoWM_Forsaken_Halberd.label>
+  <WoWM_Forsaken_Halberd.description>Forsaken halberd</WoWM_Forsaken_Halberd.description>
+  <WoWM_Forsaken_Halberd.tools.0.label>point</WoWM_Forsaken_Halberd.tools.0.label>
+  <WoWM_Forsaken_Halberd.tools.1.label>blade</WoWM_Forsaken_Halberd.tools.1.label>
+
+
+  <!-- Blightspreader's Crescent -->
+
+  <WoWM_Forsaken_CrescentBlade.label>forsaken crescent blade</WoWM_Forsaken_CrescentBlade.label>
+  <WoWM_Forsaken_CrescentBlade.description>Forsaken crescent blade</WoWM_Forsaken_CrescentBlade.description>
+  <WoWM_Forsaken_CrescentBlade.tools.0.label>edge</WoWM_Forsaken_CrescentBlade.tools.0.label>
+
+
+  <!-- Deathguard Greatsword -->
+
+  <WoWM_Forsaken_Greatsword.label>forsaken greatsword</WoWM_Forsaken_Greatsword.label>
+  <WoWM_Forsaken_Greatsword.description>Forsaken greatsword</WoWM_Forsaken_Greatsword.description>
+  <WoWM_Forsaken_Greatsword.tools.0.label>point</WoWM_Forsaken_Greatsword.tools.0.label>
+  <WoWM_Forsaken_Greatsword.tools.1.label>edge</WoWM_Forsaken_Greatsword.tools.1.label>
+
+
+</LanguageData>

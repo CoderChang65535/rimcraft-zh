@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Blood Elf Base -->
+
+  <WoW_BloodElf.label>blood elf</WoW_BloodElf.label>
+  <WoW_BloodElf.description>The Blood Elves or Sin'dorei in Thalassian ("children of the blood"), are a race composed of former high elves who renamed themselves in honor of their people who were killed during the siege of Quel'Thalas by the Scourge during the Third War.</WoW_BloodElf.description>
+  <WoW_BloodElf.tools.0.label>left fist</WoW_BloodElf.tools.0.label>
+  <WoW_BloodElf.tools.1.label>right fist</WoW_BloodElf.tools.1.label>
+  <WoW_BloodElf.tools.2.label>teeth</WoW_BloodElf.tools.2.label>
+  <WoW_BloodElf.tools.3.label>head</WoW_BloodElf.tools.3.label>
+
+
+</LanguageData>

@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MurlocBody.label>鱼人</MurlocBody.label>
+  <MurlocBody.corePart.parts.6.customLabel>左肺</MurlocBody.corePart.parts.6.customLabel>
+  <MurlocBody.corePart.parts.7.customLabel>右肺</MurlocBody.corePart.parts.7.customLabel>
+  <MurlocBody.corePart.parts.8.customLabel>左肾</MurlocBody.corePart.parts.8.customLabel>
+  <MurlocBody.corePart.parts.9.customLabel>右肾</MurlocBody.corePart.parts.9.customLabel>
+  <MurlocBody.corePart.parts.11.parts.0.parts.1.customLabel>左眼</MurlocBody.corePart.parts.11.parts.0.parts.1.customLabel>
+  <MurlocBody.corePart.parts.11.parts.0.parts.2.customLabel>右眼</MurlocBody.corePart.parts.11.parts.0.parts.2.customLabel>
+  <MurlocBody.corePart.parts.11.parts.0.parts.3.customLabel>左耳</MurlocBody.corePart.parts.11.parts.0.parts.3.customLabel>
+  <MurlocBody.corePart.parts.11.parts.0.parts.4.customLabel>右耳</MurlocBody.corePart.parts.11.parts.0.parts.4.customLabel>
+  <MurlocBody.corePart.parts.12.customLabel>左肩</MurlocBody.corePart.parts.12.customLabel>
+  <MurlocBody.corePart.parts.12.parts.0.customLabel>左锁骨</MurlocBody.corePart.parts.12.parts.0.customLabel>
+  <MurlocBody.corePart.parts.12.parts.1.customLabel>左臂</MurlocBody.corePart.parts.12.parts.1.customLabel>
+  <MurlocBody.corePart.parts.12.parts.1.parts.0.customLabel>左肱</MurlocBody.corePart.parts.12.parts.1.parts.0.customLabel>
+  <MurlocBody.corePart.parts.12.parts.1.parts.1.customLabel>左桡骨</MurlocBody.corePart.parts.12.parts.1.parts.1.customLabel>
+  <MurlocBody.corePart.parts.12.parts.1.parts.2.customLabel>左爪</MurlocBody.corePart.parts.12.parts.1.parts.2.customLabel>
+  <MurlocBody.corePart.parts.12.parts.1.parts.2.parts.0.customLabel>左小指</MurlocBody.corePart.parts.12.parts.1.parts.2.parts.0.customLabel>
+  <MurlocBody.corePart.parts.12.parts.1.parts.2.parts.1.customLabel>左无名指</MurlocBody.corePart.parts.12.parts.1.parts.2.parts.1.customLabel>
+  <MurlocBody.corePart.parts.12.parts.1.parts.2.parts.2.customLabel>左中指</MurlocBody.corePart.parts.12.parts.1.parts.2.parts.2.customLabel>
+  <MurlocBody.corePart.parts.12.parts.1.parts.2.parts.3.customLabel>左食指</MurlocBody.corePart.parts.12.parts.1.parts.2.parts.3.customLabel>
+  <MurlocBody.corePart.parts.12.parts.1.parts.2.parts.4.customLabel>左拇指</MurlocBody.corePart.parts.12.parts.1.parts.2.parts.4.customLabel>
+  <MurlocBody.corePart.parts.13.customLabel>右肩</MurlocBody.corePart.parts.13.customLabel>
+  <MurlocBody.corePart.parts.13.parts.0.customLabel>右锁骨</MurlocBody.corePart.parts.13.parts.0.customLabel>
+  <MurlocBody.corePart.parts.13.parts.1.customLabel>右臂</MurlocBody.corePart.parts.13.parts.1.customLabel>
+  <MurlocBody.corePart.parts.13.parts.1.parts.0.customLabel>右肱</MurlocBody.corePart.parts.13.parts.1.parts.0.customLabel>
+  <MurlocBody.corePart.parts.13.parts.1.parts.1.customLabel>右桡骨</MurlocBody.corePart.parts.13.parts.1.parts.1.customLabel>
+  <MurlocBody.corePart.parts.13.parts.1.parts.2.customLabel>右爪</MurlocBody.corePart.parts.13.parts.1.parts.2.customLabel>
+  <MurlocBody.corePart.parts.13.parts.1.parts.2.parts.0.customLabel>右小指</MurlocBody.corePart.parts.13.parts.1.parts.2.parts.0.customLabel>
+  <MurlocBody.corePart.parts.13.parts.1.parts.2.parts.1.customLabel>右无名指</MurlocBody.corePart.parts.13.parts.1.parts.2.parts.1.customLabel>
+  <MurlocBody.corePart.parts.13.parts.1.parts.2.parts.2.customLabel>右中指</MurlocBody.corePart.parts.13.parts.1.parts.2.parts.2.customLabel>
+  <MurlocBody.corePart.parts.13.parts.1.parts.2.parts.3.customLabel>右食指</MurlocBody.corePart.parts.13.parts.1.parts.2.parts.3.customLabel>
+  <MurlocBody.corePart.parts.13.parts.1.parts.2.parts.4.customLabel>右拇指</MurlocBody.corePart.parts.13.parts.1.parts.2.parts.4.customLabel>
+  <MurlocBody.corePart.parts.15.customLabel>左腿</MurlocBody.corePart.parts.15.customLabel>
+  <MurlocBody.corePart.parts.15.parts.0.customLabel>左股骨</MurlocBody.corePart.parts.15.parts.0.customLabel>
+  <MurlocBody.corePart.parts.15.parts.1.customLabel>左胫骨</MurlocBody.corePart.parts.15.parts.1.customLabel>
+  <MurlocBody.corePart.parts.15.parts.2.customLabel>左足</MurlocBody.corePart.parts.15.parts.2.customLabel>
+  <MurlocBody.corePart.parts.15.parts.2.parts.0.customLabel>左小脚趾</MurlocBody.corePart.parts.15.parts.2.parts.0.customLabel>
+  <MurlocBody.corePart.parts.15.parts.2.parts.1.customLabel>左四脚趾</MurlocBody.corePart.parts.15.parts.2.parts.1.customLabel>
+  <MurlocBody.corePart.parts.15.parts.2.parts.2.customLabel>左中脚趾</MurlocBody.corePart.parts.15.parts.2.parts.2.customLabel>
+  <MurlocBody.corePart.parts.15.parts.2.parts.3.customLabel>左二脚趾</MurlocBody.corePart.parts.15.parts.2.parts.3.customLabel>
+  <MurlocBody.corePart.parts.15.parts.2.parts.4.customLabel>左大脚趾</MurlocBody.corePart.parts.15.parts.2.parts.4.customLabel>
+  <MurlocBody.corePart.parts.16.customLabel>右腿</MurlocBody.corePart.parts.16.customLabel>
+  <MurlocBody.corePart.parts.16.parts.0.customLabel>右股骨</MurlocBody.corePart.parts.16.parts.0.customLabel>
+  <MurlocBody.corePart.parts.16.parts.1.customLabel>右胫骨</MurlocBody.corePart.parts.16.parts.1.customLabel>
+  <MurlocBody.corePart.parts.16.parts.2.customLabel>右足</MurlocBody.corePart.parts.16.parts.2.customLabel>
+  <MurlocBody.corePart.parts.16.parts.2.parts.0.customLabel>右小脚趾</MurlocBody.corePart.parts.16.parts.2.parts.0.customLabel>
+  <MurlocBody.corePart.parts.16.parts.2.parts.1.customLabel>右四脚趾</MurlocBody.corePart.parts.16.parts.2.parts.1.customLabel>
+  <MurlocBody.corePart.parts.16.parts.2.parts.2.customLabel>右中脚趾</MurlocBody.corePart.parts.16.parts.2.parts.2.customLabel>
+  <MurlocBody.corePart.parts.16.parts.2.parts.3.customLabel>右二脚趾</MurlocBody.corePart.parts.16.parts.2.parts.3.customLabel>
+  <MurlocBody.corePart.parts.16.parts.2.parts.4.customLabel>右大脚趾</MurlocBody.corePart.parts.16.parts.2.parts.4.customLabel>
+
+
+</LanguageData>

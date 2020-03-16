@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Manasaber Def -->
+
+  <WoW_Animal_Nightsaber.label>nightsaber</WoW_Animal_Nightsaber.label>
+  <WoW_Animal_Nightsaber.labelPlural>nightsabers</WoW_Animal_Nightsaber.labelPlural>
+  <WoW_Animal_Nightsaber.lifeStages.0.label>nightsaber kitten</WoW_Animal_Nightsaber.lifeStages.0.label>
+  <WoW_Animal_Nightsaber.lifeStages.0.labelPlural>nightsaber kittens</WoW_Animal_Nightsaber.lifeStages.0.labelPlural>
+  <WoW_Animal_Nightsaber.lifeStages.0.labelMale>male nightsaber kitten</WoW_Animal_Nightsaber.lifeStages.0.labelMale>
+  <WoW_Animal_Nightsaber.lifeStages.0.labelMalePlural>male nightsaber kittens</WoW_Animal_Nightsaber.lifeStages.0.labelMalePlural>
+  <WoW_Animal_Nightsaber.lifeStages.0.labelFemale>female nightsaber kitten</WoW_Animal_Nightsaber.lifeStages.0.labelFemale>
+  <WoW_Animal_Nightsaber.lifeStages.0.labelFemalePlural>female nightsaber kittens</WoW_Animal_Nightsaber.lifeStages.0.labelFemalePlural>
+  <WoW_Animal_Nightsaber.lifeStages.1.label>nightsaber</WoW_Animal_Nightsaber.lifeStages.1.label>
+  <WoW_Animal_Nightsaber.lifeStages.1.labelPlural>nightsaber</WoW_Animal_Nightsaber.lifeStages.1.labelPlural>
+  <WoW_Animal_Nightsaber.lifeStages.1.labelMale>male nightsaber</WoW_Animal_Nightsaber.lifeStages.1.labelMale>
+  <WoW_Animal_Nightsaber.lifeStages.1.labelMalePlural>male nightsabers</WoW_Animal_Nightsaber.lifeStages.1.labelMalePlural>
+  <WoW_Animal_Nightsaber.lifeStages.1.labelFemale>female nightsaber</WoW_Animal_Nightsaber.lifeStages.1.labelFemale>
+  <WoW_Animal_Nightsaber.lifeStages.1.labelFemalePlural>female nightsabers</WoW_Animal_Nightsaber.lifeStages.1.labelFemalePlural>
+  <WoW_Animal_Nightsaber.lifeStages.2.label>nightsaber</WoW_Animal_Nightsaber.lifeStages.2.label>
+  <WoW_Animal_Nightsaber.lifeStages.2.labelPlural>nightsaber</WoW_Animal_Nightsaber.lifeStages.2.labelPlural>
+  <WoW_Animal_Nightsaber.lifeStages.2.labelMale>male nightsaber</WoW_Animal_Nightsaber.lifeStages.2.labelMale>
+  <WoW_Animal_Nightsaber.lifeStages.2.labelMalePlural>male nightsabers</WoW_Animal_Nightsaber.lifeStages.2.labelMalePlural>
+  <WoW_Animal_Nightsaber.lifeStages.2.labelFemale>female nightsaber</WoW_Animal_Nightsaber.lifeStages.2.labelFemale>
+  <WoW_Animal_Nightsaber.lifeStages.2.labelFemalePlural>female nightsabers</WoW_Animal_Nightsaber.lifeStages.2.labelFemalePlural>
+  <WoW_Animal_Nightsaber.labelMale>male nightsaber</WoW_Animal_Nightsaber.labelMale>
+  <WoW_Animal_Nightsaber.labelMalePlural>male nightsabers</WoW_Animal_Nightsaber.labelMalePlural>
+  <WoW_Animal_Nightsaber.labelFemale>female nightsaber</WoW_Animal_Nightsaber.labelFemale>
+  <WoW_Animal_Nightsaber.labelFemalePlural>female nightsabers</WoW_Animal_Nightsaber.labelFemalePlural>
+
+  <WoW_Animal_Frostsaber.label>frostsaber</WoW_Animal_Frostsaber.label>
+  <WoW_Animal_Frostsaber.labelPlural>frostsabers</WoW_Animal_Frostsaber.labelPlural>
+  <WoW_Animal_Frostsaber.lifeStages.0.label>frostsaber kitten</WoW_Animal_Frostsaber.lifeStages.0.label>
+  <WoW_Animal_Frostsaber.lifeStages.0.labelPlural>frostsaber kittens</WoW_Animal_Frostsaber.lifeStages.0.labelPlural>
+  <WoW_Animal_Frostsaber.lifeStages.0.labelMale>male frostsaber kitten</WoW_Animal_Frostsaber.lifeStages.0.labelMale>
+  <WoW_Animal_Frostsaber.lifeStages.0.labelMalePlural>male frostsaber kittens</WoW_Animal_Frostsaber.lifeStages.0.labelMalePlural>
+  <WoW_Animal_Frostsaber.lifeStages.0.labelFemale>female frostsaber kitten</WoW_Animal_Frostsaber.lifeStages.0.labelFemale>
+  <WoW_Animal_Frostsaber.lifeStages.0.labelFemalePlural>female frostsaber kittens</WoW_Animal_Frostsaber.lifeStages.0.labelFemalePlural>
+  <WoW_Animal_Frostsaber.lifeStages.1.label>frostsaber</WoW_Animal_Frostsaber.lifeStages.1.label>
+  <WoW_Animal_Frostsaber.lifeStages.1.labelPlural>frostsaber</WoW_Animal_Frostsaber.lifeStages.1.labelPlural>
+  <WoW_Animal_Frostsaber.lifeStages.1.labelMale>male frostsaber</WoW_Animal_Frostsaber.lifeStages.1.labelMale>
+  <WoW_Animal_Frostsaber.lifeStages.1.labelMalePlural>male frostsabers</WoW_Animal_Frostsaber.lifeStages.1.labelMalePlural>
+  <WoW_Animal_Frostsaber.lifeStages.1.labelFemale>female frostsaber</WoW_Animal_Frostsaber.lifeStages.1.labelFemale>
+  <WoW_Animal_Frostsaber.lifeStages.1.labelFemalePlural>female frostsabers</WoW_Animal_Frostsaber.lifeStages.1.labelFemalePlural>
+  <WoW_Animal_Frostsaber.lifeStages.2.label>frostsaber</WoW_Animal_Frostsaber.lifeStages.2.label>
+  <WoW_Animal_Frostsaber.lifeStages.2.labelPlural>frostsaber</WoW_Animal_Frostsaber.lifeStages.2.labelPlural>
+  <WoW_Animal_Frostsaber.lifeStages.2.labelMale>male frostsaber</WoW_Animal_Frostsaber.lifeStages.2.labelMale>
+  <WoW_Animal_Frostsaber.lifeStages.2.labelMalePlural>male frostsabers</WoW_Animal_Frostsaber.lifeStages.2.labelMalePlural>
+  <WoW_Animal_Frostsaber.lifeStages.2.labelFemale>female frostsaber</WoW_Animal_Frostsaber.lifeStages.2.labelFemale>
+  <WoW_Animal_Frostsaber.lifeStages.2.labelFemalePlural>female frostsabers</WoW_Animal_Frostsaber.lifeStages.2.labelFemalePlural>
+  <WoW_Animal_Frostsaber.labelMale>male frostsaber</WoW_Animal_Frostsaber.labelMale>
+  <WoW_Animal_Frostsaber.labelMalePlural>male frostsabers</WoW_Animal_Frostsaber.labelMalePlural>
+  <WoW_Animal_Frostsaber.labelFemale>female frostsaber</WoW_Animal_Frostsaber.labelFemale>
+  <WoW_Animal_Frostsaber.labelFemalePlural>female frostsabers</WoW_Animal_Frostsaber.labelFemalePlural>
+
+  <WoW_Animal_Manasaber.label>manasaber</WoW_Animal_Manasaber.label>
+  <WoW_Animal_Manasaber.labelPlural>manasabers</WoW_Animal_Manasaber.labelPlural>
+  <WoW_Animal_Manasaber.lifeStages.0.label>frostsaber kitten</WoW_Animal_Manasaber.lifeStages.0.label>
+  <WoW_Animal_Manasaber.lifeStages.0.labelPlural>frostsaber kittens</WoW_Animal_Manasaber.lifeStages.0.labelPlural>
+  <WoW_Animal_Manasaber.lifeStages.0.labelMale>male frostsaber kitten</WoW_Animal_Manasaber.lifeStages.0.labelMale>
+  <WoW_Animal_Manasaber.lifeStages.0.labelMalePlural>male frostsaber kittens</WoW_Animal_Manasaber.lifeStages.0.labelMalePlural>
+  <WoW_Animal_Manasaber.lifeStages.0.labelFemale>female frostsaber kitten</WoW_Animal_Manasaber.lifeStages.0.labelFemale>
+  <WoW_Animal_Manasaber.lifeStages.0.labelFemalePlural>female frostsaber kittens</WoW_Animal_Manasaber.lifeStages.0.labelFemalePlural>
+  <WoW_Animal_Manasaber.lifeStages.1.label>manasaber</WoW_Animal_Manasaber.lifeStages.1.label>
+  <WoW_Animal_Manasaber.lifeStages.1.labelPlural>manasaber</WoW_Animal_Manasaber.lifeStages.1.labelPlural>
+  <WoW_Animal_Manasaber.lifeStages.1.labelMale>male manasaber</WoW_Animal_Manasaber.lifeStages.1.labelMale>
+  <WoW_Animal_Manasaber.lifeStages.1.labelMalePlural>male manasabers</WoW_Animal_Manasaber.lifeStages.1.labelMalePlural>
+  <WoW_Animal_Manasaber.lifeStages.1.labelFemale>female manasaber</WoW_Animal_Manasaber.lifeStages.1.labelFemale>
+  <WoW_Animal_Manasaber.lifeStages.1.labelFemalePlural>female manasabers</WoW_Animal_Manasaber.lifeStages.1.labelFemalePlural>
+  <WoW_Animal_Manasaber.lifeStages.2.label>manasaber</WoW_Animal_Manasaber.lifeStages.2.label>
+  <WoW_Animal_Manasaber.lifeStages.2.labelPlural>manasaber</WoW_Animal_Manasaber.lifeStages.2.labelPlural>
+  <WoW_Animal_Manasaber.lifeStages.2.labelMale>male manasaber</WoW_Animal_Manasaber.lifeStages.2.labelMale>
+  <WoW_Animal_Manasaber.lifeStages.2.labelMalePlural>male manasabers</WoW_Animal_Manasaber.lifeStages.2.labelMalePlural>
+  <WoW_Animal_Manasaber.lifeStages.2.labelFemale>female manasaber</WoW_Animal_Manasaber.lifeStages.2.labelFemale>
+  <WoW_Animal_Manasaber.lifeStages.2.labelFemalePlural>female manasabers</WoW_Animal_Manasaber.lifeStages.2.labelFemalePlural>
+  <WoW_Animal_Manasaber.labelMale>male manasaber</WoW_Animal_Manasaber.labelMale>
+  <WoW_Animal_Manasaber.labelMalePlural>male manasabers</WoW_Animal_Manasaber.labelMalePlural>
+  <WoW_Animal_Manasaber.labelFemale>female manasaber</WoW_Animal_Manasaber.labelFemale>
+  <WoW_Animal_Manasaber.labelFemalePlural>female manasabers</WoW_Animal_Manasaber.labelFemalePlural>
+
+
+</LanguageData>

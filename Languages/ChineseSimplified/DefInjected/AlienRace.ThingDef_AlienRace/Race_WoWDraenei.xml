@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- WoW Draenei Base -->
+
+  <WoW_Draenei.label>Draenei</WoW_Draenei.label>
+  <WoW_Draenei.description>The draenei (meaning Exiled Ones in their own tongue) are a faction of uncorrupted eredar who fled their homeworld of Argus to escape the corruption of the demonic Burning Legion.</WoW_Draenei.description>
+  <WoW_Draenei.tools.0.label>left fist</WoW_Draenei.tools.0.label>
+  <WoW_Draenei.tools.1.label>right fist</WoW_Draenei.tools.1.label>
+  <WoW_Draenei.tools.2.label>teeth</WoW_Draenei.tools.2.label>
+  <WoW_Draenei.tools.3.label>head</WoW_Draenei.tools.3.label>
+  <WoW_Draenei.tools.4.label>left fist</WoW_Draenei.tools.4.label>
+  <WoW_Draenei.tools.5.label>right fist</WoW_Draenei.tools.5.label>
+  <WoW_Draenei.tools.6.label>teeth</WoW_Draenei.tools.6.label>
+  <WoW_Draenei.tools.7.label>head</WoW_Draenei.tools.7.label>
+
+
+</LanguageData>

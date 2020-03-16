@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <WoW_Arrow_TierOne.label>recurve bow arrow</WoW_Arrow_TierOne.label>
+  <WoW_Arrow_TierTwo.label>recurve bow arrow</WoW_Arrow_TierTwo.label>
+
+
+  <!-- 7th Legion Longbow -->
+
+  <WoWR_Alliance_Longbow.label>stormwind longbow</WoWR_Alliance_Longbow.label>
+  <WoWR_Alliance_Longbow.description>Stormwind longbow</WoWR_Alliance_Longbow.description>
+  <WoWR_Alliance_Longbow.tools.0.label>limb</WoWR_Alliance_Longbow.tools.0.label>
+
+
+  <!-- Sentinel's Recurve Bow -->
+
+  <WoWR_NightElf_RecurveBow.label>kaldorei recurve bow</WoWR_NightElf_RecurveBow.label>
+  <WoWR_NightElf_RecurveBow.description>Kaldorei recurve bow</WoWR_NightElf_RecurveBow.description>
+  <WoWR_NightElf_RecurveBow.tools.0.label>limb</WoWR_NightElf_RecurveBow.tools.0.label>
+
+
+  <!-- Thalassian Bow -->
+
+  <WoWR_BloodElf_Bow.label>Sin'dorei bow</WoWR_BloodElf_Bow.label>
+  <WoWR_BloodElf_Bow.description>Sin'dorei bow</WoWR_BloodElf_Bow.description>
+  <WoWR_BloodElf_Bow.tools.0.label>limb</WoWR_BloodElf_Bow.tools.0.label>
+
+
+  <!-- Skyfire Hawk Bow -->
+
+  <WoWR_BloodElf_HawkBow.label>sin'dorei hawkbow</WoWR_BloodElf_HawkBow.label>
+  <WoWR_BloodElf_HawkBow.description>Sin'dorei hawkbow</WoWR_BloodElf_HawkBow.description>
+  <WoWR_BloodElf_HawkBow.tools.0.label>limb</WoWR_BloodElf_HawkBow.tools.0.label>
+
+
+  <!-- T1 -->
+
+  <WoWR_HighElf_Longbow.label>silver covenant longbow</WoWR_HighElf_Longbow.label>
+  <WoWR_HighElf_Longbow.description>Silver covenant longbow</WoWR_HighElf_Longbow.description>
+  <WoWR_HighElf_Longbow.tools.0.label>limb</WoWR_HighElf_Longbow.tools.0.label>
+
+
+  <!-- Furious Gladiator Recurve -->
+
+  <WoWR_HighElf_RecurveBow.label>silver covenant recurve bow</WoWR_HighElf_RecurveBow.label>
+  <WoWR_HighElf_RecurveBow.description>Silver covenant recurve bow</WoWR_HighElf_RecurveBow.description>
+  <WoWR_HighElf_RecurveBow.tools.0.label>limb</WoWR_HighElf_RecurveBow.tools.0.label>
+
+
+  <!-- Dark Ranger Bow -->
+
+  <WoWR_Forsaken_DarkBow.label>forsaken darkbow</WoWR_Forsaken_DarkBow.label>
+  <WoWR_Forsaken_DarkBow.description>Forsaken darkbow. Often employed by the fallen elf rangers of the Forsaken.</WoWR_Forsaken_DarkBow.description>
+  <WoWR_Forsaken_DarkBow.tools.0.label>limb</WoWR_Forsaken_DarkBow.tools.0.label>
+
+
+  <!-- T1 -->
+
+  <WoWR_Draenei__Crossbow.label>draenic crossbow</WoWR_Draenei__Crossbow.label>
+  <WoWR_Draenei__Crossbow.description>Draenic crossbow</WoWR_Draenei__Crossbow.description>
+  <WoWR_Draenei__Crossbow.tools.0.label>limb</WoWR_Draenei__Crossbow.tools.0.label>
+
+
+  <!-- T2 -->
+
+  <WoWR_Draenei_Longbow.label>draenic longbow</WoWR_Draenei_Longbow.label>
+  <WoWR_Draenei_Longbow.description>Draenei longbow</WoWR_Draenei_Longbow.description>
+  <WoWR_Draenei_Longbow.tools.0.label>limb</WoWR_Draenei_Longbow.tools.0.label>
+
+
+</LanguageData>

@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Child backstories -->
+
+  <WoW_BloodElf_Backstory_Child_1.title>病孩</WoW_BloodElf_Backstory_Child_1.title>
+  <WoW_BloodElf_Backstory_Child_1.baseDescription>[PAWN_nameDef]在他年轻时就迷上了奥术能量。尽管他能够避免沉迷其中，但他比其他人更渴望成瘾性药物。</WoW_BloodElf_Backstory_Child_1.baseDescription>
+
+  <WoW_BloodElf_Backstory_Child_2.title>侍从</WoW_BloodElf_Backstory_Child_2.title>
+  <WoW_BloodElf_Backstory_Child_2.baseDescription>[PAWN_nameDef]是一位血骑士的侍从，尚未通过[PAWN_possessive]的第一次试练。尽管在战斗中经验不足，但他们已经开始学习血骑士的能力，这些能力世代相传。</WoW_BloodElf_Backstory_Child_2.baseDescription>
+
+  <WoW_BloodElf_Backstory_Child_3.title>小流氓</WoW_BloodElf_Backstory_Child_3.title>
+  <WoW_BloodElf_Backstory_Child_3.baseDescription>童年时，[PAWN_nameDef]是银月城街头的麻烦制造者。尽管[PAWN_possessive]因此错过了童年时的生活中的美好时光，但他擅长于欺骗和利用社交环境来谋取利益。</WoW_BloodElf_Backstory_Child_3.baseDescription>
+
+  <WoW_BloodElf_Backstory_Child_4.title>难民</WoW_BloodElf_Backstory_Child_4.title>
+  <WoW_BloodElf_Backstory_Child_4.baseDescription>[PAWN_nameDef]小时候经历过阿尔萨斯的入侵，并失去[PAWN_possessive]的一切。[PAWN_possessive]和一些同样遭难的人逃离了银月城，最终他们到达了逐日岛并在那里定居。在[PAWN_possessive]留在岛上时也无法忘记那天的恐怖，[PAWN_pronoun]与当地动物相处融洽，并和山猫和法力飞龙成为了朋友。</WoW_BloodElf_Backstory_Child_4.baseDescription>
+
+
+  <!-- Adult backstories -->
+
+  <WoW_BloodElf_Backstory_Adult_1.title>血骑士新兵</WoW_BloodElf_Backstory_Adult_1.title>
+  <WoW_BloodElf_Backstory_Adult_1.baseDescription>[PAWN_nameDef]是一名已经通过了试练的血骑士新兵。 尽管不如一名经验丰富的血骑士全面，[PAWN_nameDef]还是掌握了基本的军事战术、战斗技巧和圣光之道。</WoW_BloodElf_Backstory_Adult_1.baseDescription>
+
+  <WoW_BloodElf_Backstory_Adult_2.title>mechanic</WoW_BloodElf_Backstory_Adult_2.title>
+  <WoW_BloodElf_Backstory_Adult_2.baseDescription>While [PAWN_nameDef] couldn't make the cut to become a guardian of Silvermoon, [PAWN_pronoun] decided to help the cause of Silvermoon's defense by spending his life creating construct golems to bolster the defense of his home.</WoW_BloodElf_Backstory_Adult_2.baseDescription>
+
+  <WoW_BloodElf_Backstory_Adult_3.title>blacksmith</WoW_BloodElf_Backstory_Adult_3.title>
+  <WoW_BloodElf_Backstory_Adult_3.baseDescription>[PAWN_nameDef] didn't have much a taste for the frontlines, let alone being a guard for Silvermoon. However that didn't stop them from having an urge to benefit his nation, in which [PAWN_pronoun] decided to become a blacksmith to arm [PAWN_possessive]fellow blood elves. [PAWN_nameDef] is adept with the use of [PAWN_possessive] hammer both in crafting fine armor as well as occasionally using it to bash someone if the situation arises.</WoW_BloodElf_Backstory_Adult_3.baseDescription>
+
+  <WoW_BloodElf_Backstory_Adult_4.title>handler</WoW_BloodElf_Backstory_Adult_4.title>
+  <WoW_BloodElf_Backstory_Adult_4.baseDescription>[PAWN_nameDef] wasn't a big fan of the city life in Silvermoon and decided to move outside of the city to Eversong Woods when [PAWN_pronoun] reached adolescence. After moving [PAWN_nameDef] encountered a herd of friendly hawkstriders and shortly after befriending them, decided to settle nearby and devote himself to the creatures. [PAWN_pronoun] eventually ended up creating a farm to help raise hawkstriders, in which [PAWN_pronoun] bred them and let other like minded blood elves adopt them for their own.</WoW_BloodElf_Backstory_Adult_4.baseDescription>
+
+  <WoW_BloodElf_Backstory_Adult_5.title>war veteran</WoW_BloodElf_Backstory_Adult_5.title>
+  <WoW_BloodElf_Backstory_Adult_5.baseDescription>[PAWN_nameDef] was a veteran of the ancient troll wars which occured roughly 2800 years ago back when [PAWN_pronoun] was still considered a high elf. [PAWN_nameDef] was a great fighter during the ancient war and slew many a troll to protect [PAWN_possessive] homeland. And while [PAWN_pronoun] survived the war, the emotional scars of [PAWN_possessive] loss many a comrade never left [PAWN_possessive] mind. Often [PAWN_nameDef] their days in a local pub trying to forget the ghosts of the past and drink away the past trauma.</WoW_BloodElf_Backstory_Adult_5.baseDescription>
+
+  <WoW_BloodElf_Backstory_Adult_6.title>noble</WoW_BloodElf_Backstory_Adult_6.title>
+  <WoW_BloodElf_Backstory_Adult_6.baseDescription>[PAWN_nameDef] is one of the few remaining Sindorei nobles of the house of Sunstrider. While the house's history is rich, many look down upon them due to the betrayal of Kael'Thas. In spite of being a social outcast because of his background, [PAWN_nameDef] is well versed in the ways of social etiquette and knowledge due to [PAWN_possessive] higher education. However in spite of [PAWN_nameDef] being adept at social matters, [PAWN_pronoun] he can come off as a bit abrasive to some due to others looking down upon [PAWN_possessive].</WoW_BloodElf_Backstory_Adult_6.baseDescription>
+
+  <WoW_BloodElf_Backstory_Adult_7.title>musician</WoW_BloodElf_Backstory_Adult_7.title>
+  <WoW_BloodElf_Backstory_Adult_7.baseDescription>[PAWN_nameDef] Grew up in a well off part of Silvermoon in which he could focus on the more luxurious aspects of life. [PAWN_nameDef] had always been one to favor his voice as a weapon rather than the blade, often spending his evenings entertaining fellow upper class elves at various local clubs.</WoW_BloodElf_Backstory_Adult_7.baseDescription>
+
+  <WoW_BloodElf_Backstory_Adult_8.title>tailor</WoW_BloodElf_Backstory_Adult_8.title>
+  <WoW_BloodElf_Backstory_Adult_8.baseDescription>[PAWN_nameDef] The blood elf tailors of Silvermoon use slave leper gnomes for work.</WoW_BloodElf_Backstory_Adult_8.baseDescription>
+
+  <WoW_BloodElf_Backstory_Adult_9.title>tamer</WoW_BloodElf_Backstory_Adult_9.title>
+  <WoW_BloodElf_Backstory_Adult_9.baseDescription>[PAWN_nameDef] mana wyrm tamer of sunstrider isle</WoW_BloodElf_Backstory_Adult_9.baseDescription>
+
+
+</LanguageData>

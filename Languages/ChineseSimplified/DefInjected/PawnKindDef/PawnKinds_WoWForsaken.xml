@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Forsaken Civilians -->
+
+  <WoW_Forsaken_Villager.label>forsaken villager</WoW_Forsaken_Villager.label>
+  <WoW_Forsaken_Villager.labelPlural>forsaken villagers</WoW_Forsaken_Villager.labelPlural>
+  <WoW_Forsaken_Villager.labelMale>male forsaken villager</WoW_Forsaken_Villager.labelMale>
+  <WoW_Forsaken_Villager.labelMalePlural>male forsaken villagers</WoW_Forsaken_Villager.labelMalePlural>
+  <WoW_Forsaken_Villager.labelFemale>female forsaken villager</WoW_Forsaken_Villager.labelFemale>
+  <WoW_Forsaken_Villager.labelFemalePlural>female forsaken villagers</WoW_Forsaken_Villager.labelFemalePlural>
+
+  <WoW_Forsaken_Villager1.label>forsaken high elf villager</WoW_Forsaken_Villager1.label>
+  <WoW_Forsaken_Villager1.labelPlural>forsaken high elf villagers</WoW_Forsaken_Villager1.labelPlural>
+  <WoW_Forsaken_Villager1.labelMale>male forsaken high elf villager</WoW_Forsaken_Villager1.labelMale>
+  <WoW_Forsaken_Villager1.labelMalePlural>male forsaken high elf villagers</WoW_Forsaken_Villager1.labelMalePlural>
+  <WoW_Forsaken_Villager1.labelFemale>female forsaken high elf villager</WoW_Forsaken_Villager1.labelFemale>
+  <WoW_Forsaken_Villager1.labelFemalePlural>female forsaken high elf villagers</WoW_Forsaken_Villager1.labelFemalePlural>
+
+  <WoW_Forsaken_Villager2.label>forsaken night elf villager</WoW_Forsaken_Villager2.label>
+  <WoW_Forsaken_Villager2.labelPlural>forsaken night elf villagers</WoW_Forsaken_Villager2.labelPlural>
+  <WoW_Forsaken_Villager2.labelMale>male forsaken night elf villager</WoW_Forsaken_Villager2.labelMale>
+  <WoW_Forsaken_Villager2.labelMalePlural>male forsaken night elf villagers</WoW_Forsaken_Villager2.labelMalePlural>
+  <WoW_Forsaken_Villager2.labelFemale>female forsaken night elf villager</WoW_Forsaken_Villager2.labelFemale>
+  <WoW_Forsaken_Villager2.labelFemalePlural>female forsaken night elf villagers</WoW_Forsaken_Villager2.labelFemalePlural>
+
+  <WoW_Forsaken_Trader.label>forsaken trader</WoW_Forsaken_Trader.label>
+  <WoW_Forsaken_Trader.labelPlural>forsaken traders</WoW_Forsaken_Trader.labelPlural>
+  <WoW_Forsaken_Trader.labelMale>male forsaken trader</WoW_Forsaken_Trader.labelMale>
+  <WoW_Forsaken_Trader.labelMalePlural>male forsaken traders</WoW_Forsaken_Trader.labelMalePlural>
+  <WoW_Forsaken_Trader.labelFemale>female forsaken trader</WoW_Forsaken_Trader.labelFemale>
+  <WoW_Forsaken_Trader.labelFemalePlural>female forsaken traders</WoW_Forsaken_Trader.labelFemalePlural>
+
+  <WoW_Forsaken_Slave.label>forsaken slave</WoW_Forsaken_Slave.label>
+  <WoW_Forsaken_Slave.labelPlural>forsaken slaves</WoW_Forsaken_Slave.labelPlural>
+  <WoW_Forsaken_Slave.labelMale>male forsaken slave</WoW_Forsaken_Slave.labelMale>
+  <WoW_Forsaken_Slave.labelMalePlural>male forsaken slaves</WoW_Forsaken_Slave.labelMalePlural>
+  <WoW_Forsaken_Slave.labelFemale>female forsaken slave</WoW_Forsaken_Slave.labelFemale>
+  <WoW_Forsaken_Slave.labelFemalePlural>female forsaken slaves</WoW_Forsaken_Slave.labelFemalePlural>
+
+
+  <!-- Forsaken Military -->
+
+  <WoW_Forsaken_Defiler.label>forsaken defiler</WoW_Forsaken_Defiler.label>
+  <WoW_Forsaken_Defiler.labelPlural>forsaken defilers</WoW_Forsaken_Defiler.labelPlural>
+  <WoW_Forsaken_Defiler.labelMale>male forsaken defiler</WoW_Forsaken_Defiler.labelMale>
+  <WoW_Forsaken_Defiler.labelMalePlural>male forsaken defilers</WoW_Forsaken_Defiler.labelMalePlural>
+  <WoW_Forsaken_Defiler.labelFemale>female forsaken defiler</WoW_Forsaken_Defiler.labelFemale>
+  <WoW_Forsaken_Defiler.labelFemalePlural>female forsaken defilers</WoW_Forsaken_Defiler.labelFemalePlural>
+
+  <WoW_Forsaken_Sadist.label>forsaken sadist</WoW_Forsaken_Sadist.label>
+  <WoW_Forsaken_Sadist.labelPlural>forsaken sadists</WoW_Forsaken_Sadist.labelPlural>
+  <WoW_Forsaken_Sadist.labelMale>male forsaken sadist</WoW_Forsaken_Sadist.labelMale>
+  <WoW_Forsaken_Sadist.labelMalePlural>male forsaken sadists</WoW_Forsaken_Sadist.labelMalePlural>
+  <WoW_Forsaken_Sadist.labelFemale>female forsaken sadist</WoW_Forsaken_Sadist.labelFemale>
+  <WoW_Forsaken_Sadist.labelFemalePlural>female forsaken sadists</WoW_Forsaken_Sadist.labelFemalePlural>
+
+  <WoW_Forsaken_Plaguebringer.label>forsaken plaguebringer</WoW_Forsaken_Plaguebringer.label>
+  <WoW_Forsaken_Plaguebringer.labelPlural>forsaken plaguebringers</WoW_Forsaken_Plaguebringer.labelPlural>
+  <WoW_Forsaken_Plaguebringer.labelMale>male forsaken plaguebringer</WoW_Forsaken_Plaguebringer.labelMale>
+  <WoW_Forsaken_Plaguebringer.labelMalePlural>male forsaken plaguebringers</WoW_Forsaken_Plaguebringer.labelMalePlural>
+  <WoW_Forsaken_Plaguebringer.labelFemale>female forsaken plaguebringer</WoW_Forsaken_Plaguebringer.labelFemale>
+  <WoW_Forsaken_Plaguebringer.labelFemalePlural>female forsaken plaguebringers</WoW_Forsaken_Plaguebringer.labelFemalePlural>
+
+  <WoW_Forsaken_Deathstalker.label>forsaken deathstalker</WoW_Forsaken_Deathstalker.label>
+  <WoW_Forsaken_Deathstalker.labelPlural>forsaken deathstalkers</WoW_Forsaken_Deathstalker.labelPlural>
+  <WoW_Forsaken_Deathstalker.labelMale>male forsaken deathstalker</WoW_Forsaken_Deathstalker.labelMale>
+  <WoW_Forsaken_Deathstalker.labelMalePlural>male forsaken deathstalkers</WoW_Forsaken_Deathstalker.labelMalePlural>
+  <WoW_Forsaken_Deathstalker.labelFemale>female forsaken deathstalker</WoW_Forsaken_Deathstalker.labelFemale>
+  <WoW_Forsaken_Deathstalker.labelFemalePlural>female forsaken deathstalkers</WoW_Forsaken_Deathstalker.labelFemalePlural>
+
+  <WoW_Forsaken_DarkrangerNE.label>forsaken dark ranger</WoW_Forsaken_DarkrangerNE.label>
+  <WoW_Forsaken_DarkrangerNE.labelPlural>forsaken dark rangers</WoW_Forsaken_DarkrangerNE.labelPlural>
+  <WoW_Forsaken_DarkrangerNE.labelMale>male forsaken dark ranger</WoW_Forsaken_DarkrangerNE.labelMale>
+  <WoW_Forsaken_DarkrangerNE.labelMalePlural>male forsaken dark rangers</WoW_Forsaken_DarkrangerNE.labelMalePlural>
+  <WoW_Forsaken_DarkrangerNE.labelFemale>female forsaken dark ranger</WoW_Forsaken_DarkrangerNE.labelFemale>
+  <WoW_Forsaken_DarkrangerNE.labelFemalePlural>female forsaken dark rangers</WoW_Forsaken_DarkrangerNE.labelFemalePlural>
+
+  <WoW_Forsaken_DarkrangerHE.label>forsaken dark ranger</WoW_Forsaken_DarkrangerHE.label>
+  <WoW_Forsaken_DarkrangerHE.labelPlural>forsaken dark rangers</WoW_Forsaken_DarkrangerHE.labelPlural>
+  <WoW_Forsaken_DarkrangerHE.labelMale>male forsaken dark ranger</WoW_Forsaken_DarkrangerHE.labelMale>
+  <WoW_Forsaken_DarkrangerHE.labelMalePlural>male forsaken dark rangers</WoW_Forsaken_DarkrangerHE.labelMalePlural>
+  <WoW_Forsaken_DarkrangerHE.labelFemale>female forsaken dark ranger</WoW_Forsaken_DarkrangerHE.labelFemale>
+  <WoW_Forsaken_DarkrangerHE.labelFemalePlural>female forsaken dark rangers</WoW_Forsaken_DarkrangerHE.labelFemalePlural>
+
+  <WoW_Forsaken_Dreadguard.label>forsaken dreadguard</WoW_Forsaken_Dreadguard.label>
+  <WoW_Forsaken_Dreadguard.labelPlural>forsaken dreadguards</WoW_Forsaken_Dreadguard.labelPlural>
+  <WoW_Forsaken_Dreadguard.labelMale>male forsaken dreadguard</WoW_Forsaken_Dreadguard.labelMale>
+  <WoW_Forsaken_Dreadguard.labelMalePlural>male forsaken dreadguards</WoW_Forsaken_Dreadguard.labelMalePlural>
+  <WoW_Forsaken_Dreadguard.labelFemale>female forsaken dreadguard</WoW_Forsaken_Dreadguard.labelFemale>
+  <WoW_Forsaken_Dreadguard.labelFemalePlural>female forsaken dreadguards</WoW_Forsaken_Dreadguard.labelFemalePlural>
+
+
+</LanguageData>

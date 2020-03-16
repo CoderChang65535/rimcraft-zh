@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- High Elf Base -->
+
+  <WoW_HighElf.label>high elf</WoW_HighElf.label>
+  <WoW_HighElf.description>The High Elves, or Quel'dorei ("children of noble birth"), are a race descended from the Highborne night elves who left Kalimdor and settled in the Eastern Kingdoms, founding Quel'Thalas. The high elves were once a significant force on the continent, but in recent times their numbers have been dramatically reduced: almost 90% of their population in Quel'Thalas was slaughtered during the Third War.</WoW_HighElf.description>
+  <WoW_HighElf.tools.0.label>left fist</WoW_HighElf.tools.0.label>
+  <WoW_HighElf.tools.1.label>right fist</WoW_HighElf.tools.1.label>
+  <WoW_HighElf.tools.2.label>teeth</WoW_HighElf.tools.2.label>
+  <WoW_HighElf.tools.3.label>head</WoW_HighElf.tools.3.label>
+
+
+</LanguageData>

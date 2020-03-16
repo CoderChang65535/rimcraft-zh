@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Night Elf Civilians -->
+
+  <WoW_NightElf_Villager.label>night elf villager</WoW_NightElf_Villager.label>
+  <WoW_NightElf_Villager.labelPlural>night elf villagers</WoW_NightElf_Villager.labelPlural>
+  <WoW_NightElf_Villager.labelMale>male night elf villager</WoW_NightElf_Villager.labelMale>
+  <WoW_NightElf_Villager.labelMalePlural>male night elf villagers</WoW_NightElf_Villager.labelMalePlural>
+  <WoW_NightElf_Villager.labelFemale>female night elf villager</WoW_NightElf_Villager.labelFemale>
+  <WoW_NightElf_Villager.labelFemalePlural>female night elf villagers</WoW_NightElf_Villager.labelFemalePlural>
+
+  <WoW_NightElf_Trader.label>night elf trader</WoW_NightElf_Trader.label>
+  <WoW_NightElf_Trader.labelPlural>night elf traders</WoW_NightElf_Trader.labelPlural>
+  <WoW_NightElf_Trader.labelMale>male night elf trader</WoW_NightElf_Trader.labelMale>
+  <WoW_NightElf_Trader.labelMalePlural>male night elf traders</WoW_NightElf_Trader.labelMalePlural>
+  <WoW_NightElf_Trader.labelFemale>female night elf trader</WoW_NightElf_Trader.labelFemale>
+  <WoW_NightElf_Trader.labelFemalePlural>female night elf traders</WoW_NightElf_Trader.labelFemalePlural>
+
+  <WoW_NightElf_Slave.label>night elf slave</WoW_NightElf_Slave.label>
+  <WoW_NightElf_Slave.labelPlural>night elf slaves</WoW_NightElf_Slave.labelPlural>
+  <WoW_NightElf_Slave.labelMale>male night elf slave</WoW_NightElf_Slave.labelMale>
+  <WoW_NightElf_Slave.labelMalePlural>male night elf slaves</WoW_NightElf_Slave.labelMalePlural>
+  <WoW_NightElf_Slave.labelFemale>female night elf slave</WoW_NightElf_Slave.labelFemale>
+  <WoW_NightElf_Slave.labelFemalePlural>female night elf slaves</WoW_NightElf_Slave.labelFemalePlural>
+
+
+  <!-- Night Elf Military -->
+
+  <WoW_NightElf_Guard.label>night elf guard</WoW_NightElf_Guard.label>
+  <WoW_NightElf_Guard.labelPlural>night elf guards</WoW_NightElf_Guard.labelPlural>
+  <WoW_NightElf_Guard.labelMale>male night elf guard</WoW_NightElf_Guard.labelMale>
+  <WoW_NightElf_Guard.labelMalePlural>male night elf guards</WoW_NightElf_Guard.labelMalePlural>
+  <WoW_NightElf_Guard.labelFemale>female night elf guard</WoW_NightElf_Guard.labelFemale>
+  <WoW_NightElf_Guard.labelFemalePlural>female night elf guards</WoW_NightElf_Guard.labelFemalePlural>
+
+  <WoW_NightElf_Outrunner.label>night elf outrunner</WoW_NightElf_Outrunner.label>
+  <WoW_NightElf_Outrunner.labelPlural>night elf outrunners</WoW_NightElf_Outrunner.labelPlural>
+  <WoW_NightElf_Outrunner.labelMale>male night elf outrunner</WoW_NightElf_Outrunner.labelMale>
+  <WoW_NightElf_Outrunner.labelMalePlural>male night elf outrunners</WoW_NightElf_Outrunner.labelMalePlural>
+  <WoW_NightElf_Outrunner.labelFemale>female night elf outrunner</WoW_NightElf_Outrunner.labelFemale>
+  <WoW_NightElf_Outrunner.labelFemalePlural>female night elf outrunners</WoW_NightElf_Outrunner.labelFemalePlural>
+
+  <WoW_NightElf_Archer.label>night elf archer</WoW_NightElf_Archer.label>
+  <WoW_NightElf_Archer.labelPlural>night elf archers</WoW_NightElf_Archer.labelPlural>
+  <WoW_NightElf_Archer.labelMale>male night elf archer</WoW_NightElf_Archer.labelMale>
+  <WoW_NightElf_Archer.labelMalePlural>male night elf archers</WoW_NightElf_Archer.labelMalePlural>
+  <WoW_NightElf_Archer.labelFemale>female night elf archer</WoW_NightElf_Archer.labelFemale>
+  <WoW_NightElf_Archer.labelFemalePlural>female night elf archers</WoW_NightElf_Archer.labelFemalePlural>
+
+  <WoW_NightElf_Sentinel.label>night elf sentinel</WoW_NightElf_Sentinel.label>
+  <WoW_NightElf_Sentinel.labelPlural>night elf sentinels</WoW_NightElf_Sentinel.labelPlural>
+  <WoW_NightElf_Sentinel.labelMale>male night elf sentinel</WoW_NightElf_Sentinel.labelMale>
+  <WoW_NightElf_Sentinel.labelMalePlural>male night elf sentinels</WoW_NightElf_Sentinel.labelMalePlural>
+  <WoW_NightElf_Sentinel.labelFemale>female night elf sentinel</WoW_NightElf_Sentinel.labelFemale>
+  <WoW_NightElf_Sentinel.labelFemalePlural>female night elf sentinels</WoW_NightElf_Sentinel.labelFemalePlural>
+
+  <WoW_NightElf_Hunter.label>night elf hunter</WoW_NightElf_Hunter.label>
+  <WoW_NightElf_Hunter.labelPlural>night elf hunters</WoW_NightElf_Hunter.labelPlural>
+  <WoW_NightElf_Hunter.labelMale>male night elf hunter</WoW_NightElf_Hunter.labelMale>
+  <WoW_NightElf_Hunter.labelMalePlural>male night elf hunters</WoW_NightElf_Hunter.labelMalePlural>
+  <WoW_NightElf_Hunter.labelFemale>female night elf hunter</WoW_NightElf_Hunter.labelFemale>
+  <WoW_NightElf_Hunter.labelFemalePlural>female night elf hunters</WoW_NightElf_Hunter.labelFemalePlural>
+
+  <WoW_NightElf_Watcher.label>night elf watcher</WoW_NightElf_Watcher.label>
+  <WoW_NightElf_Watcher.labelPlural>night elf watchers</WoW_NightElf_Watcher.labelPlural>
+  <WoW_NightElf_Watcher.labelMale>male night elf watcher</WoW_NightElf_Watcher.labelMale>
+  <WoW_NightElf_Watcher.labelMalePlural>male night elf watchers</WoW_NightElf_Watcher.labelMalePlural>
+  <WoW_NightElf_Watcher.labelFemale>female night elf watcher</WoW_NightElf_Watcher.labelFemale>
+  <WoW_NightElf_Watcher.labelFemalePlural>female night elf watchers</WoW_NightElf_Watcher.labelFemalePlural>
+
+  <WoW_NightElf_EliteSentinel.label>night elf elite sentinel</WoW_NightElf_EliteSentinel.label>
+  <WoW_NightElf_EliteSentinel.labelPlural>night elf elite sentinels</WoW_NightElf_EliteSentinel.labelPlural>
+  <WoW_NightElf_EliteSentinel.labelMale>male night elf elite sentinel</WoW_NightElf_EliteSentinel.labelMale>
+  <WoW_NightElf_EliteSentinel.labelMalePlural>male night elf elite sentinels</WoW_NightElf_EliteSentinel.labelMalePlural>
+  <WoW_NightElf_EliteSentinel.labelFemale>female night elf elite sentinel</WoW_NightElf_EliteSentinel.labelFemale>
+  <WoW_NightElf_EliteSentinel.labelFemalePlural>female night elf elite sentinels</WoW_NightElf_EliteSentinel.labelFemalePlural>
+
+
+</LanguageData>

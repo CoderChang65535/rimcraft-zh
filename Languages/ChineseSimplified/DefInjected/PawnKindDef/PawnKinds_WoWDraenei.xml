@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Draenei Civilians -->
+
+  <WoW_Draenei_Neophyte.label>draenei neophyte</WoW_Draenei_Neophyte.label>
+  <WoW_Draenei_Neophyte.labelPlural>draenei neophytes</WoW_Draenei_Neophyte.labelPlural>
+  <WoW_Draenei_Neophyte.labelMale>male draenei neophyte</WoW_Draenei_Neophyte.labelMale>
+  <WoW_Draenei_Neophyte.labelMalePlural>male draenei neophytes</WoW_Draenei_Neophyte.labelMalePlural>
+  <WoW_Draenei_Neophyte.labelFemale>female draenei neophyte</WoW_Draenei_Neophyte.labelFemale>
+  <WoW_Draenei_Neophyte.labelFemalePlural>female draenei neophytes</WoW_Draenei_Neophyte.labelFemalePlural>
+
+  <WoW_Draenei_Trader.label>draenei trader</WoW_Draenei_Trader.label>
+  <WoW_Draenei_Trader.labelPlural>draenei traders</WoW_Draenei_Trader.labelPlural>
+  <WoW_Draenei_Trader.labelMale>male draenei trader</WoW_Draenei_Trader.labelMale>
+  <WoW_Draenei_Trader.labelMalePlural>male draenei traders</WoW_Draenei_Trader.labelMalePlural>
+  <WoW_Draenei_Trader.labelFemale>female draenei trader</WoW_Draenei_Trader.labelFemale>
+  <WoW_Draenei_Trader.labelFemalePlural>female draenei traders</WoW_Draenei_Trader.labelFemalePlural>
+
+  <WoW_Draenei_Slave.label>draenei slave</WoW_Draenei_Slave.label>
+  <WoW_Draenei_Slave.labelPlural>draenei slaves</WoW_Draenei_Slave.labelPlural>
+  <WoW_Draenei_Slave.labelMale>male draenei slave</WoW_Draenei_Slave.labelMale>
+  <WoW_Draenei_Slave.labelMalePlural>male draenei slaves</WoW_Draenei_Slave.labelMalePlural>
+  <WoW_Draenei_Slave.labelFemale>female draenei slave</WoW_Draenei_Slave.labelFemale>
+  <WoW_Draenei_Slave.labelFemalePlural>female draenei slaves</WoW_Draenei_Slave.labelFemalePlural>
+
+
+  <!-- Draenei Military -->
+
+  <WoW_Draenei_Peacekeeper.label>draenei peacekeeper</WoW_Draenei_Peacekeeper.label>
+  <WoW_Draenei_Peacekeeper.labelPlural>draenei peacekeepers</WoW_Draenei_Peacekeeper.labelPlural>
+  <WoW_Draenei_Peacekeeper.labelMale>male draenei peacekeeper</WoW_Draenei_Peacekeeper.labelMale>
+  <WoW_Draenei_Peacekeeper.labelMalePlural>male draenei peacekeepers</WoW_Draenei_Peacekeeper.labelMalePlural>
+  <WoW_Draenei_Peacekeeper.labelFemale>female draenei peacekeeper</WoW_Draenei_Peacekeeper.labelFemale>
+  <WoW_Draenei_Peacekeeper.labelFemalePlural>female draenei peacekeepers</WoW_Draenei_Peacekeeper.labelFemalePlural>
+
+  <WoW_Draenei_Defender.label>draenei defender</WoW_Draenei_Defender.label>
+  <WoW_Draenei_Defender.labelPlural>draenei defenders</WoW_Draenei_Defender.labelPlural>
+  <WoW_Draenei_Defender.labelMale>male draenei defender</WoW_Draenei_Defender.labelMale>
+  <WoW_Draenei_Defender.labelMalePlural>male draenei defenders</WoW_Draenei_Defender.labelMalePlural>
+  <WoW_Draenei_Defender.labelFemale>female draenei defender</WoW_Draenei_Defender.labelFemale>
+  <WoW_Draenei_Defender.labelFemalePlural>female draenei defenders</WoW_Draenei_Defender.labelFemalePlural>
+
+  <WoW_Draenei_Vindictator.label>draenei vindictator</WoW_Draenei_Vindictator.label>
+  <WoW_Draenei_Vindictator.labelPlural>draenei vindictators</WoW_Draenei_Vindictator.labelPlural>
+  <WoW_Draenei_Vindictator.labelMale>male draenei vindictator</WoW_Draenei_Vindictator.labelMale>
+  <WoW_Draenei_Vindictator.labelMalePlural>male draenei vindictators</WoW_Draenei_Vindictator.labelMalePlural>
+  <WoW_Draenei_Vindictator.labelFemale>female draenei vindictator</WoW_Draenei_Vindictator.labelFemale>
+  <WoW_Draenei_Vindictator.labelFemalePlural>female draenei vindictators</WoW_Draenei_Vindictator.labelFemalePlural>
+
+  <WoW_Draenei_Harbinger.label>draenei harbinger</WoW_Draenei_Harbinger.label>
+  <WoW_Draenei_Harbinger.labelPlural>draenei harbingers</WoW_Draenei_Harbinger.labelPlural>
+  <WoW_Draenei_Harbinger.labelMale>male draenei harbinger</WoW_Draenei_Harbinger.labelMale>
+  <WoW_Draenei_Harbinger.labelMalePlural>male draenei harbingers</WoW_Draenei_Harbinger.labelMalePlural>
+  <WoW_Draenei_Harbinger.labelFemale>female draenei harbinger</WoW_Draenei_Harbinger.labelFemale>
+  <WoW_Draenei_Harbinger.labelFemalePlural>female draenei harbingers</WoW_Draenei_Harbinger.labelFemalePlural>
+
+
+</LanguageData>

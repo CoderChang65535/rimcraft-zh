@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Warmongering Gladiator Gavel -->
+
+  <WoWM_Draenei_Gavel.label>draenic gavel</WoWM_Draenei_Gavel.label>
+  <WoWM_Draenei_Gavel.description>Draenic Gavel</WoWM_Draenei_Gavel.description>
+  <WoWM_Draenei_Gavel.tools.0.label>edge</WoWM_Draenei_Gavel.tools.0.label>
+
+
+  <!-- Anchorite Mace -->
+
+  <WoWM_Draenei_Mace.label>draenic mace</WoWM_Draenei_Mace.label>
+  <WoWM_Draenei_Mace.description>Draenic Mace</WoWM_Draenei_Mace.description>
+  <WoWM_Draenei_Mace.tools.0.label>edge</WoWM_Draenei_Mace.tools.0.label>
+
+
+  <!-- Honorbound Pigsticker -->
+
+  <WoWM_Draenei_Hammer.label>draenic hammer</WoWM_Draenei_Hammer.label>
+  <WoWM_Draenei_Hammer.description>Draenic hammer</WoWM_Draenei_Hammer.description>
+  <WoWM_Draenei_Hammer.tools.0.label>edge</WoWM_Draenei_Hammer.tools.0.label>
+
+
+  <!-- Claymore of the Prophet -->
+
+  <WoWM_Draenei_Claymore.label>draenic claymore</WoWM_Draenei_Claymore.label>
+  <WoWM_Draenei_Claymore.description>Draenic claymore</WoWM_Draenei_Claymore.description>
+  <WoWM_Draenei_Claymore.tools.0.label>edge</WoWM_Draenei_Claymore.tools.0.label>
+
+
+  <!-- Hammer of the Naaru -->
+
+  <WoWM_Draenei__GreatHammer.label>draenic greathammer</WoWM_Draenei__GreatHammer.label>
+  <WoWM_Draenei__GreatHammer.description>Draenic greathammer</WoWM_Draenei__GreatHammer.description>
+  <WoWM_Draenei__GreatHammer.tools.0.label>edge</WoWM_Draenei__GreatHammer.tools.0.label>
+
+
+</LanguageData>

@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Honorbound War Cleaver -->
+
+  <WoWM_Horde_WarCleaver.label>horde warcleaver</WoWM_Horde_WarCleaver.label>
+  <WoWM_Horde_WarCleaver.description>Horde warcleaver</WoWM_Horde_WarCleaver.description>
+  <WoWM_Horde_WarCleaver.tools.0.label>edge</WoWM_Horde_WarCleaver.tools.0.label>
+
+
+  <!-- Honorbound Gladius -->
+
+  <WoWM_Horde_Gladius.label>horde gladius</WoWM_Horde_Gladius.label>
+  <WoWM_Horde_Gladius.description>Horde gladius</WoWM_Horde_Gladius.description>
+  <WoWM_Horde_Gladius.tools.0.label>point</WoWM_Horde_Gladius.tools.0.label>
+  <WoWM_Horde_Gladius.tools.1.label>edge</WoWM_Horde_Gladius.tools.1.label>
+
+
+  <!-- Honorbound BoneBreaker -->
+
+  <WoWM_Horde_Maul.label>horde greatmaul</WoWM_Horde_Maul.label>
+  <WoWM_Horde_Maul.description>Horde greatmaul</WoWM_Horde_Maul.description>
+  <WoWM_Horde_Maul.tools.0.label>edge</WoWM_Horde_Maul.tools.0.label>
+
+
+  <!-- Honorbound Pigsticker -->
+
+  <WoWM_Horde_GreatSpear.label>horde greatspear</WoWM_Horde_GreatSpear.label>
+  <WoWM_Horde_GreatSpear.description>Horde greatspear</WoWM_Horde_GreatSpear.description>
+  <WoWM_Horde_GreatSpear.tools.0.label>point</WoWM_Horde_GreatSpear.tools.0.label>
+
+
+  <!-- Honorbound Decapitator -->
+
+  <WoWM_Horde_Greataxe.label>horde greataxe</WoWM_Horde_Greataxe.label>
+  <WoWM_Horde_Greataxe.description>Horde greataxe</WoWM_Horde_Greataxe.description>
+  <WoWM_Horde_Greataxe.tools.0.label>edge</WoWM_Horde_Greataxe.tools.0.label>
+
+
+</LanguageData>

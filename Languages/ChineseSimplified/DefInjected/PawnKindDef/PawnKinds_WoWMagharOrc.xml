@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Maghar Orc Military -->
+
+  <WoW_MagharOrc_Raider.label>mag'har raider</WoW_MagharOrc_Raider.label>
+  <WoW_MagharOrc_Raider.labelPlural>mag'har raiders</WoW_MagharOrc_Raider.labelPlural>
+  <WoW_MagharOrc_Raider.labelMale>male mag'har raider</WoW_MagharOrc_Raider.labelMale>
+  <WoW_MagharOrc_Raider.labelMalePlural>male mag'har raiders</WoW_MagharOrc_Raider.labelMalePlural>
+  <WoW_MagharOrc_Raider.labelFemale>female mag'har raider</WoW_MagharOrc_Raider.labelFemale>
+  <WoW_MagharOrc_Raider.labelFemalePlural>female mag'har raiders</WoW_MagharOrc_Raider.labelFemalePlural>
+
+  <WoW_MagharOrc_Hunter.label>mag'har orc hunter</WoW_MagharOrc_Hunter.label>
+  <WoW_MagharOrc_Hunter.labelPlural>mag'har orc hunters</WoW_MagharOrc_Hunter.labelPlural>
+  <WoW_MagharOrc_Hunter.labelMale>male mag'har orc hunter</WoW_MagharOrc_Hunter.labelMale>
+  <WoW_MagharOrc_Hunter.labelMalePlural>male mag'har orc hunters</WoW_MagharOrc_Hunter.labelMalePlural>
+  <WoW_MagharOrc_Hunter.labelFemale>female mag'har orc hunter</WoW_MagharOrc_Hunter.labelFemale>
+  <WoW_MagharOrc_Hunter.labelFemalePlural>female mag'har orc hunters</WoW_MagharOrc_Hunter.labelFemalePlural>
+
+  <WoW_MagharOrc_Warrior.label>mag'har orc warrior</WoW_MagharOrc_Warrior.label>
+  <WoW_MagharOrc_Warrior.labelPlural>mag'har orc warriors</WoW_MagharOrc_Warrior.labelPlural>
+  <WoW_MagharOrc_Warrior.labelMale>male mag'har orc warrior</WoW_MagharOrc_Warrior.labelMale>
+  <WoW_MagharOrc_Warrior.labelMalePlural>male mag'har orc warriors</WoW_MagharOrc_Warrior.labelMalePlural>
+  <WoW_MagharOrc_Warrior.labelFemale>female mag'har orc warrior</WoW_MagharOrc_Warrior.labelFemale>
+  <WoW_MagharOrc_Warrior.labelFemalePlural>female mag'har orc warriors</WoW_MagharOrc_Warrior.labelFemalePlural>
+
+
+</LanguageData>

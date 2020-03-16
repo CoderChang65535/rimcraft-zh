@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- WoW Worgen Base -->
+
+  <WoW_Worgen.label>Worgen</WoW_Worgen.label>
+  <WoW_Worgen.description>The worgen are a race of feral wolf-beasts whose very name inspires fear. They are large, lupine humanoids that walk upright, but lope on all fours to run. Being bitten by or drinking the blood of a worgen causes humans and night elves to be transformed into one. After the transformation, those that are overcome by rage and guilt gradually lose all vestiges of their former lives and turn mindless. By controlling their emotions via medication, magic, and self-discipline, worgen may resist being overcome by their feral instincts.</WoW_Worgen.description>
+  <WoW_Worgen.tools.0.label>left fist</WoW_Worgen.tools.0.label>
+  <WoW_Worgen.tools.1.label>right fist</WoW_Worgen.tools.1.label>
+  <WoW_Worgen.tools.2.label>teeth</WoW_Worgen.tools.2.label>
+  <WoW_Worgen.tools.3.label>head</WoW_Worgen.tools.3.label>
+
+
+</LanguageData>

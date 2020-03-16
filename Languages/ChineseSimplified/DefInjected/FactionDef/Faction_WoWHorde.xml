@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Horde.label>部落居民</Horde.label>
+  <Horde.description>部落是艾泽拉斯凡人种族的两个主要势力之一，它的对手是联盟。部落由外来者组成和领导，他们通过团结，与家人、战友乃至不安分的盟友一同战斗而得以幸存。</Horde.description>
+  <Horde.fixedName>部落</Horde.fixedName>
+  <Horde.pawnsPlural>部落</Horde.pawnsPlural>
+  <Horde.leaderTitle>大酋长</Horde.leaderTitle>
+
+
+</LanguageData>

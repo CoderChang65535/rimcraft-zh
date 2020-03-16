@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Horse Def -->
+
+  <WoW_Animal_Horse.label>horse</WoW_Animal_Horse.label>
+  <WoW_Animal_Horse.labelPlural>horses</WoW_Animal_Horse.labelPlural>
+  <WoW_Animal_Horse.lifeStages.0.label>horse foal</WoW_Animal_Horse.lifeStages.0.label>
+  <WoW_Animal_Horse.lifeStages.0.labelPlural>horse foals</WoW_Animal_Horse.lifeStages.0.labelPlural>
+  <WoW_Animal_Horse.lifeStages.0.labelMale>male horse foal</WoW_Animal_Horse.lifeStages.0.labelMale>
+  <WoW_Animal_Horse.lifeStages.0.labelMalePlural>male horse foals</WoW_Animal_Horse.lifeStages.0.labelMalePlural>
+  <WoW_Animal_Horse.lifeStages.0.labelFemale>female horse foal</WoW_Animal_Horse.lifeStages.0.labelFemale>
+  <WoW_Animal_Horse.lifeStages.0.labelFemalePlural>female horse foals</WoW_Animal_Horse.lifeStages.0.labelFemalePlural>
+  <WoW_Animal_Horse.lifeStages.1.label>horse</WoW_Animal_Horse.lifeStages.1.label>
+  <WoW_Animal_Horse.lifeStages.1.labelPlural>horse</WoW_Animal_Horse.lifeStages.1.labelPlural>
+  <WoW_Animal_Horse.lifeStages.1.labelMale>male horse</WoW_Animal_Horse.lifeStages.1.labelMale>
+  <WoW_Animal_Horse.lifeStages.1.labelMalePlural>male horses</WoW_Animal_Horse.lifeStages.1.labelMalePlural>
+  <WoW_Animal_Horse.lifeStages.1.labelFemale>horse mare</WoW_Animal_Horse.lifeStages.1.labelFemale>
+  <WoW_Animal_Horse.lifeStages.1.labelFemalePlural>female horses</WoW_Animal_Horse.lifeStages.1.labelFemalePlural>
+  <WoW_Animal_Horse.lifeStages.2.label>horse</WoW_Animal_Horse.lifeStages.2.label>
+  <WoW_Animal_Horse.lifeStages.2.labelPlural>horse</WoW_Animal_Horse.lifeStages.2.labelPlural>
+  <WoW_Animal_Horse.lifeStages.2.labelMale>male horse</WoW_Animal_Horse.lifeStages.2.labelMale>
+  <WoW_Animal_Horse.lifeStages.2.labelMalePlural>male horses</WoW_Animal_Horse.lifeStages.2.labelMalePlural>
+  <WoW_Animal_Horse.lifeStages.2.labelFemale>horse mare</WoW_Animal_Horse.lifeStages.2.labelFemale>
+  <WoW_Animal_Horse.lifeStages.2.labelFemalePlural>female horses</WoW_Animal_Horse.lifeStages.2.labelFemalePlural>
+  <WoW_Animal_Horse.labelMale>male horse</WoW_Animal_Horse.labelMale>
+  <WoW_Animal_Horse.labelMalePlural>male horses</WoW_Animal_Horse.labelMalePlural>
+  <WoW_Animal_Horse.labelFemale>horse mare</WoW_Animal_Horse.labelFemale>
+  <WoW_Animal_Horse.labelFemalePlural>horse mares</WoW_Animal_Horse.labelFemalePlural>
+
+
+</LanguageData>

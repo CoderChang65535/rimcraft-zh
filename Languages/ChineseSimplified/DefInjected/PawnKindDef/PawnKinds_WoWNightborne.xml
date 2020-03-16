@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Nightborne Civilians -->
+
+  <WoW_Nightborne_Villager.label>nightborne villager</WoW_Nightborne_Villager.label>
+  <WoW_Nightborne_Villager.labelPlural>nightborne villagers</WoW_Nightborne_Villager.labelPlural>
+  <WoW_Nightborne_Villager.labelMale>male nightborne villager</WoW_Nightborne_Villager.labelMale>
+  <WoW_Nightborne_Villager.labelMalePlural>male nightborne villagers</WoW_Nightborne_Villager.labelMalePlural>
+  <WoW_Nightborne_Villager.labelFemale>female nightborne villager</WoW_Nightborne_Villager.labelFemale>
+  <WoW_Nightborne_Villager.labelFemalePlural>female nightborne villagers</WoW_Nightborne_Villager.labelFemalePlural>
+
+  <WoW_Nightborne_Trader.label>nightborne trader</WoW_Nightborne_Trader.label>
+  <WoW_Nightborne_Trader.labelPlural>nightborne traders</WoW_Nightborne_Trader.labelPlural>
+  <WoW_Nightborne_Trader.labelMale>male nightborne trader</WoW_Nightborne_Trader.labelMale>
+  <WoW_Nightborne_Trader.labelMalePlural>male nightborne traders</WoW_Nightborne_Trader.labelMalePlural>
+  <WoW_Nightborne_Trader.labelFemale>female nightborne trader</WoW_Nightborne_Trader.labelFemale>
+  <WoW_Nightborne_Trader.labelFemalePlural>female nightborne traders</WoW_Nightborne_Trader.labelFemalePlural>
+
+  <WoW_Nightborne_Slave.label>nightborne slave</WoW_Nightborne_Slave.label>
+  <WoW_Nightborne_Slave.labelPlural>nightborne slaves</WoW_Nightborne_Slave.labelPlural>
+  <WoW_Nightborne_Slave.labelMale>male nightborne slave</WoW_Nightborne_Slave.labelMale>
+  <WoW_Nightborne_Slave.labelMalePlural>male nightborne slaves</WoW_Nightborne_Slave.labelMalePlural>
+  <WoW_Nightborne_Slave.labelFemale>female nightborne slave</WoW_Nightborne_Slave.labelFemale>
+  <WoW_Nightborne_Slave.labelFemalePlural>female nightborne slaves</WoW_Nightborne_Slave.labelFemalePlural>
+
+
+  <!-- Nightborne Military -->
+
+  <WoW_Nightborne_Servant.label>nightborne servant</WoW_Nightborne_Servant.label>
+  <WoW_Nightborne_Servant.labelPlural>nightborne servants</WoW_Nightborne_Servant.labelPlural>
+  <WoW_Nightborne_Servant.labelMale>male nightborne servant</WoW_Nightborne_Servant.labelMale>
+  <WoW_Nightborne_Servant.labelMalePlural>male nightborne servants</WoW_Nightborne_Servant.labelMalePlural>
+  <WoW_Nightborne_Servant.labelFemale>female nightborne servant</WoW_Nightborne_Servant.labelFemale>
+  <WoW_Nightborne_Servant.labelFemalePlural>female nightborne servants</WoW_Nightborne_Servant.labelFemalePlural>
+
+  <WoW_Nightborne_Arcbinder.label>nightborne arcbinder</WoW_Nightborne_Arcbinder.label>
+  <WoW_Nightborne_Arcbinder.labelPlural>nightborne arcbinders</WoW_Nightborne_Arcbinder.labelPlural>
+  <WoW_Nightborne_Arcbinder.labelMale>male nightborne arcbinder</WoW_Nightborne_Arcbinder.labelMale>
+  <WoW_Nightborne_Arcbinder.labelMalePlural>male nightborne arcbinders</WoW_Nightborne_Arcbinder.labelMalePlural>
+  <WoW_Nightborne_Arcbinder.labelFemale>female nightborne arcbinder</WoW_Nightborne_Arcbinder.labelFemale>
+  <WoW_Nightborne_Arcbinder.labelFemalePlural>female nightborne arcbinders</WoW_Nightborne_Arcbinder.labelFemalePlural>
+
+  <WoW_Nightborne_SpellBreaker.label>nightborne spellbreaker</WoW_Nightborne_SpellBreaker.label>
+  <WoW_Nightborne_SpellBreaker.labelPlural>nightborne spellbreakers</WoW_Nightborne_SpellBreaker.labelPlural>
+  <WoW_Nightborne_SpellBreaker.labelMale>male nightborne spellbreaker</WoW_Nightborne_SpellBreaker.labelMale>
+  <WoW_Nightborne_SpellBreaker.labelMalePlural>male nightborne spellbreakers</WoW_Nightborne_SpellBreaker.labelMalePlural>
+  <WoW_Nightborne_SpellBreaker.labelFemale>female nightborne spellbreaker</WoW_Nightborne_SpellBreaker.labelFemale>
+  <WoW_Nightborne_SpellBreaker.labelFemalePlural>female nightborne spellbreakers</WoW_Nightborne_SpellBreaker.labelFemalePlural>
+
+  <WoW_Nightborne_SpellBlade.label>nightborne spellblade</WoW_Nightborne_SpellBlade.label>
+  <WoW_Nightborne_SpellBlade.labelPlural>nightborne spellblades</WoW_Nightborne_SpellBlade.labelPlural>
+  <WoW_Nightborne_SpellBlade.labelMale>male nightborne spellblade</WoW_Nightborne_SpellBlade.labelMale>
+  <WoW_Nightborne_SpellBlade.labelMalePlural>male nightborne spellblades</WoW_Nightborne_SpellBlade.labelMalePlural>
+  <WoW_Nightborne_SpellBlade.labelFemale>female nightborne spellblade</WoW_Nightborne_SpellBlade.labelFemale>
+  <WoW_Nightborne_SpellBlade.labelFemalePlural>female nightborne spellblades</WoW_Nightborne_SpellBlade.labelFemalePlural>
+
+
+</LanguageData>

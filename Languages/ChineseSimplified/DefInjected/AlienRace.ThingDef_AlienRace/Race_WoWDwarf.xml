@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- WoW Dwarf Base -->
+
+  <WoW_Dwarf.label>Dwarf</WoW_Dwarf.label>
+  <WoW_Dwarf.description>Dwarves are an ancient bold and courageous race descended from the earthen. Dwarves are short and stout creatures. They are shorter than humans but taller than gnomes, taking advantage of their size when possible and relying on their robustness and strength when not. The average dwarf is steady, observant and composed both during work and combat, yet able to rage with fierce zeal and persistence when the situation calls for it. While a dwarf prefers to plan forward to overcome challenges, many of them easily lose their temperament and self-restraint when exposed to conditions stirring their feelings and concerns.</WoW_Dwarf.description>
+  <WoW_Dwarf.tools.0.label>left fist</WoW_Dwarf.tools.0.label>
+  <WoW_Dwarf.tools.1.label>right fist</WoW_Dwarf.tools.1.label>
+  <WoW_Dwarf.tools.2.label>teeth</WoW_Dwarf.tools.2.label>
+  <WoW_Dwarf.tools.3.label>head</WoW_Dwarf.tools.3.label>
+
+
+</LanguageData>

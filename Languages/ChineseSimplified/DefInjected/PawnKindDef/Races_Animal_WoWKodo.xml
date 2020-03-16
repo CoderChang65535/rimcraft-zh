@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Kodo Def -->
+
+  <WoW_Animal_Kodo.label>kodo</WoW_Animal_Kodo.label>
+  <WoW_Animal_Kodo.labelPlural>kodos</WoW_Animal_Kodo.labelPlural>
+  <WoW_Animal_Kodo.lifeStages.0.label>kodo calf</WoW_Animal_Kodo.lifeStages.0.label>
+  <WoW_Animal_Kodo.lifeStages.0.labelPlural>kodo calves</WoW_Animal_Kodo.lifeStages.0.labelPlural>
+  <WoW_Animal_Kodo.lifeStages.0.labelMale>male kodo calf</WoW_Animal_Kodo.lifeStages.0.labelMale>
+  <WoW_Animal_Kodo.lifeStages.0.labelMalePlural>male kodo calves</WoW_Animal_Kodo.lifeStages.0.labelMalePlural>
+  <WoW_Animal_Kodo.lifeStages.0.labelFemale>female kodo calf</WoW_Animal_Kodo.lifeStages.0.labelFemale>
+  <WoW_Animal_Kodo.lifeStages.0.labelFemalePlural>female kodo calves</WoW_Animal_Kodo.lifeStages.0.labelFemalePlural>
+  <WoW_Animal_Kodo.lifeStages.1.label>kodo</WoW_Animal_Kodo.lifeStages.1.label>
+  <WoW_Animal_Kodo.lifeStages.1.labelPlural>kodo</WoW_Animal_Kodo.lifeStages.1.labelPlural>
+  <WoW_Animal_Kodo.lifeStages.1.labelMale>male kodo</WoW_Animal_Kodo.lifeStages.1.labelMale>
+  <WoW_Animal_Kodo.lifeStages.1.labelMalePlural>male kodos</WoW_Animal_Kodo.lifeStages.1.labelMalePlural>
+  <WoW_Animal_Kodo.lifeStages.1.labelFemale>female kodo</WoW_Animal_Kodo.lifeStages.1.labelFemale>
+  <WoW_Animal_Kodo.lifeStages.1.labelFemalePlural>female kodos</WoW_Animal_Kodo.lifeStages.1.labelFemalePlural>
+  <WoW_Animal_Kodo.lifeStages.2.label>kodo</WoW_Animal_Kodo.lifeStages.2.label>
+  <WoW_Animal_Kodo.lifeStages.2.labelPlural>kodo</WoW_Animal_Kodo.lifeStages.2.labelPlural>
+  <WoW_Animal_Kodo.lifeStages.2.labelMale>male kodo</WoW_Animal_Kodo.lifeStages.2.labelMale>
+  <WoW_Animal_Kodo.lifeStages.2.labelMalePlural>male kodos</WoW_Animal_Kodo.lifeStages.2.labelMalePlural>
+  <WoW_Animal_Kodo.lifeStages.2.labelFemale>female kodo</WoW_Animal_Kodo.lifeStages.2.labelFemale>
+  <WoW_Animal_Kodo.lifeStages.2.labelFemalePlural>female kodos</WoW_Animal_Kodo.lifeStages.2.labelFemalePlural>
+  <WoW_Animal_Kodo.labelMale>male kodo</WoW_Animal_Kodo.labelMale>
+  <WoW_Animal_Kodo.labelMalePlural>male kodos</WoW_Animal_Kodo.labelMalePlural>
+  <WoW_Animal_Kodo.labelFemale>female kodo</WoW_Animal_Kodo.labelFemale>
+  <WoW_Animal_Kodo.labelFemalePlural>female kodos</WoW_Animal_Kodo.labelFemalePlural>
+
+
+</LanguageData>

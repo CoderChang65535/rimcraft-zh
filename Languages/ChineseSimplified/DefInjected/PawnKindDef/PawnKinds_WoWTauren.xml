@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Tauren Civilians -->
+
+  <WoW_Tauren_Villager.label>tauren villager</WoW_Tauren_Villager.label>
+  <WoW_Tauren_Villager.labelPlural>tauren villagers</WoW_Tauren_Villager.labelPlural>
+  <WoW_Tauren_Villager.labelMale>male tauren villager</WoW_Tauren_Villager.labelMale>
+  <WoW_Tauren_Villager.labelMalePlural>male tauren villagers</WoW_Tauren_Villager.labelMalePlural>
+  <WoW_Tauren_Villager.labelFemale>female tauren villager</WoW_Tauren_Villager.labelFemale>
+  <WoW_Tauren_Villager.labelFemalePlural>female tauren villagers</WoW_Tauren_Villager.labelFemalePlural>
+
+  <WoW_Tauren_Trader.label>tauren trader</WoW_Tauren_Trader.label>
+  <WoW_Tauren_Trader.labelPlural>tauren traders</WoW_Tauren_Trader.labelPlural>
+  <WoW_Tauren_Trader.labelMale>male tauren trader</WoW_Tauren_Trader.labelMale>
+  <WoW_Tauren_Trader.labelMalePlural>male tauren traders</WoW_Tauren_Trader.labelMalePlural>
+  <WoW_Tauren_Trader.labelFemale>female tauren trader</WoW_Tauren_Trader.labelFemale>
+  <WoW_Tauren_Trader.labelFemalePlural>female tauren traders</WoW_Tauren_Trader.labelFemalePlural>
+
+  <WoW_Tauren_Slave.label>tauren slave</WoW_Tauren_Slave.label>
+  <WoW_Tauren_Slave.labelPlural>tauren slaves</WoW_Tauren_Slave.labelPlural>
+  <WoW_Tauren_Slave.labelMale>male tauren slave</WoW_Tauren_Slave.labelMale>
+  <WoW_Tauren_Slave.labelMalePlural>male tauren slaves</WoW_Tauren_Slave.labelMalePlural>
+  <WoW_Tauren_Slave.labelFemale>female tauren slave</WoW_Tauren_Slave.labelFemale>
+  <WoW_Tauren_Slave.labelFemalePlural>female tauren slaves</WoW_Tauren_Slave.labelFemalePlural>
+
+
+  <!-- Tauren Military -->
+
+  <WoW_Tauren_Naturalist.label>tauren naturalist</WoW_Tauren_Naturalist.label>
+  <WoW_Tauren_Naturalist.labelPlural>tauren naturalists</WoW_Tauren_Naturalist.labelPlural>
+  <WoW_Tauren_Naturalist.labelMale>male tauren naturalist</WoW_Tauren_Naturalist.labelMale>
+  <WoW_Tauren_Naturalist.labelMalePlural>male tauren naturalists</WoW_Tauren_Naturalist.labelMalePlural>
+  <WoW_Tauren_Naturalist.labelFemale>female tauren naturalist</WoW_Tauren_Naturalist.labelFemale>
+  <WoW_Tauren_Naturalist.labelFemalePlural>female tauren naturalists</WoW_Tauren_Naturalist.labelFemalePlural>
+
+  <WoW_Tauren_Warrior.label>tauren warrior</WoW_Tauren_Warrior.label>
+  <WoW_Tauren_Warrior.labelPlural>tauren warriors</WoW_Tauren_Warrior.labelPlural>
+  <WoW_Tauren_Warrior.labelMale>male tauren warrior</WoW_Tauren_Warrior.labelMale>
+  <WoW_Tauren_Warrior.labelMalePlural>male tauren warriors</WoW_Tauren_Warrior.labelMalePlural>
+  <WoW_Tauren_Warrior.labelFemale>female tauren warrior</WoW_Tauren_Warrior.labelFemale>
+  <WoW_Tauren_Warrior.labelFemalePlural>female tauren warriors</WoW_Tauren_Warrior.labelFemalePlural>
+
+  <WoW_Tauren_Elder.label>tauren elder</WoW_Tauren_Elder.label>
+  <WoW_Tauren_Elder.labelPlural>tauren elders</WoW_Tauren_Elder.labelPlural>
+  <WoW_Tauren_Elder.labelMale>male tauren elder</WoW_Tauren_Elder.labelMale>
+  <WoW_Tauren_Elder.labelMalePlural>male tauren elders</WoW_Tauren_Elder.labelMalePlural>
+  <WoW_Tauren_Elder.labelFemale>female tauren elder</WoW_Tauren_Elder.labelFemale>
+  <WoW_Tauren_Elder.labelFemalePlural>female tauren elders</WoW_Tauren_Elder.labelFemalePlural>
+
+
+</LanguageData>

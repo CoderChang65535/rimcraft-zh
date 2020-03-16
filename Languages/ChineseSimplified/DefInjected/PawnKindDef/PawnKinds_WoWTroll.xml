@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Troll Civilians -->
+
+  <WoW_Troll_Villager.label>troll villager</WoW_Troll_Villager.label>
+  <WoW_Troll_Villager.labelPlural>troll villagers</WoW_Troll_Villager.labelPlural>
+  <WoW_Troll_Villager.labelMale>male troll villager</WoW_Troll_Villager.labelMale>
+  <WoW_Troll_Villager.labelMalePlural>male troll villagers</WoW_Troll_Villager.labelMalePlural>
+  <WoW_Troll_Villager.labelFemale>female troll villager</WoW_Troll_Villager.labelFemale>
+  <WoW_Troll_Villager.labelFemalePlural>female troll villagers</WoW_Troll_Villager.labelFemalePlural>
+
+  <WoW_Troll_Trader.label>troll trader</WoW_Troll_Trader.label>
+  <WoW_Troll_Trader.labelPlural>troll traders</WoW_Troll_Trader.labelPlural>
+  <WoW_Troll_Trader.labelMale>male troll trader</WoW_Troll_Trader.labelMale>
+  <WoW_Troll_Trader.labelMalePlural>male troll traders</WoW_Troll_Trader.labelMalePlural>
+  <WoW_Troll_Trader.labelFemale>female troll trader</WoW_Troll_Trader.labelFemale>
+  <WoW_Troll_Trader.labelFemalePlural>female troll traders</WoW_Troll_Trader.labelFemalePlural>
+
+  <WoW_Troll_Slave.label>troll slave</WoW_Troll_Slave.label>
+  <WoW_Troll_Slave.labelPlural>troll slaves</WoW_Troll_Slave.labelPlural>
+  <WoW_Troll_Slave.labelMale>male troll slave</WoW_Troll_Slave.labelMale>
+  <WoW_Troll_Slave.labelMalePlural>male troll slaves</WoW_Troll_Slave.labelMalePlural>
+  <WoW_Troll_Slave.labelFemale>female troll slave</WoW_Troll_Slave.labelFemale>
+  <WoW_Troll_Slave.labelFemalePlural>female troll slaves</WoW_Troll_Slave.labelFemalePlural>
+
+
+  <!-- Troll Military -->
+
+  <WoW_Troll_ThroatSlicer.label>troll throatslicer</WoW_Troll_ThroatSlicer.label>
+  <WoW_Troll_ThroatSlicer.labelPlural>troll throatslicers</WoW_Troll_ThroatSlicer.labelPlural>
+  <WoW_Troll_ThroatSlicer.labelMale>male troll throatslicer</WoW_Troll_ThroatSlicer.labelMale>
+  <WoW_Troll_ThroatSlicer.labelMalePlural>male troll throatslicers</WoW_Troll_ThroatSlicer.labelMalePlural>
+  <WoW_Troll_ThroatSlicer.labelFemale>female troll throatslicer</WoW_Troll_ThroatSlicer.labelFemale>
+  <WoW_Troll_ThroatSlicer.labelFemalePlural>female troll throatslicers</WoW_Troll_ThroatSlicer.labelFemalePlural>
+
+  <WoW_Troll_HeadHunter.label>troll headhunter</WoW_Troll_HeadHunter.label>
+  <WoW_Troll_HeadHunter.labelPlural>troll headhunters</WoW_Troll_HeadHunter.labelPlural>
+  <WoW_Troll_HeadHunter.labelMale>male troll headhunter</WoW_Troll_HeadHunter.labelMale>
+  <WoW_Troll_HeadHunter.labelMalePlural>male troll headhunters</WoW_Troll_HeadHunter.labelMalePlural>
+  <WoW_Troll_HeadHunter.labelFemale>female troll headhunter</WoW_Troll_HeadHunter.labelFemale>
+  <WoW_Troll_HeadHunter.labelFemalePlural>female troll headhunters</WoW_Troll_HeadHunter.labelFemalePlural>
+
+  <WoW_Troll_Berserker.label>troll berserker</WoW_Troll_Berserker.label>
+  <WoW_Troll_Berserker.labelPlural>troll berserkers</WoW_Troll_Berserker.labelPlural>
+  <WoW_Troll_Berserker.labelMale>male troll berserker</WoW_Troll_Berserker.labelMale>
+  <WoW_Troll_Berserker.labelMalePlural>male troll berserkers</WoW_Troll_Berserker.labelMalePlural>
+  <WoW_Troll_Berserker.labelFemale>female troll berserker</WoW_Troll_Berserker.labelFemale>
+  <WoW_Troll_Berserker.labelFemalePlural>female troll berserkers</WoW_Troll_Berserker.labelFemalePlural>
+
+  <WoW_Troll_ShadowHunter.label>troll shadow hunter</WoW_Troll_ShadowHunter.label>
+  <WoW_Troll_ShadowHunter.labelPlural>troll shadow hunters</WoW_Troll_ShadowHunter.labelPlural>
+  <WoW_Troll_ShadowHunter.labelMale>male troll shadow hunter</WoW_Troll_ShadowHunter.labelMale>
+  <WoW_Troll_ShadowHunter.labelMalePlural>male troll shadow hunters</WoW_Troll_ShadowHunter.labelMalePlural>
+  <WoW_Troll_ShadowHunter.labelFemale>female troll shadow hunter</WoW_Troll_ShadowHunter.labelFemale>
+  <WoW_Troll_ShadowHunter.labelFemalePlural>female troll shadow hunters</WoW_Troll_ShadowHunter.labelFemalePlural>
+
+
+</LanguageData>

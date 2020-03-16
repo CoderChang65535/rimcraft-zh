@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Worgen Civilians -->
+
+  <WoW_Worgen_Villager.label>worgen villager</WoW_Worgen_Villager.label>
+  <WoW_Worgen_Villager.labelPlural>worgen villagers</WoW_Worgen_Villager.labelPlural>
+  <WoW_Worgen_Villager.labelMale>male worgen villager</WoW_Worgen_Villager.labelMale>
+  <WoW_Worgen_Villager.labelMalePlural>male worgen villagers</WoW_Worgen_Villager.labelMalePlural>
+  <WoW_Worgen_Villager.labelFemale>female worgen villager</WoW_Worgen_Villager.labelFemale>
+  <WoW_Worgen_Villager.labelFemalePlural>female worgen villagers</WoW_Worgen_Villager.labelFemalePlural>
+
+  <WoW_Worgen_Trader.label>worgen trader</WoW_Worgen_Trader.label>
+  <WoW_Worgen_Trader.labelPlural>worgen traders</WoW_Worgen_Trader.labelPlural>
+  <WoW_Worgen_Trader.labelMale>male worgen trader</WoW_Worgen_Trader.labelMale>
+  <WoW_Worgen_Trader.labelMalePlural>male worgen traders</WoW_Worgen_Trader.labelMalePlural>
+  <WoW_Worgen_Trader.labelFemale>female worgen trader</WoW_Worgen_Trader.labelFemale>
+  <WoW_Worgen_Trader.labelFemalePlural>female worgen traders</WoW_Worgen_Trader.labelFemalePlural>
+
+  <WoW_Worgen_Slave.label>worgen slave</WoW_Worgen_Slave.label>
+  <WoW_Worgen_Slave.labelPlural>worgen slaves</WoW_Worgen_Slave.labelPlural>
+  <WoW_Worgen_Slave.labelMale>male worgen slave</WoW_Worgen_Slave.labelMale>
+  <WoW_Worgen_Slave.labelMalePlural>male worgen slaves</WoW_Worgen_Slave.labelMalePlural>
+  <WoW_Worgen_Slave.labelFemale>female worgen slave</WoW_Worgen_Slave.labelFemale>
+  <WoW_Worgen_Slave.labelFemalePlural>female worgen slaves</WoW_Worgen_Slave.labelFemalePlural>
+
+
+  <!-- Worgen Military -->
+
+  <WoW_Worgen_Mauler.label>worgen mauler</WoW_Worgen_Mauler.label>
+  <WoW_Worgen_Mauler.labelPlural>worgen maulers</WoW_Worgen_Mauler.labelPlural>
+  <WoW_Worgen_Mauler.labelMale>male worgen mauler</WoW_Worgen_Mauler.labelMale>
+  <WoW_Worgen_Mauler.labelMalePlural>male worgen maulers</WoW_Worgen_Mauler.labelMalePlural>
+  <WoW_Worgen_Mauler.labelFemale>female worgen mauler</WoW_Worgen_Mauler.labelFemale>
+  <WoW_Worgen_Mauler.labelFemalePlural>female worgen maulers</WoW_Worgen_Mauler.labelFemalePlural>
+
+  <WoW_Worgen_Swiftclaw.label>worgen swiftclaw</WoW_Worgen_Swiftclaw.label>
+  <WoW_Worgen_Swiftclaw.labelPlural>worgen swiftclaws</WoW_Worgen_Swiftclaw.labelPlural>
+  <WoW_Worgen_Swiftclaw.labelMale>male worgen swiftclaw</WoW_Worgen_Swiftclaw.labelMale>
+  <WoW_Worgen_Swiftclaw.labelMalePlural>male worgen swiftclaws</WoW_Worgen_Swiftclaw.labelMalePlural>
+  <WoW_Worgen_Swiftclaw.labelFemale>female worgen swiftclaw</WoW_Worgen_Swiftclaw.labelFemale>
+  <WoW_Worgen_Swiftclaw.labelFemalePlural>female worgen swiftclaws</WoW_Worgen_Swiftclaw.labelFemalePlural>
+
+  <WoW_Worgen_Ravager.label>worgen ravager</WoW_Worgen_Ravager.label>
+  <WoW_Worgen_Ravager.labelPlural>worgen ravagers</WoW_Worgen_Ravager.labelPlural>
+  <WoW_Worgen_Ravager.labelMale>male worgen ravager</WoW_Worgen_Ravager.labelMale>
+  <WoW_Worgen_Ravager.labelMalePlural>male worgen ravagers</WoW_Worgen_Ravager.labelMalePlural>
+  <WoW_Worgen_Ravager.labelFemale>female worgen ravager</WoW_Worgen_Ravager.labelFemale>
+  <WoW_Worgen_Ravager.labelFemalePlural>female worgen ravagers</WoW_Worgen_Ravager.labelFemalePlural>
+
+
+</LanguageData>
