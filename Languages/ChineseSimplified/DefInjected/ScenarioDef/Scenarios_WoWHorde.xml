@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <HordeScenario.label>Horde - Breakout</HordeScenario.label>
-  <HordeScenario.description>Humans managed to sedate and capture the three of you after you attacked in blind, bloodlust-driven rage. After setting up and holding you in a new internment camp you managed to escape and flee your captors, but must now find safety with only the few supplies you managed to steal.</HordeScenario.description>
-  <HordeScenario.scenario.name>Horde - Breakout</HordeScenario.scenario.name>
-  <HordeScenario.scenario.summary>A group of orcs escape an internment camp and explore foreign lands.</HordeScenario.scenario.summary>
-  <HordeScenario.scenario.description>Humans managed to sedate and capture the three of you after you attacked in blind, bloodlust-driven rage. After setting up and holding you in a new internment camp you managed to escape and flee your captors, but must now find safety with only the few supplies you managed to steal.</HordeScenario.scenario.description>
-  <HordeScenario.scenario.parts.9.text>A group of orcs escape an internment camp and explore foreign lands.</HordeScenario.scenario.parts.9.text>
+  <HordeScenario.label>部落 - 突围</HordeScenario.label>
+  <HordeScenario.description>在你们陷入嗜血狂怒后，人类把你们三个抓了起来。在被安置在一个拘留营后，你们想办法逃了出去，在设法偷来的少量补给物用完前，必须找到一个安全的地方。</HordeScenario.description>
+  <HordeScenario.scenario.name>部落 - 突围</HordeScenario.scenario.name>
+  <HordeScenario.scenario.summary>一群兽人逃离了拘留营，探索新的世界。</HordeScenario.scenario.summary>
+  <HordeScenario.scenario.description>在你们陷入嗜血狂怒后，人类把你们三个抓了起来。在被安置在一个拘留所后，你们想办法逃了出去，在设法偷来的少量补给物用完前，必须找到一个安全的地方。</HordeScenario.scenario.description>
+  <HordeScenario.scenario.parts.9.text>一群兽人逃离了拘留营，探索新的世界。</HordeScenario.scenario.parts.9.text>
 
 
 </LanguageData>
