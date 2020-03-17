@@ -1,13 +1,42 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ModMetaData>
-	<name>[Ry]Rimcraft-zh 边缘魔兽汉化包</name>
+	<name>Rimcraft Chinese Pack 边缘魔兽汉化包</name>
 	<author>CN-CoderZhang</author>
 	<supportedVersions>
 		<li>1.1</li>
 	</supportedVersions>
-	<packageId>CNCoderZhang.Rimcraft-zh</packageId>
+	<packageId>CNCoderZhang.Rimcraft.ZH</packageId>
+	<loadAfter>
+		<li>Ludeon.RimWorld</li>
+		<li>Ludeon.RimWorld.Royalty</li>
+	</loadAfter>
+	<loadBefore>
+		<li>Ryflamer.Rimcraft.Core</li>
+		<li>Ryflamer.Rimcraft.Animals</li>
+		<li>Ryflamer.Rimcraft.Metals</li>
+		<li>Ryflamer.Rimcraft.AlliedRaces</li>
+		<li>Ryflamer.Rimcraft.Factions</li>
+		<li>Ryflamer.Rimcraft.OutlanderPatch</li>
+		<li>Ryflamer.Rimcraft.PiratePatch</li>
+		<li>Ryflamer.Rimcraft.TribalPatch</li>
+	</loadBefore>
+
 	<url>https://github.com/CoderChang65535/rimcraft-zh/</url>
 	<description>
-Rimcraft的汉化mod
+Rimcraft的汉化mod【【【尚未完成】】】
+边缘魔兽Mod的简体中文汉化包（繁体会在完成后通过简繁转化器添加），请在原mod之前加载。
+由于该Mod有大量魔兽世界专有词汇，如有翻译错误请及时告知作者，帮助完善汉化，谢谢。
+翻译：
+    -简中：CoderChang65535
+边缘汉化组出品，禁止转载。
+适用于以下Mod：（选择你需要的Mod，不必全部加载）
+- [Ry]Rimcraft
+- [Ry]Rimcraft Animals
+- [Ry]Rimcraft Metals
+- [Ry]Rimcraft Allied Races
+- [Ry]Rimcraft Pirate Patch
+- [Ry]Rimcraft Factions
+- [Ry]Rimcraft Outlander Patch
+- [Ry]Rimcraft Tribal Patch
 	</description>
 </ModMetaData>
