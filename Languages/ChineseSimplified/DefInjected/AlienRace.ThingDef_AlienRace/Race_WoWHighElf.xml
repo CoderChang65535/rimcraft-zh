@@ -3,12 +3,12 @@
 
   <!-- High Elf Base -->
 
-  <WoW_HighElf.label>high elf</WoW_HighElf.label>
-  <WoW_HighElf.description>The High Elves, or Quel'dorei ("children of noble birth"), are a race descended from the Highborne night elves who left Kalimdor and settled in the Eastern Kingdoms, founding Quel'Thalas. The high elves were once a significant force on the continent, but in recent times their numbers have been dramatically reduced: almost 90% of their population in Quel'Thalas was slaughtered during the Third War.</WoW_HighElf.description>
-  <WoW_HighElf.tools.0.label>left fist</WoW_HighElf.tools.0.label>
-  <WoW_HighElf.tools.1.label>right fist</WoW_HighElf.tools.1.label>
-  <WoW_HighElf.tools.2.label>teeth</WoW_HighElf.tools.2.label>
-  <WoW_HighElf.tools.3.label>head</WoW_HighElf.tools.3.label>
+  <WoW_HighElf.label>高等精灵</WoW_HighElf.label>
+  <WoW_HighElf.description>高等精灵（或称奎尔多雷）是上层暗夜精灵的后裔，他们离开卡利姆多并定居在东部王国，建立了奎尔萨拉斯。高等精灵曾经是东部王国上的重要势力，但由于在第三次战争中阿尔萨斯几乎杀死了奎尔萨拉斯百分之九十的人口，他们衰退了很多。</WoW_HighElf.description>
+  <WoW_HighElf.tools.0.label>左拳</WoW_HighElf.tools.0.label>
+  <WoW_HighElf.tools.1.label>右拳</WoW_HighElf.tools.1.label>
+  <WoW_HighElf.tools.2.label>牙齿</WoW_HighElf.tools.2.label>
+  <WoW_HighElf.tools.3.label>头</WoW_HighElf.tools.3.label>
 
 
 </LanguageData>

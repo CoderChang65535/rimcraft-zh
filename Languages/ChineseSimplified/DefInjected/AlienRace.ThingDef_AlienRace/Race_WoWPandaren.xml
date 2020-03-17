@@ -3,12 +3,12 @@
 
   <!-- WoW Pandaren Base -->
 
-  <WoW_Pandaren.label>Pandaren</WoW_Pandaren.label>
-  <WoW_Pandaren.description>The enigmatic pandaren are one of the most elusive races of Azeroth. Hailing from Pandaria and the Wandering Isle, they are humanoid pandas with a great love of nature and strong ales. If a single trait could sum up the pandaren culture, it’s that they live in the moment. They embrace life with gusto. A pandaren does everything with vigor, focus, and intensity. Every meal is an event. Every moment with the family is cherished. Every project or work of art demands their full attention. Every nap is treated as if it will be the last! The pandaren work hard, play hard, fight like animals, love with all their soul, tell impossibly tall tales, drink like they mean it, and sleep like the dead.</WoW_Pandaren.description>
-  <WoW_Pandaren.tools.0.label>left fist</WoW_Pandaren.tools.0.label>
-  <WoW_Pandaren.tools.1.label>right fist</WoW_Pandaren.tools.1.label>
-  <WoW_Pandaren.tools.2.label>teeth</WoW_Pandaren.tools.2.label>
-  <WoW_Pandaren.tools.3.label>head</WoW_Pandaren.tools.3.label>
+  <WoW_Pandaren.label>熊猫人</WoW_Pandaren.label>
+  <WoW_Pandaren.description>神秘的熊猫人是艾泽拉斯最神出鬼没的种族之一。 他们来自潘达利亚和迷踪岛，热爱大自然的和美酒的熊猫状人形生物。一句话概括熊猫人的文化就是他们活在当下。他们热情地拥抱生活、充满活力、专心致志。 美食对于他们意义非凡，他们也珍惜与家人在一起时光。他们全力以赴应对每一件事、每一个作品，喜欢睡觉。熊猫人努力工作玩乐，运用模仿动物的形意拳，喜欢讲精彩的故事，认真饮酒认真睡觉。</WoW_Pandaren.description>
+  <WoW_Pandaren.tools.0.label>左拳</WoW_Pandaren.tools.0.label>
+  <WoW_Pandaren.tools.1.label>右拳</WoW_Pandaren.tools.1.label>
+  <WoW_Pandaren.tools.2.label>牙齿</WoW_Pandaren.tools.2.label>
+  <WoW_Pandaren.tools.3.label>头</WoW_Pandaren.tools.3.label>
 
 
 </LanguageData>

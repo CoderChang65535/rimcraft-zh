@@ -3,12 +3,12 @@
 
   <!-- Blood Elf Base -->
 
-  <WoW_BloodElf.label>blood elf</WoW_BloodElf.label>
-  <WoW_BloodElf.description>The Blood Elves or Sin'dorei in Thalassian ("children of the blood"), are a race composed of former high elves who renamed themselves in honor of their people who were killed during the siege of Quel'Thalas by the Scourge during the Third War.</WoW_BloodElf.description>
-  <WoW_BloodElf.tools.0.label>left fist</WoW_BloodElf.tools.0.label>
-  <WoW_BloodElf.tools.1.label>right fist</WoW_BloodElf.tools.1.label>
-  <WoW_BloodElf.tools.2.label>teeth</WoW_BloodElf.tools.2.label>
-  <WoW_BloodElf.tools.3.label>head</WoW_BloodElf.tools.3.label>
+  <WoW_BloodElf.label>血精灵</WoW_BloodElf.label>
+  <WoW_BloodElf.description>萨拉斯的血精灵（或称作辛多雷）是由前高等精灵组成的种族，他们改名来纪念在第三次大战中被天灾军团围攻的奎尔萨拉斯和被杀害的人民。</WoW_BloodElf.description>
+  <WoW_BloodElf.tools.0.label>左拳</WoW_BloodElf.tools.0.label>
+  <WoW_BloodElf.tools.1.label>右拳</WoW_BloodElf.tools.1.label>
+  <WoW_BloodElf.tools.2.label>牙齿</WoW_BloodElf.tools.2.label>
+  <WoW_BloodElf.tools.3.label>头</WoW_BloodElf.tools.3.label>
 
 
 </LanguageData>
