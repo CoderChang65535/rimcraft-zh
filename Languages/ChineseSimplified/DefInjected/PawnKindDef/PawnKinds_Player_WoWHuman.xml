@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <WoWHuman.label>refugee</WoWHuman.label>
-  <WoWHuman.labelPlural>refugees</WoWHuman.labelPlural>
-  <WoWHuman.labelMale>male refugee</WoWHuman.labelMale>
-  <WoWHuman.labelMalePlural>male refugees</WoWHuman.labelMalePlural>
-  <WoWHuman.labelFemale>female refugee</WoWHuman.labelFemale>
-  <WoWHuman.labelFemalePlural>female refugees</WoWHuman.labelFemalePlural>
+  <WoWHuman.label>难民</WoWHuman.label>
+  <WoWHuman.labelPlural>难民</WoWHuman.labelPlural>
+  <WoWHuman.labelMale>男性难民</WoWHuman.labelMale>
+  <WoWHuman.labelMalePlural>男性难民</WoWHuman.labelMalePlural>
+  <WoWHuman.labelFemale>女性难民</WoWHuman.labelFemale>
+  <WoWHuman.labelFemalePlural>女性难民</WoWHuman.labelFemalePlural>
 
 
 </LanguageData>

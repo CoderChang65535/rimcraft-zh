@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <WoWNightborne.label>colonist</WoWNightborne.label>
-  <WoWNightborne.labelPlural>colonists</WoWNightborne.labelPlural>
-  <WoWNightborne.labelMale>male colonist</WoWNightborne.labelMale>
-  <WoWNightborne.labelMalePlural>male colonists</WoWNightborne.labelMalePlural>
-  <WoWNightborne.labelFemale>female colonist</WoWNightborne.labelFemale>
-  <WoWNightborne.labelFemalePlural>female colonists</WoWNightborne.labelFemalePlural>
+  <WoWNightborne.label>殖民者</WoWNightborne.label>
+  <WoWNightborne.labelPlural>殖民者</WoWNightborne.labelPlural>
+  <WoWNightborne.labelMale>男性殖民者</WoWNightborne.labelMale>
+  <WoWNightborne.labelMalePlural>男性殖民者</WoWNightborne.labelMalePlural>
+  <WoWNightborne.labelFemale>女性殖民者</WoWNightborne.labelFemale>
+  <WoWNightborne.labelFemalePlural>女性殖民者</WoWNightborne.labelFemalePlural>
 
 
 </LanguageData>

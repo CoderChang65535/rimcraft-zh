@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <WoWBloodElf.label>colonist</WoWBloodElf.label>
-  <WoWBloodElf.labelPlural>colonists</WoWBloodElf.labelPlural>
-  <WoWBloodElf.labelMale>male colonist</WoWBloodElf.labelMale>
-  <WoWBloodElf.labelMalePlural>male colonists</WoWBloodElf.labelMalePlural>
-  <WoWBloodElf.labelFemale>female colonist</WoWBloodElf.labelFemale>
-  <WoWBloodElf.labelFemalePlural>female colonists</WoWBloodElf.labelFemalePlural>
+  <WoWBloodElf.label>殖民者</WoWBloodElf.label>
+  <WoWBloodElf.labelPlural>殖民者</WoWBloodElf.labelPlural>
+  <WoWBloodElf.labelMale>男性殖民者</WoWBloodElf.labelMale>
+  <WoWBloodElf.labelMalePlural>男性殖民者</WoWBloodElf.labelMalePlural>
+  <WoWBloodElf.labelFemale>女性殖民者</WoWBloodElf.labelFemale>
+  <WoWBloodElf.labelFemalePlural>女性殖民者</WoWBloodElf.labelFemalePlural>
 
 
 </LanguageData>
