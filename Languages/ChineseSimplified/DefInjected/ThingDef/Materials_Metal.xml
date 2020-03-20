@@ -3,38 +3,38 @@
 
   <!-- Thorium -->
 
-  <WoW_thorium_ore.label>thorium ore</WoW_thorium_ore.label>
-  <WoW_thorium_ore.description>Raw Thorium ore. Thorium is a strong metal, mostly used in armor and weapons.</WoW_thorium_ore.description>
+  <WoW_thorium_ore.label>瑟银矿石</WoW_thorium_ore.label>
+  <WoW_thorium_ore.description>天然瑟银矿石。瑟银是一种坚固的金属，主要用于装甲和武器。</WoW_thorium_ore.description>
 
-  <WoW_thorium.label>thorium</WoW_thorium.label>
-  <WoW_thorium.description>Refined Thorium Ingots. Thorium is a strong metal, mostly used in armor and weapons.</WoW_thorium.description>
+  <WoW_thorium.label>瑟银</WoW_thorium.label>
+  <WoW_thorium.description>冶炼瑟银。瑟银是一种坚固的金属，主要用于装甲和武器。</WoW_thorium.description>
 
 
   <!-- Dark Iron -->
 
-  <WoW_darkiron_ore.label>dark iron ore</WoW_darkiron_ore.label>
-  <WoW_darkiron_ore.description>Raw dark iron ore. Dark Iron is the most fire-retardant, fire-resistant metal known.</WoW_darkiron_ore.description>
+  <WoW_darkiron_ore.label>黑铁矿石</WoW_darkiron_ore.label>
+  <WoW_darkiron_ore.description>天然黑铁矿石。黑铁是已知的最阻燃，最耐火的金属。</WoW_darkiron_ore.description>
 
-  <WoW_darkiron.label>dark iron</WoW_darkiron.label>
-  <WoW_darkiron.description>Refined dark iron ingots. Dark Iron is the most fire-retardant, fire-resistant metal known.</WoW_darkiron.description>
+  <WoW_darkiron.label>黑铁</WoW_darkiron.label>
+  <WoW_darkiron.description>冶炼黑铁。黑铁是已知的最阻燃，最耐火的金属。</WoW_darkiron.description>
 
 
   <!-- Mithril -->
 
-  <WoW_mithril_ore.label>mithril ore</WoW_mithril_ore.label>
-  <WoW_mithril_ore.description>Raw Mithril ore. “The magician’s metal”, Mithril is revered by craftsman of all trades for its extremely magical properties and light weight.</WoW_mithril_ore.description>
+  <WoW_mithril_ore.label>秘银矿石</WoW_mithril_ore.label>
+  <WoW_mithril_ore.description>天然秘银矿石。秘银是“奥术的金属”，其极强的魔力和轻巧的重量受到各行各业的工匠的推崇。</WoW_mithril_ore.description>
 
-  <WoW_mithril.label>mithril</WoW_mithril.label>
-  <WoW_mithril.description>Refined mithril ingots. “The magician’s metal”, Mithril is revered by craftsman of all trades for its extremely magical properties and light weight.</WoW_mithril.description>
+  <WoW_mithril.label>秘银</WoW_mithril.label>
+  <WoW_mithril.description>冶炼秘银。秘银是“奥术的金属”，其极强的魔力和轻巧的重量受到各行各业的工匠的推崇。</WoW_mithril.description>
 
 
   <!-- Adamantite -->
 
-  <WoW_adamantite_ore.label>adamantite ore</WoW_adamantite_ore.label>
-  <WoW_adamantite_ore.description>Raw Adamantite ore. Adamantite is a strong magically attuned metal.</WoW_adamantite_ore.description>
+  <WoW_adamantite_ore.label>精金矿石</WoW_adamantite_ore.label>
+  <WoW_adamantite_ore.description>天然精金矿石。精金是一种很强的奥术调和金属。</WoW_adamantite_ore.description>
 
-  <WoW_adamantite.label>adamantite</WoW_adamantite.label>
-  <WoW_adamantite.description>Refined adamantite ingots. Adamantite is a strong magically attuned metal.</WoW_adamantite.description>
+  <WoW_adamantite.label>精金</WoW_adamantite.label>
+  <WoW_adamantite.description>冶炼精金。精金是一种很强的奥术调和金属。</WoW_adamantite.description>
 
   <WoW_hardened_adamantite.label>hardened adamantite</WoW_hardened_adamantite.label>
   <WoW_hardened_adamantite.description>Hardened adamantite ingots.</WoW_hardened_adamantite.description>
@@ -42,11 +42,11 @@
 
   <!-- Truesilver -->
 
-  <WoW_truesilver_ore.label>truesilver ore</WoW_truesilver_ore.label>
-  <WoW_truesilver_ore.description>Raw Truesilver ore.</WoW_truesilver_ore.description>
+  <WoW_truesilver_ore.label>真银矿石</WoW_truesilver_ore.label>
+  <WoW_truesilver_ore.description>天然真银矿石。</WoW_truesilver_ore.description>
 
-  <WoW_truesilver.label>truesilver</WoW_truesilver.label>
-  <WoW_truesilver.description>Refined Truesilver ingots.</WoW_truesilver.description>
+  <WoW_truesilver.label>真银</WoW_truesilver.label>
+  <WoW_truesilver.description>冶炼真银</WoW_truesilver.description>
 
 
 </LanguageData>

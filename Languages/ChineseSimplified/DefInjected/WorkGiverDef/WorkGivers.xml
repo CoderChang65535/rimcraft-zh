@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <DoBillsWoW_Forge.label>smelt items</DoBillsWoW_Forge.label>
-  <DoBillsWoW_Forge.verb>refine</DoBillsWoW_Forge.verb>
-  <DoBillsWoW_Forge.gerund>refining at</DoBillsWoW_Forge.gerund>
+  <DoBillsWoW_Forge.label>冶炼物品</DoBillsWoW_Forge.label>
+  <DoBillsWoW_Forge.verb>冶炼</DoBillsWoW_Forge.verb>
+  <DoBillsWoW_Forge.gerund>冶炼于</DoBillsWoW_Forge.gerund>
 
 
 </LanguageData>

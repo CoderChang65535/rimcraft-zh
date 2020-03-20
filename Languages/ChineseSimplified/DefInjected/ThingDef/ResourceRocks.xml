@@ -3,32 +3,32 @@
 
   <!-- Thorium -->
 
-  <WoW_thorium_deposit.label>thorium deposit</WoW_thorium_deposit.label>
-  <WoW_thorium_deposit.description>A vein of thorium ore.</WoW_thorium_deposit.description>
+  <WoW_thorium_deposit.label>瑟银矿堆</WoW_thorium_deposit.label>
+  <WoW_thorium_deposit.description>一条瑟银矿脉。</WoW_thorium_deposit.description>
 
 
   <!-- Dark Iron -->
 
-  <WoW_darkiron_deposit.label>dark iron deposit</WoW_darkiron_deposit.label>
-  <WoW_darkiron_deposit.description>A vein of dark iron ore.</WoW_darkiron_deposit.description>
+  <WoW_darkiron_deposit.label>黑铁矿堆</WoW_darkiron_deposit.label>
+  <WoW_darkiron_deposit.description>一条黑铁矿脉。</WoW_darkiron_deposit.description>
 
 
   <!-- Mithril -->
 
-  <WoW_mithril_deposit.label>mithril deposit</WoW_mithril_deposit.label>
-  <WoW_mithril_deposit.description>A vein of mithril ore.</WoW_mithril_deposit.description>
+  <WoW_mithril_deposit.label>秘银矿堆</WoW_mithril_deposit.label>
+  <WoW_mithril_deposit.description>一条秘银矿脉。</WoW_mithril_deposit.description>
 
 
   <!-- Adamantite -->
 
-  <WoW_adamantite_deposit.label>adamantite deposit</WoW_adamantite_deposit.label>
-  <WoW_adamantite_deposit.description>A vein of adamantite ore.</WoW_adamantite_deposit.description>
+  <WoW_adamantite_deposit.label>精金矿堆</WoW_adamantite_deposit.label>
+  <WoW_adamantite_deposit.description>一条精金矿脉。</WoW_adamantite_deposit.description>
 
 
   <!-- TrueSilver -->
 
-  <WoW_truesilver_deposit.label>truesilver deposit</WoW_truesilver_deposit.label>
-  <WoW_truesilver_deposit.description>A vein of truesilver ore.</WoW_truesilver_deposit.description>
+  <WoW_truesilver_deposit.label>真银矿堆</WoW_truesilver_deposit.label>
+  <WoW_truesilver_deposit.description>一条真银矿脉。</WoW_truesilver_deposit.description>
 
 
 </LanguageData>
