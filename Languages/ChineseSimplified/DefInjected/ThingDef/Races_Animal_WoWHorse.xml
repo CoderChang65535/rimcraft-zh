@@ -3,11 +3,11 @@
 
   <!-- Horse Def -->
 
-  <WoW_Animal_Horse.label>azerothian horse</WoW_Animal_Horse.label>
+  <WoW_Animal_Horse.label>艾泽拉斯本土马</WoW_Animal_Horse.label>
   <WoW_Animal_Horse.description>A common wild horse native to the world of azeroth. These trusty steeds have carried their human masters to battle since before the First War. Known for their swiftness and spirited temperaments, these mounts are perfectly suited for their heroic riders. The Evendales of Elwynn Forest are especially prized by adventurers for their loyalty and steadiness in the face of danger. A favorite among Stormwind's guards thanks to its patience and stamina.</WoW_Animal_Horse.description>
-  <WoW_Animal_Horse.tools.1.label>head</WoW_Animal_Horse.tools.1.label>
-  <WoW_Animal_Horse.tools.2.label>left hoof</WoW_Animal_Horse.tools.2.label>
-  <WoW_Animal_Horse.tools.3.label>right hoof</WoW_Animal_Horse.tools.3.label>
+  <WoW_Animal_Horse.tools.1.label>头</WoW_Animal_Horse.tools.1.label>
+  <WoW_Animal_Horse.tools.2.label>左蹄</WoW_Animal_Horse.tools.2.label>
+  <WoW_Animal_Horse.tools.3.label>右蹄</WoW_Animal_Horse.tools.3.label>
 
 
 </LanguageData>
