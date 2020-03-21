@@ -3,40 +3,40 @@
 
   <!-- Sin'dorei Warblade -->
 
-  <WoWM_Bloodelf_Warblade.label>sin'dorei warblade</WoWM_Bloodelf_Warblade.label>
-  <WoWM_Bloodelf_Warblade.description>Sin'dorei warblade</WoWM_Bloodelf_Warblade.description>
-  <WoWM_Bloodelf_Warblade.tools.0.label>point</WoWM_Bloodelf_Warblade.tools.0.label>
-  <WoWM_Bloodelf_Warblade.tools.1.label>edge</WoWM_Bloodelf_Warblade.tools.1.label>
+  <WoWM_Bloodelf_Warblade.label>辛多雷战刃</WoWM_Bloodelf_Warblade.label>
+  <WoWM_Bloodelf_Warblade.description>辛多雷战刃</WoWM_Bloodelf_Warblade.description>
+  <WoWM_Bloodelf_Warblade.tools.0.label>刀尖</WoWM_Bloodelf_Warblade.tools.0.label>
+  <WoWM_Bloodelf_Warblade.tools.1.label>刀刃</WoWM_Bloodelf_Warblade.tools.1.label>
 
 
   <!-- 银月城 Warmace -->
 
-  <WoWM_Bloodelf_Warmace.label>sin'dorei warmace</WoWM_Bloodelf_Warmace.label>
-  <WoWM_Bloodelf_Warmace.description>Sin'dorei warmace</WoWM_Bloodelf_Warmace.description>
-  <WoWM_Bloodelf_Warmace.tools.0.label>edge</WoWM_Bloodelf_Warmace.tools.0.label>
+  <WoWM_Bloodelf_Warmace.label>银月城战锤</WoWM_Bloodelf_Warmace.label>
+  <WoWM_Bloodelf_Warmace.description>银月城战锤</WoWM_Bloodelf_Warmace.description>
+  <WoWM_Bloodelf_Warmace.tools.0.label>锤头</WoWM_Bloodelf_Warmace.tools.0.label>
 
 
   <!-- Blood Tempered Ranseur -->
 
-  <WoWM_Bloodelf_Ranseur.label>sin'dorei ranseur</WoWM_Bloodelf_Ranseur.label>
-  <WoWM_Bloodelf_Ranseur.description>Sin'dorei Ranseur</WoWM_Bloodelf_Ranseur.description>
-  <WoWM_Bloodelf_Ranseur.tools.0.label>point</WoWM_Bloodelf_Ranseur.tools.0.label>
+  <WoWM_Bloodelf_Ranseur.label>淬血长矛</WoWM_Bloodelf_Ranseur.label>
+  <WoWM_Bloodelf_Ranseur.description>淬血长矛</WoWM_Bloodelf_Ranseur.description>
+  <WoWM_Bloodelf_Ranseur.tools.0.label>矛尖</WoWM_Bloodelf_Ranseur.tools.0.label>
 
 
   <!-- BE Glaive -->
 
-  <WoWM_Bloodelf_Glaive.label>sin'dorei glaive</WoWM_Bloodelf_Glaive.label>
-  <WoWM_Bloodelf_Glaive.description>Sin'dorei glaive</WoWM_Bloodelf_Glaive.description>
-  <WoWM_Bloodelf_Glaive.tools.0.label>point</WoWM_Bloodelf_Glaive.tools.0.label>
-  <WoWM_Bloodelf_Glaive.tools.1.label>edge</WoWM_Bloodelf_Glaive.tools.1.label>
+  <WoWM_Bloodelf_Glaive.label>血精灵月刃</WoWM_Bloodelf_Glaive.label>
+  <WoWM_Bloodelf_Glaive.description>血精灵月刃</WoWM_Bloodelf_Glaive.description>
+  <WoWM_Bloodelf_Glaive.tools.0.label>刀尖</WoWM_Bloodelf_Glaive.tools.0.label>
+  <WoWM_Bloodelf_Glaive.tools.1.label>刀刃</WoWM_Bloodelf_Glaive.tools.1.label>
 
 
   <!-- Great Sword of the Sindorei -->
 
-  <WoWM_Bloodelf_GreatSword.label>sin'dorei greatsword</WoWM_Bloodelf_GreatSword.label>
-  <WoWM_Bloodelf_GreatSword.description>Sin'dorei greatsword</WoWM_Bloodelf_GreatSword.description>
-  <WoWM_Bloodelf_GreatSword.tools.0.label>point</WoWM_Bloodelf_GreatSword.tools.0.label>
-  <WoWM_Bloodelf_GreatSword.tools.1.label>edge</WoWM_Bloodelf_GreatSword.tools.1.label>
+  <WoWM_Bloodelf_GreatSword.label>辛多雷大剑</WoWM_Bloodelf_GreatSword.label>
+  <WoWM_Bloodelf_GreatSword.description>辛多雷大剑</WoWM_Bloodelf_GreatSword.description>
+  <WoWM_Bloodelf_GreatSword.tools.0.label>剑尖</WoWM_Bloodelf_GreatSword.tools.0.label>
+  <WoWM_Bloodelf_GreatSword.tools.1.label>剑刃</WoWM_Bloodelf_GreatSword.tools.1.label>
 
 
 </LanguageData>

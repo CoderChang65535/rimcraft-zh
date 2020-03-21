@@ -3,55 +3,55 @@
 
   <!-- Truesilver Champion -->
 
-  <WoWM_Alliance_BastardSword.label>stormwind bastard sword</WoWM_Alliance_BastardSword.label>
-  <WoWM_Alliance_BastardSword.description>Stormwind bastard sword</WoWM_Alliance_BastardSword.description>
-  <WoWM_Alliance_BastardSword.tools.0.label>edge</WoWM_Alliance_BastardSword.tools.0.label>
+  <WoWM_Alliance_BastardSword.label>真银圣剑</WoWM_Alliance_BastardSword.label>
+  <WoWM_Alliance_BastardSword.description>真银圣剑</WoWM_Alliance_BastardSword.description>
+  <WoWM_Alliance_BastardSword.tools.0.label>剑刃</WoWM_Alliance_BastardSword.tools.0.label>
 
 
   <!-- 7th Legion Halberd -->
 
-  <WoWM_Alliance_Halberd.label>stormwind halberd</WoWM_Alliance_Halberd.label>
-  <WoWM_Alliance_Halberd.description>Stormwind halberd</WoWM_Alliance_Halberd.description>
-  <WoWM_Alliance_Halberd.tools.0.label>point</WoWM_Alliance_Halberd.tools.0.label>
-  <WoWM_Alliance_Halberd.tools.1.label>blade</WoWM_Alliance_Halberd.tools.1.label>
+  <WoWM_Alliance_Halberd.label>第七军团战戟</WoWM_Alliance_Halberd.label>
+  <WoWM_Alliance_Halberd.description>第七军团战戟</WoWM_Alliance_Halberd.description>
+  <WoWM_Alliance_Halberd.tools.0.label>戟尖</WoWM_Alliance_Halberd.tools.0.label>
+  <WoWM_Alliance_Halberd.tools.1.label>戟刃</WoWM_Alliance_Halberd.tools.1.label>
 
 
   <!-- 7th Legion longsword -->
 
-  <WoWM_Alliance_LongSword.label>stormwind longsword</WoWM_Alliance_LongSword.label>
-  <WoWM_Alliance_LongSword.description>Stormwind longsword</WoWM_Alliance_LongSword.description>
-  <WoWM_Alliance_LongSword.tools.0.label>point</WoWM_Alliance_LongSword.tools.0.label>
-  <WoWM_Alliance_LongSword.tools.1.label>edge</WoWM_Alliance_LongSword.tools.1.label>
+  <WoWM_Alliance_LongSword.label>第七军团长剑</WoWM_Alliance_LongSword.label>
+  <WoWM_Alliance_LongSword.description>第七军团长剑</WoWM_Alliance_LongSword.description>
+  <WoWM_Alliance_LongSword.tools.0.label>剑尖</WoWM_Alliance_LongSword.tools.0.label>
+  <WoWM_Alliance_LongSword.tools.1.label>剑刃</WoWM_Alliance_LongSword.tools.1.label>
 
 
   <!-- 7th Legion Claymore -->
 
-  <WoWM_Alliance_Greatsword.label>stormwind greatsword</WoWM_Alliance_Greatsword.label>
-  <WoWM_Alliance_Greatsword.description>Stormwind greatsword</WoWM_Alliance_Greatsword.description>
-  <WoWM_Alliance_Greatsword.tools.0.label>point</WoWM_Alliance_Greatsword.tools.0.label>
-  <WoWM_Alliance_Greatsword.tools.1.label>edge</WoWM_Alliance_Greatsword.tools.1.label>
+  <WoWM_Alliance_Greatsword.label>第七军团大剑</WoWM_Alliance_Greatsword.label>
+  <WoWM_Alliance_Greatsword.description>第七军团大剑</WoWM_Alliance_Greatsword.description>
+  <WoWM_Alliance_Greatsword.tools.0.label>剑尖</WoWM_Alliance_Greatsword.tools.0.label>
+  <WoWM_Alliance_Greatsword.tools.1.label>剑刃</WoWM_Alliance_Greatsword.tools.1.label>
 
 
-  <!-- Stormwind Vanguard Polearm -->
+  <!-- 暴风城Vanguard Polearm -->
 
-  <WoWM_Alliance_Polearm.label>stormwind polearm</WoWM_Alliance_Polearm.label>
-  <WoWM_Alliance_Polearm.description>Stormwind polearm</WoWM_Alliance_Polearm.description>
-  <WoWM_Alliance_Polearm.tools.0.label>point</WoWM_Alliance_Polearm.tools.0.label>
+  <WoWM_Alliance_Polearm.label>暴风城先锋的长戟</WoWM_Alliance_Polearm.label>
+  <WoWM_Alliance_Polearm.description>暴风城先锋的长戟</WoWM_Alliance_Polearm.description>
+  <WoWM_Alliance_Polearm.tools.0.label>戟尖</WoWM_Alliance_Polearm.tools.0.label>
 
 
   <!-- Grand Marshal´s Battle Hammer -->
 
-  <WoWM_Alliance_BattleHammer.label>stormwind battle hammer</WoWM_Alliance_BattleHammer.label>
-  <WoWM_Alliance_BattleHammer.description>Stormwind battle hammer</WoWM_Alliance_BattleHammer.description>
-  <WoWM_Alliance_BattleHammer.tools.0.label>edge</WoWM_Alliance_BattleHammer.tools.0.label>
+  <WoWM_Alliance_BattleHammer.label>大元帅的战锤</WoWM_Alliance_BattleHammer.label>
+  <WoWM_Alliance_BattleHammer.description>大元帅的战锤</WoWM_Alliance_BattleHammer.description>
+  <WoWM_Alliance_BattleHammer.tools.0.label>锤头</WoWM_Alliance_BattleHammer.tools.0.label>
 
 
   <!-- Grand Marshal Claymore -->
 
-  <WoWM_Alliance_Claymore.label>stormwind claymore</WoWM_Alliance_Claymore.label>
-  <WoWM_Alliance_Claymore.description>Stormwind Claymore</WoWM_Alliance_Claymore.description>
-  <WoWM_Alliance_Claymore.tools.0.label>point</WoWM_Alliance_Claymore.tools.0.label>
-  <WoWM_Alliance_Claymore.tools.1.label>edge</WoWM_Alliance_Claymore.tools.1.label>
+  <WoWM_Alliance_Claymore.label>大元帅的双刃剑</WoWM_Alliance_Claymore.label>
+  <WoWM_Alliance_Claymore.description>大元帅的双刃剑</WoWM_Alliance_Claymore.description>
+  <WoWM_Alliance_Claymore.tools.0.label>剑尖</WoWM_Alliance_Claymore.tools.0.label>
+  <WoWM_Alliance_Claymore.tools.1.label>剑刃</WoWM_Alliance_Claymore.tools.1.label>
 
 
 </LanguageData>

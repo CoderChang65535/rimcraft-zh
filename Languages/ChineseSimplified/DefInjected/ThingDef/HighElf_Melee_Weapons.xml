@@ -3,40 +3,40 @@
 
   <!-- Coldrage Dagger -->
 
-  <WoWM_HighElf_Dagger.label>silver covenant dagger</WoWM_HighElf_Dagger.label>
-  <WoWM_HighElf_Dagger.description>Silver covenant dagger</WoWM_HighElf_Dagger.description>
-  <WoWM_HighElf_Dagger.tools.0.label>blade</WoWM_HighElf_Dagger.tools.0.label>
-  <WoWM_HighElf_Dagger.tools.1.label>point</WoWM_HighElf_Dagger.tools.1.label>
+  <WoWM_HighElf_Dagger.label>寒怒匕首</WoWM_HighElf_Dagger.label>
+  <WoWM_HighElf_Dagger.description>寒怒匕首</WoWM_HighElf_Dagger.description>
+  <WoWM_HighElf_Dagger.tools.0.label>匕刃</WoWM_HighElf_Dagger.tools.0.label>
+  <WoWM_HighElf_Dagger.tools.1.label>匕尖</WoWM_HighElf_Dagger.tools.1.label>
 
 
   <!-- Ardent Warhammer -->
 
-  <WoWM_HighElf_Warhammer.label>silver covenant warhammer</WoWM_HighElf_Warhammer.label>
-  <WoWM_HighElf_Warhammer.description>Silver covenant warhammer</WoWM_HighElf_Warhammer.description>
-  <WoWM_HighElf_Warhammer.tools.0.label>edge</WoWM_HighElf_Warhammer.tools.0.label>
+  <WoWM_HighElf_Warhammer.label>炽热战锤</WoWM_HighElf_Warhammer.label>
+  <WoWM_HighElf_Warhammer.description>炽热战锤</WoWM_HighElf_Warhammer.description>
+  <WoWM_HighElf_Warhammer.tools.0.label>锤头</WoWM_HighElf_Warhammer.tools.0.label>
 
 
   <!-- Talon Guard Glaive -->
 
-  <WoWM_HighElf_Glaive.label>silver covenant glaive</WoWM_HighElf_Glaive.label>
-  <WoWM_HighElf_Glaive.description>Silver covenant glaive</WoWM_HighElf_Glaive.description>
-  <WoWM_HighElf_Glaive.tools.0.label>point</WoWM_HighElf_Glaive.tools.0.label>
+  <WoWM_HighElf_Glaive.label>利爪卫士剑刃戟</WoWM_HighElf_Glaive.label>
+  <WoWM_HighElf_Glaive.description>利爪卫士剑刃戟</WoWM_HighElf_Glaive.description>
+  <WoWM_HighElf_Glaive.tools.0.label>戟尖</WoWM_HighElf_Glaive.tools.0.label>
 
 
   <!-- Void Sabre -->
 
-  <WoWM_HighElf_Sabre.label>silver covenant sabre</WoWM_HighElf_Sabre.label>
-  <WoWM_HighElf_Sabre.description>Silver covenant sabre</WoWM_HighElf_Sabre.description>
-  <WoWM_HighElf_Sabre.tools.0.label>point</WoWM_HighElf_Sabre.tools.0.label>
-  <WoWM_HighElf_Sabre.tools.1.label>edge</WoWM_HighElf_Sabre.tools.1.label>
+  <WoWM_HighElf_Sabre.label>虚空弯刀</WoWM_HighElf_Sabre.label>
+  <WoWM_HighElf_Sabre.description>虚空弯刀</WoWM_HighElf_Sabre.description>
+  <WoWM_HighElf_Sabre.tools.0.label>刀尖</WoWM_HighElf_Sabre.tools.0.label>
+  <WoWM_HighElf_Sabre.tools.1.label>刀刃</WoWM_HighElf_Sabre.tools.1.label>
 
 
   <!-- Greatsword of Frozen Hells -->
 
-  <WoWM_HighElf_Greatsword.label>silver covenant greatsword</WoWM_HighElf_Greatsword.label>
-  <WoWM_HighElf_Greatsword.description>Silver covenant greatsword</WoWM_HighElf_Greatsword.description>
-  <WoWM_HighElf_Greatsword.tools.0.label>point</WoWM_HighElf_Greatsword.tools.0.label>
-  <WoWM_HighElf_Greatsword.tools.1.label>edge</WoWM_HighElf_Greatsword.tools.1.label>
+  <WoWM_HighElf_Greatsword.label>冰封地狱重剑</WoWM_HighElf_Greatsword.label>
+  <WoWM_HighElf_Greatsword.description>冰封地狱重剑</WoWM_HighElf_Greatsword.description>
+  <WoWM_HighElf_Greatsword.tools.0.label>剑尖</WoWM_HighElf_Greatsword.tools.0.label>
+  <WoWM_HighElf_Greatsword.tools.1.label>剑刃</WoWM_HighElf_Greatsword.tools.1.label>
 
 
 </LanguageData>
