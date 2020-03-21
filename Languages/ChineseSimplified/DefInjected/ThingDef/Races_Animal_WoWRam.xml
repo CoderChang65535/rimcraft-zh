@@ -3,12 +3,12 @@
 
   <!-- Ram Def -->
 
-  <WoW_Animal_Ram.label>ram</WoW_Animal_Ram.label>
+  <WoW_Animal_Ram.label>卡兹莫丹山羊</WoW_Animal_Ram.label>
   <WoW_Animal_Ram.description>Distinguished by their shaggy coats and massive horns, Barak Tor'ol mountain rams are simple yet proud animals whose fearlessness is matched only by that of their dwarven masters. While these good-natured animals lack ferocity, they compensate with uncommon durability and strength. The thickness of their fur helps them withstand the biting winds of Khaz Modan and the sharp claws of the mountain beasts that populate the region. The dwarves value them for their fearlessness charging into battle.[2] Their thick bony skulls and massive horns make them the ideal mounts for charging through groups of armored enemies.</WoW_Animal_Ram.description>
-  <WoW_Animal_Ram.tools.1.label>head</WoW_Animal_Ram.tools.1.label>
-  <WoW_Animal_Ram.tools.2.label>horn</WoW_Animal_Ram.tools.2.label>
-  <WoW_Animal_Ram.tools.3.label>left hoof</WoW_Animal_Ram.tools.3.label>
-  <WoW_Animal_Ram.tools.4.label>right hoof</WoW_Animal_Ram.tools.4.label>
+  <WoW_Animal_Ram.tools.1.label>头</WoW_Animal_Ram.tools.1.label>
+  <WoW_Animal_Ram.tools.2.label>角</WoW_Animal_Ram.tools.2.label>
+  <WoW_Animal_Ram.tools.3.label>左蹄</WoW_Animal_Ram.tools.3.label>
+  <WoW_Animal_Ram.tools.4.label>右蹄</WoW_Animal_Ram.tools.4.label>
 
 
 </LanguageData>

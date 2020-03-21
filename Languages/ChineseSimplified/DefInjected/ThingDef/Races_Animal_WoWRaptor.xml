@@ -3,11 +3,11 @@
 
   <!-- Raptor Def -->
 
-  <WoW_Animal_Raptor.label>raptor</WoW_Animal_Raptor.label>
+  <WoW_Animal_Raptor.label>迅猛龙</WoW_Animal_Raptor.label>
   <WoW_Animal_Raptor.description>Raptors are large, aggressive theropods (this means, they stand upright on two large hind legs in a bird-like fashion). Raptors seem to be very intelligent for beasts. Evidently, raptor hatchlings can be so vicious as to eviscerate an entire adult cow in less than ten seconds. Raptors make for good eating if one doesn't mind gamey meat. Among the Explorers' League, there are those who believe that birds are descended from dinosaurs such as an extinct type of raptor that had feathered arms. The feathers suggest some kind of missing link between the two different kinds of animals.</WoW_Animal_Raptor.description>
-  <WoW_Animal_Raptor.tools.0.label>left claw</WoW_Animal_Raptor.tools.0.label>
-  <WoW_Animal_Raptor.tools.1.label>right claw</WoW_Animal_Raptor.tools.1.label>
-  <WoW_Animal_Raptor.tools.2.label>teeth</WoW_Animal_Raptor.tools.2.label>
+  <WoW_Animal_Raptor.tools.0.label>左爪</WoW_Animal_Raptor.tools.0.label>
+  <WoW_Animal_Raptor.tools.1.label>右爪</WoW_Animal_Raptor.tools.1.label>
+  <WoW_Animal_Raptor.tools.2.label>牙</WoW_Animal_Raptor.tools.2.label>
 
 
 </LanguageData>

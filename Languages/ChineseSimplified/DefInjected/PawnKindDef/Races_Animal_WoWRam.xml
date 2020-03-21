@@ -3,30 +3,30 @@
 
   <!-- Ram Def -->
 
-  <WoW_Animal_Ram.label>ram</WoW_Animal_Ram.label>
-  <WoW_Animal_Ram.labelPlural>rams</WoW_Animal_Ram.labelPlural>
-  <WoW_Animal_Ram.lifeStages.0.label>Ram foal</WoW_Animal_Ram.lifeStages.0.label>
-  <WoW_Animal_Ram.lifeStages.0.labelPlural>Ram lamb</WoW_Animal_Ram.lifeStages.0.labelPlural>
-  <WoW_Animal_Ram.lifeStages.0.labelMale>male Ram foal</WoW_Animal_Ram.lifeStages.0.labelMale>
-  <WoW_Animal_Ram.lifeStages.0.labelMalePlural>male Ram lamb</WoW_Animal_Ram.lifeStages.0.labelMalePlural>
-  <WoW_Animal_Ram.lifeStages.0.labelFemale>female Ram foal</WoW_Animal_Ram.lifeStages.0.labelFemale>
-  <WoW_Animal_Ram.lifeStages.0.labelFemalePlural>female Ram lamb</WoW_Animal_Ram.lifeStages.0.labelFemalePlural>
-  <WoW_Animal_Ram.lifeStages.1.label>ram</WoW_Animal_Ram.lifeStages.1.label>
-  <WoW_Animal_Ram.lifeStages.1.labelPlural>ram</WoW_Animal_Ram.lifeStages.1.labelPlural>
-  <WoW_Animal_Ram.lifeStages.1.labelMale>male ram</WoW_Animal_Ram.lifeStages.1.labelMale>
-  <WoW_Animal_Ram.lifeStages.1.labelMalePlural>male rams</WoW_Animal_Ram.lifeStages.1.labelMalePlural>
-  <WoW_Animal_Ram.lifeStages.1.labelFemale>Ram ewe</WoW_Animal_Ram.lifeStages.1.labelFemale>
-  <WoW_Animal_Ram.lifeStages.1.labelFemalePlural>female rams</WoW_Animal_Ram.lifeStages.1.labelFemalePlural>
-  <WoW_Animal_Ram.lifeStages.2.label>ram</WoW_Animal_Ram.lifeStages.2.label>
-  <WoW_Animal_Ram.lifeStages.2.labelPlural>ram</WoW_Animal_Ram.lifeStages.2.labelPlural>
-  <WoW_Animal_Ram.lifeStages.2.labelMale>male ram</WoW_Animal_Ram.lifeStages.2.labelMale>
-  <WoW_Animal_Ram.lifeStages.2.labelMalePlural>male rams</WoW_Animal_Ram.lifeStages.2.labelMalePlural>
-  <WoW_Animal_Ram.lifeStages.2.labelFemale>Ram ewe</WoW_Animal_Ram.lifeStages.2.labelFemale>
-  <WoW_Animal_Ram.lifeStages.2.labelFemalePlural>female rams</WoW_Animal_Ram.lifeStages.2.labelFemalePlural>
-  <WoW_Animal_Ram.labelMale>male ram</WoW_Animal_Ram.labelMale>
-  <WoW_Animal_Ram.labelMalePlural>male rams</WoW_Animal_Ram.labelMalePlural>
-  <WoW_Animal_Ram.labelFemale>Ram ewe</WoW_Animal_Ram.labelFemale>
-  <WoW_Animal_Ram.labelFemalePlural>Ram ewes</WoW_Animal_Ram.labelFemalePlural>
+  <WoW_Animal_Ram.label>卡兹莫丹山羊</WoW_Animal_Ram.label>
+  <WoW_Animal_Ram.labelPlural>卡兹莫丹山羊</WoW_Animal_Ram.labelPlural>
+  <WoW_Animal_Ram.lifeStages.0.label>卡兹莫丹山羊驹</WoW_Animal_Ram.lifeStages.0.label>
+  <WoW_Animal_Ram.lifeStages.0.labelPlural>卡兹莫丹山羊肉</WoW_Animal_Ram.lifeStages.0.labelPlural>
+  <WoW_Animal_Ram.lifeStages.0.labelMale>男性 卡兹莫丹山羊驹</WoW_Animal_Ram.lifeStages.0.labelMale>
+  <WoW_Animal_Ram.lifeStages.0.labelMalePlural>男性 卡兹莫丹山羊肉</WoW_Animal_Ram.lifeStages.0.labelMalePlural>
+  <WoW_Animal_Ram.lifeStages.0.labelFemale>女性 卡兹莫丹山羊驹</WoW_Animal_Ram.lifeStages.0.labelFemale>
+  <WoW_Animal_Ram.lifeStages.0.labelFemalePlural>女性 卡兹莫丹山羊肉</WoW_Animal_Ram.lifeStages.0.labelFemalePlural>
+  <WoW_Animal_Ram.lifeStages.1.label>卡兹莫丹山羊</WoW_Animal_Ram.lifeStages.1.label>
+  <WoW_Animal_Ram.lifeStages.1.labelPlural>卡兹莫丹山羊</WoW_Animal_Ram.lifeStages.1.labelPlural>
+  <WoW_Animal_Ram.lifeStages.1.labelMale>男性 卡兹莫丹山羊</WoW_Animal_Ram.lifeStages.1.labelMale>
+  <WoW_Animal_Ram.lifeStages.1.labelMalePlural>男性 卡兹莫丹山羊</WoW_Animal_Ram.lifeStages.1.labelMalePlural>
+  <WoW_Animal_Ram.lifeStages.1.labelFemale>女性 卡兹莫丹山羊</WoW_Animal_Ram.lifeStages.1.labelFemale>
+  <WoW_Animal_Ram.lifeStages.1.labelFemalePlural>女性 卡兹莫丹山羊</WoW_Animal_Ram.lifeStages.1.labelFemalePlural>
+  <WoW_Animal_Ram.lifeStages.2.label>卡兹莫丹山羊</WoW_Animal_Ram.lifeStages.2.label>
+  <WoW_Animal_Ram.lifeStages.2.labelPlural>卡兹莫丹山羊</WoW_Animal_Ram.lifeStages.2.labelPlural>
+  <WoW_Animal_Ram.lifeStages.2.labelMale>男性 卡兹莫丹山羊</WoW_Animal_Ram.lifeStages.2.labelMale>
+  <WoW_Animal_Ram.lifeStages.2.labelMalePlural>男性 卡兹莫丹山羊</WoW_Animal_Ram.lifeStages.2.labelMalePlural>
+  <WoW_Animal_Ram.lifeStages.2.labelFemale>女性 卡兹莫丹山羊</WoW_Animal_Ram.lifeStages.2.labelFemale>
+  <WoW_Animal_Ram.lifeStages.2.labelFemalePlural>女性 卡兹莫丹山羊</WoW_Animal_Ram.lifeStages.2.labelFemalePlural>
+  <WoW_Animal_Ram.labelMale>男性 卡兹莫丹山羊</WoW_Animal_Ram.labelMale>
+  <WoW_Animal_Ram.labelMalePlural>男性 卡兹莫丹山羊</WoW_Animal_Ram.labelMalePlural>
+  <WoW_Animal_Ram.labelFemale>女性 卡兹莫丹山羊</WoW_Animal_Ram.labelFemale>
+  <WoW_Animal_Ram.labelFemalePlural>女性 卡兹莫丹山羊</WoW_Animal_Ram.labelFemalePlural>
 
 
 </LanguageData>

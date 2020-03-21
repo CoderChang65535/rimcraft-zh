@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <NightElfScenario.label>Night Elves - Fires of War</NightElfScenario.label>
-  <NightElfScenario.description>After Teldrassil was set ablaze it was almost impossible for your group to escape death, but miraculously you managed to find a ship and sail away with only meagre supplies before the fire engulfed you all. You must now start anew in an unknown world.</NightElfScenario.description>
-  <NightElfScenario.scenario.name>Night Elves - Fires of War</NightElfScenario.scenario.name>
-  <NightElfScenario.scenario.summary>Kaldorei villagers fleeing the destruction of the World Tree.</NightElfScenario.scenario.summary>
-  <NightElfScenario.scenario.description>After Teldrassil was set ablaze it was almost impossible for your group to escape death, but miraculously you managed to find a ship and sail away with only meagre supplies before the fire engulfed you all. You must now start anew in an unknown world.</NightElfScenario.scenario.description>
-  <NightElfScenario.scenario.parts.9.text>Kaldorei villagers fleeing the destruction of the World Tree.</NightElfScenario.scenario.parts.9.text>
+  <NightElfScenario.label>暗夜精灵 - 战火</NightElfScenario.label>
+  <NightElfScenario.description>泰达希尔被焚毁后，在绝境之中，你们找到了一艘船，带着少量的物资及时出海，免于像其他人一样死于火中。你们必须在陌生的世界中重新开始。</NightElfScenario.description>
+  <NightElfScenario.scenario.name>暗夜精灵 - 战火</NightElfScenario.scenario.name>
+  <NightElfScenario.scenario.summary>逃离被毁灭的世界树的卡多雷。</NightElfScenario.scenario.summary>
+  <NightElfScenario.scenario.description>泰达希尔被焚毁后，在绝境之中，你们找到了一艘船，带着少量的物资及时出海，免于像其他人一样死于火中。你们必须在陌生的世界中重新开始。</NightElfScenario.scenario.description>
+  <NightElfScenario.scenario.parts.9.text>逃离被毁灭的世界树的卡多雷。</NightElfScenario.scenario.parts.9.text>
 
 
 </LanguageData>

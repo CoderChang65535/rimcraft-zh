@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <WoWTroll.label>colonist</WoWTroll.label>
-  <WoWTroll.labelPlural>colonists</WoWTroll.labelPlural>
-  <WoWTroll.labelMale>male colonist</WoWTroll.labelMale>
-  <WoWTroll.labelMalePlural>male colonists</WoWTroll.labelMalePlural>
-  <WoWTroll.labelFemale>female colonist</WoWTroll.labelFemale>
-  <WoWTroll.labelFemalePlural>female colonists</WoWTroll.labelFemalePlural>
+  <WoWTroll.label>殖民者</WoWTroll.label>
+  <WoWTroll.labelPlural>殖民者</WoWTroll.labelPlural>
+  <WoWTroll.labelMale>男性殖民者</WoWTroll.labelMale>
+  <WoWTroll.labelMalePlural>男性殖民者</WoWTroll.labelMalePlural>
+  <WoWTroll.labelFemale>女性殖民者</WoWTroll.labelFemale>
+  <WoWTroll.labelFemalePlural>女性殖民者</WoWTroll.labelFemalePlural>
 
 
 </LanguageData>

@@ -3,11 +3,11 @@
 
   <!-- Murloc Def -->
 
-  <WoW_Animal_Murloc.label>murloc</WoW_Animal_Murloc.label>
+  <WoW_Animal_Murloc.label>鱼人</WoW_Animal_Murloc.label>
   <WoW_Animal_Murloc.description>Murlocs (known as gmmmlmrmrgmg or Mmmurlok in their language) are a bipedal, amphibious humanoid race mostly residing along coastlines, lakeshores and riverbeds. Murlocs tend to dwell in amply-populated coastal settlements, and it is unusual to find individuals wandering too far from their compatriots. According to Brann Bronzebeard, murlocs are smarter than what other races think—smart enough to not let anyone know.</WoW_Animal_Murloc.description>
-  <WoW_Animal_Murloc.tools.0.label>teeth</WoW_Animal_Murloc.tools.0.label>
-  <WoW_Animal_Murloc.tools.1.label>left claw</WoW_Animal_Murloc.tools.1.label>
-  <WoW_Animal_Murloc.tools.2.label>right claw</WoW_Animal_Murloc.tools.2.label>
+  <WoW_Animal_Murloc.tools.0.label>牙</WoW_Animal_Murloc.tools.0.label>
+  <WoW_Animal_Murloc.tools.1.label>左爪</WoW_Animal_Murloc.tools.1.label>
+  <WoW_Animal_Murloc.tools.2.label>右爪</WoW_Animal_Murloc.tools.2.label>
 
 
 </LanguageData>

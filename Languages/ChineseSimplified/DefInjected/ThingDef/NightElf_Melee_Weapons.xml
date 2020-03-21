@@ -3,31 +3,31 @@
 
   <!-- Sentinel's Tomahawk -->
 
-  <WoWM_NightElf_Tomahawk.label>kaldorei tomahawk</WoWM_NightElf_Tomahawk.label>
-  <WoWM_NightElf_Tomahawk.description>Kaldorei tomahawk</WoWM_NightElf_Tomahawk.description>
-  <WoWM_NightElf_Tomahawk.tools.0.label>edge</WoWM_NightElf_Tomahawk.tools.0.label>
+  <WoWM_NightElf_Tomahawk.label>哨兵战斧</WoWM_NightElf_Tomahawk.label>
+  <WoWM_NightElf_Tomahawk.description>哨兵战斧</WoWM_NightElf_Tomahawk.description>
+  <WoWM_NightElf_Tomahawk.tools.0.label>斧刃</WoWM_NightElf_Tomahawk.tools.0.label>
 
 
   <!-- Sentinel's Moonglaive -->
 
-  <WoWM_NightElf_Moonglaive.label>kaldorei moonglaive</WoWM_NightElf_Moonglaive.label>
-  <WoWM_NightElf_Moonglaive.description>Kaldorei moonglaive</WoWM_NightElf_Moonglaive.description>
-  <WoWM_NightElf_Moonglaive.tools.0.label>edge</WoWM_NightElf_Moonglaive.tools.0.label>
+  <WoWM_NightElf_Moonglaive.label>哨兵月刃</WoWM_NightElf_Moonglaive.label>
+  <WoWM_NightElf_Moonglaive.description>哨兵月刃</WoWM_NightElf_Moonglaive.description>
+  <WoWM_NightElf_Moonglaive.tools.0.label>刀刃</WoWM_NightElf_Moonglaive.tools.0.label>
 
 
   <!-- Mooncleaver -->
 
-  <WoWM_NightElf_Mooncleaver.label>kaldorei mooncleaver</WoWM_NightElf_Mooncleaver.label>
-  <WoWM_NightElf_Mooncleaver.description>Kaldorei mooncleaver</WoWM_NightElf_Mooncleaver.description>
-  <WoWM_NightElf_Mooncleaver.tools.0.label>edge</WoWM_NightElf_Mooncleaver.tools.0.label>
+  <WoWM_NightElf_Mooncleaver.label>月牙屠斧</WoWM_NightElf_Mooncleaver.label>
+  <WoWM_NightElf_Mooncleaver.description>月牙屠斧</WoWM_NightElf_Mooncleaver.description>
+  <WoWM_NightElf_Mooncleaver.tools.0.label>斧刃</WoWM_NightElf_Mooncleaver.tools.0.label>
 
 
   <!-- Sentinel's Halberd -->
 
-  <WoWM_NightElf_Halberd.label>kaldorei halberd</WoWM_NightElf_Halberd.label>
-  <WoWM_NightElf_Halberd.description>Kaldorei halberd</WoWM_NightElf_Halberd.description>
-  <WoWM_NightElf_Halberd.tools.0.label>point</WoWM_NightElf_Halberd.tools.0.label>
-  <WoWM_NightElf_Halberd.tools.1.label>edge</WoWM_NightElf_Halberd.tools.1.label>
+  <WoWM_NightElf_Halberd.label>哨兵战戟</WoWM_NightElf_Halberd.label>
+  <WoWM_NightElf_Halberd.description>哨兵战戟</WoWM_NightElf_Halberd.description>
+  <WoWM_NightElf_Halberd.tools.0.label>戟尖</WoWM_NightElf_Halberd.tools.0.label>
+  <WoWM_NightElf_Halberd.tools.1.label>戟刃</WoWM_NightElf_Halberd.tools.1.label>
 
 
 </LanguageData>

@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <WoWDraenei.label>colonist</WoWDraenei.label>
-  <WoWDraenei.labelPlural>colonists</WoWDraenei.labelPlural>
-  <WoWDraenei.labelMale>male colonist</WoWDraenei.labelMale>
-  <WoWDraenei.labelMalePlural>male colonists</WoWDraenei.labelMalePlural>
-  <WoWDraenei.labelFemale>female colonist</WoWDraenei.labelFemale>
-  <WoWDraenei.labelFemalePlural>female colonists</WoWDraenei.labelFemalePlural>
+  <WoWDraenei.label>殖民者</WoWDraenei.label>
+  <WoWDraenei.labelPlural>殖民者</WoWDraenei.labelPlural>
+  <WoWDraenei.labelMale>男性殖民者</WoWDraenei.labelMale>
+  <WoWDraenei.labelMalePlural>男性殖民者</WoWDraenei.labelMalePlural>
+  <WoWDraenei.labelFemale>女性殖民者</WoWDraenei.labelFemale>
+  <WoWDraenei.labelFemalePlural>女性殖民者</WoWDraenei.labelFemalePlural>
 
 
 </LanguageData>

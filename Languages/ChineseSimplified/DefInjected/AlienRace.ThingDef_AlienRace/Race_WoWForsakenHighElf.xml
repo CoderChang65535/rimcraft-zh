@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <WoW_ForsakenHighElf.label>Forsaken High Elf</WoW_ForsakenHighElf.label>
-  <WoW_ForsakenHighElf.description>The Blood Elves or Sin'dorei in Thalassian ("children of the blood"), are a race composed of former high elves who renamed themselves in honor of their people who were killed during the siege of Quel'Thalas by the Scourge during the Third War.</WoW_ForsakenHighElf.description>
-  <WoW_ForsakenHighElf.tools.0.label>left fist</WoW_ForsakenHighElf.tools.0.label>
-  <WoW_ForsakenHighElf.tools.1.label>right fist</WoW_ForsakenHighElf.tools.1.label>
-  <WoW_ForsakenHighElf.tools.2.label>teeth</WoW_ForsakenHighElf.tools.2.label>
-  <WoW_ForsakenHighElf.tools.3.label>head</WoW_ForsakenHighElf.tools.3.label>
+  <WoW_ForsakenHighElf.label>高等精灵亡灵</WoW_ForsakenHighElf.label>
+  <WoW_ForsakenHighElf.description>萨拉斯的血精灵（或称作辛多雷）是由前高等精灵组成的种族，他们改名来纪念在第三次大战中被天灾军团围攻的奎尔萨拉斯和被杀害的人民。</WoW_ForsakenHighElf.description>
+  <WoW_ForsakenHighElf.tools.0.label>左拳</WoW_ForsakenHighElf.tools.0.label>
+  <WoW_ForsakenHighElf.tools.1.label>右拳</WoW_ForsakenHighElf.tools.1.label>
+  <WoW_ForsakenHighElf.tools.2.label>牙齿</WoW_ForsakenHighElf.tools.2.label>
+  <WoW_ForsakenHighElf.tools.3.label>头</WoW_ForsakenHighElf.tools.3.label>
 
 
 </LanguageData>

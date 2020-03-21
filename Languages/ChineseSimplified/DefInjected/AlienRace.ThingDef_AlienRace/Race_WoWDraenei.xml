@@ -3,16 +3,16 @@
 
   <!-- WoW Draenei Base -->
 
-  <WoW_Draenei.label>Draenei</WoW_Draenei.label>
-  <WoW_Draenei.description>The draenei (meaning Exiled Ones in their own tongue) are a faction of uncorrupted eredar who fled their homeworld of Argus to escape the corruption of the demonic Burning Legion.</WoW_Draenei.description>
-  <WoW_Draenei.tools.0.label>left fist</WoW_Draenei.tools.0.label>
-  <WoW_Draenei.tools.1.label>right fist</WoW_Draenei.tools.1.label>
-  <WoW_Draenei.tools.2.label>teeth</WoW_Draenei.tools.2.label>
-  <WoW_Draenei.tools.3.label>head</WoW_Draenei.tools.3.label>
-  <WoW_Draenei.tools.4.label>left fist</WoW_Draenei.tools.4.label>
-  <WoW_Draenei.tools.5.label>right fist</WoW_Draenei.tools.5.label>
-  <WoW_Draenei.tools.6.label>teeth</WoW_Draenei.tools.6.label>
-  <WoW_Draenei.tools.7.label>head</WoW_Draenei.tools.7.label>
+  <WoW_Draenei.label>德莱尼</WoW_Draenei.label>
+  <WoW_Draenei.description>德莱尼人（他们的语言中代表流亡者）曾经是艾瑞达人的一支，他们逃离了名为阿古斯的家乡，躲避燃烧军团的邪能腐蚀。</WoW_Draenei.description>
+  <WoW_Draenei.tools.0.label>左拳</WoW_Draenei.tools.0.label>
+  <WoW_Draenei.tools.1.label>右拳</WoW_Draenei.tools.1.label>
+  <WoW_Draenei.tools.2.label>牙齿</WoW_Draenei.tools.2.label>
+  <WoW_Draenei.tools.3.label>头</WoW_Draenei.tools.3.label>
+  <WoW_Draenei.tools.4.label>左拳</WoW_Draenei.tools.4.label>
+  <WoW_Draenei.tools.5.label>右拳</WoW_Draenei.tools.5.label>
+  <WoW_Draenei.tools.6.label>牙齿</WoW_Draenei.tools.6.label>
+  <WoW_Draenei.tools.7.label>头</WoW_Draenei.tools.7.label>
 
 
 </LanguageData>

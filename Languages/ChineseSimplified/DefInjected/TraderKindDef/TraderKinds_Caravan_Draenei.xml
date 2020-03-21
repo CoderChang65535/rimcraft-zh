@@ -3,17 +3,17 @@
 
   <!-- Bulk Goods Trader -->
 
-  <Caravan_WoWDraenei_BulkGoods.label>bulk goods trader</Caravan_WoWDraenei_BulkGoods.label>
+  <Caravan_WoWDraenei_BulkGoods.label>批发贸易商</Caravan_WoWDraenei_BulkGoods.label>
 
 
   <!-- War Merchant -->
 
-  <Caravan_WoWDraenei_WarMerchant.label>war merchant</Caravan_WoWDraenei_WarMerchant.label>
+  <Caravan_WoWDraenei_WarMerchant.label>作战供应商</Caravan_WoWDraenei_WarMerchant.label>
 
 
   <!-- Shaman Merchant -->
 
-  <Caravan_WoWDraenei_ShamanMerchant.label>shaman merchant</Caravan_WoWDraenei_ShamanMerchant.label>
+  <Caravan_WoWDraenei_ShamanMerchant.label>稀有商人</Caravan_WoWDraenei_ShamanMerchant.label>
 
 
 </LanguageData>

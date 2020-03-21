@@ -3,12 +3,12 @@
 
   <!-- WoW Dwarf Base -->
 
-  <WoW_Dwarf.label>Dwarf</WoW_Dwarf.label>
-  <WoW_Dwarf.description>Dwarves are an ancient bold and courageous race descended from the earthen. Dwarves are short and stout creatures. They are shorter than humans but taller than gnomes, taking advantage of their size when possible and relying on their robustness and strength when not. The average dwarf is steady, observant and composed both during work and combat, yet able to rage with fierce zeal and persistence when the situation calls for it. While a dwarf prefers to plan forward to overcome challenges, many of them easily lose their temperament and self-restraint when exposed to conditions stirring their feelings and concerns.</WoW_Dwarf.description>
-  <WoW_Dwarf.tools.0.label>left fist</WoW_Dwarf.tools.0.label>
-  <WoW_Dwarf.tools.1.label>right fist</WoW_Dwarf.tools.1.label>
-  <WoW_Dwarf.tools.2.label>teeth</WoW_Dwarf.tools.2.label>
-  <WoW_Dwarf.tools.3.label>head</WoW_Dwarf.tools.3.label>
+  <WoW_Dwarf.label>矮人</WoW_Dwarf.label>
+  <WoW_Dwarf.description>矮人是一个古老强大而勇敢的种族，起源于土灵。 矮人是矮矮胖胖的生物，身高介于人类与侏儒之间，如果遇到不能发挥他们矮小灵活的特长时，他们也有值得信赖的坚韧。普通的矮人在工作和战斗中都很稳定，富有观察力，在紧要关头也爆发出极大的能量和耐力。尽管矮人更喜欢为克服挑战而做些计划，但也会因为临场的变故而一时冲动。</WoW_Dwarf.description>
+  <WoW_Dwarf.tools.0.label>左拳</WoW_Dwarf.tools.0.label>
+  <WoW_Dwarf.tools.1.label>右拳</WoW_Dwarf.tools.1.label>
+  <WoW_Dwarf.tools.2.label>牙齿</WoW_Dwarf.tools.2.label>
+  <WoW_Dwarf.tools.3.label>头</WoW_Dwarf.tools.3.label>
 
 
 </LanguageData>

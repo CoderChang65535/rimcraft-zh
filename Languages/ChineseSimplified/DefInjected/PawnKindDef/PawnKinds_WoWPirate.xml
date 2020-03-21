@@ -3,207 +3,207 @@
 
   <!-- WoWPirates -->
 
-  <WoW_Pirate_Pirate_NightElf.label>nightelf pirate</WoW_Pirate_Pirate_NightElf.label>
-  <WoW_Pirate_Pirate_NightElf.labelPlural>nightelf pirates</WoW_Pirate_Pirate_NightElf.labelPlural>
-  <WoW_Pirate_Pirate_NightElf.labelMale>male nightelf pirate</WoW_Pirate_Pirate_NightElf.labelMale>
-  <WoW_Pirate_Pirate_NightElf.labelMalePlural>male nightelf pirates</WoW_Pirate_Pirate_NightElf.labelMalePlural>
-  <WoW_Pirate_Pirate_NightElf.labelFemale>female nightelf pirate</WoW_Pirate_Pirate_NightElf.labelFemale>
-  <WoW_Pirate_Pirate_NightElf.labelFemalePlural>female nightelf pirates</WoW_Pirate_Pirate_NightElf.labelFemalePlural>
+  <WoW_Pirate_Pirate_NightElf.label>暗夜精灵海盗</WoW_Pirate_Pirate_NightElf.label>
+  <WoW_Pirate_Pirate_NightElf.labelPlural>暗夜精灵海盗</WoW_Pirate_Pirate_NightElf.labelPlural>
+  <WoW_Pirate_Pirate_NightElf.labelMale>男性暗夜精灵海盗</WoW_Pirate_Pirate_NightElf.labelMale>
+  <WoW_Pirate_Pirate_NightElf.labelMalePlural>男性暗夜精灵海盗</WoW_Pirate_Pirate_NightElf.labelMalePlural>
+  <WoW_Pirate_Pirate_NightElf.labelFemale>女性暗夜精灵海盗</WoW_Pirate_Pirate_NightElf.labelFemale>
+  <WoW_Pirate_Pirate_NightElf.labelFemalePlural>女性暗夜精灵海盗</WoW_Pirate_Pirate_NightElf.labelFemalePlural>
 
-  <WoW_Pirate_Pirate_BloodElf.label>blood elf pirate</WoW_Pirate_Pirate_BloodElf.label>
-  <WoW_Pirate_Pirate_BloodElf.labelPlural>blood elf pirates</WoW_Pirate_Pirate_BloodElf.labelPlural>
-  <WoW_Pirate_Pirate_BloodElf.labelMale>male blood elf pirate</WoW_Pirate_Pirate_BloodElf.labelMale>
-  <WoW_Pirate_Pirate_BloodElf.labelMalePlural>male blood elf pirates</WoW_Pirate_Pirate_BloodElf.labelMalePlural>
-  <WoW_Pirate_Pirate_BloodElf.labelFemale>female blood elf pirate</WoW_Pirate_Pirate_BloodElf.labelFemale>
-  <WoW_Pirate_Pirate_BloodElf.labelFemalePlural>female blood elf pirates</WoW_Pirate_Pirate_BloodElf.labelFemalePlural>
+  <WoW_Pirate_Pirate_BloodElf.label>血精灵海盗</WoW_Pirate_Pirate_BloodElf.label>
+  <WoW_Pirate_Pirate_BloodElf.labelPlural>血精灵海盗</WoW_Pirate_Pirate_BloodElf.labelPlural>
+  <WoW_Pirate_Pirate_BloodElf.labelMale>男性血精灵海盗</WoW_Pirate_Pirate_BloodElf.labelMale>
+  <WoW_Pirate_Pirate_BloodElf.labelMalePlural>男性血精灵海盗</WoW_Pirate_Pirate_BloodElf.labelMalePlural>
+  <WoW_Pirate_Pirate_BloodElf.labelFemale>女性血精灵海盗</WoW_Pirate_Pirate_BloodElf.labelFemale>
+  <WoW_Pirate_Pirate_BloodElf.labelFemalePlural>女性血精灵海盗</WoW_Pirate_Pirate_BloodElf.labelFemalePlural>
 
-  <WoW_Pirate_Pirate_Orc.label>orc pirate</WoW_Pirate_Pirate_Orc.label>
-  <WoW_Pirate_Pirate_Orc.labelPlural>orc pirates</WoW_Pirate_Pirate_Orc.labelPlural>
-  <WoW_Pirate_Pirate_Orc.labelMale>male orc pirate</WoW_Pirate_Pirate_Orc.labelMale>
-  <WoW_Pirate_Pirate_Orc.labelMalePlural>male orc pirates</WoW_Pirate_Pirate_Orc.labelMalePlural>
-  <WoW_Pirate_Pirate_Orc.labelFemale>female orc pirate</WoW_Pirate_Pirate_Orc.labelFemale>
-  <WoW_Pirate_Pirate_Orc.labelFemalePlural>female orc pirates</WoW_Pirate_Pirate_Orc.labelFemalePlural>
+  <WoW_Pirate_Pirate_Orc.label>兽人海盗</WoW_Pirate_Pirate_Orc.label>
+  <WoW_Pirate_Pirate_Orc.labelPlural>兽人海盗</WoW_Pirate_Pirate_Orc.labelPlural>
+  <WoW_Pirate_Pirate_Orc.labelMale>男性兽人海盗</WoW_Pirate_Pirate_Orc.labelMale>
+  <WoW_Pirate_Pirate_Orc.labelMalePlural>男性兽人海盗</WoW_Pirate_Pirate_Orc.labelMalePlural>
+  <WoW_Pirate_Pirate_Orc.labelFemale>女性兽人海盗</WoW_Pirate_Pirate_Orc.labelFemale>
+  <WoW_Pirate_Pirate_Orc.labelFemalePlural>女性兽人海盗</WoW_Pirate_Pirate_Orc.labelFemalePlural>
 
-  <WoW_Pirate_Pirate_WoWHuman.label>human pirate</WoW_Pirate_Pirate_WoWHuman.label>
-  <WoW_Pirate_Pirate_WoWHuman.labelPlural>human pirates</WoW_Pirate_Pirate_WoWHuman.labelPlural>
-  <WoW_Pirate_Pirate_WoWHuman.labelMale>male human pirate</WoW_Pirate_Pirate_WoWHuman.labelMale>
-  <WoW_Pirate_Pirate_WoWHuman.labelMalePlural>male human pirates</WoW_Pirate_Pirate_WoWHuman.labelMalePlural>
-  <WoW_Pirate_Pirate_WoWHuman.labelFemale>female human pirate</WoW_Pirate_Pirate_WoWHuman.labelFemale>
-  <WoW_Pirate_Pirate_WoWHuman.labelFemalePlural>female human pirates</WoW_Pirate_Pirate_WoWHuman.labelFemalePlural>
+  <WoW_Pirate_Pirate_WoWHuman.label>人类海盗</WoW_Pirate_Pirate_WoWHuman.label>
+  <WoW_Pirate_Pirate_WoWHuman.labelPlural>人类海盗</WoW_Pirate_Pirate_WoWHuman.labelPlural>
+  <WoW_Pirate_Pirate_WoWHuman.labelMale>男性人类海盗</WoW_Pirate_Pirate_WoWHuman.labelMale>
+  <WoW_Pirate_Pirate_WoWHuman.labelMalePlural>男性人类海盗</WoW_Pirate_Pirate_WoWHuman.labelMalePlural>
+  <WoW_Pirate_Pirate_WoWHuman.labelFemale>女性人类海盗</WoW_Pirate_Pirate_WoWHuman.labelFemale>
+  <WoW_Pirate_Pirate_WoWHuman.labelFemalePlural>女性人类海盗</WoW_Pirate_Pirate_WoWHuman.labelFemalePlural>
 
-  <WoW_Pirate_Pirate_HighElf.label>high elf pirate</WoW_Pirate_Pirate_HighElf.label>
-  <WoW_Pirate_Pirate_HighElf.labelPlural>high elf pirates</WoW_Pirate_Pirate_HighElf.labelPlural>
-  <WoW_Pirate_Pirate_HighElf.labelMale>male high elf pirate</WoW_Pirate_Pirate_HighElf.labelMale>
-  <WoW_Pirate_Pirate_HighElf.labelMalePlural>male high elf pirates</WoW_Pirate_Pirate_HighElf.labelMalePlural>
-  <WoW_Pirate_Pirate_HighElf.labelFemale>female high elf pirate</WoW_Pirate_Pirate_HighElf.labelFemale>
-  <WoW_Pirate_Pirate_HighElf.labelFemalePlural>female high elf pirates</WoW_Pirate_Pirate_HighElf.labelFemalePlural>
+  <WoW_Pirate_Pirate_HighElf.label>高等精灵海盗</WoW_Pirate_Pirate_HighElf.label>
+  <WoW_Pirate_Pirate_HighElf.labelPlural>高等精灵海盗</WoW_Pirate_Pirate_HighElf.labelPlural>
+  <WoW_Pirate_Pirate_HighElf.labelMale>男性高等精灵海盗</WoW_Pirate_Pirate_HighElf.labelMale>
+  <WoW_Pirate_Pirate_HighElf.labelMalePlural>男性高等精灵海盗</WoW_Pirate_Pirate_HighElf.labelMalePlural>
+  <WoW_Pirate_Pirate_HighElf.labelFemale>女性高等精灵海盗</WoW_Pirate_Pirate_HighElf.labelFemale>
+  <WoW_Pirate_Pirate_HighElf.labelFemalePlural>女性高等精灵海盗</WoW_Pirate_Pirate_HighElf.labelFemalePlural>
 
-  <WoW_Pirate_Pirate_Troll.label>troll pirate</WoW_Pirate_Pirate_Troll.label>
-  <WoW_Pirate_Pirate_Troll.labelPlural>troll pirates</WoW_Pirate_Pirate_Troll.labelPlural>
-  <WoW_Pirate_Pirate_Troll.labelMale>male troll pirate</WoW_Pirate_Pirate_Troll.labelMale>
-  <WoW_Pirate_Pirate_Troll.labelMalePlural>male troll pirates</WoW_Pirate_Pirate_Troll.labelMalePlural>
-  <WoW_Pirate_Pirate_Troll.labelFemale>female troll pirate</WoW_Pirate_Pirate_Troll.labelFemale>
-  <WoW_Pirate_Pirate_Troll.labelFemalePlural>female troll pirates</WoW_Pirate_Pirate_Troll.labelFemalePlural>
+  <WoW_Pirate_Pirate_Troll.label>巨魔海盗</WoW_Pirate_Pirate_Troll.label>
+  <WoW_Pirate_Pirate_Troll.labelPlural>巨魔海盗</WoW_Pirate_Pirate_Troll.labelPlural>
+  <WoW_Pirate_Pirate_Troll.labelMale>男性巨魔海盗</WoW_Pirate_Pirate_Troll.labelMale>
+  <WoW_Pirate_Pirate_Troll.labelMalePlural>男性巨魔海盗</WoW_Pirate_Pirate_Troll.labelMalePlural>
+  <WoW_Pirate_Pirate_Troll.labelFemale>女性巨魔海盗</WoW_Pirate_Pirate_Troll.labelFemale>
+  <WoW_Pirate_Pirate_Troll.labelFemalePlural>女性巨魔海盗</WoW_Pirate_Pirate_Troll.labelFemalePlural>
 
-  <WoW_Pirate_Pirate_Forsaken.label>forsaken pirate</WoW_Pirate_Pirate_Forsaken.label>
-  <WoW_Pirate_Pirate_Forsaken.labelPlural>forsaken pirates</WoW_Pirate_Pirate_Forsaken.labelPlural>
-  <WoW_Pirate_Pirate_Forsaken.labelMale>male forsaken pirate</WoW_Pirate_Pirate_Forsaken.labelMale>
-  <WoW_Pirate_Pirate_Forsaken.labelMalePlural>male forsaken pirates</WoW_Pirate_Pirate_Forsaken.labelMalePlural>
-  <WoW_Pirate_Pirate_Forsaken.labelFemale>female forsaken pirate</WoW_Pirate_Pirate_Forsaken.labelFemale>
-  <WoW_Pirate_Pirate_Forsaken.labelFemalePlural>female forsaken pirates</WoW_Pirate_Pirate_Forsaken.labelFemalePlural>
+  <WoW_Pirate_Pirate_Forsaken.label>被遗忘者海盗</WoW_Pirate_Pirate_Forsaken.label>
+  <WoW_Pirate_Pirate_Forsaken.labelPlural>被遗忘者海盗</WoW_Pirate_Pirate_Forsaken.labelPlural>
+  <WoW_Pirate_Pirate_Forsaken.labelMale>男性被遗忘者海盗</WoW_Pirate_Pirate_Forsaken.labelMale>
+  <WoW_Pirate_Pirate_Forsaken.labelMalePlural>男性被遗忘者海盗</WoW_Pirate_Pirate_Forsaken.labelMalePlural>
+  <WoW_Pirate_Pirate_Forsaken.labelFemale>女性被遗忘者海盗</WoW_Pirate_Pirate_Forsaken.labelFemale>
+  <WoW_Pirate_Pirate_Forsaken.labelFemalePlural>女性被遗忘者海盗</WoW_Pirate_Pirate_Forsaken.labelFemalePlural>
 
-  <WoW_Pirate_Pirate_Draenei.label>draenei pirate</WoW_Pirate_Pirate_Draenei.label>
-  <WoW_Pirate_Pirate_Draenei.labelPlural>draenei pirates</WoW_Pirate_Pirate_Draenei.labelPlural>
-  <WoW_Pirate_Pirate_Draenei.labelMale>male draenei pirate</WoW_Pirate_Pirate_Draenei.labelMale>
-  <WoW_Pirate_Pirate_Draenei.labelMalePlural>male draenei pirates</WoW_Pirate_Pirate_Draenei.labelMalePlural>
-  <WoW_Pirate_Pirate_Draenei.labelFemale>female draenei pirate</WoW_Pirate_Pirate_Draenei.labelFemale>
-  <WoW_Pirate_Pirate_Draenei.labelFemalePlural>female draenei pirates</WoW_Pirate_Pirate_Draenei.labelFemalePlural>
+  <WoW_Pirate_Pirate_Draenei.label>德莱尼海盗</WoW_Pirate_Pirate_Draenei.label>
+  <WoW_Pirate_Pirate_Draenei.labelPlural>德莱尼海盗</WoW_Pirate_Pirate_Draenei.labelPlural>
+  <WoW_Pirate_Pirate_Draenei.labelMale>男性德莱尼海盗</WoW_Pirate_Pirate_Draenei.labelMale>
+  <WoW_Pirate_Pirate_Draenei.labelMalePlural>男性德莱尼海盗</WoW_Pirate_Pirate_Draenei.labelMalePlural>
+  <WoW_Pirate_Pirate_Draenei.labelFemale>女性德莱尼海盗</WoW_Pirate_Pirate_Draenei.labelFemale>
+  <WoW_Pirate_Pirate_Draenei.labelFemalePlural>女性德莱尼海盗</WoW_Pirate_Pirate_Draenei.labelFemalePlural>
 
-  <WoW_Pirate_Pirate_Gnome.label>gnome pirate</WoW_Pirate_Pirate_Gnome.label>
-  <WoW_Pirate_Pirate_Gnome.labelPlural>gnome pirates</WoW_Pirate_Pirate_Gnome.labelPlural>
-  <WoW_Pirate_Pirate_Gnome.labelMale>male gnome pirate</WoW_Pirate_Pirate_Gnome.labelMale>
-  <WoW_Pirate_Pirate_Gnome.labelMalePlural>male gnome pirates</WoW_Pirate_Pirate_Gnome.labelMalePlural>
-  <WoW_Pirate_Pirate_Gnome.labelFemale>female gnome pirate</WoW_Pirate_Pirate_Gnome.labelFemale>
-  <WoW_Pirate_Pirate_Gnome.labelFemalePlural>female gnome pirates</WoW_Pirate_Pirate_Gnome.labelFemalePlural>
+  <WoW_Pirate_Pirate_Gnome.label>侏儒海盗</WoW_Pirate_Pirate_Gnome.label>
+  <WoW_Pirate_Pirate_Gnome.labelPlural>侏儒海盗</WoW_Pirate_Pirate_Gnome.labelPlural>
+  <WoW_Pirate_Pirate_Gnome.labelMale>男性侏儒海盗</WoW_Pirate_Pirate_Gnome.labelMale>
+  <WoW_Pirate_Pirate_Gnome.labelMalePlural>男性侏儒海盗</WoW_Pirate_Pirate_Gnome.labelMalePlural>
+  <WoW_Pirate_Pirate_Gnome.labelFemale>女性侏儒海盗</WoW_Pirate_Pirate_Gnome.labelFemale>
+  <WoW_Pirate_Pirate_Gnome.labelFemalePlural>女性侏儒海盗</WoW_Pirate_Pirate_Gnome.labelFemalePlural>
 
 
   <!-- WoWSniper -->
 
-  <WoW_Pirate_Sniper_NightElf.label>nightelf sniper</WoW_Pirate_Sniper_NightElf.label>
-  <WoW_Pirate_Sniper_NightElf.labelPlural>nightelf snipers</WoW_Pirate_Sniper_NightElf.labelPlural>
-  <WoW_Pirate_Sniper_NightElf.labelMale>male nightelf sniper</WoW_Pirate_Sniper_NightElf.labelMale>
-  <WoW_Pirate_Sniper_NightElf.labelMalePlural>male nightelf snipers</WoW_Pirate_Sniper_NightElf.labelMalePlural>
-  <WoW_Pirate_Sniper_NightElf.labelFemale>female nightelf sniper</WoW_Pirate_Sniper_NightElf.labelFemale>
-  <WoW_Pirate_Sniper_NightElf.labelFemalePlural>female nightelf snipers</WoW_Pirate_Sniper_NightElf.labelFemalePlural>
+  <WoW_Pirate_Sniper_NightElf.label>暗夜精灵狙击手</WoW_Pirate_Sniper_NightElf.label>
+  <WoW_Pirate_Sniper_NightElf.labelPlural>暗夜精灵狙击手</WoW_Pirate_Sniper_NightElf.labelPlural>
+  <WoW_Pirate_Sniper_NightElf.labelMale>男性暗夜精灵狙击手</WoW_Pirate_Sniper_NightElf.labelMale>
+  <WoW_Pirate_Sniper_NightElf.labelMalePlural>男性暗夜精灵狙击手</WoW_Pirate_Sniper_NightElf.labelMalePlural>
+  <WoW_Pirate_Sniper_NightElf.labelFemale>女性暗夜精灵狙击手</WoW_Pirate_Sniper_NightElf.labelFemale>
+  <WoW_Pirate_Sniper_NightElf.labelFemalePlural>女性暗夜精灵狙击手</WoW_Pirate_Sniper_NightElf.labelFemalePlural>
 
-  <WoW_Pirate_Sniper_BloodElf.label>blood elf sniper</WoW_Pirate_Sniper_BloodElf.label>
-  <WoW_Pirate_Sniper_BloodElf.labelPlural>blood elf snipers</WoW_Pirate_Sniper_BloodElf.labelPlural>
-  <WoW_Pirate_Sniper_BloodElf.labelMale>male blood elf sniper</WoW_Pirate_Sniper_BloodElf.labelMale>
-  <WoW_Pirate_Sniper_BloodElf.labelMalePlural>male blood elf snipers</WoW_Pirate_Sniper_BloodElf.labelMalePlural>
-  <WoW_Pirate_Sniper_BloodElf.labelFemale>female blood elf sniper</WoW_Pirate_Sniper_BloodElf.labelFemale>
-  <WoW_Pirate_Sniper_BloodElf.labelFemalePlural>female blood elf snipers</WoW_Pirate_Sniper_BloodElf.labelFemalePlural>
+  <WoW_Pirate_Sniper_BloodElf.label>血精灵狙击手</WoW_Pirate_Sniper_BloodElf.label>
+  <WoW_Pirate_Sniper_BloodElf.labelPlural>血精灵狙击手</WoW_Pirate_Sniper_BloodElf.labelPlural>
+  <WoW_Pirate_Sniper_BloodElf.labelMale>男性血精灵狙击手</WoW_Pirate_Sniper_BloodElf.labelMale>
+  <WoW_Pirate_Sniper_BloodElf.labelMalePlural>男性血精灵狙击手</WoW_Pirate_Sniper_BloodElf.labelMalePlural>
+  <WoW_Pirate_Sniper_BloodElf.labelFemale>女性血精灵狙击手</WoW_Pirate_Sniper_BloodElf.labelFemale>
+  <WoW_Pirate_Sniper_BloodElf.labelFemalePlural>女性血精灵狙击手</WoW_Pirate_Sniper_BloodElf.labelFemalePlural>
 
-  <WoW_Pirate_Sniper_Orc.label>orc sniper</WoW_Pirate_Sniper_Orc.label>
-  <WoW_Pirate_Sniper_Orc.labelPlural>orc snipers</WoW_Pirate_Sniper_Orc.labelPlural>
-  <WoW_Pirate_Sniper_Orc.labelMale>male orc sniper</WoW_Pirate_Sniper_Orc.labelMale>
-  <WoW_Pirate_Sniper_Orc.labelMalePlural>male orc snipers</WoW_Pirate_Sniper_Orc.labelMalePlural>
-  <WoW_Pirate_Sniper_Orc.labelFemale>female orc sniper</WoW_Pirate_Sniper_Orc.labelFemale>
-  <WoW_Pirate_Sniper_Orc.labelFemalePlural>female orc snipers</WoW_Pirate_Sniper_Orc.labelFemalePlural>
+  <WoW_Pirate_Sniper_Orc.label>兽人狙击手</WoW_Pirate_Sniper_Orc.label>
+  <WoW_Pirate_Sniper_Orc.labelPlural>兽人狙击手</WoW_Pirate_Sniper_Orc.labelPlural>
+  <WoW_Pirate_Sniper_Orc.labelMale>男性兽人狙击手</WoW_Pirate_Sniper_Orc.labelMale>
+  <WoW_Pirate_Sniper_Orc.labelMalePlural>男性兽人狙击手</WoW_Pirate_Sniper_Orc.labelMalePlural>
+  <WoW_Pirate_Sniper_Orc.labelFemale>女性兽人狙击手</WoW_Pirate_Sniper_Orc.labelFemale>
+  <WoW_Pirate_Sniper_Orc.labelFemalePlural>女性兽人狙击手</WoW_Pirate_Sniper_Orc.labelFemalePlural>
 
-  <WoW_Pirate_Sniper_WoWHuman.label>human sniper</WoW_Pirate_Sniper_WoWHuman.label>
-  <WoW_Pirate_Sniper_WoWHuman.labelPlural>human snipers</WoW_Pirate_Sniper_WoWHuman.labelPlural>
-  <WoW_Pirate_Sniper_WoWHuman.labelMale>male human sniper</WoW_Pirate_Sniper_WoWHuman.labelMale>
-  <WoW_Pirate_Sniper_WoWHuman.labelMalePlural>male human snipers</WoW_Pirate_Sniper_WoWHuman.labelMalePlural>
-  <WoW_Pirate_Sniper_WoWHuman.labelFemale>female human sniper</WoW_Pirate_Sniper_WoWHuman.labelFemale>
-  <WoW_Pirate_Sniper_WoWHuman.labelFemalePlural>female human snipers</WoW_Pirate_Sniper_WoWHuman.labelFemalePlural>
+  <WoW_Pirate_Sniper_WoWHuman.label>人类狙击手</WoW_Pirate_Sniper_WoWHuman.label>
+  <WoW_Pirate_Sniper_WoWHuman.labelPlural>人类狙击手</WoW_Pirate_Sniper_WoWHuman.labelPlural>
+  <WoW_Pirate_Sniper_WoWHuman.labelMale>男性人类狙击手</WoW_Pirate_Sniper_WoWHuman.labelMale>
+  <WoW_Pirate_Sniper_WoWHuman.labelMalePlural>男性人类狙击手</WoW_Pirate_Sniper_WoWHuman.labelMalePlural>
+  <WoW_Pirate_Sniper_WoWHuman.labelFemale>女性人类狙击手</WoW_Pirate_Sniper_WoWHuman.labelFemale>
+  <WoW_Pirate_Sniper_WoWHuman.labelFemalePlural>女性人类狙击手</WoW_Pirate_Sniper_WoWHuman.labelFemalePlural>
 
-  <WoW_Pirate_Sniper_HighElf.label>high elf sniper</WoW_Pirate_Sniper_HighElf.label>
-  <WoW_Pirate_Sniper_HighElf.labelPlural>high elf snipers</WoW_Pirate_Sniper_HighElf.labelPlural>
-  <WoW_Pirate_Sniper_HighElf.labelMale>male high elf sniper</WoW_Pirate_Sniper_HighElf.labelMale>
-  <WoW_Pirate_Sniper_HighElf.labelMalePlural>male high elf snipers</WoW_Pirate_Sniper_HighElf.labelMalePlural>
-  <WoW_Pirate_Sniper_HighElf.labelFemale>female high elf sniper</WoW_Pirate_Sniper_HighElf.labelFemale>
-  <WoW_Pirate_Sniper_HighElf.labelFemalePlural>female high elf snipers</WoW_Pirate_Sniper_HighElf.labelFemalePlural>
+  <WoW_Pirate_Sniper_HighElf.label>高等精灵狙击手</WoW_Pirate_Sniper_HighElf.label>
+  <WoW_Pirate_Sniper_HighElf.labelPlural>高等精灵狙击手</WoW_Pirate_Sniper_HighElf.labelPlural>
+  <WoW_Pirate_Sniper_HighElf.labelMale>男性高等精灵狙击手</WoW_Pirate_Sniper_HighElf.labelMale>
+  <WoW_Pirate_Sniper_HighElf.labelMalePlural>男性高等精灵狙击手</WoW_Pirate_Sniper_HighElf.labelMalePlural>
+  <WoW_Pirate_Sniper_HighElf.labelFemale>女性高等精灵狙击手</WoW_Pirate_Sniper_HighElf.labelFemale>
+  <WoW_Pirate_Sniper_HighElf.labelFemalePlural>女性高等精灵狙击手</WoW_Pirate_Sniper_HighElf.labelFemalePlural>
 
-  <WoW_Pirate_Sniper_Troll.label>troll sniper</WoW_Pirate_Sniper_Troll.label>
-  <WoW_Pirate_Sniper_Troll.labelPlural>troll snipers</WoW_Pirate_Sniper_Troll.labelPlural>
-  <WoW_Pirate_Sniper_Troll.labelMale>male troll sniper</WoW_Pirate_Sniper_Troll.labelMale>
-  <WoW_Pirate_Sniper_Troll.labelMalePlural>male troll snipers</WoW_Pirate_Sniper_Troll.labelMalePlural>
-  <WoW_Pirate_Sniper_Troll.labelFemale>female troll sniper</WoW_Pirate_Sniper_Troll.labelFemale>
-  <WoW_Pirate_Sniper_Troll.labelFemalePlural>female troll snipers</WoW_Pirate_Sniper_Troll.labelFemalePlural>
+  <WoW_Pirate_Sniper_Troll.label>巨魔狙击手</WoW_Pirate_Sniper_Troll.label>
+  <WoW_Pirate_Sniper_Troll.labelPlural>巨魔狙击手</WoW_Pirate_Sniper_Troll.labelPlural>
+  <WoW_Pirate_Sniper_Troll.labelMale>男性巨魔狙击手</WoW_Pirate_Sniper_Troll.labelMale>
+  <WoW_Pirate_Sniper_Troll.labelMalePlural>男性巨魔狙击手</WoW_Pirate_Sniper_Troll.labelMalePlural>
+  <WoW_Pirate_Sniper_Troll.labelFemale>女性巨魔狙击手</WoW_Pirate_Sniper_Troll.labelFemale>
+  <WoW_Pirate_Sniper_Troll.labelFemalePlural>女性巨魔狙击手</WoW_Pirate_Sniper_Troll.labelFemalePlural>
 
-  <WoW_Pirate_Sniper_Forsaken.label>forsaken sniper</WoW_Pirate_Sniper_Forsaken.label>
-  <WoW_Pirate_Sniper_Forsaken.labelPlural>forsaken snipers</WoW_Pirate_Sniper_Forsaken.labelPlural>
-  <WoW_Pirate_Sniper_Forsaken.labelMale>male forsaken sniper</WoW_Pirate_Sniper_Forsaken.labelMale>
-  <WoW_Pirate_Sniper_Forsaken.labelMalePlural>male forsaken snipers</WoW_Pirate_Sniper_Forsaken.labelMalePlural>
-  <WoW_Pirate_Sniper_Forsaken.labelFemale>female forsaken sniper</WoW_Pirate_Sniper_Forsaken.labelFemale>
-  <WoW_Pirate_Sniper_Forsaken.labelFemalePlural>female forsaken snipers</WoW_Pirate_Sniper_Forsaken.labelFemalePlural>
+  <WoW_Pirate_Sniper_Forsaken.label>被遗忘者狙击手</WoW_Pirate_Sniper_Forsaken.label>
+  <WoW_Pirate_Sniper_Forsaken.labelPlural>被遗忘者狙击手</WoW_Pirate_Sniper_Forsaken.labelPlural>
+  <WoW_Pirate_Sniper_Forsaken.labelMale>男性被遗忘者狙击手</WoW_Pirate_Sniper_Forsaken.labelMale>
+  <WoW_Pirate_Sniper_Forsaken.labelMalePlural>男性被遗忘者狙击手</WoW_Pirate_Sniper_Forsaken.labelMalePlural>
+  <WoW_Pirate_Sniper_Forsaken.labelFemale>女性被遗忘者狙击手</WoW_Pirate_Sniper_Forsaken.labelFemale>
+  <WoW_Pirate_Sniper_Forsaken.labelFemalePlural>女性被遗忘者狙击手</WoW_Pirate_Sniper_Forsaken.labelFemalePlural>
 
-  <WoW_Pirate_Sniper_Draenei.label>draenei sniper</WoW_Pirate_Sniper_Draenei.label>
-  <WoW_Pirate_Sniper_Draenei.labelPlural>draenei snipers</WoW_Pirate_Sniper_Draenei.labelPlural>
-  <WoW_Pirate_Sniper_Draenei.labelMale>male draenei sniper</WoW_Pirate_Sniper_Draenei.labelMale>
-  <WoW_Pirate_Sniper_Draenei.labelMalePlural>male draenei snipers</WoW_Pirate_Sniper_Draenei.labelMalePlural>
-  <WoW_Pirate_Sniper_Draenei.labelFemale>female draenei sniper</WoW_Pirate_Sniper_Draenei.labelFemale>
-  <WoW_Pirate_Sniper_Draenei.labelFemalePlural>female draenei snipers</WoW_Pirate_Sniper_Draenei.labelFemalePlural>
+  <WoW_Pirate_Sniper_Draenei.label>德莱尼狙击手</WoW_Pirate_Sniper_Draenei.label>
+  <WoW_Pirate_Sniper_Draenei.labelPlural>德莱尼狙击手</WoW_Pirate_Sniper_Draenei.labelPlural>
+  <WoW_Pirate_Sniper_Draenei.labelMale>男性德莱尼狙击手</WoW_Pirate_Sniper_Draenei.labelMale>
+  <WoW_Pirate_Sniper_Draenei.labelMalePlural>男性德莱尼狙击手</WoW_Pirate_Sniper_Draenei.labelMalePlural>
+  <WoW_Pirate_Sniper_Draenei.labelFemale>女性德莱尼狙击手</WoW_Pirate_Sniper_Draenei.labelFemale>
+  <WoW_Pirate_Sniper_Draenei.labelFemalePlural>女性德莱尼狙击手</WoW_Pirate_Sniper_Draenei.labelFemalePlural>
 
-  <WoW_Pirate_Sniper_Gnome.label>gnome sniper</WoW_Pirate_Sniper_Gnome.label>
-  <WoW_Pirate_Sniper_Gnome.labelPlural>gnome snipers</WoW_Pirate_Sniper_Gnome.labelPlural>
-  <WoW_Pirate_Sniper_Gnome.labelMale>male gnome sniper</WoW_Pirate_Sniper_Gnome.labelMale>
-  <WoW_Pirate_Sniper_Gnome.labelMalePlural>male gnome snipers</WoW_Pirate_Sniper_Gnome.labelMalePlural>
-  <WoW_Pirate_Sniper_Gnome.labelFemale>female gnome sniper</WoW_Pirate_Sniper_Gnome.labelFemale>
-  <WoW_Pirate_Sniper_Gnome.labelFemalePlural>female gnome snipers</WoW_Pirate_Sniper_Gnome.labelFemalePlural>
+  <WoW_Pirate_Sniper_Gnome.label>侏儒狙击手</WoW_Pirate_Sniper_Gnome.label>
+  <WoW_Pirate_Sniper_Gnome.labelPlural>侏儒狙击手</WoW_Pirate_Sniper_Gnome.labelPlural>
+  <WoW_Pirate_Sniper_Gnome.labelMale>男性侏儒狙击手</WoW_Pirate_Sniper_Gnome.labelMale>
+  <WoW_Pirate_Sniper_Gnome.labelMalePlural>男性侏儒狙击手</WoW_Pirate_Sniper_Gnome.labelMalePlural>
+  <WoW_Pirate_Sniper_Gnome.labelFemale>女性侏儒狙击手</WoW_Pirate_Sniper_Gnome.labelFemale>
+  <WoW_Pirate_Sniper_Gnome.labelFemalePlural>女性侏儒狙击手</WoW_Pirate_Sniper_Gnome.labelFemalePlural>
 
 
   <!-- WoWSlasher -->
 
-  <WoW_Pirate_Slasher_NightElf.label>nightelf slasher</WoW_Pirate_Slasher_NightElf.label>
-  <WoW_Pirate_Slasher_NightElf.labelPlural>nightelf slashers</WoW_Pirate_Slasher_NightElf.labelPlural>
-  <WoW_Pirate_Slasher_NightElf.labelMale>male nightelf slasher</WoW_Pirate_Slasher_NightElf.labelMale>
-  <WoW_Pirate_Slasher_NightElf.labelMalePlural>male nightelf slashers</WoW_Pirate_Slasher_NightElf.labelMalePlural>
-  <WoW_Pirate_Slasher_NightElf.labelFemale>female nightelf slasher</WoW_Pirate_Slasher_NightElf.labelFemale>
-  <WoW_Pirate_Slasher_NightElf.labelFemalePlural>female nightelf slashers</WoW_Pirate_Slasher_NightElf.labelFemalePlural>
+  <WoW_Pirate_Slasher_NightElf.label>暗夜精灵切割者</WoW_Pirate_Slasher_NightElf.label>
+  <WoW_Pirate_Slasher_NightElf.labelPlural>暗夜精灵切割者</WoW_Pirate_Slasher_NightElf.labelPlural>
+  <WoW_Pirate_Slasher_NightElf.labelMale>男性暗夜精灵切割者</WoW_Pirate_Slasher_NightElf.labelMale>
+  <WoW_Pirate_Slasher_NightElf.labelMalePlural>男性暗夜精灵切割者</WoW_Pirate_Slasher_NightElf.labelMalePlural>
+  <WoW_Pirate_Slasher_NightElf.labelFemale>女性暗夜精灵切割者</WoW_Pirate_Slasher_NightElf.labelFemale>
+  <WoW_Pirate_Slasher_NightElf.labelFemalePlural>女性暗夜精灵切割者</WoW_Pirate_Slasher_NightElf.labelFemalePlural>
 
-  <WoW_Pirate_Slasher_BloodElf.label>blood elf slasher</WoW_Pirate_Slasher_BloodElf.label>
-  <WoW_Pirate_Slasher_BloodElf.labelPlural>blood elf slashers</WoW_Pirate_Slasher_BloodElf.labelPlural>
-  <WoW_Pirate_Slasher_BloodElf.labelMale>male blood elf slasher</WoW_Pirate_Slasher_BloodElf.labelMale>
-  <WoW_Pirate_Slasher_BloodElf.labelMalePlural>male blood elf slashers</WoW_Pirate_Slasher_BloodElf.labelMalePlural>
-  <WoW_Pirate_Slasher_BloodElf.labelFemale>female blood elf slasher</WoW_Pirate_Slasher_BloodElf.labelFemale>
-  <WoW_Pirate_Slasher_BloodElf.labelFemalePlural>female blood elf slashers</WoW_Pirate_Slasher_BloodElf.labelFemalePlural>
+  <WoW_Pirate_Slasher_BloodElf.label>血精灵切割者</WoW_Pirate_Slasher_BloodElf.label>
+  <WoW_Pirate_Slasher_BloodElf.labelPlural>血精灵切割者</WoW_Pirate_Slasher_BloodElf.labelPlural>
+  <WoW_Pirate_Slasher_BloodElf.labelMale>男性血精灵切割者</WoW_Pirate_Slasher_BloodElf.labelMale>
+  <WoW_Pirate_Slasher_BloodElf.labelMalePlural>男性血精灵切割者</WoW_Pirate_Slasher_BloodElf.labelMalePlural>
+  <WoW_Pirate_Slasher_BloodElf.labelFemale>女性血精灵切割者</WoW_Pirate_Slasher_BloodElf.labelFemale>
+  <WoW_Pirate_Slasher_BloodElf.labelFemalePlural>女性血精灵切割者</WoW_Pirate_Slasher_BloodElf.labelFemalePlural>
 
-  <WoW_Pirate_Slasher_Orc.label>orc slasher</WoW_Pirate_Slasher_Orc.label>
-  <WoW_Pirate_Slasher_Orc.labelPlural>orc slashers</WoW_Pirate_Slasher_Orc.labelPlural>
-  <WoW_Pirate_Slasher_Orc.labelMale>male orc slasher</WoW_Pirate_Slasher_Orc.labelMale>
-  <WoW_Pirate_Slasher_Orc.labelMalePlural>male orc slashers</WoW_Pirate_Slasher_Orc.labelMalePlural>
-  <WoW_Pirate_Slasher_Orc.labelFemale>female orc slasher</WoW_Pirate_Slasher_Orc.labelFemale>
-  <WoW_Pirate_Slasher_Orc.labelFemalePlural>female orc slashers</WoW_Pirate_Slasher_Orc.labelFemalePlural>
+  <WoW_Pirate_Slasher_Orc.label>兽人切割者</WoW_Pirate_Slasher_Orc.label>
+  <WoW_Pirate_Slasher_Orc.labelPlural>兽人切割者</WoW_Pirate_Slasher_Orc.labelPlural>
+  <WoW_Pirate_Slasher_Orc.labelMale>男性兽人切割者</WoW_Pirate_Slasher_Orc.labelMale>
+  <WoW_Pirate_Slasher_Orc.labelMalePlural>男性兽人切割者</WoW_Pirate_Slasher_Orc.labelMalePlural>
+  <WoW_Pirate_Slasher_Orc.labelFemale>女性兽人切割者</WoW_Pirate_Slasher_Orc.labelFemale>
+  <WoW_Pirate_Slasher_Orc.labelFemalePlural>女性兽人切割者</WoW_Pirate_Slasher_Orc.labelFemalePlural>
 
-  <WoW_Pirate_Slasher_WoWHuman.label>human slasher</WoW_Pirate_Slasher_WoWHuman.label>
-  <WoW_Pirate_Slasher_WoWHuman.labelPlural>human slashers</WoW_Pirate_Slasher_WoWHuman.labelPlural>
-  <WoW_Pirate_Slasher_WoWHuman.labelMale>male human slasher</WoW_Pirate_Slasher_WoWHuman.labelMale>
-  <WoW_Pirate_Slasher_WoWHuman.labelMalePlural>male human slashers</WoW_Pirate_Slasher_WoWHuman.labelMalePlural>
-  <WoW_Pirate_Slasher_WoWHuman.labelFemale>female human slasher</WoW_Pirate_Slasher_WoWHuman.labelFemale>
-  <WoW_Pirate_Slasher_WoWHuman.labelFemalePlural>female human slashers</WoW_Pirate_Slasher_WoWHuman.labelFemalePlural>
+  <WoW_Pirate_Slasher_WoWHuman.label>人类切割者</WoW_Pirate_Slasher_WoWHuman.label>
+  <WoW_Pirate_Slasher_WoWHuman.labelPlural>人类切割者</WoW_Pirate_Slasher_WoWHuman.labelPlural>
+  <WoW_Pirate_Slasher_WoWHuman.labelMale>男性人类切割者</WoW_Pirate_Slasher_WoWHuman.labelMale>
+  <WoW_Pirate_Slasher_WoWHuman.labelMalePlural>男性人类切割者</WoW_Pirate_Slasher_WoWHuman.labelMalePlural>
+  <WoW_Pirate_Slasher_WoWHuman.labelFemale>女性人类切割者</WoW_Pirate_Slasher_WoWHuman.labelFemale>
+  <WoW_Pirate_Slasher_WoWHuman.labelFemalePlural>女性人类切割者</WoW_Pirate_Slasher_WoWHuman.labelFemalePlural>
 
-  <WoW_Pirate_Slasher_HighElf.label>high elf slasher</WoW_Pirate_Slasher_HighElf.label>
-  <WoW_Pirate_Slasher_HighElf.labelPlural>high elf slashers</WoW_Pirate_Slasher_HighElf.labelPlural>
-  <WoW_Pirate_Slasher_HighElf.labelMale>male high elf slasher</WoW_Pirate_Slasher_HighElf.labelMale>
-  <WoW_Pirate_Slasher_HighElf.labelMalePlural>male high elf slashers</WoW_Pirate_Slasher_HighElf.labelMalePlural>
-  <WoW_Pirate_Slasher_HighElf.labelFemale>female high elf slasher</WoW_Pirate_Slasher_HighElf.labelFemale>
-  <WoW_Pirate_Slasher_HighElf.labelFemalePlural>female high elf slashers</WoW_Pirate_Slasher_HighElf.labelFemalePlural>
+  <WoW_Pirate_Slasher_HighElf.label>高等精灵切割者</WoW_Pirate_Slasher_HighElf.label>
+  <WoW_Pirate_Slasher_HighElf.labelPlural>高等精灵切割者</WoW_Pirate_Slasher_HighElf.labelPlural>
+  <WoW_Pirate_Slasher_HighElf.labelMale>男性高等精灵切割者</WoW_Pirate_Slasher_HighElf.labelMale>
+  <WoW_Pirate_Slasher_HighElf.labelMalePlural>男性高等精灵切割者</WoW_Pirate_Slasher_HighElf.labelMalePlural>
+  <WoW_Pirate_Slasher_HighElf.labelFemale>女性高等精灵切割者</WoW_Pirate_Slasher_HighElf.labelFemale>
+  <WoW_Pirate_Slasher_HighElf.labelFemalePlural>女性高等精灵切割者</WoW_Pirate_Slasher_HighElf.labelFemalePlural>
 
-  <WoW_Pirate_Slasher_Troll.label>troll slasher</WoW_Pirate_Slasher_Troll.label>
-  <WoW_Pirate_Slasher_Troll.labelPlural>troll slashers</WoW_Pirate_Slasher_Troll.labelPlural>
-  <WoW_Pirate_Slasher_Troll.labelMale>male troll slasher</WoW_Pirate_Slasher_Troll.labelMale>
-  <WoW_Pirate_Slasher_Troll.labelMalePlural>male troll slashers</WoW_Pirate_Slasher_Troll.labelMalePlural>
-  <WoW_Pirate_Slasher_Troll.labelFemale>female troll slasher</WoW_Pirate_Slasher_Troll.labelFemale>
-  <WoW_Pirate_Slasher_Troll.labelFemalePlural>female troll slashers</WoW_Pirate_Slasher_Troll.labelFemalePlural>
+  <WoW_Pirate_Slasher_Troll.label>巨魔切割者</WoW_Pirate_Slasher_Troll.label>
+  <WoW_Pirate_Slasher_Troll.labelPlural>巨魔切割者</WoW_Pirate_Slasher_Troll.labelPlural>
+  <WoW_Pirate_Slasher_Troll.labelMale>男性巨魔切割者</WoW_Pirate_Slasher_Troll.labelMale>
+  <WoW_Pirate_Slasher_Troll.labelMalePlural>男性巨魔切割者</WoW_Pirate_Slasher_Troll.labelMalePlural>
+  <WoW_Pirate_Slasher_Troll.labelFemale>女性巨魔切割者</WoW_Pirate_Slasher_Troll.labelFemale>
+  <WoW_Pirate_Slasher_Troll.labelFemalePlural>女性巨魔切割者</WoW_Pirate_Slasher_Troll.labelFemalePlural>
 
-  <WoW_Pirate_Slasher_Forsaken.label>forsaken slasher</WoW_Pirate_Slasher_Forsaken.label>
-  <WoW_Pirate_Slasher_Forsaken.labelPlural>forsaken slashers</WoW_Pirate_Slasher_Forsaken.labelPlural>
-  <WoW_Pirate_Slasher_Forsaken.labelMale>male forsaken slasher</WoW_Pirate_Slasher_Forsaken.labelMale>
-  <WoW_Pirate_Slasher_Forsaken.labelMalePlural>male forsaken slashers</WoW_Pirate_Slasher_Forsaken.labelMalePlural>
-  <WoW_Pirate_Slasher_Forsaken.labelFemale>female forsaken slasher</WoW_Pirate_Slasher_Forsaken.labelFemale>
-  <WoW_Pirate_Slasher_Forsaken.labelFemalePlural>female forsaken slashers</WoW_Pirate_Slasher_Forsaken.labelFemalePlural>
+  <WoW_Pirate_Slasher_Forsaken.label>被遗忘者切割者</WoW_Pirate_Slasher_Forsaken.label>
+  <WoW_Pirate_Slasher_Forsaken.labelPlural>被遗忘者切割者</WoW_Pirate_Slasher_Forsaken.labelPlural>
+  <WoW_Pirate_Slasher_Forsaken.labelMale>男性被遗忘者切割者</WoW_Pirate_Slasher_Forsaken.labelMale>
+  <WoW_Pirate_Slasher_Forsaken.labelMalePlural>男性被遗忘者切割者</WoW_Pirate_Slasher_Forsaken.labelMalePlural>
+  <WoW_Pirate_Slasher_Forsaken.labelFemale>女性被遗忘者切割者</WoW_Pirate_Slasher_Forsaken.labelFemale>
+  <WoW_Pirate_Slasher_Forsaken.labelFemalePlural>女性被遗忘者切割者</WoW_Pirate_Slasher_Forsaken.labelFemalePlural>
 
-  <WoW_Pirate_Slasher_Draenei.label>draenei slasher</WoW_Pirate_Slasher_Draenei.label>
-  <WoW_Pirate_Slasher_Draenei.labelPlural>draenei slashers</WoW_Pirate_Slasher_Draenei.labelPlural>
-  <WoW_Pirate_Slasher_Draenei.labelMale>male draenei slasher</WoW_Pirate_Slasher_Draenei.labelMale>
-  <WoW_Pirate_Slasher_Draenei.labelMalePlural>male draenei slashers</WoW_Pirate_Slasher_Draenei.labelMalePlural>
-  <WoW_Pirate_Slasher_Draenei.labelFemale>female draenei slasher</WoW_Pirate_Slasher_Draenei.labelFemale>
-  <WoW_Pirate_Slasher_Draenei.labelFemalePlural>female draenei slashers</WoW_Pirate_Slasher_Draenei.labelFemalePlural>
+  <WoW_Pirate_Slasher_Draenei.label>德莱尼切割者</WoW_Pirate_Slasher_Draenei.label>
+  <WoW_Pirate_Slasher_Draenei.labelPlural>德莱尼切割者</WoW_Pirate_Slasher_Draenei.labelPlural>
+  <WoW_Pirate_Slasher_Draenei.labelMale>男性德莱尼切割者</WoW_Pirate_Slasher_Draenei.labelMale>
+  <WoW_Pirate_Slasher_Draenei.labelMalePlural>男性德莱尼切割者</WoW_Pirate_Slasher_Draenei.labelMalePlural>
+  <WoW_Pirate_Slasher_Draenei.labelFemale>女性德莱尼切割者</WoW_Pirate_Slasher_Draenei.labelFemale>
+  <WoW_Pirate_Slasher_Draenei.labelFemalePlural>女性德莱尼切割者</WoW_Pirate_Slasher_Draenei.labelFemalePlural>
 
-  <WoW_Pirate_Slasher_Gnome.label>gnome slasher</WoW_Pirate_Slasher_Gnome.label>
-  <WoW_Pirate_Slasher_Gnome.labelPlural>gnome slashers</WoW_Pirate_Slasher_Gnome.labelPlural>
-  <WoW_Pirate_Slasher_Gnome.labelMale>male gnome slasher</WoW_Pirate_Slasher_Gnome.labelMale>
-  <WoW_Pirate_Slasher_Gnome.labelMalePlural>male gnome slashers</WoW_Pirate_Slasher_Gnome.labelMalePlural>
-  <WoW_Pirate_Slasher_Gnome.labelFemale>female gnome slasher</WoW_Pirate_Slasher_Gnome.labelFemale>
-  <WoW_Pirate_Slasher_Gnome.labelFemalePlural>female gnome slashers</WoW_Pirate_Slasher_Gnome.labelFemalePlural>
+  <WoW_Pirate_Slasher_Gnome.label>侏儒切割者</WoW_Pirate_Slasher_Gnome.label>
+  <WoW_Pirate_Slasher_Gnome.labelPlural>侏儒切割者</WoW_Pirate_Slasher_Gnome.labelPlural>
+  <WoW_Pirate_Slasher_Gnome.labelMale>男性侏儒切割者</WoW_Pirate_Slasher_Gnome.labelMale>
+  <WoW_Pirate_Slasher_Gnome.labelMalePlural>男性侏儒切割者</WoW_Pirate_Slasher_Gnome.labelMalePlural>
+  <WoW_Pirate_Slasher_Gnome.labelFemale>女性侏儒切割者</WoW_Pirate_Slasher_Gnome.labelFemale>
+  <WoW_Pirate_Slasher_Gnome.labelFemalePlural>女性侏儒切割者</WoW_Pirate_Slasher_Gnome.labelFemalePlural>
 
-  <WoW_Pirate_Slasher_Worgen.label>worgen slasher</WoW_Pirate_Slasher_Worgen.label>
-  <WoW_Pirate_Slasher_Worgen.labelPlural>worgen slashers</WoW_Pirate_Slasher_Worgen.labelPlural>
-  <WoW_Pirate_Slasher_Worgen.labelMale>male worgen slasher</WoW_Pirate_Slasher_Worgen.labelMale>
-  <WoW_Pirate_Slasher_Worgen.labelMalePlural>male worgen slashers</WoW_Pirate_Slasher_Worgen.labelMalePlural>
-  <WoW_Pirate_Slasher_Worgen.labelFemale>female worgen slasher</WoW_Pirate_Slasher_Worgen.labelFemale>
-  <WoW_Pirate_Slasher_Worgen.labelFemalePlural>female worgen slashers</WoW_Pirate_Slasher_Worgen.labelFemalePlural>
+  <WoW_Pirate_Slasher_Worgen.label>狼人切割者</WoW_Pirate_Slasher_Worgen.label>
+  <WoW_Pirate_Slasher_Worgen.labelPlural>狼人切割者</WoW_Pirate_Slasher_Worgen.labelPlural>
+  <WoW_Pirate_Slasher_Worgen.labelMale>男性狼人切割者</WoW_Pirate_Slasher_Worgen.labelMale>
+  <WoW_Pirate_Slasher_Worgen.labelMalePlural>男性狼人切割者</WoW_Pirate_Slasher_Worgen.labelMalePlural>
+  <WoW_Pirate_Slasher_Worgen.labelFemale>女性狼人切割者</WoW_Pirate_Slasher_Worgen.labelFemale>
+  <WoW_Pirate_Slasher_Worgen.labelFemalePlural>女性狼人切割者</WoW_Pirate_Slasher_Worgen.labelFemalePlural>
 
 
 </LanguageData>

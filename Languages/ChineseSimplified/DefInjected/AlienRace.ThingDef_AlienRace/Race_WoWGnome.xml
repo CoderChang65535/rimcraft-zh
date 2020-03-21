@@ -3,12 +3,12 @@
 
   <!-- WoW Gnome Base -->
 
-  <WoW_Gnome.label>Gnome</WoW_Gnome.label>
-  <WoW_Gnome.description>The gnomes (collectively referred to as gnomanity or gnomekind) are a race of diminutive and highly intelligent humanoids, known for their mastery of technology. They were originally descended from mechagnomes, metallic titan-forged, who were afflicted with the Curse of Flesh. Gnomes are a race of ambitious folk that celebrate creativity and craft and whose lives are validated by a masterful command of the scientific laws of the universe. This outlook on life makes them feel that to be pitied is unbearable, even insulting, though they know their allies do not do this intentionally. They have been more of a race of scholars throughout their history, generally focused on escaping and avoiding conflict, being also known to offset their lack of physical strength with ingenuity and daring.</WoW_Gnome.description>
-  <WoW_Gnome.tools.0.label>left fist</WoW_Gnome.tools.0.label>
-  <WoW_Gnome.tools.1.label>right fist</WoW_Gnome.tools.1.label>
-  <WoW_Gnome.tools.2.label>teeth</WoW_Gnome.tools.2.label>
-  <WoW_Gnome.tools.3.label>head</WoW_Gnome.tools.3.label>
+  <WoW_Gnome.label>侏儒</WoW_Gnome.label>
+  <WoW_Gnome.description>侏儒是一个矮小和充满智慧的种族，以高超的技术而闻名。它们最初是由机械侏儒遭受血肉诅咒转化而来。侏儒总是野心勃勃，崇尚创造力和手工，熟练掌握宇宙中的各种科学定律。尽管他们知道自己的盟友不是故意的，但他们无法忍受那种被怜悯同情的感觉，甚至会感到遭受侮辱。在历史上侏儒通常是学者的形象，逃避和避免冲突，以巧妙和大胆来弥补他们缺乏体力的特点而闻名。</WoW_Gnome.description>
+  <WoW_Gnome.tools.0.label>左拳</WoW_Gnome.tools.0.label>
+  <WoW_Gnome.tools.1.label>右拳</WoW_Gnome.tools.1.label>
+  <WoW_Gnome.tools.2.label>牙齿</WoW_Gnome.tools.2.label>
+  <WoW_Gnome.tools.3.label>头</WoW_Gnome.tools.3.label>
 
 
 </LanguageData>
