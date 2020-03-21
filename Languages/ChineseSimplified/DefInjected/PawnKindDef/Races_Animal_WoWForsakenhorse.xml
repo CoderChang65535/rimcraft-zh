@@ -3,55 +3,55 @@
 
   <!-- EpicForsaken Horse Def -->
 
-  <WoW_Animal_Forsakenhorse.label>skeletal horse</WoW_Animal_Forsakenhorse.label>
-  <WoW_Animal_Forsakenhorse.labelPlural>skeletal horses</WoW_Animal_Forsakenhorse.labelPlural>
-  <WoW_Animal_Forsakenhorse.lifeStages.0.label>skeletal horse foal</WoW_Animal_Forsakenhorse.lifeStages.0.label>
-  <WoW_Animal_Forsakenhorse.lifeStages.0.labelPlural>skeletal horse foals</WoW_Animal_Forsakenhorse.lifeStages.0.labelPlural>
-  <WoW_Animal_Forsakenhorse.lifeStages.0.labelMale>male skeletal horse foal</WoW_Animal_Forsakenhorse.lifeStages.0.labelMale>
-  <WoW_Animal_Forsakenhorse.lifeStages.0.labelMalePlural>male skeletal horse foals</WoW_Animal_Forsakenhorse.lifeStages.0.labelMalePlural>
-  <WoW_Animal_Forsakenhorse.lifeStages.0.labelFemale>female skeletal horse foal</WoW_Animal_Forsakenhorse.lifeStages.0.labelFemale>
-  <WoW_Animal_Forsakenhorse.lifeStages.0.labelFemalePlural>female skeletal horse foals</WoW_Animal_Forsakenhorse.lifeStages.0.labelFemalePlural>
-  <WoW_Animal_Forsakenhorse.lifeStages.1.label>skeletal horse</WoW_Animal_Forsakenhorse.lifeStages.1.label>
-  <WoW_Animal_Forsakenhorse.lifeStages.1.labelPlural>skeletal horse</WoW_Animal_Forsakenhorse.lifeStages.1.labelPlural>
-  <WoW_Animal_Forsakenhorse.lifeStages.1.labelMale>male skeletal horse</WoW_Animal_Forsakenhorse.lifeStages.1.labelMale>
-  <WoW_Animal_Forsakenhorse.lifeStages.1.labelMalePlural>male skeletal horses</WoW_Animal_Forsakenhorse.lifeStages.1.labelMalePlural>
-  <WoW_Animal_Forsakenhorse.lifeStages.1.labelFemale>skeletal horse mare</WoW_Animal_Forsakenhorse.lifeStages.1.labelFemale>
-  <WoW_Animal_Forsakenhorse.lifeStages.1.labelFemalePlural>female skeletal horses</WoW_Animal_Forsakenhorse.lifeStages.1.labelFemalePlural>
-  <WoW_Animal_Forsakenhorse.lifeStages.2.label>skeletal horse</WoW_Animal_Forsakenhorse.lifeStages.2.label>
-  <WoW_Animal_Forsakenhorse.lifeStages.2.labelPlural>skeletal horse</WoW_Animal_Forsakenhorse.lifeStages.2.labelPlural>
-  <WoW_Animal_Forsakenhorse.lifeStages.2.labelMale>male skeletal horse</WoW_Animal_Forsakenhorse.lifeStages.2.labelMale>
-  <WoW_Animal_Forsakenhorse.lifeStages.2.labelMalePlural>male skeletal horses</WoW_Animal_Forsakenhorse.lifeStages.2.labelMalePlural>
-  <WoW_Animal_Forsakenhorse.lifeStages.2.labelFemale>skeletal horse mare</WoW_Animal_Forsakenhorse.lifeStages.2.labelFemale>
-  <WoW_Animal_Forsakenhorse.lifeStages.2.labelFemalePlural>female skeletal horses</WoW_Animal_Forsakenhorse.lifeStages.2.labelFemalePlural>
-  <WoW_Animal_Forsakenhorse.labelMale>male skeletal horse</WoW_Animal_Forsakenhorse.labelMale>
-  <WoW_Animal_Forsakenhorse.labelMalePlural>male skeletal horses</WoW_Animal_Forsakenhorse.labelMalePlural>
-  <WoW_Animal_Forsakenhorse.labelFemale>skeletal horse mare</WoW_Animal_Forsakenhorse.labelFemale>
-  <WoW_Animal_Forsakenhorse.labelFemalePlural>skeletal horse mares</WoW_Animal_Forsakenhorse.labelFemalePlural>
+  <WoW_Animal_Forsakenhorse.label>骸骨军马</WoW_Animal_Forsakenhorse.label>
+  <WoW_Animal_Forsakenhorse.labelPlural>骸骨军马</WoW_Animal_Forsakenhorse.labelPlural>
+  <WoW_Animal_Forsakenhorse.lifeStages.0.label>骸骨军马驹</WoW_Animal_Forsakenhorse.lifeStages.0.label>
+  <WoW_Animal_Forsakenhorse.lifeStages.0.labelPlural>骸骨军马驹</WoW_Animal_Forsakenhorse.lifeStages.0.labelPlural>
+  <WoW_Animal_Forsakenhorse.lifeStages.0.labelMale>男性 骸骨军马驹</WoW_Animal_Forsakenhorse.lifeStages.0.labelMale>
+  <WoW_Animal_Forsakenhorse.lifeStages.0.labelMalePlural>男性 骸骨军马驹</WoW_Animal_Forsakenhorse.lifeStages.0.labelMalePlural>
+  <WoW_Animal_Forsakenhorse.lifeStages.0.labelFemale>女性 骸骨军马驹</WoW_Animal_Forsakenhorse.lifeStages.0.labelFemale>
+  <WoW_Animal_Forsakenhorse.lifeStages.0.labelFemalePlural>女性 骸骨军马驹</WoW_Animal_Forsakenhorse.lifeStages.0.labelFemalePlural>
+  <WoW_Animal_Forsakenhorse.lifeStages.1.label>骸骨军马</WoW_Animal_Forsakenhorse.lifeStages.1.label>
+  <WoW_Animal_Forsakenhorse.lifeStages.1.labelPlural>骸骨军马</WoW_Animal_Forsakenhorse.lifeStages.1.labelPlural>
+  <WoW_Animal_Forsakenhorse.lifeStages.1.labelMale>男性 骸骨军马</WoW_Animal_Forsakenhorse.lifeStages.1.labelMale>
+  <WoW_Animal_Forsakenhorse.lifeStages.1.labelMalePlural>男性 骸骨军马</WoW_Animal_Forsakenhorse.lifeStages.1.labelMalePlural>
+  <WoW_Animal_Forsakenhorse.lifeStages.1.labelFemale>女性 骸骨军马</WoW_Animal_Forsakenhorse.lifeStages.1.labelFemale>
+  <WoW_Animal_Forsakenhorse.lifeStages.1.labelFemalePlural>女性 骸骨军马</WoW_Animal_Forsakenhorse.lifeStages.1.labelFemalePlural>
+  <WoW_Animal_Forsakenhorse.lifeStages.2.label>骸骨军马</WoW_Animal_Forsakenhorse.lifeStages.2.label>
+  <WoW_Animal_Forsakenhorse.lifeStages.2.labelPlural>骸骨军马</WoW_Animal_Forsakenhorse.lifeStages.2.labelPlural>
+  <WoW_Animal_Forsakenhorse.lifeStages.2.labelMale>男性 骸骨军马</WoW_Animal_Forsakenhorse.lifeStages.2.labelMale>
+  <WoW_Animal_Forsakenhorse.lifeStages.2.labelMalePlural>男性 骸骨军马</WoW_Animal_Forsakenhorse.lifeStages.2.labelMalePlural>
+  <WoW_Animal_Forsakenhorse.lifeStages.2.labelFemale>女性 骸骨军马</WoW_Animal_Forsakenhorse.lifeStages.2.labelFemale>
+  <WoW_Animal_Forsakenhorse.lifeStages.2.labelFemalePlural>女性 骸骨军马</WoW_Animal_Forsakenhorse.lifeStages.2.labelFemalePlural>
+  <WoW_Animal_Forsakenhorse.labelMale>男性 骸骨军马</WoW_Animal_Forsakenhorse.labelMale>
+  <WoW_Animal_Forsakenhorse.labelMalePlural>男性 骸骨军马</WoW_Animal_Forsakenhorse.labelMalePlural>
+  <WoW_Animal_Forsakenhorse.labelFemale>女性 骸骨军马</WoW_Animal_Forsakenhorse.labelFemale>
+  <WoW_Animal_Forsakenhorse.labelFemalePlural>女性 骸骨军马</WoW_Animal_Forsakenhorse.labelFemalePlural>
 
-  <WoW_Animal_EpicForsakenhorse.label>skeletal horse</WoW_Animal_EpicForsakenhorse.label>
-  <WoW_Animal_EpicForsakenhorse.labelPlural>skeletal horses</WoW_Animal_EpicForsakenhorse.labelPlural>
-  <WoW_Animal_EpicForsakenhorse.lifeStages.0.label>skeletal horse foal</WoW_Animal_EpicForsakenhorse.lifeStages.0.label>
-  <WoW_Animal_EpicForsakenhorse.lifeStages.0.labelPlural>skeletal horse foals</WoW_Animal_EpicForsakenhorse.lifeStages.0.labelPlural>
-  <WoW_Animal_EpicForsakenhorse.lifeStages.0.labelMale>male skeletal horse foal</WoW_Animal_EpicForsakenhorse.lifeStages.0.labelMale>
-  <WoW_Animal_EpicForsakenhorse.lifeStages.0.labelMalePlural>male skeletal horse foals</WoW_Animal_EpicForsakenhorse.lifeStages.0.labelMalePlural>
-  <WoW_Animal_EpicForsakenhorse.lifeStages.0.labelFemale>female skeletal horse foal</WoW_Animal_EpicForsakenhorse.lifeStages.0.labelFemale>
-  <WoW_Animal_EpicForsakenhorse.lifeStages.0.labelFemalePlural>female skeletal horse foals</WoW_Animal_EpicForsakenhorse.lifeStages.0.labelFemalePlural>
-  <WoW_Animal_EpicForsakenhorse.lifeStages.1.label>skeletal horse</WoW_Animal_EpicForsakenhorse.lifeStages.1.label>
-  <WoW_Animal_EpicForsakenhorse.lifeStages.1.labelPlural>skeletal horse</WoW_Animal_EpicForsakenhorse.lifeStages.1.labelPlural>
-  <WoW_Animal_EpicForsakenhorse.lifeStages.1.labelMale>male skeletal horse</WoW_Animal_EpicForsakenhorse.lifeStages.1.labelMale>
-  <WoW_Animal_EpicForsakenhorse.lifeStages.1.labelMalePlural>male skeletal horses</WoW_Animal_EpicForsakenhorse.lifeStages.1.labelMalePlural>
-  <WoW_Animal_EpicForsakenhorse.lifeStages.1.labelFemale>female skeletal horse</WoW_Animal_EpicForsakenhorse.lifeStages.1.labelFemale>
-  <WoW_Animal_EpicForsakenhorse.lifeStages.1.labelFemalePlural>female skeletal horses</WoW_Animal_EpicForsakenhorse.lifeStages.1.labelFemalePlural>
-  <WoW_Animal_EpicForsakenhorse.lifeStages.2.label>skeletal horse</WoW_Animal_EpicForsakenhorse.lifeStages.2.label>
-  <WoW_Animal_EpicForsakenhorse.lifeStages.2.labelPlural>skeletal horse</WoW_Animal_EpicForsakenhorse.lifeStages.2.labelPlural>
-  <WoW_Animal_EpicForsakenhorse.lifeStages.2.labelMale>male skeletal horse</WoW_Animal_EpicForsakenhorse.lifeStages.2.labelMale>
-  <WoW_Animal_EpicForsakenhorse.lifeStages.2.labelMalePlural>male skeletal horses</WoW_Animal_EpicForsakenhorse.lifeStages.2.labelMalePlural>
-  <WoW_Animal_EpicForsakenhorse.lifeStages.2.labelFemale>female skeletal horse</WoW_Animal_EpicForsakenhorse.lifeStages.2.labelFemale>
-  <WoW_Animal_EpicForsakenhorse.lifeStages.2.labelFemalePlural>female skeletal horses</WoW_Animal_EpicForsakenhorse.lifeStages.2.labelFemalePlural>
-  <WoW_Animal_EpicForsakenhorse.labelMale>male skeletal horse</WoW_Animal_EpicForsakenhorse.labelMale>
-  <WoW_Animal_EpicForsakenhorse.labelMalePlural>male skeletal horses</WoW_Animal_EpicForsakenhorse.labelMalePlural>
-  <WoW_Animal_EpicForsakenhorse.labelFemale>female skeletal horse</WoW_Animal_EpicForsakenhorse.labelFemale>
-  <WoW_Animal_EpicForsakenhorse.labelFemalePlural>female skeletal horses</WoW_Animal_EpicForsakenhorse.labelFemalePlural>
+  <WoW_Animal_EpicForsakenhorse.label>迅捷骸骨军马</WoW_Animal_EpicForsakenhorse.label>
+  <WoW_Animal_EpicForsakenhorse.labelPlural>迅捷骸骨军马</WoW_Animal_EpicForsakenhorse.labelPlural>
+  <WoW_Animal_EpicForsakenhorse.lifeStages.0.label>迅捷骸骨军马驹</WoW_Animal_EpicForsakenhorse.lifeStages.0.label>
+  <WoW_Animal_EpicForsakenhorse.lifeStages.0.labelPlural>迅捷骸骨军马驹</WoW_Animal_EpicForsakenhorse.lifeStages.0.labelPlural>
+  <WoW_Animal_EpicForsakenhorse.lifeStages.0.labelMale>男性 迅捷骸骨军马驹</WoW_Animal_EpicForsakenhorse.lifeStages.0.labelMale>
+  <WoW_Animal_EpicForsakenhorse.lifeStages.0.labelMalePlural>男性 迅捷骸骨军马驹</WoW_Animal_EpicForsakenhorse.lifeStages.0.labelMalePlural>
+  <WoW_Animal_EpicForsakenhorse.lifeStages.0.labelFemale>女性 迅捷骸骨军马驹</WoW_Animal_EpicForsakenhorse.lifeStages.0.labelFemale>
+  <WoW_Animal_EpicForsakenhorse.lifeStages.0.labelFemalePlural>女性 迅捷骸骨军马驹</WoW_Animal_EpicForsakenhorse.lifeStages.0.labelFemalePlural>
+  <WoW_Animal_EpicForsakenhorse.lifeStages.1.label>迅捷骸骨军马</WoW_Animal_EpicForsakenhorse.lifeStages.1.label>
+  <WoW_Animal_EpicForsakenhorse.lifeStages.1.labelPlural>迅捷骸骨军马</WoW_Animal_EpicForsakenhorse.lifeStages.1.labelPlural>
+  <WoW_Animal_EpicForsakenhorse.lifeStages.1.labelMale>男性 迅捷骸骨军马</WoW_Animal_EpicForsakenhorse.lifeStages.1.labelMale>
+  <WoW_Animal_EpicForsakenhorse.lifeStages.1.labelMalePlural>男性 迅捷骸骨军马</WoW_Animal_EpicForsakenhorse.lifeStages.1.labelMalePlural>
+  <WoW_Animal_EpicForsakenhorse.lifeStages.1.labelFemale>女性 迅捷骸骨军马</WoW_Animal_EpicForsakenhorse.lifeStages.1.labelFemale>
+  <WoW_Animal_EpicForsakenhorse.lifeStages.1.labelFemalePlural>女性 迅捷骸骨军马</WoW_Animal_EpicForsakenhorse.lifeStages.1.labelFemalePlural>
+  <WoW_Animal_EpicForsakenhorse.lifeStages.2.label>迅捷骸骨军马</WoW_Animal_EpicForsakenhorse.lifeStages.2.label>
+  <WoW_Animal_EpicForsakenhorse.lifeStages.2.labelPlural>迅捷骸骨军马</WoW_Animal_EpicForsakenhorse.lifeStages.2.labelPlural>
+  <WoW_Animal_EpicForsakenhorse.lifeStages.2.labelMale>男性 迅捷骸骨军马</WoW_Animal_EpicForsakenhorse.lifeStages.2.labelMale>
+  <WoW_Animal_EpicForsakenhorse.lifeStages.2.labelMalePlural>男性 迅捷骸骨军马</WoW_Animal_EpicForsakenhorse.lifeStages.2.labelMalePlural>
+  <WoW_Animal_EpicForsakenhorse.lifeStages.2.labelFemale>女性 迅捷骸骨军马</WoW_Animal_EpicForsakenhorse.lifeStages.2.labelFemale>
+  <WoW_Animal_EpicForsakenhorse.lifeStages.2.labelFemalePlural>女性 迅捷骸骨军马</WoW_Animal_EpicForsakenhorse.lifeStages.2.labelFemalePlural>
+  <WoW_Animal_EpicForsakenhorse.labelMale>男性 迅捷骸骨军马</WoW_Animal_EpicForsakenhorse.labelMale>
+  <WoW_Animal_EpicForsakenhorse.labelMalePlural>男性 迅捷骸骨军马</WoW_Animal_EpicForsakenhorse.labelMalePlural>
+  <WoW_Animal_EpicForsakenhorse.labelFemale>女性 迅捷骸骨军马</WoW_Animal_EpicForsakenhorse.labelFemale>
+  <WoW_Animal_EpicForsakenhorse.labelFemalePlural>女性 迅捷骸骨军马</WoW_Animal_EpicForsakenhorse.labelFemalePlural>
 
 
 </LanguageData>

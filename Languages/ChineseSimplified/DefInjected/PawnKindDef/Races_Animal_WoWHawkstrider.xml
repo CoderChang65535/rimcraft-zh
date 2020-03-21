@@ -3,55 +3,55 @@
 
   <!-- Voidstrider Def -->
 
-  <WoW_Animal_Hawkstrider.label>hawkstrider</WoW_Animal_Hawkstrider.label>
-  <WoW_Animal_Hawkstrider.labelPlural>hawkstriders</WoW_Animal_Hawkstrider.labelPlural>
-  <WoW_Animal_Hawkstrider.lifeStages.0.label>hawkstrider chick</WoW_Animal_Hawkstrider.lifeStages.0.label>
-  <WoW_Animal_Hawkstrider.lifeStages.0.labelPlural>hawkstrider chicks</WoW_Animal_Hawkstrider.lifeStages.0.labelPlural>
-  <WoW_Animal_Hawkstrider.lifeStages.0.labelMale>male hawkstrider chick</WoW_Animal_Hawkstrider.lifeStages.0.labelMale>
-  <WoW_Animal_Hawkstrider.lifeStages.0.labelMalePlural>male hawkstrider chicks</WoW_Animal_Hawkstrider.lifeStages.0.labelMalePlural>
-  <WoW_Animal_Hawkstrider.lifeStages.0.labelFemale>female hawkstrider chick</WoW_Animal_Hawkstrider.lifeStages.0.labelFemale>
-  <WoW_Animal_Hawkstrider.lifeStages.0.labelFemalePlural>female hawkstrider chicks</WoW_Animal_Hawkstrider.lifeStages.0.labelFemalePlural>
-  <WoW_Animal_Hawkstrider.lifeStages.1.label>hawkstrider</WoW_Animal_Hawkstrider.lifeStages.1.label>
-  <WoW_Animal_Hawkstrider.lifeStages.1.labelPlural>hawkstrider</WoW_Animal_Hawkstrider.lifeStages.1.labelPlural>
-  <WoW_Animal_Hawkstrider.lifeStages.1.labelMale>male hawkstrider</WoW_Animal_Hawkstrider.lifeStages.1.labelMale>
-  <WoW_Animal_Hawkstrider.lifeStages.1.labelMalePlural>male hawkstriders</WoW_Animal_Hawkstrider.lifeStages.1.labelMalePlural>
-  <WoW_Animal_Hawkstrider.lifeStages.1.labelFemale>female hawkstrider</WoW_Animal_Hawkstrider.lifeStages.1.labelFemale>
-  <WoW_Animal_Hawkstrider.lifeStages.1.labelFemalePlural>female hawkstriders</WoW_Animal_Hawkstrider.lifeStages.1.labelFemalePlural>
-  <WoW_Animal_Hawkstrider.lifeStages.2.label>hawkstrider</WoW_Animal_Hawkstrider.lifeStages.2.label>
-  <WoW_Animal_Hawkstrider.lifeStages.2.labelPlural>hawkstrider</WoW_Animal_Hawkstrider.lifeStages.2.labelPlural>
-  <WoW_Animal_Hawkstrider.lifeStages.2.labelMale>male hawkstrider</WoW_Animal_Hawkstrider.lifeStages.2.labelMale>
-  <WoW_Animal_Hawkstrider.lifeStages.2.labelMalePlural>male hawkstriders</WoW_Animal_Hawkstrider.lifeStages.2.labelMalePlural>
-  <WoW_Animal_Hawkstrider.lifeStages.2.labelFemale>female hawkstrider</WoW_Animal_Hawkstrider.lifeStages.2.labelFemale>
-  <WoW_Animal_Hawkstrider.lifeStages.2.labelFemalePlural>female hawkstriders</WoW_Animal_Hawkstrider.lifeStages.2.labelFemalePlural>
-  <WoW_Animal_Hawkstrider.labelMale>male hawkstrider</WoW_Animal_Hawkstrider.labelMale>
-  <WoW_Animal_Hawkstrider.labelMalePlural>male hawkstriders</WoW_Animal_Hawkstrider.labelMalePlural>
-  <WoW_Animal_Hawkstrider.labelFemale>female hawkstrider</WoW_Animal_Hawkstrider.labelFemale>
-  <WoW_Animal_Hawkstrider.labelFemalePlural>female hawkstriders</WoW_Animal_Hawkstrider.labelFemalePlural>
+  <WoW_Animal_Hawkstrider.label>陆行鸟</WoW_Animal_Hawkstrider.label>
+  <WoW_Animal_Hawkstrider.labelPlural>陆行鸟</WoW_Animal_Hawkstrider.labelPlural>
+  <WoW_Animal_Hawkstrider.lifeStages.0.label>陆行鸟雏鸟</WoW_Animal_Hawkstrider.lifeStages.0.label>
+  <WoW_Animal_Hawkstrider.lifeStages.0.labelPlural>陆行鸟雏鸟</WoW_Animal_Hawkstrider.lifeStages.0.labelPlural>
+  <WoW_Animal_Hawkstrider.lifeStages.0.labelMale>男性 陆行鸟雏鸟</WoW_Animal_Hawkstrider.lifeStages.0.labelMale>
+  <WoW_Animal_Hawkstrider.lifeStages.0.labelMalePlural>男性 陆行鸟雏鸟</WoW_Animal_Hawkstrider.lifeStages.0.labelMalePlural>
+  <WoW_Animal_Hawkstrider.lifeStages.0.labelFemale>女性 陆行鸟雏鸟</WoW_Animal_Hawkstrider.lifeStages.0.labelFemale>
+  <WoW_Animal_Hawkstrider.lifeStages.0.labelFemalePlural>女性 陆行鸟雏鸟</WoW_Animal_Hawkstrider.lifeStages.0.labelFemalePlural>
+  <WoW_Animal_Hawkstrider.lifeStages.1.label>陆行鸟</WoW_Animal_Hawkstrider.lifeStages.1.label>
+  <WoW_Animal_Hawkstrider.lifeStages.1.labelPlural>陆行鸟</WoW_Animal_Hawkstrider.lifeStages.1.labelPlural>
+  <WoW_Animal_Hawkstrider.lifeStages.1.labelMale>男性 陆行鸟</WoW_Animal_Hawkstrider.lifeStages.1.labelMale>
+  <WoW_Animal_Hawkstrider.lifeStages.1.labelMalePlural>男性 陆行鸟</WoW_Animal_Hawkstrider.lifeStages.1.labelMalePlural>
+  <WoW_Animal_Hawkstrider.lifeStages.1.labelFemale>女性 陆行鸟</WoW_Animal_Hawkstrider.lifeStages.1.labelFemale>
+  <WoW_Animal_Hawkstrider.lifeStages.1.labelFemalePlural>女性 陆行鸟</WoW_Animal_Hawkstrider.lifeStages.1.labelFemalePlural>
+  <WoW_Animal_Hawkstrider.lifeStages.2.label>陆行鸟</WoW_Animal_Hawkstrider.lifeStages.2.label>
+  <WoW_Animal_Hawkstrider.lifeStages.2.labelPlural>陆行鸟</WoW_Animal_Hawkstrider.lifeStages.2.labelPlural>
+  <WoW_Animal_Hawkstrider.lifeStages.2.labelMale>男性 陆行鸟</WoW_Animal_Hawkstrider.lifeStages.2.labelMale>
+  <WoW_Animal_Hawkstrider.lifeStages.2.labelMalePlural>男性 陆行鸟</WoW_Animal_Hawkstrider.lifeStages.2.labelMalePlural>
+  <WoW_Animal_Hawkstrider.lifeStages.2.labelFemale>女性 陆行鸟</WoW_Animal_Hawkstrider.lifeStages.2.labelFemale>
+  <WoW_Animal_Hawkstrider.lifeStages.2.labelFemalePlural>女性 陆行鸟</WoW_Animal_Hawkstrider.lifeStages.2.labelFemalePlural>
+  <WoW_Animal_Hawkstrider.labelMale>男性 陆行鸟</WoW_Animal_Hawkstrider.labelMale>
+  <WoW_Animal_Hawkstrider.labelMalePlural>男性 陆行鸟</WoW_Animal_Hawkstrider.labelMalePlural>
+  <WoW_Animal_Hawkstrider.labelFemale>女性 陆行鸟</WoW_Animal_Hawkstrider.labelFemale>
+  <WoW_Animal_Hawkstrider.labelFemalePlural>女性 陆行鸟</WoW_Animal_Hawkstrider.labelFemalePlural>
 
-  <WoW_Animal_Voidstrider.label>voidstrider</WoW_Animal_Voidstrider.label>
-  <WoW_Animal_Voidstrider.labelPlural>voidstriders</WoW_Animal_Voidstrider.labelPlural>
-  <WoW_Animal_Voidstrider.lifeStages.0.label>voidstrider chick</WoW_Animal_Voidstrider.lifeStages.0.label>
-  <WoW_Animal_Voidstrider.lifeStages.0.labelPlural>voidstrider chicks</WoW_Animal_Voidstrider.lifeStages.0.labelPlural>
-  <WoW_Animal_Voidstrider.lifeStages.0.labelMale>male voidstrider chick</WoW_Animal_Voidstrider.lifeStages.0.labelMale>
-  <WoW_Animal_Voidstrider.lifeStages.0.labelMalePlural>male voidstrider chicks</WoW_Animal_Voidstrider.lifeStages.0.labelMalePlural>
-  <WoW_Animal_Voidstrider.lifeStages.0.labelFemale>female voidstrider chick</WoW_Animal_Voidstrider.lifeStages.0.labelFemale>
-  <WoW_Animal_Voidstrider.lifeStages.0.labelFemalePlural>female voidstrider chicks</WoW_Animal_Voidstrider.lifeStages.0.labelFemalePlural>
-  <WoW_Animal_Voidstrider.lifeStages.1.label>voidstrider</WoW_Animal_Voidstrider.lifeStages.1.label>
-  <WoW_Animal_Voidstrider.lifeStages.1.labelPlural>voidstrider</WoW_Animal_Voidstrider.lifeStages.1.labelPlural>
-  <WoW_Animal_Voidstrider.lifeStages.1.labelMale>male voidstrider</WoW_Animal_Voidstrider.lifeStages.1.labelMale>
-  <WoW_Animal_Voidstrider.lifeStages.1.labelMalePlural>male voidstriders</WoW_Animal_Voidstrider.lifeStages.1.labelMalePlural>
-  <WoW_Animal_Voidstrider.lifeStages.1.labelFemale>female voidstrider</WoW_Animal_Voidstrider.lifeStages.1.labelFemale>
-  <WoW_Animal_Voidstrider.lifeStages.1.labelFemalePlural>female voidstriders</WoW_Animal_Voidstrider.lifeStages.1.labelFemalePlural>
-  <WoW_Animal_Voidstrider.lifeStages.2.label>voidstrider</WoW_Animal_Voidstrider.lifeStages.2.label>
-  <WoW_Animal_Voidstrider.lifeStages.2.labelPlural>voidstrider</WoW_Animal_Voidstrider.lifeStages.2.labelPlural>
-  <WoW_Animal_Voidstrider.lifeStages.2.labelMale>male voidstrider</WoW_Animal_Voidstrider.lifeStages.2.labelMale>
-  <WoW_Animal_Voidstrider.lifeStages.2.labelMalePlural>male voidstriders</WoW_Animal_Voidstrider.lifeStages.2.labelMalePlural>
-  <WoW_Animal_Voidstrider.lifeStages.2.labelFemale>female voidstrider</WoW_Animal_Voidstrider.lifeStages.2.labelFemale>
-  <WoW_Animal_Voidstrider.lifeStages.2.labelFemalePlural>female voidstriders</WoW_Animal_Voidstrider.lifeStages.2.labelFemalePlural>
-  <WoW_Animal_Voidstrider.labelMale>male voidstrider</WoW_Animal_Voidstrider.labelMale>
-  <WoW_Animal_Voidstrider.labelMalePlural>male voidstriders</WoW_Animal_Voidstrider.labelMalePlural>
-  <WoW_Animal_Voidstrider.labelFemale>female voidstrider</WoW_Animal_Voidstrider.labelFemale>
-  <WoW_Animal_Voidstrider.labelFemalePlural>female voidstriders</WoW_Animal_Voidstrider.labelFemalePlural>
+  <WoW_Animal_Voidstrider.label>虚空陆行鸟</WoW_Animal_Voidstrider.label>
+  <WoW_Animal_Voidstrider.labelPlural>虚空陆行鸟</WoW_Animal_Voidstrider.labelPlural>
+  <WoW_Animal_Voidstrider.lifeStages.0.label>虚空陆行鸟雏鸟</WoW_Animal_Voidstrider.lifeStages.0.label>
+  <WoW_Animal_Voidstrider.lifeStages.0.labelPlural>虚空陆行鸟雏鸟</WoW_Animal_Voidstrider.lifeStages.0.labelPlural>
+  <WoW_Animal_Voidstrider.lifeStages.0.labelMale>男性 虚空陆行鸟雏鸟</WoW_Animal_Voidstrider.lifeStages.0.labelMale>
+  <WoW_Animal_Voidstrider.lifeStages.0.labelMalePlural>男性 虚空陆行鸟雏鸟</WoW_Animal_Voidstrider.lifeStages.0.labelMalePlural>
+  <WoW_Animal_Voidstrider.lifeStages.0.labelFemale>女性 虚空陆行鸟雏鸟</WoW_Animal_Voidstrider.lifeStages.0.labelFemale>
+  <WoW_Animal_Voidstrider.lifeStages.0.labelFemalePlural>女性 虚空陆行鸟雏鸟</WoW_Animal_Voidstrider.lifeStages.0.labelFemalePlural>
+  <WoW_Animal_Voidstrider.lifeStages.1.label>虚空陆行鸟</WoW_Animal_Voidstrider.lifeStages.1.label>
+  <WoW_Animal_Voidstrider.lifeStages.1.labelPlural>虚空陆行鸟</WoW_Animal_Voidstrider.lifeStages.1.labelPlural>
+  <WoW_Animal_Voidstrider.lifeStages.1.labelMale>男性 虚空陆行鸟</WoW_Animal_Voidstrider.lifeStages.1.labelMale>
+  <WoW_Animal_Voidstrider.lifeStages.1.labelMalePlural>男性 虚空陆行鸟</WoW_Animal_Voidstrider.lifeStages.1.labelMalePlural>
+  <WoW_Animal_Voidstrider.lifeStages.1.labelFemale>女性 虚空陆行鸟</WoW_Animal_Voidstrider.lifeStages.1.labelFemale>
+  <WoW_Animal_Voidstrider.lifeStages.1.labelFemalePlural>女性 虚空陆行鸟</WoW_Animal_Voidstrider.lifeStages.1.labelFemalePlural>
+  <WoW_Animal_Voidstrider.lifeStages.2.label>虚空陆行鸟</WoW_Animal_Voidstrider.lifeStages.2.label>
+  <WoW_Animal_Voidstrider.lifeStages.2.labelPlural>虚空陆行鸟</WoW_Animal_Voidstrider.lifeStages.2.labelPlural>
+  <WoW_Animal_Voidstrider.lifeStages.2.labelMale>男性 虚空陆行鸟</WoW_Animal_Voidstrider.lifeStages.2.labelMale>
+  <WoW_Animal_Voidstrider.lifeStages.2.labelMalePlural>男性 虚空陆行鸟</WoW_Animal_Voidstrider.lifeStages.2.labelMalePlural>
+  <WoW_Animal_Voidstrider.lifeStages.2.labelFemale>女性 虚空陆行鸟</WoW_Animal_Voidstrider.lifeStages.2.labelFemale>
+  <WoW_Animal_Voidstrider.lifeStages.2.labelFemalePlural>女性 虚空陆行鸟</WoW_Animal_Voidstrider.lifeStages.2.labelFemalePlural>
+  <WoW_Animal_Voidstrider.labelMale>男性 虚空陆行鸟</WoW_Animal_Voidstrider.labelMale>
+  <WoW_Animal_Voidstrider.labelMalePlural>男性 虚空陆行鸟</WoW_Animal_Voidstrider.labelMalePlural>
+  <WoW_Animal_Voidstrider.labelFemale>女性 虚空陆行鸟</WoW_Animal_Voidstrider.labelFemale>
+  <WoW_Animal_Voidstrider.labelFemalePlural>女性 虚空陆行鸟</WoW_Animal_Voidstrider.labelFemalePlural>
 
 
 </LanguageData>

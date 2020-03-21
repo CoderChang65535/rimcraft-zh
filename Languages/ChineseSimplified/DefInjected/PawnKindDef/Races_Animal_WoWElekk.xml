@@ -3,30 +3,30 @@
 
   <!-- Elekk Def -->
 
-  <WoW_Animal_Elekk.label>elekk</WoW_Animal_Elekk.label>
-  <WoW_Animal_Elekk.labelPlural>elekks</WoW_Animal_Elekk.labelPlural>
-  <WoW_Animal_Elekk.lifeStages.0.label>elekk calf</WoW_Animal_Elekk.lifeStages.0.label>
-  <WoW_Animal_Elekk.lifeStages.0.labelPlural>elekk calfs</WoW_Animal_Elekk.lifeStages.0.labelPlural>
-  <WoW_Animal_Elekk.lifeStages.0.labelMale>male elekk calf</WoW_Animal_Elekk.lifeStages.0.labelMale>
-  <WoW_Animal_Elekk.lifeStages.0.labelMalePlural>male elekk calfs</WoW_Animal_Elekk.lifeStages.0.labelMalePlural>
-  <WoW_Animal_Elekk.lifeStages.0.labelFemale>female elekk calf</WoW_Animal_Elekk.lifeStages.0.labelFemale>
-  <WoW_Animal_Elekk.lifeStages.0.labelFemalePlural>female elekk calfs</WoW_Animal_Elekk.lifeStages.0.labelFemalePlural>
-  <WoW_Animal_Elekk.lifeStages.1.label>elekk</WoW_Animal_Elekk.lifeStages.1.label>
-  <WoW_Animal_Elekk.lifeStages.1.labelPlural>elekk</WoW_Animal_Elekk.lifeStages.1.labelPlural>
-  <WoW_Animal_Elekk.lifeStages.1.labelMale>male elekk</WoW_Animal_Elekk.lifeStages.1.labelMale>
-  <WoW_Animal_Elekk.lifeStages.1.labelMalePlural>male elekks</WoW_Animal_Elekk.lifeStages.1.labelMalePlural>
-  <WoW_Animal_Elekk.lifeStages.1.labelFemale>female elekk</WoW_Animal_Elekk.lifeStages.1.labelFemale>
-  <WoW_Animal_Elekk.lifeStages.1.labelFemalePlural>female elekks</WoW_Animal_Elekk.lifeStages.1.labelFemalePlural>
-  <WoW_Animal_Elekk.lifeStages.2.label>elekk</WoW_Animal_Elekk.lifeStages.2.label>
-  <WoW_Animal_Elekk.lifeStages.2.labelPlural>elekk</WoW_Animal_Elekk.lifeStages.2.labelPlural>
-  <WoW_Animal_Elekk.lifeStages.2.labelMale>male elekk</WoW_Animal_Elekk.lifeStages.2.labelMale>
-  <WoW_Animal_Elekk.lifeStages.2.labelMalePlural>male elekks</WoW_Animal_Elekk.lifeStages.2.labelMalePlural>
-  <WoW_Animal_Elekk.lifeStages.2.labelFemale>female elekk</WoW_Animal_Elekk.lifeStages.2.labelFemale>
-  <WoW_Animal_Elekk.lifeStages.2.labelFemalePlural>female elekks</WoW_Animal_Elekk.lifeStages.2.labelFemalePlural>
-  <WoW_Animal_Elekk.labelMale>male elekk</WoW_Animal_Elekk.labelMale>
-  <WoW_Animal_Elekk.labelMalePlural>male elekks</WoW_Animal_Elekk.labelMalePlural>
-  <WoW_Animal_Elekk.labelFemale>female elekk</WoW_Animal_Elekk.labelFemale>
-  <WoW_Animal_Elekk.labelFemalePlural>female elekks</WoW_Animal_Elekk.labelFemalePlural>
+  <WoW_Animal_Elekk.label>雷象</WoW_Animal_Elekk.label>
+  <WoW_Animal_Elekk.labelPlural>雷象</WoW_Animal_Elekk.labelPlural>
+  <WoW_Animal_Elekk.lifeStages.0.label>小雷象</WoW_Animal_Elekk.lifeStages.0.label>
+  <WoW_Animal_Elekk.lifeStages.0.labelPlural>小雷象</WoW_Animal_Elekk.lifeStages.0.labelPlural>
+  <WoW_Animal_Elekk.lifeStages.0.labelMale>男性 小雷象</WoW_Animal_Elekk.lifeStages.0.labelMale>
+  <WoW_Animal_Elekk.lifeStages.0.labelMalePlural>男性 小雷象</WoW_Animal_Elekk.lifeStages.0.labelMalePlural>
+  <WoW_Animal_Elekk.lifeStages.0.labelFemale>女性 小雷象</WoW_Animal_Elekk.lifeStages.0.labelFemale>
+  <WoW_Animal_Elekk.lifeStages.0.labelFemalePlural>女性 小雷象</WoW_Animal_Elekk.lifeStages.0.labelFemalePlural>
+  <WoW_Animal_Elekk.lifeStages.1.label>雷象</WoW_Animal_Elekk.lifeStages.1.label>
+  <WoW_Animal_Elekk.lifeStages.1.labelPlural>雷象</WoW_Animal_Elekk.lifeStages.1.labelPlural>
+  <WoW_Animal_Elekk.lifeStages.1.labelMale>男性 雷象</WoW_Animal_Elekk.lifeStages.1.labelMale>
+  <WoW_Animal_Elekk.lifeStages.1.labelMalePlural>男性 雷象</WoW_Animal_Elekk.lifeStages.1.labelMalePlural>
+  <WoW_Animal_Elekk.lifeStages.1.labelFemale>女性 雷象</WoW_Animal_Elekk.lifeStages.1.labelFemale>
+  <WoW_Animal_Elekk.lifeStages.1.labelFemalePlural>女性 雷象</WoW_Animal_Elekk.lifeStages.1.labelFemalePlural>
+  <WoW_Animal_Elekk.lifeStages.2.label>雷象</WoW_Animal_Elekk.lifeStages.2.label>
+  <WoW_Animal_Elekk.lifeStages.2.labelPlural>雷象</WoW_Animal_Elekk.lifeStages.2.labelPlural>
+  <WoW_Animal_Elekk.lifeStages.2.labelMale>男性 雷象</WoW_Animal_Elekk.lifeStages.2.labelMale>
+  <WoW_Animal_Elekk.lifeStages.2.labelMalePlural>男性 雷象</WoW_Animal_Elekk.lifeStages.2.labelMalePlural>
+  <WoW_Animal_Elekk.lifeStages.2.labelFemale>女性 雷象</WoW_Animal_Elekk.lifeStages.2.labelFemale>
+  <WoW_Animal_Elekk.lifeStages.2.labelFemalePlural>女性 雷象</WoW_Animal_Elekk.lifeStages.2.labelFemalePlural>
+  <WoW_Animal_Elekk.labelMale>男性 雷象</WoW_Animal_Elekk.labelMale>
+  <WoW_Animal_Elekk.labelMalePlural>男性 雷象</WoW_Animal_Elekk.labelMalePlural>
+  <WoW_Animal_Elekk.labelFemale>女性 雷象</WoW_Animal_Elekk.labelFemale>
+  <WoW_Animal_Elekk.labelFemalePlural>女性 雷象</WoW_Animal_Elekk.labelFemalePlural>
 
 
 </LanguageData>

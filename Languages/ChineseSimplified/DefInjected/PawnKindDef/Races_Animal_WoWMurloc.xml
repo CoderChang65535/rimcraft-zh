@@ -3,30 +3,30 @@
 
   <!-- Murloc Def -->
 
-  <WoW_Animal_Murloc.label>murloc</WoW_Animal_Murloc.label>
-  <WoW_Animal_Murloc.labelPlural>murlocs</WoW_Animal_Murloc.labelPlural>
-  <WoW_Animal_Murloc.lifeStages.0.label>murloc tadpole</WoW_Animal_Murloc.lifeStages.0.label>
-  <WoW_Animal_Murloc.lifeStages.0.labelPlural>murloc tadpoles</WoW_Animal_Murloc.lifeStages.0.labelPlural>
-  <WoW_Animal_Murloc.lifeStages.0.labelMale>male murloc tadpole</WoW_Animal_Murloc.lifeStages.0.labelMale>
-  <WoW_Animal_Murloc.lifeStages.0.labelMalePlural>male murloc tadpoles</WoW_Animal_Murloc.lifeStages.0.labelMalePlural>
-  <WoW_Animal_Murloc.lifeStages.0.labelFemale>female murloc tadpole</WoW_Animal_Murloc.lifeStages.0.labelFemale>
-  <WoW_Animal_Murloc.lifeStages.0.labelFemalePlural>female murloc tadpoles</WoW_Animal_Murloc.lifeStages.0.labelFemalePlural>
-  <WoW_Animal_Murloc.lifeStages.1.label>murloc</WoW_Animal_Murloc.lifeStages.1.label>
-  <WoW_Animal_Murloc.lifeStages.1.labelPlural>murloc</WoW_Animal_Murloc.lifeStages.1.labelPlural>
-  <WoW_Animal_Murloc.lifeStages.1.labelMale>male murloc</WoW_Animal_Murloc.lifeStages.1.labelMale>
-  <WoW_Animal_Murloc.lifeStages.1.labelMalePlural>male murlocs</WoW_Animal_Murloc.lifeStages.1.labelMalePlural>
-  <WoW_Animal_Murloc.lifeStages.1.labelFemale>female murloc</WoW_Animal_Murloc.lifeStages.1.labelFemale>
-  <WoW_Animal_Murloc.lifeStages.1.labelFemalePlural>female murlocs</WoW_Animal_Murloc.lifeStages.1.labelFemalePlural>
-  <WoW_Animal_Murloc.lifeStages.2.label>murloc</WoW_Animal_Murloc.lifeStages.2.label>
-  <WoW_Animal_Murloc.lifeStages.2.labelPlural>murloc</WoW_Animal_Murloc.lifeStages.2.labelPlural>
-  <WoW_Animal_Murloc.lifeStages.2.labelMale>male murloc</WoW_Animal_Murloc.lifeStages.2.labelMale>
-  <WoW_Animal_Murloc.lifeStages.2.labelMalePlural>male murlocs</WoW_Animal_Murloc.lifeStages.2.labelMalePlural>
-  <WoW_Animal_Murloc.lifeStages.2.labelFemale>female murloc</WoW_Animal_Murloc.lifeStages.2.labelFemale>
-  <WoW_Animal_Murloc.lifeStages.2.labelFemalePlural>female murlocs</WoW_Animal_Murloc.lifeStages.2.labelFemalePlural>
-  <WoW_Animal_Murloc.labelMale>male murloc</WoW_Animal_Murloc.labelMale>
-  <WoW_Animal_Murloc.labelMalePlural>male murlocs</WoW_Animal_Murloc.labelMalePlural>
-  <WoW_Animal_Murloc.labelFemale>female murloc</WoW_Animal_Murloc.labelFemale>
-  <WoW_Animal_Murloc.labelFemalePlural>female murlocs</WoW_Animal_Murloc.labelFemalePlural>
+  <WoW_Animal_Murloc.label>鱼人</WoW_Animal_Murloc.label>
+  <WoW_Animal_Murloc.labelPlural>鱼人</WoW_Animal_Murloc.labelPlural>
+  <WoW_Animal_Murloc.lifeStages.0.label>鱼人蝌蚪</WoW_Animal_Murloc.lifeStages.0.label>
+  <WoW_Animal_Murloc.lifeStages.0.labelPlural>鱼人蝌蚪</WoW_Animal_Murloc.lifeStages.0.labelPlural>
+  <WoW_Animal_Murloc.lifeStages.0.labelMale>男性 鱼人蝌蚪</WoW_Animal_Murloc.lifeStages.0.labelMale>
+  <WoW_Animal_Murloc.lifeStages.0.labelMalePlural>男性 鱼人蝌蚪</WoW_Animal_Murloc.lifeStages.0.labelMalePlural>
+  <WoW_Animal_Murloc.lifeStages.0.labelFemale>女性 鱼人蝌蚪</WoW_Animal_Murloc.lifeStages.0.labelFemale>
+  <WoW_Animal_Murloc.lifeStages.0.labelFemalePlural>女性 鱼人蝌蚪</WoW_Animal_Murloc.lifeStages.0.labelFemalePlural>
+  <WoW_Animal_Murloc.lifeStages.1.label>鱼人</WoW_Animal_Murloc.lifeStages.1.label>
+  <WoW_Animal_Murloc.lifeStages.1.labelPlural>鱼人</WoW_Animal_Murloc.lifeStages.1.labelPlural>
+  <WoW_Animal_Murloc.lifeStages.1.labelMale>男性 鱼人</WoW_Animal_Murloc.lifeStages.1.labelMale>
+  <WoW_Animal_Murloc.lifeStages.1.labelMalePlural>男性 鱼人</WoW_Animal_Murloc.lifeStages.1.labelMalePlural>
+  <WoW_Animal_Murloc.lifeStages.1.labelFemale>女性 鱼人</WoW_Animal_Murloc.lifeStages.1.labelFemale>
+  <WoW_Animal_Murloc.lifeStages.1.labelFemalePlural>女性 鱼人</WoW_Animal_Murloc.lifeStages.1.labelFemalePlural>
+  <WoW_Animal_Murloc.lifeStages.2.label>鱼人</WoW_Animal_Murloc.lifeStages.2.label>
+  <WoW_Animal_Murloc.lifeStages.2.labelPlural>鱼人</WoW_Animal_Murloc.lifeStages.2.labelPlural>
+  <WoW_Animal_Murloc.lifeStages.2.labelMale>男性 鱼人</WoW_Animal_Murloc.lifeStages.2.labelMale>
+  <WoW_Animal_Murloc.lifeStages.2.labelMalePlural>男性 鱼人</WoW_Animal_Murloc.lifeStages.2.labelMalePlural>
+  <WoW_Animal_Murloc.lifeStages.2.labelFemale>女性 鱼人</WoW_Animal_Murloc.lifeStages.2.labelFemale>
+  <WoW_Animal_Murloc.lifeStages.2.labelFemalePlural>女性 鱼人</WoW_Animal_Murloc.lifeStages.2.labelFemalePlural>
+  <WoW_Animal_Murloc.labelMale>男性 鱼人</WoW_Animal_Murloc.labelMale>
+  <WoW_Animal_Murloc.labelMalePlural>男性 鱼人</WoW_Animal_Murloc.labelMalePlural>
+  <WoW_Animal_Murloc.labelFemale>女性 鱼人</WoW_Animal_Murloc.labelFemale>
+  <WoW_Animal_Murloc.labelFemalePlural>女性 鱼人</WoW_Animal_Murloc.labelFemalePlural>
 
 
 </LanguageData>
