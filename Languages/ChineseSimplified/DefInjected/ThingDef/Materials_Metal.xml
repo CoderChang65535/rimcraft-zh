@@ -36,8 +36,8 @@
   <WoW_adamantite.label>精金</WoW_adamantite.label>
   <WoW_adamantite.description>冶炼精金。精金是一种很强的奥术调和金属。</WoW_adamantite.description>
 
-  <WoW_hardened_adamantite.label>hardened adamantite</WoW_hardened_adamantite.label>
-  <WoW_hardened_adamantite.description>Hardened adamantite ingots.</WoW_hardened_adamantite.description>
+  <WoW_hardened_adamantite.label>硬化精金</WoW_hardened_adamantite.label>
+  <WoW_hardened_adamantite.description>硬化精金锭</WoW_hardened_adamantite.description>
 
 
   <!-- Truesilver -->
