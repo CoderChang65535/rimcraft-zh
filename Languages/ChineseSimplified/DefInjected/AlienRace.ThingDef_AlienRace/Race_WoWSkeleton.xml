@@ -5,6 +5,7 @@
 
   <WoW_Skeleton.label>骷髅</WoW_Skeleton.label>
   <WoW_Skeleton.description>天灾骷髅</WoW_Skeleton.description>
+  <WoW_Skeleton.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>skin</WoW_Skeleton.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>
   <WoW_Skeleton.tools.0.label>左拳</WoW_Skeleton.tools.0.label>
   <WoW_Skeleton.tools.1.label>右拳</WoW_Skeleton.tools.1.label>
   <WoW_Skeleton.tools.2.label>牙齿</WoW_Skeleton.tools.2.label>

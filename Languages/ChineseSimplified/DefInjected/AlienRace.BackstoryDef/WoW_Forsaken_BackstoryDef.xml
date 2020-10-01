@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Forsaken Child 1 -->
+
+  <WoW_Forsaken_Backstory_Child_1.title>Coroner</WoW_Forsaken_Backstory_Child_1.title>
+  <WoW_Forsaken_Backstory_Child_1.baseDescription>Ironically, before [PAWN_pronoun] died, [PAWN_nameDef] was a coroner who investigated the causes of death as well as the identity of deceased. After [PAWN_possessive] reanimation [PAWN_nameDef] aided others in learning the status of their families until [PAWN_pronoun] decided it caused more grief than peace.</WoW_Forsaken_Backstory_Child_1.baseDescription>
+
+
+  <!-- Forsaken Child 2 -->
+
+  <WoW_Forsaken_Backstory_Child_2.title>Fortune Teller</WoW_Forsaken_Backstory_Child_2.title>
+  <WoW_Forsaken_Backstory_Child_2.baseDescription>[PAWN_nameDef] used to make a living posing as a fortune teller, handing out sage-sounding advice that often meant nothing to anyone. [PAWN_nameDef] now wishes [PAWN_pronoun] truly had been capable of seeing the future so that [PAWN_pronoun] could have evaded the Scourge attack.</WoW_Forsaken_Backstory_Child_2.baseDescription>
+
+
+  <!-- Forsaken Child 3 -->
+
+  <WoW_Forsaken_Backstory_Child_3.title>Saddler</WoW_Forsaken_Backstory_Child_3.title>
+  <WoW_Forsaken_Backstory_Child_3.baseDescription>[PAWN_nameDef] used to make saddles for horses. Now [PAWN_pronoun] makes leather straps and bindings to keep fellow Forsaken from falling apart. Occasionally [PAWN_nameDef] still gets to make saddles for the undead horses. But mostly stops them from falling apart too.</WoW_Forsaken_Backstory_Child_3.baseDescription>
+
+
+  <!-- Forsaken Child 4 -->
+
+  <WoW_Forsaken_Backstory_Child_4.title>Terminally Ill</WoW_Forsaken_Backstory_Child_4.title>
+  <WoW_Forsaken_Backstory_Child_4.baseDescription>Not all Forsaken were inhabitants of Lordaeron cut down by the Scourge. [PAWN_nameDef] used to be a Kul Tiran tidesage who found himself stranded, sick and alone, on the shores of Tiristfal. Realizing [PAWN_possessive] imminent death [PAWN_pronoun] made a pact with the Forsaken which saw [PAWN_pronoun] raised after [PAWN_pronoun] passed.</WoW_Forsaken_Backstory_Child_4.baseDescription>
+
+
+  <!-- Forsaken Child 5 -->
+
+  <WoW_Forsaken_Backstory_Child_5.title>Gilnean Refugee</WoW_Forsaken_Backstory_Child_5.title>
+  <WoW_Forsaken_Backstory_Child_5.baseDescription>[PAWN_nameDef] once resided in the town of Ambermill as a guard in northern Gilneas. After Greymane's Wall was built and the town cut off from the rest of the kingdom Ambermill, and its residents, was left to fend for itself against the Scourge. [PAWN_nameDef] was one of many casualties eventually raised into the Forsaken ranks.</WoW_Forsaken_Backstory_Child_5.baseDescription>
+
+
+  <!-- Forsaken Adult 1 -->
+
+  <WoW_Forsaken_Backstory_Adult_1.title>Maggot Farm</WoW_Forsaken_Backstory_Adult_1.title>
+  <WoW_Forsaken_Backstory_Adult_1.baseDescription>Just about anything can be edible if it's cooked right. Just as well [PAWN_nameDef]'s rotten flesh is infested with maggots. Slimy yet satisfying! ...If you don't think about it too much.</WoW_Forsaken_Backstory_Adult_1.baseDescription>
+
+
+  <!-- Forsaken Adult 2 -->
+
+  <WoW_Forsaken_Backstory_Adult_2.title>Mushroom Colony</WoW_Forsaken_Backstory_Adult_2.title>
+  <WoW_Forsaken_Backstory_Adult_2.baseDescription>[PAWN_nameDef] has an affinity for fungi. Or rather fungi has an affinity for [PAWN_nameDef]. Whichever way around it is [PAWN_nameDef] has become quite good at harvesting and cooking mushrooms. Doesn't get more local than this!</WoW_Forsaken_Backstory_Adult_2.baseDescription>
+
+
+  <!-- Forsaken Adult 3 -->
+
+  <WoW_Forsaken_Backstory_Adult_3.title>Braindead Drone</WoW_Forsaken_Backstory_Adult_3.title>
+  <WoW_Forsaken_Backstory_Adult_3.baseDescription>[PAWN_nameDef] is practically brainless in the literal sense. However, point [PAWN_pronoun] toward a job and [PAWN_pronoun] will handily do it. Just don't make [PAWN_nameDef] clean. [PAWN_nameDef] makes more mess than [PAWN_pronoun] cleans.</WoW_Forsaken_Backstory_Adult_3.baseDescription>
+
+
+  <!-- Forsaken Adult 4 -->
+
+  <WoW_Forsaken_Backstory_Adult_4.title>Cockroach Vendor</WoW_Forsaken_Backstory_Adult_4.title>
+  <WoW_Forsaken_Backstory_Adult_4.baseDescription>[PAWN_nameDef] watched [PAWN_possessive] sister and her betrothed become ghouls while [PAWN_pronoun] was raised in service of the Forsaken. [PAWN_nameDef] chose to sell cockroaches as pets to ease [PAWN_possessive] depression. Please don't step on them. [PAWN_nameDef] cries each time one is stepped on.</WoW_Forsaken_Backstory_Adult_4.baseDescription>
+
+
+  <!-- Forsaken Adult 5 -->
+
+  <WoW_Forsaken_Backstory_Adult_5.title>Mad Scientist</WoW_Forsaken_Backstory_Adult_5.title>
+  <WoW_Forsaken_Backstory_Adult_5.baseDescription>[PAWN_nameDef] is one of few who seems to have retained the majority of [PAWN_possessive] brain in exchange for sanity. It's possible [PAWN_pronoun] lost both [PAWN_possessive] brain and sanity, but one thing's for sure [PAWN_nameDef] is really good at coming up with crazy inventions.</WoW_Forsaken_Backstory_Adult_5.baseDescription>
+
+
+  <!-- Forsaken Adult 6 -->
+
+  <WoW_Forsaken_Backstory_Adult_6.title>Undercity Architect</WoW_Forsaken_Backstory_Adult_6.title>
+  <WoW_Forsaken_Backstory_Adult_6.baseDescription>While the Forsaken have no true need for light or creature comforts having these amenities around allows them a facade of some other existence. [PAWN_nameDef] aided in constructing areas of comfort for those allies of the Forsaken who need it and can stand being around the undead populace.</WoW_Forsaken_Backstory_Adult_6.baseDescription>
+
+
+  <!-- Forsaken Adult 7 -->
+
+  <WoW_Forsaken_Backstory_Adult_7.title>Tea Leaf Reader</WoW_Forsaken_Backstory_Adult_7.title>
+  <WoW_Forsaken_Backstory_Adult_7.baseDescription>[PAWN_nameDef] no longer remembers if [PAWN_pronoun] was superstitious prior to [PAWN_possessive] death. Regardless [PAWN_pronoun] finds some small sense of peace by divining the future using tea leaves. Whether it means anything or not, it gives [PAWN_pronoun] something to think about.</WoW_Forsaken_Backstory_Adult_7.baseDescription>
+
+
+  <!-- Forsaken Adult 8 -->
+
+  <WoW_Forsaken_Backstory_Adult_8.title>Fleshcrafter</WoW_Forsaken_Backstory_Adult_8.title>
+  <WoW_Forsaken_Backstory_Adult_8.baseDescription>When living as a walking corpse it is fairly frequent that a limb or chunk of rotten skin falls off. It's [PAWN_nameDef]'s job to stitch them back together and keep it from happening again. At least, not too soon. It's not uncommon to see Forsaken citizens with patchwork flesh where donor material was necessary.</WoW_Forsaken_Backstory_Adult_8.baseDescription>
+
+
+  <!-- Forsaken Adult 9 -->
+
+  <WoW_Forsaken_Backstory_Adult_9.title>Executioner</WoW_Forsaken_Backstory_Adult_9.title>
+  <WoW_Forsaken_Backstory_Adult_9.baseDescription>There may be peace in death, but in undeath it's not so simple. Whenever someone commits high treason or else attempts to do something that threatens the Forsaken way of life [PAWN_nameDef] is prepared to deliver True Death upon them. To unwillingly have one's unlife ended is the greatest punishment.</WoW_Forsaken_Backstory_Adult_9.baseDescription>
+
+
+  <!-- Forsaken Adult 10 -->
+
+  <WoW_Forsaken_Backstory_Adult_10.title>Tattoo Artist</WoW_Forsaken_Backstory_Adult_10.title>
+  <WoW_Forsaken_Backstory_Adult_10.baseDescription>Before and after death [PAWN_nameDef] provided customers with tattoos and piercings. Business has been good recently as many Forsaken citizens seek [PAWN_possessive] piercing skills to hold their deteriorating bodies together in a more stylish fashion than bolts and rivets.</WoW_Forsaken_Backstory_Adult_10.baseDescription>
+
+
+</LanguageData>

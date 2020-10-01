@@ -5,6 +5,8 @@
 
   <WoW_Orc.label>兽人</WoW_Orc.label>
   <WoW_Orc.description>兽人是德拉诺世界（现称为外域）的本土种族，他们通过黑暗之门到达了艾泽拉斯，黑暗之门巨大的结构使得兽人可以大量传送到其他世界。</WoW_Orc.description>
+  <WoW_Orc.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>skin</WoW_Orc.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>
+  <WoW_Orc.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>hair</WoW_Orc.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>
   <WoW_Orc.tools.0.label>左拳</WoW_Orc.tools.0.label>
   <WoW_Orc.tools.1.label>右拳</WoW_Orc.tools.1.label>
   <WoW_Orc.tools.2.label>牙齿</WoW_Orc.tools.2.label>

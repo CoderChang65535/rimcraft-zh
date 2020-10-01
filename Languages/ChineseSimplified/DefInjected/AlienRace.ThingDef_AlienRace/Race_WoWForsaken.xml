@@ -5,10 +5,16 @@
 
   <WoW_Forsaken.label>被遗忘者</WoW_Forsaken.label>
   <WoW_Forsaken.description>被遗忘者亡灵或被遗忘者，是脱离了天灾军团的有智慧亡灵团体。他们控制了在第三次战争中被死亡骑士阿尔萨斯摧毁的洛丹伦王国的大部分地区。尽管被遗忘者中有大量人类亡灵，但被遗忘者是一个包括几个不同的种族的多元化势力。由于为了共同的目标和以示忠诚，他们都将自己的种族身份定为被遗忘者。</WoW_Forsaken.description>
+  <WoW_Forsaken.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>skin</WoW_Forsaken.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>
+  <WoW_Forsaken.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>hair</WoW_Forsaken.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>
   <WoW_Forsaken.tools.0.label>左拳</WoW_Forsaken.tools.0.label>
   <WoW_Forsaken.tools.1.label>右拳</WoW_Forsaken.tools.1.label>
   <WoW_Forsaken.tools.2.label>牙齿</WoW_Forsaken.tools.2.label>
   <WoW_Forsaken.tools.3.label>头</WoW_Forsaken.tools.3.label>
+  <WoW_Forsaken.tools.4.label>left fist</WoW_Forsaken.tools.4.label>
+  <WoW_Forsaken.tools.5.label>right fist</WoW_Forsaken.tools.5.label>
+  <WoW_Forsaken.tools.6.label>teeth</WoW_Forsaken.tools.6.label>
+  <WoW_Forsaken.tools.7.label>head</WoW_Forsaken.tools.7.label>
 
 
 </LanguageData>

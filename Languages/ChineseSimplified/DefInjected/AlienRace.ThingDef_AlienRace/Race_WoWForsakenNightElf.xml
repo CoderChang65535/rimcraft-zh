@@ -5,10 +5,16 @@
 
   <WoW_ForsakenNightElf.label>暗夜精灵亡灵</WoW_ForsakenNightElf.label>
   <WoW_ForsakenNightElf.description>暗夜精灵是一个强大而神秘的种族，其起源可以追溯到远古。这些在当时不朽的生物是最早研究奥术的种族之一，并在一万年前的上古之战后使得奥术在全世界传播。暗夜精灵的深远影响和古老的遗产使他们成为一个自给自足且具有自我意识的族群，他们经常表现出强烈的孤立主义色彩。</WoW_ForsakenNightElf.description>
+  <WoW_ForsakenNightElf.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>skin</WoW_ForsakenNightElf.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>
+  <WoW_ForsakenNightElf.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>hair</WoW_ForsakenNightElf.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>
   <WoW_ForsakenNightElf.tools.0.label>左拳</WoW_ForsakenNightElf.tools.0.label>
   <WoW_ForsakenNightElf.tools.1.label>右拳</WoW_ForsakenNightElf.tools.1.label>
   <WoW_ForsakenNightElf.tools.2.label>牙齿</WoW_ForsakenNightElf.tools.2.label>
   <WoW_ForsakenNightElf.tools.3.label>头</WoW_ForsakenNightElf.tools.3.label>
+  <WoW_ForsakenNightElf.tools.4.label>left fist</WoW_ForsakenNightElf.tools.4.label>
+  <WoW_ForsakenNightElf.tools.5.label>right fist</WoW_ForsakenNightElf.tools.5.label>
+  <WoW_ForsakenNightElf.tools.6.label>teeth</WoW_ForsakenNightElf.tools.6.label>
+  <WoW_ForsakenNightElf.tools.7.label>head</WoW_ForsakenNightElf.tools.7.label>
 
 
 </LanguageData>

@@ -5,6 +5,8 @@
 
   <WoW_Human.label>艾泽拉斯人类</WoW_Human.label>
   <WoW_Human.description>人类是艾泽拉斯世界的一个顽强的物种。最近的发现表明，人类起源于诺森德维库人。尽管人类是艾泽拉斯的年轻种族之一，但他们充满毅力和韧性。他们的适应力使他们在不断变化的世界中愈发强大。</WoW_Human.description>
+  <WoW_Human.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>skin</WoW_Human.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>
+  <WoW_Human.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>hair</WoW_Human.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>
   <WoW_Human.tools.0.label>左拳</WoW_Human.tools.0.label>
   <WoW_Human.tools.1.label>右拳</WoW_Human.tools.1.label>
   <WoW_Human.tools.2.label>牙齿</WoW_Human.tools.2.label>

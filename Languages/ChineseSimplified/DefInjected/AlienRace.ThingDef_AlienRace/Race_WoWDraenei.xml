@@ -5,6 +5,8 @@
 
   <WoW_Draenei.label>德莱尼</WoW_Draenei.label>
   <WoW_Draenei.description>德莱尼人（他们的语言中代表流亡者）曾经是艾瑞达人的一支，他们逃离了名为阿古斯的家乡，躲避燃烧军团的邪能腐蚀。</WoW_Draenei.description>
+  <WoW_Draenei.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>skin</WoW_Draenei.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>
+  <WoW_Draenei.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>hair</WoW_Draenei.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>
   <WoW_Draenei.tools.0.label>左拳</WoW_Draenei.tools.0.label>
   <WoW_Draenei.tools.1.label>右拳</WoW_Draenei.tools.1.label>
   <WoW_Draenei.tools.2.label>牙齿</WoW_Draenei.tools.2.label>

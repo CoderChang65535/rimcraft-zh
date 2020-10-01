@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Human Child 1 -->
+
+  <WoW_Human_Backstory_Child_1.title>Apprentice Blacksmith</WoW_Human_Backstory_Child_1.title>
+  <WoW_Human_Backstory_Child_1.baseDescription>[PAWN_nameDef] worked as an apprentice to the local blacksmiths in Goldshire. Here [PAWN_pronoun] quickly learned how to craft basic weapons and armour and how to use them.</WoW_Human_Backstory_Child_1.baseDescription>
+
+
+  <!-- Human Child 2 -->
+
+  <WoW_Human_Backstory_Child_2.title>Mage Apprentice</WoW_Human_Backstory_Child_2.title>
+  <WoW_Human_Backstory_Child_2.baseDescription>When [PAWN_nameDef] started showing signs of magical prowess [PAWN_pronoun] was sent to the Tower of Azora in the middle of Elwynn Forest to study with the mages situated there.</WoW_Human_Backstory_Child_2.baseDescription>
+
+
+  <!-- Human Child 3 -->
+
+  <WoW_Human_Backstory_Child_3.title>Choir Child</WoW_Human_Backstory_Child_3.title>
+  <WoW_Human_Backstory_Child_3.baseDescription>It is widely believed that singing prayer to the Holy Light would bring favour to its worshippers. [PAWN_nameDef] sang in the choir for the Cathedral of Light yet oddly never felt any different.</WoW_Human_Backstory_Child_3.baseDescription>
+
+
+  <!-- Human Child 4 -->
+
+  <WoW_Human_Backstory_Child_4.title>Squire</WoW_Human_Backstory_Child_4.title>
+  <WoW_Human_Backstory_Child_4.baseDescription>Many children aspire to be a squire for a famous knight, and [PAWN_nameDef] achieved [PAWN_pronoun] dream of doing so. However, [PAWN_pronoun] soon realised that it's not as glamorous a job as [PAWN_pronoun] expected and often ended up carrying [PAWN_possessive] knight's heavy belongings.</WoW_Human_Backstory_Child_4.baseDescription>
+
+
+  <!-- Human Child 5 -->
+
+  <WoW_Human_Backstory_Child_5.title>Homeless Child</WoW_Human_Backstory_Child_5.title>
+  <WoW_Human_Backstory_Child_5.baseDescription>[PAWN_nameDef] used to live in the town of Moonbrook in Westfall until it burned down. While [PAWN_pronoun] managed to travel to Stormwind with other refugees [PAWN_pronoun] had to live on the streets as the local orphanage was already full.</WoW_Human_Backstory_Child_5.baseDescription>
+
+
+  <!-- Human Adult 1 -->
+
+  <WoW_Human_Backstory_Adult_1.title>Retired Miner</WoW_Human_Backstory_Adult_1.title>
+  <WoW_Human_Backstory_Adult_1.baseDescription>Mining is not an easy job and [PAWN_nameDef] had been considering handing in his notice for some time. When the Fargodeep mines became overrun by kobolds [PAWN_nameDef] decided [PAWN_pronoun] was too old for this and left.</WoW_Human_Backstory_Adult_1.baseDescription>
+
+
+  <!-- Human Adult 2 -->
+
+  <WoW_Human_Backstory_Adult_2.title>Adventurer</WoW_Human_Backstory_Adult_2.title>
+  <WoW_Human_Backstory_Adult_2.baseDescription>[PAWN_nameDef] made [PAWN_possessive] name by famously slaying the spider queen and her offspring inhabiting the Jasperlode mines. Recently other adventurers have started claiming this feat, making [PAWN_nameDef]'s word hard to believe.</WoW_Human_Backstory_Adult_2.baseDescription>
+
+
+  <!-- Human Adult 3 -->
+
+  <WoW_Human_Backstory_Adult_3.title>Stonemason</WoW_Human_Backstory_Adult_3.title>
+  <WoW_Human_Backstory_Adult_3.baseDescription>[PAWN_nameDef] is descended from a long line of stonemasons who originally built the Heroes' Vigil at Stone Cairn Lake, in memory of those who fell when Goldshire was sacked by orcs during the First War.</WoW_Human_Backstory_Adult_3.baseDescription>
+
+
+  <!-- Human Adult 4 -->
+
+  <WoW_Human_Backstory_Adult_4.title>Fisherman</WoW_Human_Backstory_Adult_4.title>
+  <WoW_Human_Backstory_Adult_4.baseDescription>A retired adventurer [PAWN_nameDef] now peacefully spends [PAWN_possessive] life fishing at Crystal Lake. [PAWN_pronoun] still remembers the thrill of adventuring and occasionally bashes the local murlocs.</WoW_Human_Backstory_Adult_4.baseDescription>
+
+
+  <!-- Human Adult 5 -->
+
+  <WoW_Human_Backstory_Adult_5.title>Bounty Hunter</WoW_Human_Backstory_Adult_5.title>
+  <WoW_Human_Backstory_Adult_5.baseDescription>[PAWN_nameDef] is well known for taking on contracts that involve hunting down Defias members and slaying gnolls.</WoW_Human_Backstory_Adult_5.baseDescription>
+
+
+  <!-- Human Adult 6 -->
+
+  <WoW_Human_Backstory_Adult_6.title>Trapper</WoW_Human_Backstory_Adult_6.title>
+  <WoW_Human_Backstory_Adult_6.baseDescription>Situated in eastern Elwynn [PAWN_nameDef] works as a trapper, hunting and killing bears and wolves for their valuable pelts. A few close encounters have given [PAWN_pronoun] a healthy respect for animals.</WoW_Human_Backstory_Adult_6.baseDescription>
+
+
+  <!-- Human Adult 7 -->
+
+  <WoW_Human_Backstory_Adult_7.title>Logger</WoW_Human_Backstory_Adult_7.title>
+  <WoW_Human_Backstory_Adult_7.baseDescription>[PAWN_nameDef] works at the Eastvale Logging Camp chopping down trees and processing them into lumber. [PAWN_pronoun] often seeks the aid of adventurers to help keep the local hostile wildlife at bay.</WoW_Human_Backstory_Adult_7.baseDescription>
+
+
+  <!-- Human Adult 8 -->
+
+  <WoW_Human_Backstory_Adult_8.title>Riding Instructor</WoW_Human_Backstory_Adult_8.title>
+  <WoW_Human_Backstory_Adult_8.baseDescription>Usually located nearby the Eastvale Logging Camp [PAWN_nameDef] works as a riding instructor, teaching people how to ride horses and help haul the lumber to town for trade. [PAWN_pronoun] also instructs adventurers interested in owning their own mounts.</WoW_Human_Backstory_Adult_8.baseDescription>
+
+
+  <!-- Human Adult 9 -->
+
+  <WoW_Human_Backstory_Adult_9.title>Impoverished Farmer</WoW_Human_Backstory_Adult_9.title>
+  <WoW_Human_Backstory_Adult_9.baseDescription>[PAWN_nameDef] manages one of the remaining farmsteads in Westfall. [PAWN_pronoun] since fell on hard times with the rise in Defias activity ruining [PAWN_possessive] crops and making trade near impossible.</WoW_Human_Backstory_Adult_9.baseDescription>
+
+
+  <!-- Human Adult 10 -->
+
+  <WoW_Human_Backstory_Adult_10.title>Refugee</WoW_Human_Backstory_Adult_10.title>
+  <WoW_Human_Backstory_Adult_10.baseDescription>[PAWN_nameDef] used to manage one of the many Westfall farmsteads until [PAWN_pronoun] was forced to flee when Defias bandits burned it to the ground.</WoW_Human_Backstory_Adult_10.baseDescription>
+
+
+  <!-- Human Adult 11 -->
+
+  <WoW_Human_Backstory_Adult_11.title>Waitress</WoW_Human_Backstory_Adult_11.title>
+  <WoW_Human_Backstory_Adult_11.baseDescription>[PAWN_nameDef] hopes one day to run [PAWN_possessive] own inn. For now [PAWN_pronoun] serves patrons and washes dishes at the Blue Recluse. Not the ideal job but a step in the right direction.</WoW_Human_Backstory_Adult_11.baseDescription>
+
+
+  <!-- Human Adult 12 -->
+
+  <WoW_Human_Backstory_Adult_12.title>Innkeeper</WoW_Human_Backstory_Adult_12.title>
+  <WoW_Human_Backstory_Adult_12.baseDescription>[PAWN_nameDef] runs Stormwind's Gilded Rose inn, providing hospitality to weary travellers and breaking up the odd tavern brawl. [PAWN_pronoun] tends to pick up a lot of the latest gossip from [PAWN_possessive] patrons, some of which [PAWN_pronoun] would rather not have heard.</WoW_Human_Backstory_Adult_12.baseDescription>
+
+
+  <!-- Human Adult 13 -->
+
+  <WoW_Human_Backstory_Adult_13.title>Winemaker</WoW_Human_Backstory_Adult_13.title>
+  <WoW_Human_Backstory_Adult_13.baseDescription>Hailing from Northshire [PAWN_nameDef] was a proud winemaker for the local vineyards. When the vineyards became the target of first the Defias Brotherhood and then orcs from the Blackrock clan [PAWN_pronoun] was forced to abandon [PAWN_possessive] work and flee to the abbey for shelter.</WoW_Human_Backstory_Adult_13.baseDescription>
+
+
+  <!-- Human Adult 14 -->
+
+  <WoW_Human_Backstory_Adult_14.title>Labourer</WoW_Human_Backstory_Adult_14.title>
+  <WoW_Human_Backstory_Adult_14.baseDescription>A worker for the Northshire vineyards [PAWN_nameDef] mostly did general labour and rarely helped with the actual wine making process. [PAWN_pronoun] sometimes pilfered a bottle when the others weren't looking.</WoW_Human_Backstory_Adult_14.baseDescription>
+
+
+</LanguageData>

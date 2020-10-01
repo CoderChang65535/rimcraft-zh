@@ -5,6 +5,8 @@
 
   <WoW_Worgen.label>狼人</WoW_Worgen.label>
   <WoW_Worgen.description>狼人是一群野蛮的野兽，人们光是听到他们的名字就会感到害怕。它们是大型的类人动物，直立行走四肢奔跑。被狼人咬或喝了狼人血液的人类和暗夜精灵变成狼人。转化之后，那些人会因为愤怒逐渐失去了国区记忆，变得无脑。通过用药物、奥术和自律，狼人可能会克服自己嗜血的本能。</WoW_Worgen.description>
+  <WoW_Worgen.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>skin</WoW_Worgen.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>
+  <WoW_Worgen.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>hair</WoW_Worgen.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>
   <WoW_Worgen.tools.0.label>左拳</WoW_Worgen.tools.0.label>
   <WoW_Worgen.tools.1.label>右拳</WoW_Worgen.tools.1.label>
   <WoW_Worgen.tools.2.label>牙齿</WoW_Worgen.tools.2.label>
