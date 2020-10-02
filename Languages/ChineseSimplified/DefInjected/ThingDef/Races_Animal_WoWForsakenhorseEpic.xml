@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Epic Forsaken Horse Def -->
+
+  <WoW_Animal_EpicForsakenhorse.label>迅捷骸骨军马</WoW_Animal_EpicForsakenhorse.label>
+  <WoW_Animal_EpicForsakenhorse.description>Skeletal horses are the remains of horses that have succumbed to the Lich King's plague. They have since been raised from the dead by the Royal Apothecary Society in the Undercity and are now used as mounts by the Forsaken. The Forsaken believe that without a purpose, even beasts of burden suffer in undeath. At least some skeletal horses have been known to try to graze as they did in life, oblivious to the fact that the grass simply falls back to the earth when they attempt to chew it.</WoW_Animal_EpicForsakenhorse.description>
+  <WoW_Animal_EpicForsakenhorse.tools.1.label>头</WoW_Animal_EpicForsakenhorse.tools.1.label>
+  <WoW_Animal_EpicForsakenhorse.tools.2.label>左蹄</WoW_Animal_EpicForsakenhorse.tools.2.label>
+  <WoW_Animal_EpicForsakenhorse.tools.3.label>右蹄</WoW_Animal_EpicForsakenhorse.tools.3.label>
+
+
+</LanguageData>

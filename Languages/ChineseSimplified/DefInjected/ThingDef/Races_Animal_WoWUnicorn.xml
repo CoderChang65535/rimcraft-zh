@@ -5,10 +5,9 @@
 
   <WoW_Animal_Unicorn.label>独角兽</WoW_Animal_Unicorn.label>
   <WoW_Animal_Unicorn.description>Unicorns are a species of horse-like creatures living on Azeroth and who, unlike horses, have a horn growing out of their head. The Quel'dorei steed are descended from a fine line of horses that once grazed near the shores of the Well of Eternity</WoW_Animal_Unicorn.description>
-  <WoW_Animal_Unicorn.tools.1.label>头</WoW_Animal_Unicorn.tools.1.label>
-  <WoW_Animal_Unicorn.tools.2.label>角</WoW_Animal_Unicorn.tools.2.label>
-  <WoW_Animal_Unicorn.tools.3.label>左蹄</WoW_Animal_Unicorn.tools.3.label>
-  <WoW_Animal_Unicorn.tools.4.label>右蹄</WoW_Animal_Unicorn.tools.4.label>
+  <WoW_Animal_Unicorn.tools.1.label>角</WoW_Animal_Unicorn.tools.1.label>
+  <WoW_Animal_Unicorn.tools.2.label>左蹄</WoW_Animal_Unicorn.tools.2.label>
+  <WoW_Animal_Unicorn.tools.3.label>右蹄</WoW_Animal_Unicorn.tools.3.label>
 
 
 </LanguageData>

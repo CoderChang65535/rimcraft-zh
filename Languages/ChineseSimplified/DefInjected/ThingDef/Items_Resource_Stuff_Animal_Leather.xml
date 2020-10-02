@@ -1,41 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Leather_WoWDirewolf.label>恐狼皮</Leather_WoWDirewolf.label>
-  <Leather_WoWDirewolf.description>The strong furry leather of a dire wolf. Compared to most leather, it is quite a bit tougher and a bit better at all kinds of temperature regulation.</Leather_WoWDirewolf.description>
-
-  <Leather_WoWRaptor.label>迅猛龙皮</Leather_WoWRaptor.label>
-  <Leather_WoWRaptor.description>The tanned skin of a cold-blooded reptile. Raptorskin is reasonably tough, but does not insulate well at all.</Leather_WoWRaptor.description>
-
-  <Leather_WoWHorse.label>艾泽拉斯马皮</Leather_WoWHorse.label>
-  <Leather_WoWHorse.description>Tanned, dried, scraped horse skin. While a decent leather, it neither protects nor insulates particularly well.</Leather_WoWHorse.description>
-
-  <Leather_WoWUnicorn.label>独角兽皮</Leather_WoWUnicorn.label>
-  <Leather_WoWUnicorn.description>Tanned, dried, scraped unicorn skin. While a decent leather, it neither protects nor insulates particularly well.</Leather_WoWUnicorn.description>
+  <Leather_WoWUnicorn.label>unicorn leather</Leather_WoWUnicorn.label>
+  <Leather_WoWUnicorn.description>Tanned, dried, scraped unicorn skin. While a decent leather, it neither protects nor insulates particularly well. But at least it looks pretty!</Leather_WoWUnicorn.description>
 
   <Leather_WoWForsakenhorse.label>骸骨军马皮</Leather_WoWForsakenhorse.label>
-  <Leather_WoWForsakenhorse.description>Tanned, dried, scraped forsaken horse skin. Most people find this material horrifying. Some find it fascinating. While a decent leather, it neither protects nor insulates particularly well.</Leather_WoWForsakenhorse.description>
-
-  <Leather_WoWNightsaber.label>夜刃豹皮</Leather_WoWNightsaber.label>
-  <Leather_WoWNightsaber.description>A soft furry pelt harvested from a nightsaber. It is difficult to pierce and insulates well against heat.</Leather_WoWNightsaber.description>
-
-  <Leather_WoWHawkstrider.label>陆行鸟皮</Leather_WoWHawkstrider.label>
-  <Leather_WoWHawkstrider.description>Tanned, dried, scraped hawkstrider skin. It is quite delicate. Without its feathers, it provides little protection from heat or cold.</Leather_WoWHawkstrider.description>
-
-  <Leather_WoWKodo.label>科多兽皮</Leather_WoWKodo.label>
-  <Leather_WoWKodo.description>The tanned skin of a cold-blooded reptile. Kodo-skin is reasonably tough, but does not insulate well at all.</Leather_WoWKodo.description>
-
-  <Leather_WoWDragonhawk.label>龙鹰皮</Leather_WoWDragonhawk.label>
-  <Leather_WoWDragonhawk.description>The tanned skin of a cold-blooded reptile. Dragonhawk-skin is reasonably tough, but does not insulate well at all.</Leather_WoWDragonhawk.description>
-
-  <Leather_WoWMurloc.label>鱼人皮</Leather_WoWMurloc.label>
-  <Leather_WoWMurloc.description>The tanned skin of a amphibious creature. Murloc-skin isn't very tough, but insulates quite well.</Leather_WoWMurloc.description>
-
-  <Leather_WoWRam.label>卡兹莫丹山羊皮</Leather_WoWRam.label>
-  <Leather_WoWRam.description>A soft furry pelt harvested from a ram. It is difficult to pierce and insulates well against heat.</Leather_WoWRam.description>
+  <Leather_WoWForsakenhorse.description>Tanned, dried, scraped forsaken horse skin. Most people find this material horrifying. Some find it fascinating. This leather being rotted neither protects nor insulates particularly well. Smells pretty bad too.</Leather_WoWForsakenhorse.description>
 
   <Leather_WoWFairyDragon.label>精灵龙皮</Leather_WoWFairyDragon.label>
-  <Leather_WoWFairyDragon.description>The tanned skin of a cold-blooded reptile. Fairy dragon skin is reasonably tough, but does not insulate well at all.</Leather_WoWFairyDragon.description>
+  <Leather_WoWFairyDragon.description>The tanned skin of the rare fairy dragon. Fairy dragon skin is reasonably tough, provides strong insulation against heat, and is quite beautiful.</Leather_WoWFairyDragon.description>
 
 
 </LanguageData>

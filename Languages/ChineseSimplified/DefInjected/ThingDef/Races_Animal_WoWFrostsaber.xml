@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Frostsaber Def -->
+
+  <WoW_Animal_Frostsaber.label>霜刃豹</WoW_Animal_Frostsaber.label>
+  <WoW_Animal_Frostsaber.description>Frostsabers are legendary cats native to Winterspring, and they are highly sought after by the most experienced Sentinels as mounts. The night elves view frostsabers as sacred, and treat them with more respect than almost any other creature. Frostsabers are difficult to train, and thus traditionally only experienced Sentinels were ever capable of convincing one to serve as a mount. In recent years, with the coming of the goblins to Winterspring, Wintersaber Trainers have begun selling their trained mounts for the first time in history. Traditionalists view this as blasphemous, but many understand that the coin from such sales often goes to a worthy cause (and Frostsaber Trainers are highly selective about just who they are willing to sell to). Frostsaber cats are intelligent and loyal when domesticated, but feral and aggressive when left in their natural environments. The frostsaber cat is a fearless opponent, its thick fur having the resilience to shrug off minor damage. It uses its fangs and claws against those foolish enough to engage it in melee combat.</WoW_Animal_Frostsaber.description>
+  <WoW_Animal_Frostsaber.tools.0.label>左爪</WoW_Animal_Frostsaber.tools.0.label>
+  <WoW_Animal_Frostsaber.tools.1.label>右爪</WoW_Animal_Frostsaber.tools.1.label>
+  <WoW_Animal_Frostsaber.tools.3.label>头</WoW_Animal_Frostsaber.tools.3.label>
+
+
+</LanguageData>

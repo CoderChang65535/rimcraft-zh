@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Manasaber Def -->
+
+  <WoW_Animal_Nightsaber.label>夜刃豹</WoW_Animal_Nightsaber.label>
+  <WoW_Animal_Nightsaber.labelPlural>夜刃豹</WoW_Animal_Nightsaber.labelPlural>
+  <WoW_Animal_Nightsaber.lifeStages.0.label>小夜刃豹</WoW_Animal_Nightsaber.lifeStages.0.label>
+  <WoW_Animal_Nightsaber.lifeStages.0.labelPlural>小夜刃豹</WoW_Animal_Nightsaber.lifeStages.0.labelPlural>
+  <WoW_Animal_Nightsaber.lifeStages.0.labelMale>男性 小夜刃豹</WoW_Animal_Nightsaber.lifeStages.0.labelMale>
+  <WoW_Animal_Nightsaber.lifeStages.0.labelMalePlural>男性 小夜刃豹</WoW_Animal_Nightsaber.lifeStages.0.labelMalePlural>
+  <WoW_Animal_Nightsaber.lifeStages.0.labelFemale>女性 小夜刃豹</WoW_Animal_Nightsaber.lifeStages.0.labelFemale>
+  <WoW_Animal_Nightsaber.lifeStages.0.labelFemalePlural>女性 小夜刃豹</WoW_Animal_Nightsaber.lifeStages.0.labelFemalePlural>
+  <WoW_Animal_Nightsaber.lifeStages.1.label>夜刃豹</WoW_Animal_Nightsaber.lifeStages.1.label>
+  <WoW_Animal_Nightsaber.lifeStages.1.labelPlural>夜刃豹</WoW_Animal_Nightsaber.lifeStages.1.labelPlural>
+  <WoW_Animal_Nightsaber.lifeStages.1.labelMale>男性 夜刃豹</WoW_Animal_Nightsaber.lifeStages.1.labelMale>
+  <WoW_Animal_Nightsaber.lifeStages.1.labelMalePlural>男性 夜刃豹</WoW_Animal_Nightsaber.lifeStages.1.labelMalePlural>
+  <WoW_Animal_Nightsaber.lifeStages.1.labelFemale>女性 夜刃豹</WoW_Animal_Nightsaber.lifeStages.1.labelFemale>
+  <WoW_Animal_Nightsaber.lifeStages.1.labelFemalePlural>女性 夜刃豹</WoW_Animal_Nightsaber.lifeStages.1.labelFemalePlural>
+  <WoW_Animal_Nightsaber.lifeStages.2.label>夜刃豹</WoW_Animal_Nightsaber.lifeStages.2.label>
+  <WoW_Animal_Nightsaber.lifeStages.2.labelPlural>夜刃豹</WoW_Animal_Nightsaber.lifeStages.2.labelPlural>
+  <WoW_Animal_Nightsaber.lifeStages.2.labelMale>男性 夜刃豹</WoW_Animal_Nightsaber.lifeStages.2.labelMale>
+  <WoW_Animal_Nightsaber.lifeStages.2.labelMalePlural>男性 夜刃豹</WoW_Animal_Nightsaber.lifeStages.2.labelMalePlural>
+  <WoW_Animal_Nightsaber.lifeStages.2.labelFemale>女性 夜刃豹</WoW_Animal_Nightsaber.lifeStages.2.labelFemale>
+  <WoW_Animal_Nightsaber.lifeStages.2.labelFemalePlural>女性 夜刃豹</WoW_Animal_Nightsaber.lifeStages.2.labelFemalePlural>
+  <WoW_Animal_Nightsaber.labelMale>男性 夜刃豹</WoW_Animal_Nightsaber.labelMale>
+  <WoW_Animal_Nightsaber.labelMalePlural>男性 夜刃豹</WoW_Animal_Nightsaber.labelMalePlural>
+  <WoW_Animal_Nightsaber.labelFemale>女性 夜刃豹</WoW_Animal_Nightsaber.labelFemale>
+  <WoW_Animal_Nightsaber.labelFemalePlural>女性 夜刃豹</WoW_Animal_Nightsaber.labelFemalePlural>
+
+  <WoW_Animal_Frostsaber.label>霜刃豹</WoW_Animal_Frostsaber.label>
+  <WoW_Animal_Frostsaber.labelPlural>霜刃豹</WoW_Animal_Frostsaber.labelPlural>
+  <WoW_Animal_Frostsaber.lifeStages.0.label>小霜刃豹</WoW_Animal_Frostsaber.lifeStages.0.label>
+  <WoW_Animal_Frostsaber.lifeStages.0.labelPlural>小霜刃豹</WoW_Animal_Frostsaber.lifeStages.0.labelPlural>
+  <WoW_Animal_Frostsaber.lifeStages.0.labelMale>男性 小霜刃豹</WoW_Animal_Frostsaber.lifeStages.0.labelMale>
+  <WoW_Animal_Frostsaber.lifeStages.0.labelMalePlural>男性 小霜刃豹</WoW_Animal_Frostsaber.lifeStages.0.labelMalePlural>
+  <WoW_Animal_Frostsaber.lifeStages.0.labelFemale>女性 小霜刃豹</WoW_Animal_Frostsaber.lifeStages.0.labelFemale>
+  <WoW_Animal_Frostsaber.lifeStages.0.labelFemalePlural>女性 小霜刃豹</WoW_Animal_Frostsaber.lifeStages.0.labelFemalePlural>
+  <WoW_Animal_Frostsaber.lifeStages.1.label>霜刃豹</WoW_Animal_Frostsaber.lifeStages.1.label>
+  <WoW_Animal_Frostsaber.lifeStages.1.labelPlural>霜刃豹</WoW_Animal_Frostsaber.lifeStages.1.labelPlural>
+  <WoW_Animal_Frostsaber.lifeStages.1.labelMale>男性 霜刃豹</WoW_Animal_Frostsaber.lifeStages.1.labelMale>
+  <WoW_Animal_Frostsaber.lifeStages.1.labelMalePlural>男性 霜刃豹</WoW_Animal_Frostsaber.lifeStages.1.labelMalePlural>
+  <WoW_Animal_Frostsaber.lifeStages.1.labelFemale>女性 霜刃豹</WoW_Animal_Frostsaber.lifeStages.1.labelFemale>
+  <WoW_Animal_Frostsaber.lifeStages.1.labelFemalePlural>女性 霜刃豹</WoW_Animal_Frostsaber.lifeStages.1.labelFemalePlural>
+  <WoW_Animal_Frostsaber.lifeStages.2.label>霜刃豹</WoW_Animal_Frostsaber.lifeStages.2.label>
+  <WoW_Animal_Frostsaber.lifeStages.2.labelPlural>霜刃豹</WoW_Animal_Frostsaber.lifeStages.2.labelPlural>
+  <WoW_Animal_Frostsaber.lifeStages.2.labelMale>男性 霜刃豹</WoW_Animal_Frostsaber.lifeStages.2.labelMale>
+  <WoW_Animal_Frostsaber.lifeStages.2.labelMalePlural>男性 霜刃豹</WoW_Animal_Frostsaber.lifeStages.2.labelMalePlural>
+  <WoW_Animal_Frostsaber.lifeStages.2.labelFemale>女性 霜刃豹</WoW_Animal_Frostsaber.lifeStages.2.labelFemale>
+  <WoW_Animal_Frostsaber.lifeStages.2.labelFemalePlural>女性 霜刃豹</WoW_Animal_Frostsaber.lifeStages.2.labelFemalePlural>
+  <WoW_Animal_Frostsaber.labelMale>男性 霜刃豹</WoW_Animal_Frostsaber.labelMale>
+  <WoW_Animal_Frostsaber.labelMalePlural>男性 霜刃豹</WoW_Animal_Frostsaber.labelMalePlural>
+  <WoW_Animal_Frostsaber.labelFemale>女性 霜刃豹</WoW_Animal_Frostsaber.labelFemale>
+  <WoW_Animal_Frostsaber.labelFemalePlural>女性 霜刃豹</WoW_Animal_Frostsaber.labelFemalePlural>
+
+  <WoW_Animal_Manasaber.label>魔刃豹</WoW_Animal_Manasaber.label>
+  <WoW_Animal_Manasaber.labelPlural>魔刃豹</WoW_Animal_Manasaber.labelPlural>
+  <WoW_Animal_Manasaber.lifeStages.0.label>小魔刃豹</WoW_Animal_Manasaber.lifeStages.0.label>
+  <WoW_Animal_Manasaber.lifeStages.0.labelPlural>小魔刃豹</WoW_Animal_Manasaber.lifeStages.0.labelPlural>
+  <WoW_Animal_Manasaber.lifeStages.0.labelMale>男性 小魔刃豹</WoW_Animal_Manasaber.lifeStages.0.labelMale>
+  <WoW_Animal_Manasaber.lifeStages.0.labelMalePlural>男性 小魔刃豹</WoW_Animal_Manasaber.lifeStages.0.labelMalePlural>
+  <WoW_Animal_Manasaber.lifeStages.0.labelFemale>女性 小魔刃豹</WoW_Animal_Manasaber.lifeStages.0.labelFemale>
+  <WoW_Animal_Manasaber.lifeStages.0.labelFemalePlural>女性 小魔刃豹</WoW_Animal_Manasaber.lifeStages.0.labelFemalePlural>
+  <WoW_Animal_Manasaber.lifeStages.1.label>魔刃豹</WoW_Animal_Manasaber.lifeStages.1.label>
+  <WoW_Animal_Manasaber.lifeStages.1.labelPlural>魔刃豹</WoW_Animal_Manasaber.lifeStages.1.labelPlural>
+  <WoW_Animal_Manasaber.lifeStages.1.labelMale>男性 魔刃豹</WoW_Animal_Manasaber.lifeStages.1.labelMale>
+  <WoW_Animal_Manasaber.lifeStages.1.labelMalePlural>男性 魔刃豹</WoW_Animal_Manasaber.lifeStages.1.labelMalePlural>
+  <WoW_Animal_Manasaber.lifeStages.1.labelFemale>女性 魔刃豹</WoW_Animal_Manasaber.lifeStages.1.labelFemale>
+  <WoW_Animal_Manasaber.lifeStages.1.labelFemalePlural>女性 魔刃豹</WoW_Animal_Manasaber.lifeStages.1.labelFemalePlural>
+  <WoW_Animal_Manasaber.lifeStages.2.label>魔刃豹</WoW_Animal_Manasaber.lifeStages.2.label>
+  <WoW_Animal_Manasaber.lifeStages.2.labelPlural>魔刃豹</WoW_Animal_Manasaber.lifeStages.2.labelPlural>
+  <WoW_Animal_Manasaber.lifeStages.2.labelMale>男性 魔刃豹</WoW_Animal_Manasaber.lifeStages.2.labelMale>
+  <WoW_Animal_Manasaber.lifeStages.2.labelMalePlural>男性 魔刃豹</WoW_Animal_Manasaber.lifeStages.2.labelMalePlural>
+  <WoW_Animal_Manasaber.lifeStages.2.labelFemale>女性 魔刃豹</WoW_Animal_Manasaber.lifeStages.2.labelFemale>
+  <WoW_Animal_Manasaber.lifeStages.2.labelFemalePlural>女性 魔刃豹</WoW_Animal_Manasaber.lifeStages.2.labelFemalePlural>
+  <WoW_Animal_Manasaber.labelMale>男性 魔刃豹</WoW_Animal_Manasaber.labelMale>
+  <WoW_Animal_Manasaber.labelMalePlural>男性 魔刃豹</WoW_Animal_Manasaber.labelMalePlural>
+  <WoW_Animal_Manasaber.labelFemale>女性 魔刃豹</WoW_Animal_Manasaber.labelFemale>
+  <WoW_Animal_Manasaber.labelFemalePlural>女性 魔刃豹</WoW_Animal_Manasaber.labelFemalePlural>
+
+
+</LanguageData>

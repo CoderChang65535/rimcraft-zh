@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Gilnean Horse Def -->
+
+  <WoW_Animal_Horse.label>gilnean mountain horse</WoW_Animal_Horse.label>
+  <WoW_Animal_Horse.labelPlural>gilnean mountain horses</WoW_Animal_Horse.labelPlural>
+  <WoW_Animal_Horse.lifeStages.0.label>gilnean horse foal</WoW_Animal_Horse.lifeStages.0.label>
+  <WoW_Animal_Horse.lifeStages.0.labelPlural>gilnean horse foals</WoW_Animal_Horse.lifeStages.0.labelPlural>
+  <WoW_Animal_Horse.lifeStages.0.labelMale>male gilnean horse foal</WoW_Animal_Horse.lifeStages.0.labelMale>
+  <WoW_Animal_Horse.lifeStages.0.labelMalePlural>male gilnean horse foals</WoW_Animal_Horse.lifeStages.0.labelMalePlural>
+  <WoW_Animal_Horse.lifeStages.0.labelFemale>female gilnean horse foal</WoW_Animal_Horse.lifeStages.0.labelFemale>
+  <WoW_Animal_Horse.lifeStages.0.labelFemalePlural>female gilnean horse foals</WoW_Animal_Horse.lifeStages.0.labelFemalePlural>
+  <WoW_Animal_Horse.lifeStages.1.label>gilnean mountain horse</WoW_Animal_Horse.lifeStages.1.label>
+  <WoW_Animal_Horse.lifeStages.1.labelPlural>gilnean mountain horse</WoW_Animal_Horse.lifeStages.1.labelPlural>
+  <WoW_Animal_Horse.lifeStages.1.labelMale>male gilnean mountain horse</WoW_Animal_Horse.lifeStages.1.labelMale>
+  <WoW_Animal_Horse.lifeStages.1.labelMalePlural>male gilnean mountain horses</WoW_Animal_Horse.lifeStages.1.labelMalePlural>
+  <WoW_Animal_Horse.lifeStages.1.labelFemale>gilnean horse mare</WoW_Animal_Horse.lifeStages.1.labelFemale>
+  <WoW_Animal_Horse.lifeStages.1.labelFemalePlural>female gilnean mountain horses</WoW_Animal_Horse.lifeStages.1.labelFemalePlural>
+  <WoW_Animal_Horse.lifeStages.2.label>gilnean mountain horse</WoW_Animal_Horse.lifeStages.2.label>
+  <WoW_Animal_Horse.lifeStages.2.labelPlural>gilnean mountain horse</WoW_Animal_Horse.lifeStages.2.labelPlural>
+  <WoW_Animal_Horse.lifeStages.2.labelMale>male gilnean mountain horse</WoW_Animal_Horse.lifeStages.2.labelMale>
+  <WoW_Animal_Horse.lifeStages.2.labelMalePlural>male gilnean mountain horses</WoW_Animal_Horse.lifeStages.2.labelMalePlural>
+  <WoW_Animal_Horse.lifeStages.2.labelFemale>gilnean horse mare</WoW_Animal_Horse.lifeStages.2.labelFemale>
+  <WoW_Animal_Horse.lifeStages.2.labelFemalePlural>female gilnean mountain horses</WoW_Animal_Horse.lifeStages.2.labelFemalePlural>
+  <WoW_Animal_Horse.labelMale>male gilnean mountain horse</WoW_Animal_Horse.labelMale>
+  <WoW_Animal_Horse.labelMalePlural>male gilnean mountain horses</WoW_Animal_Horse.labelMalePlural>
+  <WoW_Animal_Horse.labelFemale>gilnean horse mare</WoW_Animal_Horse.labelFemale>
+  <WoW_Animal_Horse.labelFemalePlural>gilnean horse mares</WoW_Animal_Horse.labelFemalePlural>
+
+  <!-- <WoW_Animal_Horse.label>艾泽拉斯马</WoW_Animal_Horse.label>
+  <WoW_Animal_Horse.labelPlural>艾泽拉斯马</WoW_Animal_Horse.labelPlural>
+  <WoW_Animal_Horse.lifeStages.0.label>艾泽拉斯马驹</WoW_Animal_Horse.lifeStages.0.label>
+  <WoW_Animal_Horse.lifeStages.0.labelPlural>艾泽拉斯马驹</WoW_Animal_Horse.lifeStages.0.labelPlural>
+  <WoW_Animal_Horse.lifeStages.0.labelMale>男性 艾泽拉斯马驹</WoW_Animal_Horse.lifeStages.0.labelMale>
+  <WoW_Animal_Horse.lifeStages.0.labelMalePlural>男性 艾泽拉斯马驹</WoW_Animal_Horse.lifeStages.0.labelMalePlural>
+  <WoW_Animal_Horse.lifeStages.0.labelFemale>女性 艾泽拉斯马驹</WoW_Animal_Horse.lifeStages.0.labelFemale>
+  <WoW_Animal_Horse.lifeStages.0.labelFemalePlural>女性 艾泽拉斯马驹</WoW_Animal_Horse.lifeStages.0.labelFemalePlural>
+  <WoW_Animal_Horse.lifeStages.1.label>艾泽拉斯马</WoW_Animal_Horse.lifeStages.1.label>
+  <WoW_Animal_Horse.lifeStages.1.labelPlural>艾泽拉斯马</WoW_Animal_Horse.lifeStages.1.labelPlural>
+  <WoW_Animal_Horse.lifeStages.1.labelMale>男性 艾泽拉斯马</WoW_Animal_Horse.lifeStages.1.labelMale>
+  <WoW_Animal_Horse.lifeStages.1.labelMalePlural>男性 艾泽拉斯马</WoW_Animal_Horse.lifeStages.1.labelMalePlural>
+  <WoW_Animal_Horse.lifeStages.1.labelFemale>女性 艾泽拉斯马</WoW_Animal_Horse.lifeStages.1.labelFemale>
+  <WoW_Animal_Horse.lifeStages.1.labelFemalePlural>女性 艾泽拉斯马</WoW_Animal_Horse.lifeStages.1.labelFemalePlural>
+  <WoW_Animal_Horse.lifeStages.2.label>艾泽拉斯马</WoW_Animal_Horse.lifeStages.2.label>
+  <WoW_Animal_Horse.lifeStages.2.labelPlural>艾泽拉斯马</WoW_Animal_Horse.lifeStages.2.labelPlural>
+  <WoW_Animal_Horse.lifeStages.2.labelMale>男性 艾泽拉斯马</WoW_Animal_Horse.lifeStages.2.labelMale>
+  <WoW_Animal_Horse.lifeStages.2.labelMalePlural>男性 艾泽拉斯马</WoW_Animal_Horse.lifeStages.2.labelMalePlural>
+  <WoW_Animal_Horse.lifeStages.2.labelFemale>女性 艾泽拉斯马</WoW_Animal_Horse.lifeStages.2.labelFemale>
+  <WoW_Animal_Horse.lifeStages.2.labelFemalePlural>女性 艾泽拉斯马</WoW_Animal_Horse.lifeStages.2.labelFemalePlural>
+  <WoW_Animal_Horse.labelMale>男性 艾泽拉斯马</WoW_Animal_Horse.labelMale>
+  <WoW_Animal_Horse.labelMalePlural>男性 艾泽拉斯马</WoW_Animal_Horse.labelMalePlural>
+  <WoW_Animal_Horse.labelFemale>女性 艾泽拉斯马</WoW_Animal_Horse.labelFemale>
+  <WoW_Animal_Horse.labelFemalePlural>女性 艾泽拉斯马</WoW_Animal_Horse.labelFemalePlural> -->
+
+  <!-- Unicorn Def -->
+
+  <WoW_Animal_Unicorn.label>独角兽</WoW_Animal_Unicorn.label>
+  <WoW_Animal_Unicorn.labelPlural>独角兽</WoW_Animal_Unicorn.labelPlural>
+  <WoW_Animal_Unicorn.lifeStages.0.label>独角兽驹</WoW_Animal_Unicorn.lifeStages.0.label>
+  <WoW_Animal_Unicorn.lifeStages.0.labelPlural>独角兽驹</WoW_Animal_Unicorn.lifeStages.0.labelPlural>
+  <WoW_Animal_Unicorn.lifeStages.0.labelMale>男性 独角兽驹</WoW_Animal_Unicorn.lifeStages.0.labelMale>
+  <WoW_Animal_Unicorn.lifeStages.0.labelMalePlural>男性 独角兽驹</WoW_Animal_Unicorn.lifeStages.0.labelMalePlural>
+  <WoW_Animal_Unicorn.lifeStages.0.labelFemale>女性 独角兽驹</WoW_Animal_Unicorn.lifeStages.0.labelFemale>
+  <WoW_Animal_Unicorn.lifeStages.0.labelFemalePlural>女性 独角兽驹</WoW_Animal_Unicorn.lifeStages.0.labelFemalePlural>
+  <WoW_Animal_Unicorn.lifeStages.1.label>独角兽</WoW_Animal_Unicorn.lifeStages.1.label>
+  <WoW_Animal_Unicorn.lifeStages.1.labelPlural>独角兽</WoW_Animal_Unicorn.lifeStages.1.labelPlural>
+  <WoW_Animal_Unicorn.lifeStages.1.labelMale>男性 独角兽</WoW_Animal_Unicorn.lifeStages.1.labelMale>
+  <WoW_Animal_Unicorn.lifeStages.1.labelMalePlural>男性 独角兽</WoW_Animal_Unicorn.lifeStages.1.labelMalePlural>
+  <WoW_Animal_Unicorn.lifeStages.1.labelFemale>女性 独角兽</WoW_Animal_Unicorn.lifeStages.1.labelFemale>
+  <WoW_Animal_Unicorn.lifeStages.1.labelFemalePlural>女性 独角兽</WoW_Animal_Unicorn.lifeStages.1.labelFemalePlural>
+  <WoW_Animal_Unicorn.lifeStages.2.label>独角兽</WoW_Animal_Unicorn.lifeStages.2.label>
+  <WoW_Animal_Unicorn.lifeStages.2.labelPlural>独角兽</WoW_Animal_Unicorn.lifeStages.2.labelPlural>
+  <WoW_Animal_Unicorn.lifeStages.2.labelMale>男性 独角兽</WoW_Animal_Unicorn.lifeStages.2.labelMale>
+  <WoW_Animal_Unicorn.lifeStages.2.labelMalePlural>男性 独角兽</WoW_Animal_Unicorn.lifeStages.2.labelMalePlural>
+  <WoW_Animal_Unicorn.lifeStages.2.labelFemale>女性 独角兽</WoW_Animal_Unicorn.lifeStages.2.labelFemale>
+  <WoW_Animal_Unicorn.lifeStages.2.labelFemalePlural>女性 独角兽</WoW_Animal_Unicorn.lifeStages.2.labelFemalePlural>
+  <WoW_Animal_Unicorn.labelMale>男性 独角兽</WoW_Animal_Unicorn.labelMale>
+  <WoW_Animal_Unicorn.labelMalePlural>男性 独角兽</WoW_Animal_Unicorn.labelMalePlural>
+  <WoW_Animal_Unicorn.labelFemale>女性 独角兽</WoW_Animal_Unicorn.labelFemale>
+  <WoW_Animal_Unicorn.labelFemalePlural>女性 独角兽</WoW_Animal_Unicorn.labelFemalePlural>
+
+
+  <!-- Talbuk Def -->
+
+  <WoW_Animal_Talbuk.label>talbuk</WoW_Animal_Talbuk.label>
+  <WoW_Animal_Talbuk.labelPlural>talbuks</WoW_Animal_Talbuk.labelPlural>
+  <WoW_Animal_Talbuk.lifeStages.0.label>talbuk foal</WoW_Animal_Talbuk.lifeStages.0.label>
+  <WoW_Animal_Talbuk.lifeStages.0.labelPlural>talbuk foals</WoW_Animal_Talbuk.lifeStages.0.labelPlural>
+  <WoW_Animal_Talbuk.lifeStages.0.labelMale>male talbuk foal</WoW_Animal_Talbuk.lifeStages.0.labelMale>
+  <WoW_Animal_Talbuk.lifeStages.0.labelMalePlural>male talbuk foals</WoW_Animal_Talbuk.lifeStages.0.labelMalePlural>
+  <WoW_Animal_Talbuk.lifeStages.0.labelFemale>female talbuk foal</WoW_Animal_Talbuk.lifeStages.0.labelFemale>
+  <WoW_Animal_Talbuk.lifeStages.0.labelFemalePlural>female talbuk foals</WoW_Animal_Talbuk.lifeStages.0.labelFemalePlural>
+  <WoW_Animal_Talbuk.lifeStages.1.label>talbuk</WoW_Animal_Talbuk.lifeStages.1.label>
+  <WoW_Animal_Talbuk.lifeStages.1.labelPlural>talbuk</WoW_Animal_Talbuk.lifeStages.1.labelPlural>
+  <WoW_Animal_Talbuk.lifeStages.1.labelMale>talbuk stallion</WoW_Animal_Talbuk.lifeStages.1.labelMale>
+  <WoW_Animal_Talbuk.lifeStages.1.labelMalePlural>male talbuks</WoW_Animal_Talbuk.lifeStages.1.labelMalePlural>
+  <WoW_Animal_Talbuk.lifeStages.1.labelFemale>talbuk mare</WoW_Animal_Talbuk.lifeStages.1.labelFemale>
+  <WoW_Animal_Talbuk.lifeStages.1.labelFemalePlural>female talbuks</WoW_Animal_Talbuk.lifeStages.1.labelFemalePlural>
+  <WoW_Animal_Talbuk.lifeStages.2.label>talbuk</WoW_Animal_Talbuk.lifeStages.2.label>
+  <WoW_Animal_Talbuk.lifeStages.2.labelPlural>talbuk</WoW_Animal_Talbuk.lifeStages.2.labelPlural>
+  <WoW_Animal_Talbuk.lifeStages.2.labelMale>talbuk stallion</WoW_Animal_Talbuk.lifeStages.2.labelMale>
+  <WoW_Animal_Talbuk.lifeStages.2.labelMalePlural>male talbuks</WoW_Animal_Talbuk.lifeStages.2.labelMalePlural>
+  <WoW_Animal_Talbuk.lifeStages.2.labelFemale>talbuk mare</WoW_Animal_Talbuk.lifeStages.2.labelFemale>
+  <WoW_Animal_Talbuk.lifeStages.2.labelFemalePlural>female talbuks</WoW_Animal_Talbuk.lifeStages.2.labelFemalePlural>
+  <WoW_Animal_Talbuk.labelMale>talbuk stallion</WoW_Animal_Talbuk.labelMale>
+  <WoW_Animal_Talbuk.labelMalePlural>talbuk stallions</WoW_Animal_Talbuk.labelMalePlural>
+  <WoW_Animal_Talbuk.labelFemale>talbuk mare</WoW_Animal_Talbuk.labelFemale>
+  <WoW_Animal_Talbuk.labelFemalePlural>talbuk mares</WoW_Animal_Talbuk.labelFemalePlural>
+
+
+</LanguageData>
