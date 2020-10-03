@@ -5,6 +5,8 @@
 
   <WoW_VoidElf.label>虚空精灵</WoW_VoidElf.label>
   <WoW_VoidElf.description>虚空精灵是联盟中与虚空有关的精灵种族。他们的起源是由魔导师乌布里克领导的一群血精灵，由于对虚空的研究而被逐出银月城。在被虚灵转化后被奥蕾莉亚·风行者营救，并掌握了虚空的力量。在这之后，他们永久改变了自己的形态。虚空精灵试图利用自己强大而危险的力量来捍卫艾泽拉斯和联盟，向那些怀疑或判断自己在使用错误力量的人证明自己，不过与此同时他们也要抵抗虚空的低语。</WoW_VoidElf.description>
+  <WoW_VoidElf.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>skin</WoW_VoidElf.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>
+  <WoW_VoidElf.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>hair</WoW_VoidElf.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>
 
 
 </LanguageData>

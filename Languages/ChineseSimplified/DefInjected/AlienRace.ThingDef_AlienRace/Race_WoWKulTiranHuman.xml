@@ -5,6 +5,8 @@
 
   <WoW_KulTiranHuman.label>库尔提拉斯人</WoW_KulTiranHuman.label>
   <WoW_KulTiranHuman.description>库尔提拉斯人看上去比在大陆上的弟兄们更健壮。他们穿着为恶劣天气而制作的高领服饰。他们喜爱船舶并为此自豪，因此他们的建筑受到了船只外观的启发。</WoW_KulTiranHuman.description>
+  <WoW_KulTiranHuman.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>skin</WoW_KulTiranHuman.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>
+  <WoW_KulTiranHuman.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>hair</WoW_KulTiranHuman.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>
 
 
 </LanguageData>

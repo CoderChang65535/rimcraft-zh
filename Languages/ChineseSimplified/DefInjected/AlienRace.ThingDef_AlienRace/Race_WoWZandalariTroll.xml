@@ -5,6 +5,8 @@
 
   <WoW_ZandalariTroll.label>赞达拉巨魔</WoW_ZandalariTroll.label>
   <WoW_ZandalariTroll.description>赞达拉巨魔是主要在赞达拉岛上发现的一种巨魔分支。第一批在赞达拉山定居的巨魔，是最强大最迷信的部族。他们在高耸的山脉中定居并建造了神庙，这些神庙逐渐成为庞大的城市祖达萨。他们致力于维护巨魔的历史，并发展巨魔社会。</WoW_ZandalariTroll.description>
+  <WoW_ZandalariTroll.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>skin</WoW_ZandalariTroll.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>
+  <WoW_ZandalariTroll.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>hair</WoW_ZandalariTroll.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>
 
 
 </LanguageData>
