@@ -40,9 +40,9 @@
   <WoW_refine_adamantite.description>将2份精金矿石冶炼为1块锭</WoW_refine_adamantite.description>
   <WoW_refine_adamantite.jobString>冶炼精金</WoW_refine_adamantite.jobString>
 
-  <WoW_refine_bulk精金.label>批量冶炼精金锭</WoW_refine_bulk精金.label>
-  <WoW_refine_bulk精金.description>将20份精金矿石冶炼为10块精金锭</WoW_refine_bulk精金.description>
-  <WoW_refine_bulk精金.jobString>冶炼精金</WoW_refine_bulk精金.jobString>
+  <WoW_refine_bulkadamantite.label>批量冶炼精金锭</WoW_refine_bulkadamantite.label>
+  <WoW_refine_bulkadamantite.description>将20份精金矿石冶炼为10块精金锭</WoW_refine_bulkadamantite.description>
+  <WoW_refine_bulkadamantite.jobString>冶炼精金</WoW_refine_bulkadamantite.jobString>
 
   <WoW_refine_hardened_adamantite.label>从精金锭中冶炼硬化精金锭</WoW_refine_hardened_adamantite.label>
   <WoW_refine_hardened_adamantite.description>将10份精金锭冶炼为1块硬化精金锭</WoW_refine_hardened_adamantite.description>
