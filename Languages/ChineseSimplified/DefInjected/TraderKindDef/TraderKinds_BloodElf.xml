@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- BloodElf Visitor Trader -->
+
+  <Traderkind_BloodElf_Visitor.label>sin'dorei wandering merchant</Traderkind_BloodElf_Visitor.label>
+
+
+  <!-- BloodElf Caravan Trader -->
+
+  <Traderkind_BloodElf_Caravan_General.label>sin'dorei general goods merchant</Traderkind_BloodElf_Caravan_General.label>
+  <Traderkind_BloodElf_Caravan_Armament.label>sin'dorei siege trader</Traderkind_BloodElf_Caravan_Armament.label>
+  <Traderkind_BloodElf_Caravan_Slaver.label>sin'dorei slaver</Traderkind_BloodElf_Caravan_Slaver.label>
+
+
+</LanguageData>

@@ -10,19 +10,19 @@
   <WoW_Forsaken_Villager.labelFemale>女性被遗忘者村民</WoW_Forsaken_Villager.labelFemale>
   <WoW_Forsaken_Villager.labelFemalePlural>女性被遗忘者村民</WoW_Forsaken_Villager.labelFemalePlural>
 
-  <WoW_Forsaken_Villager1.label>被遗忘者高等精灵村民</WoW_Forsaken_Villager1.label>
-  <WoW_Forsaken_Villager1.labelPlural>被遗忘者高等精灵村民</WoW_Forsaken_Villager1.labelPlural>
-  <WoW_Forsaken_Villager1.labelMale>男性被遗忘者高等精灵村民</WoW_Forsaken_Villager1.labelMale>
-  <WoW_Forsaken_Villager1.labelMalePlural>男性被遗忘者高等精灵村民</WoW_Forsaken_Villager1.labelMalePlural>
-  <WoW_Forsaken_Villager1.labelFemale>女性被遗忘者高等精灵村民</WoW_Forsaken_Villager1.labelFemale>
-  <WoW_Forsaken_Villager1.labelFemalePlural>女性被遗忘者高等精灵村民</WoW_Forsaken_Villager1.labelFemalePlural>
+  <WoW_Forsaken_VillagerHE.label>被遗忘者高等精灵村民</WoW_Forsaken_VillagerHE.label>
+  <WoW_Forsaken_VillagerHE.labelPlural>被遗忘者高等精灵村民</WoW_Forsaken_VillagerHE.labelPlural>
+  <WoW_Forsaken_VillagerHE.labelMale>男性被遗忘者高等精灵村民</WoW_Forsaken_VillagerHE.labelMale>
+  <WoW_Forsaken_VillagerHE.labelMalePlural>男性被遗忘者高等精灵村民</WoW_Forsaken_VillagerHE.labelMalePlural>
+  <WoW_Forsaken_VillagerHE.labelFemale>女性被遗忘者高等精灵村民</WoW_Forsaken_VillagerHE.labelFemale>
+  <WoW_Forsaken_VillagerHE.labelFemalePlural>女性被遗忘者高等精灵村民</WoW_Forsaken_VillagerHE.labelFemalePlural>
 
-  <WoW_Forsaken_Villager2.label>被遗忘者暗夜精灵村民</WoW_Forsaken_Villager2.label>
-  <WoW_Forsaken_Villager2.labelPlural>被遗忘者暗夜精灵村民</WoW_Forsaken_Villager2.labelPlural>
-  <WoW_Forsaken_Villager2.labelMale>男性被遗忘者暗夜精灵村民</WoW_Forsaken_Villager2.labelMale>
-  <WoW_Forsaken_Villager2.labelMalePlural>男性被遗忘者暗夜精灵村民</WoW_Forsaken_Villager2.labelMalePlural>
-  <WoW_Forsaken_Villager2.labelFemale>女性被遗忘者暗夜精灵村民</WoW_Forsaken_Villager2.labelFemale>
-  <WoW_Forsaken_Villager2.labelFemalePlural>女性被遗忘者暗夜精灵村民</WoW_Forsaken_Villager2.labelFemalePlural>
+  <WoW_Forsaken_VillagerNE.label>被遗忘者暗夜精灵村民</WoW_Forsaken_VillagerNE.label>
+  <WoW_Forsaken_VillagerNE.labelPlural>被遗忘者暗夜精灵村民</WoW_Forsaken_VillagerNE.labelPlural>
+  <WoW_Forsaken_VillagerNE.labelMale>男性被遗忘者暗夜精灵村民</WoW_Forsaken_VillagerNE.labelMale>
+  <WoW_Forsaken_VillagerNE.labelMalePlural>男性被遗忘者暗夜精灵村民</WoW_Forsaken_VillagerNE.labelMalePlural>
+  <WoW_Forsaken_VillagerNE.labelFemale>女性被遗忘者暗夜精灵村民</WoW_Forsaken_VillagerNE.labelFemale>
+  <WoW_Forsaken_VillagerNE.labelFemalePlural>女性被遗忘者暗夜精灵村民</WoW_Forsaken_VillagerNE.labelFemalePlural>
 
   <WoW_Forsaken_Trader.label>被遗忘者交易者</WoW_Forsaken_Trader.label>
   <WoW_Forsaken_Trader.labelPlural>被遗忘者交易者</WoW_Forsaken_Trader.labelPlural>
@@ -37,6 +37,20 @@
   <WoW_Forsaken_Slave.labelMalePlural>男性被遗忘者奴隶</WoW_Forsaken_Slave.labelMalePlural>
   <WoW_Forsaken_Slave.labelFemale>女性被遗忘者奴隶</WoW_Forsaken_Slave.labelFemale>
   <WoW_Forsaken_Slave.labelFemalePlural>女性被遗忘者奴隶</WoW_Forsaken_Slave.labelFemalePlural>
+
+  <WoW_ForsakenHE_Slave.label>forsaken high elf slave</WoW_ForsakenHE_Slave.label>
+  <WoW_ForsakenHE_Slave.labelPlural>forsaken high elf slaves</WoW_ForsakenHE_Slave.labelPlural>
+  <WoW_ForsakenHE_Slave.labelMale>male forsaken high elf slave</WoW_ForsakenHE_Slave.labelMale>
+  <WoW_ForsakenHE_Slave.labelMalePlural>male forsaken high elf slaves</WoW_ForsakenHE_Slave.labelMalePlural>
+  <WoW_ForsakenHE_Slave.labelFemale>female forsaken high elf slave</WoW_ForsakenHE_Slave.labelFemale>
+  <WoW_ForsakenHE_Slave.labelFemalePlural>female forsaken high elf slaves</WoW_ForsakenHE_Slave.labelFemalePlural>
+
+  <WoW_ForsakenNE_Slave.label>forsaken night elf slave</WoW_ForsakenNE_Slave.label>
+  <WoW_ForsakenNE_Slave.labelPlural>forsaken night elf slaves</WoW_ForsakenNE_Slave.labelPlural>
+  <WoW_ForsakenNE_Slave.labelMale>male forsaken night elf slave</WoW_ForsakenNE_Slave.labelMale>
+  <WoW_ForsakenNE_Slave.labelMalePlural>male forsaken night elf slaves</WoW_ForsakenNE_Slave.labelMalePlural>
+  <WoW_ForsakenNE_Slave.labelFemale>female forsaken night elf slave</WoW_ForsakenNE_Slave.labelFemale>
+  <WoW_ForsakenNE_Slave.labelFemalePlural>female forsaken night elf slaves</WoW_ForsakenNE_Slave.labelFemalePlural>
 
 
   <!-- Forsaken Military -->

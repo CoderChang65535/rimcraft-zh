@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- BloodElf Player Pawn -->
+
+  <WoWBloodElf.label>blood elf colonist</WoWBloodElf.label>
+  <WoWBloodElf.labelPlural>blood elf colonists</WoWBloodElf.labelPlural>
+  <WoWBloodElf.labelMale>male blood elf colonist</WoWBloodElf.labelMale>
+  <WoWBloodElf.labelMalePlural>male blood elf colonists</WoWBloodElf.labelMalePlural>
+  <WoWBloodElf.labelFemale>female blood elf colonist</WoWBloodElf.labelFemale>
+  <WoWBloodElf.labelFemalePlural>female blood elf colonists</WoWBloodElf.labelFemalePlural>
+
+
+</LanguageData>

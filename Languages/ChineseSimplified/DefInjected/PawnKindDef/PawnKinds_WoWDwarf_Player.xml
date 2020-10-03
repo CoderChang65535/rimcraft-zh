@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Dwarf Player Pawn -->
+
+  <WoWDwarf.label>dwarf colonist</WoWDwarf.label>
+  <WoWDwarf.labelPlural>dwarf colonists</WoWDwarf.labelPlural>
+  <WoWDwarf.labelMale>male dwarf colonist</WoWDwarf.labelMale>
+  <WoWDwarf.labelMalePlural>male dwarf colonists</WoWDwarf.labelMalePlural>
+  <WoWDwarf.labelFemale>female dwarf colonist</WoWDwarf.labelFemale>
+  <WoWDwarf.labelFemalePlural>female dwarf colonists</WoWDwarf.labelFemalePlural>
+
+
+</LanguageData>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Goblin Player Pawn -->
+
+  <WoWGoblin.label>goblin colonist</WoWGoblin.label>
+  <WoWGoblin.labelPlural>goblin colonists</WoWGoblin.labelPlural>
+  <WoWGoblin.labelMale>male goblin colonist</WoWGoblin.labelMale>
+  <WoWGoblin.labelMalePlural>male goblin colonists</WoWGoblin.labelMalePlural>
+  <WoWGoblin.labelFemale>female goblin colonist</WoWGoblin.labelFemale>
+  <WoWGoblin.labelFemalePlural>female goblin colonists</WoWGoblin.labelFemalePlural>
+
+
+</LanguageData>

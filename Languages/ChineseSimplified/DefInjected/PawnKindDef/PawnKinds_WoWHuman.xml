@@ -27,13 +27,6 @@
 
   <!-- WoWHuman Military -->
 
-  <WoW_Human_Guard.label>联盟守卫</WoW_Human_Guard.label>
-  <WoW_Human_Guard.labelPlural>联盟守卫</WoW_Human_Guard.labelPlural>
-  <WoW_Human_Guard.labelMale>男性联盟守卫</WoW_Human_Guard.labelMale>
-  <WoW_Human_Guard.labelMalePlural>男性联盟守卫</WoW_Human_Guard.labelMalePlural>
-  <WoW_Human_Guard.labelFemale>女性联盟守卫</WoW_Human_Guard.labelFemale>
-  <WoW_Human_Guard.labelFemalePlural>女性联盟守卫</WoW_Human_Guard.labelFemalePlural>
-
   <WoW_Human_Private.label>联盟海盗</WoW_Human_Private.label>
   <WoW_Human_Private.labelPlural>联盟海盗</WoW_Human_Private.labelPlural>
   <WoW_Human_Private.labelMale>男性联盟海盗</WoW_Human_Private.labelMale>
@@ -47,6 +40,7 @@
   <WoW_Human_Knight.labelMalePlural>男性联盟骑士</WoW_Human_Knight.labelMalePlural>
   <WoW_Human_Knight.labelFemale>女性联盟骑士</WoW_Human_Knight.labelFemale>
   <WoW_Human_Knight.labelFemalePlural>女性联盟骑士</WoW_Human_Knight.labelFemalePlural>
+
 
   <WoW_Human_Sergeant.label>联盟军士</WoW_Human_Sergeant.label>
   <WoW_Human_Sergeant.labelPlural>联盟军士</WoW_Human_Sergeant.labelPlural>

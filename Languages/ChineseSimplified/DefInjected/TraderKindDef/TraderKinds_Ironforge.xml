@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ironforge Visitor Trader -->
+
+  <Traderkind_Ironforge_Visitor.label>ironforge wandering merchant</Traderkind_Ironforge_Visitor.label>
+
+
+  <!-- Ironforge Caravan Trader -->
+
+  <Traderkind_Ironforge_Caravan_General.label>ironforge general goods merchant</Traderkind_Ironforge_Caravan_General.label>
+  <Traderkind_Ironforge_Caravan_Armament.label>ironforge siege trader</Traderkind_Ironforge_Caravan_Armament.label>
+
+
+</LanguageData>

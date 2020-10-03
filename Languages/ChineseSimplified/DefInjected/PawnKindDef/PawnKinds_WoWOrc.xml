@@ -27,13 +27,6 @@
 
   <!-- Orc Military -->
 
-  <WoW_Orc_Grunt.label>兽人步兵</WoW_Orc_Grunt.label>
-  <WoW_Orc_Grunt.labelPlural>兽人步兵</WoW_Orc_Grunt.labelPlural>
-  <WoW_Orc_Grunt.labelMale>男性兽人步兵</WoW_Orc_Grunt.labelMale>
-  <WoW_Orc_Grunt.labelMalePlural>男性兽人步兵</WoW_Orc_Grunt.labelMalePlural>
-  <WoW_Orc_Grunt.labelFemale>女性兽人步兵</WoW_Orc_Grunt.labelFemale>
-  <WoW_Orc_Grunt.labelFemalePlural>女性兽人步兵</WoW_Orc_Grunt.labelFemalePlural>
-
   <WoW_Orc_Scout.label>兽人斥候</WoW_Orc_Scout.label>
   <WoW_Orc_Scout.labelPlural>兽人斥候</WoW_Orc_Scout.labelPlural>
   <WoW_Orc_Scout.labelMale>男性兽人斥候</WoW_Orc_Scout.labelMale>

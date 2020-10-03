@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- HighElf Visitor Trader -->
+
+  <Traderkind_HighElf_Visitor.label>silver covenant wandering merchant</Traderkind_HighElf_Visitor.label>
+
+
+  <!-- HighElf Caravan Trader -->
+
+  <Traderkind_HighElf_Caravan_General.label>silver covenant general goods merchant</Traderkind_HighElf_Caravan_General.label>
+  <Traderkind_HighElf_Caravan_Armament.label>HighElf siege trader</Traderkind_HighElf_Caravan_Armament.label>
+
+
+</LanguageData>

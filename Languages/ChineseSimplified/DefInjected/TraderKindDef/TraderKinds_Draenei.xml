@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Draenei Visitor Trader -->
+
+  <Traderkind_Draenei_Visitor.label>draenei wandering merchant</Traderkind_Draenei_Visitor.label>
+
+
+  <!-- Draenei Caravan Trader -->
+
+  <Traderkind_Draenei_Caravan_General.label>draenei general goods merchant</Traderkind_Draenei_Caravan_General.label>
+  <Traderkind_Draenei_Caravan_Armament.label>draenei siege trader</Traderkind_Draenei_Caravan_Armament.label>
+
+
+</LanguageData>

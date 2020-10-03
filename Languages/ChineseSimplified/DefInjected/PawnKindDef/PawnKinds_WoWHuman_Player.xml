@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- WoWHuman Player Pawn -->
+
+  <WoWHuman.label>azerothian human colonist</WoWHuman.label>
+  <WoWHuman.labelPlural>azerothian human colonists</WoWHuman.labelPlural>
+  <WoWHuman.labelMale>male azerothian human colonist</WoWHuman.labelMale>
+  <WoWHuman.labelMalePlural>male azerothian human colonists</WoWHuman.labelMalePlural>
+  <WoWHuman.labelFemale>female azerothian human colonist</WoWHuman.labelFemale>
+  <WoWHuman.labelFemalePlural>female azerothian human colonists</WoWHuman.labelFemalePlural>
+
+
+</LanguageData>

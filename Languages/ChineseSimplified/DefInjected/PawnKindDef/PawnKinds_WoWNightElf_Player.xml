@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- NightElf Player Pawn -->
+
+  <WoWNightElf.label>night elf colonist</WoWNightElf.label>
+  <WoWNightElf.labelPlural>night elf colonists</WoWNightElf.labelPlural>
+  <WoWNightElf.labelMale>male night elf colonist</WoWNightElf.labelMale>
+  <WoWNightElf.labelMalePlural>male night elf colonists</WoWNightElf.labelMalePlural>
+  <WoWNightElf.labelFemale>female night elf colonist</WoWNightElf.labelFemale>
+  <WoWNightElf.labelFemalePlural>female night elf colonists</WoWNightElf.labelFemalePlural>
+
+
+</LanguageData>

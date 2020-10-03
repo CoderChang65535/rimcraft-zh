@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Orc Player Pawn -->
+
+  <WoWOrc.label>orc colonist</WoWOrc.label>
+  <WoWOrc.labelPlural>orc colonists</WoWOrc.labelPlural>
+  <WoWOrc.labelMale>male orc colonist</WoWOrc.labelMale>
+  <WoWOrc.labelMalePlural>male orc colonists</WoWOrc.labelMalePlural>
+  <WoWOrc.labelFemale>female orc colonist</WoWOrc.labelFemale>
+  <WoWOrc.labelFemalePlural>female orc colonists</WoWOrc.labelFemalePlural>
+
+
+</LanguageData>

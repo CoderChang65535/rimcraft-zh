@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- HighElf Player Pawn -->
+
+  <WoWHighElf.label>high elf colonist</WoWHighElf.label>
+  <WoWHighElf.labelPlural>high elf colonists</WoWHighElf.labelPlural>
+  <WoWHighElf.labelMale>male high elf colonist</WoWHighElf.labelMale>
+  <WoWHighElf.labelMalePlural>male high elf colonists</WoWHighElf.labelMalePlural>
+  <WoWHighElf.labelFemale>female high elf colonist</WoWHighElf.labelFemale>
+  <WoWHighElf.labelFemalePlural>female high elf colonists</WoWHighElf.labelFemalePlural>
+
+
+</LanguageData>

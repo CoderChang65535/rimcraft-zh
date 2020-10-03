@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- NightElf Visitor Trader -->
+
+  <Traderkind_NightElf_Visitor.label>kaldorei wandering merchant</Traderkind_NightElf_Visitor.label>
+
+
+  <!-- NightElf Caravan Trader -->
+
+  <Traderkind_NightElf_Caravan_General.label>kaldorei general goods merchant</Traderkind_NightElf_Caravan_General.label>
+  <Traderkind_NightElf_Caravan_Armament.label>kaldorei siege trader</Traderkind_NightElf_Caravan_Armament.label>
+
+
+</LanguageData>

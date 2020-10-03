@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Horde Visitor Trader -->
+
+  <Traderkind_Horde_Visitor.label>horde wandering merchant</Traderkind_Horde_Visitor.label>
+
+
+  <!-- Horde Caravan Trader -->
+
+  <Traderkind_Horde_Caravan_General.label>horde general goods merchant</Traderkind_Horde_Caravan_General.label>
+  <Traderkind_Horde_Caravan_Armament.label>horde war merchant</Traderkind_Horde_Caravan_Armament.label>
+  <Traderkind_Horde_Caravan_Slaver.label>horde slaver</Traderkind_Horde_Caravan_Slaver.label>
+
+
+</LanguageData>

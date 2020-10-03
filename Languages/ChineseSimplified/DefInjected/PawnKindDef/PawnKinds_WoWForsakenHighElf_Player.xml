@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Forsaken High Elf Player Pawn -->
+
+  <WoWForsakenHighElf.label>forsaken high elf colonist</WoWForsakenHighElf.label>
+  <WoWForsakenHighElf.labelPlural>forsaken high elf colonists</WoWForsakenHighElf.labelPlural>
+  <WoWForsakenHighElf.labelMale>male forsaken high elf colonist</WoWForsakenHighElf.labelMale>
+  <WoWForsakenHighElf.labelMalePlural>male forsaken high elf colonists</WoWForsakenHighElf.labelMalePlural>
+  <WoWForsakenHighElf.labelFemale>female forsaken high elf colonist</WoWForsakenHighElf.labelFemale>
+  <WoWForsakenHighElf.labelFemalePlural>female forsaken high elf colonists</WoWForsakenHighElf.labelFemalePlural>
+
+
+</LanguageData>

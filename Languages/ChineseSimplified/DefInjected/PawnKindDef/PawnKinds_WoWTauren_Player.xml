@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Tauren Player Pawn -->
+
+  <WoWTauren.label>tauren colonist</WoWTauren.label>
+  <WoWTauren.labelPlural>tauren colonists</WoWTauren.labelPlural>
+  <WoWTauren.labelMale>male tauren colonist</WoWTauren.labelMale>
+  <WoWTauren.labelMalePlural>male tauren colonists</WoWTauren.labelMalePlural>
+  <WoWTauren.labelFemale>female tauren colonist</WoWTauren.labelFemale>
+  <WoWTauren.labelFemalePlural>female tauren colonists</WoWTauren.labelFemalePlural>
+
+
+</LanguageData>

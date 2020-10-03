@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Gnome Player Pawn -->
+
+  <WoWGnome.label>gnome colonist</WoWGnome.label>
+  <WoWGnome.labelPlural>gnome colonists</WoWGnome.labelPlural>
+  <WoWGnome.labelMale>male gnome colonist</WoWGnome.labelMale>
+  <WoWGnome.labelMalePlural>male gnome colonists</WoWGnome.labelMalePlural>
+  <WoWGnome.labelFemale>female gnome colonist</WoWGnome.labelFemale>
+  <WoWGnome.labelFemalePlural>female gnome colonists</WoWGnome.labelFemalePlural>
+
+
+</LanguageData>

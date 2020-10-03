@@ -27,13 +27,6 @@
 
   <!-- Night Elf Military -->
 
-  <WoW_NightElf_Guard.label>暗夜精灵守卫</WoW_NightElf_Guard.label>
-  <WoW_NightElf_Guard.labelPlural>暗夜精灵守卫</WoW_NightElf_Guard.labelPlural>
-  <WoW_NightElf_Guard.labelMale>男性暗夜精灵守卫</WoW_NightElf_Guard.labelMale>
-  <WoW_NightElf_Guard.labelMalePlural>男性暗夜精灵守卫</WoW_NightElf_Guard.labelMalePlural>
-  <WoW_NightElf_Guard.labelFemale>女性暗夜精灵守卫</WoW_NightElf_Guard.labelFemale>
-  <WoW_NightElf_Guard.labelFemalePlural>女性暗夜精灵守卫</WoW_NightElf_Guard.labelFemalePlural>
-
   <WoW_NightElf_Outrunner.label>暗夜精灵侍从</WoW_NightElf_Outrunner.label>
   <WoW_NightElf_Outrunner.labelPlural>暗夜精灵侍从</WoW_NightElf_Outrunner.labelPlural>
   <WoW_NightElf_Outrunner.labelMale>男性暗夜精灵侍从</WoW_NightElf_Outrunner.labelMale>

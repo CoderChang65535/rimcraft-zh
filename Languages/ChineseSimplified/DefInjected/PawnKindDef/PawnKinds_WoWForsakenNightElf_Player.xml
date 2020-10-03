@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Forsaken Night Elf Player Pawn -->
+
+  <WoWForsakenNightElf.label>forsaken night elf colonist</WoWForsakenNightElf.label>
+  <WoWForsakenNightElf.labelPlural>forsaken night elf colonists</WoWForsakenNightElf.labelPlural>
+  <WoWForsakenNightElf.labelMale>male forsaken night elf colonist</WoWForsakenNightElf.labelMale>
+  <WoWForsakenNightElf.labelMalePlural>male forsaken night elf colonists</WoWForsakenNightElf.labelMalePlural>
+  <WoWForsakenNightElf.labelFemale>female forsaken night elf colonist</WoWForsakenNightElf.labelFemale>
+  <WoWForsakenNightElf.labelFemalePlural>female forsaken night elf colonists</WoWForsakenNightElf.labelFemalePlural>
+
+
+</LanguageData>

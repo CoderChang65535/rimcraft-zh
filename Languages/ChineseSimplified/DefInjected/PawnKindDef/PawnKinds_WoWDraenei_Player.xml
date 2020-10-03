@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Draenei Player Pawn -->
+
+  <WoWDraenei.label>draenei colonist</WoWDraenei.label>
+  <WoWDraenei.labelPlural>draenei colonists</WoWDraenei.labelPlural>
+  <WoWDraenei.labelMale>male draenei colonist</WoWDraenei.labelMale>
+  <WoWDraenei.labelMalePlural>male draenei colonists</WoWDraenei.labelMalePlural>
+  <WoWDraenei.labelFemale>female draenei colonist</WoWDraenei.labelFemale>
+  <WoWDraenei.labelFemalePlural>female draenei colonists</WoWDraenei.labelFemalePlural>
+
+
+</LanguageData>

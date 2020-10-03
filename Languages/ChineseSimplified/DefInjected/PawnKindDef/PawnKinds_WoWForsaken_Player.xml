@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Forsaken Player Pawn -->
+
+  <WoWForsaken.label>forsaken colonist</WoWForsaken.label>
+  <WoWForsaken.labelPlural>forsaken colonists</WoWForsaken.labelPlural>
+  <WoWForsaken.labelMale>male forsaken colonist</WoWForsaken.labelMale>
+  <WoWForsaken.labelMalePlural>male forsaken colonists</WoWForsaken.labelMalePlural>
+  <WoWForsaken.labelFemale>female forsaken colonist</WoWForsaken.labelFemale>
+  <WoWForsaken.labelFemalePlural>female forsaken colonists</WoWForsaken.labelFemalePlural>
+
+
+</LanguageData>
