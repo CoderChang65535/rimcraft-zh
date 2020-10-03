@@ -15,11 +15,11 @@
   <WoWM_Draenei_Mace.tools.0.label>锤头</WoWM_Draenei_Mace.tools.0.label>
 
 
-  <!-- Honorbound Pigsticker -->
+  <!-- Draenic Ribsmasher -->
 
-  <WoWM_Draenei_Hammer.label>荣耀战团赶猪棒</WoWM_Draenei_Hammer.label>
-  <WoWM_Draenei_Hammer.description>荣耀战团赶猪棒</WoWM_Draenei_Hammer.description>
-  <WoWM_Draenei_Hammer.tools.0.label>棒头</WoWM_Draenei_Hammer.tools.0.label>
+  <WoWM_Draenei_Hammer.label>draenic hammer</WoWM_Draenei_Hammer.label>
+  <WoWM_Draenei_Hammer.description>Draenic hammer</WoWM_Draenei_Hammer.description>
+  <WoWM_Draenei_Hammer.tools.0.label>edge</WoWM_Draenei_Hammer.tools.0.label>
 
 
   <!-- Claymore of the Prophet -->
