@@ -3,11 +3,11 @@
 
   <!-- Talbuk Def -->
 
-  <WoW_Animal_Talbuk.label>talbuk</WoW_Animal_Talbuk.label>
-  <WoW_Animal_Talbuk.description>Talbuks are beautifully colored, striped, horned antelope-like creatures native to Argus. Some talbuks fled Argus with the draenei aboard the Genedar. On Draenor, a world the Genedar crashed on, the alien species thrived, becoming a viable food source for the native predators and a part of orcish culture. Talbuks live primarily in the plains of Nagrand but could also be found in Shadowmoon Valley before its corruption. They usually congregate underneath trees, but some groups of them are seen wandering with their respective patriarchs.Talbuks are also considered to be a favored food of the draenei. Most talbuk are peaceful creatures that will only attack when they are defending their herd. Despite their docile nature, talbuks have been known to gore seasoned warriors to death when threatened.</WoW_Animal_Talbuk.description>
-  <WoW_Animal_Talbuk.tools.1.label>horn</WoW_Animal_Talbuk.tools.1.label>
-  <WoW_Animal_Talbuk.tools.2.label>left hoof</WoW_Animal_Talbuk.tools.2.label>
-  <WoW_Animal_Talbuk.tools.3.label>right hoof</WoW_Animal_Talbuk.tools.3.label>
+  <WoW_Animal_Talbuk.label>塔布羊</WoW_Animal_Talbuk.label>
+  <WoW_Animal_Talbuk.description>塔布羊是阿古斯原生色彩鲜艳的羚羊生物。一些塔布羊和德莱尼人一起坐上吉尼达尔逃离了阿古斯。</WoW_Animal_Talbuk.description>
+  <WoW_Animal_Talbuk.tools.1.label>角</WoW_Animal_Talbuk.tools.1.label>
+  <WoW_Animal_Talbuk.tools.2.label>左蹄</WoW_Animal_Talbuk.tools.2.label>
+  <WoW_Animal_Talbuk.tools.3.label>右蹄</WoW_Animal_Talbuk.tools.3.label>
 
 
 </LanguageData>

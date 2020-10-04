@@ -3,13 +3,13 @@
 
   <!-- Ironforge Visitor Trader -->
 
-  <Traderkind_Ironforge_Visitor.label>ironforge wandering merchant</Traderkind_Ironforge_Visitor.label>
+  <Traderkind_Ironforge_Visitor.label>矮人旅行商人</Traderkind_Ironforge_Visitor.label>
 
 
   <!-- Ironforge Caravan Trader -->
 
-  <Traderkind_Ironforge_Caravan_General.label>ironforge general goods merchant</Traderkind_Ironforge_Caravan_General.label>
-  <Traderkind_Ironforge_Caravan_Armament.label>ironforge siege trader</Traderkind_Ironforge_Caravan_Armament.label>
+  <Traderkind_Ironforge_Caravan_General.label>矮人普通商人</Traderkind_Ironforge_Caravan_General.label>
+  <Traderkind_Ironforge_Caravan_Armament.label>矮人作战供应商</Traderkind_Ironforge_Caravan_Armament.label>
 
 
 </LanguageData>

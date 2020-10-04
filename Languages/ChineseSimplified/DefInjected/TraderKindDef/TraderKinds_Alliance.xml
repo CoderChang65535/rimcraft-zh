@@ -3,14 +3,14 @@
 
   <!-- Alliance Visitor Trader -->
 
-  <Traderkind_Alliance_Visitor.label>alliance wandering merchant</Traderkind_Alliance_Visitor.label>
+  <Traderkind_Alliance_Visitor.label>联盟旅行商人</Traderkind_Alliance_Visitor.label>
 
 
   <!-- Alliance Caravan Trader -->
 
-  <Traderkind_Alliance_Caravan_General.label>alliance general goods merchant</Traderkind_Alliance_Caravan_General.label>
-  <Traderkind_Alliance_Caravan_Armament.label>alliance siege trader</Traderkind_Alliance_Caravan_Armament.label>
-  <Traderkind_Alliance_Caravan_Slaver.label>alliance slaver</Traderkind_Alliance_Caravan_Slaver.label>
+  <Traderkind_Alliance_Caravan_General.label>联盟普通商人</Traderkind_Alliance_Caravan_General.label>
+  <Traderkind_Alliance_Caravan_Armament.label>联盟作战供应商</Traderkind_Alliance_Caravan_Armament.label>
+  <Traderkind_Alliance_Caravan_Slaver.label>联盟奴隶商人</Traderkind_Alliance_Caravan_Slaver.label>
 
 
 </LanguageData>

@@ -3,86 +3,86 @@
 
   <!-- Alliance Tier 1 Weaponry -->
 
-  <WoW_Alliance_Weaponry_T1.label>Alliance Basic Weaponry</WoW_Alliance_Weaponry_T1.label>
-  <WoW_Alliance_Weaponry_T1.description>Tier 1 weapons for the Alliance Faction. Includes the Stormwind bastard sword.</WoW_Alliance_Weaponry_T1.description>
+  <WoW_Alliance_Weaponry_T1.label>联盟T1武器</WoW_Alliance_Weaponry_T1.label>
+  <WoW_Alliance_Weaponry_T1.description>联盟T1武器。</WoW_Alliance_Weaponry_T1.description>
 
 
   <!-- Alliance Tier 2 Weaponry -->
 
-  <WoW_Alliance_Weaponry_T2.label>Alliance Good Weaponry</WoW_Alliance_Weaponry_T2.label>
-  <WoW_Alliance_Weaponry_T2.description>Tier 2 weapons for the Alliance Faction. Includes the Stormwind halberd, longsword, claymore, and polearm.</WoW_Alliance_Weaponry_T2.description>
+  <WoW_Alliance_Weaponry_T2.label>联盟T2武器</WoW_Alliance_Weaponry_T2.label>
+  <WoW_Alliance_Weaponry_T2.description>联盟T2武器。</WoW_Alliance_Weaponry_T2.description>
 
 
   <!-- NightElf Tier 1 Weaponry -->
 
-  <WoW_NightElf_Weaponry_T1.label>NightElf Basic Weaponry</WoW_NightElf_Weaponry_T1.label>
-  <WoW_NightElf_Weaponry_T1.description>Tier 1 weapons for the NightElf Faction. Includes the Kaldorei tomahawk and moonglaive.</WoW_NightElf_Weaponry_T1.description>
+  <WoW_NightElf_Weaponry_T1.label>暗夜精灵T1武器</WoW_NightElf_Weaponry_T1.label>
+  <WoW_NightElf_Weaponry_T1.description>暗夜精灵T1武器</WoW_NightElf_Weaponry_T1.description>
 
 
   <!-- NightElf Tier 2 Weaponry -->
 
-  <WoW_NightElf_Weaponry_T2.label>NightElf Good Weaponry</WoW_NightElf_Weaponry_T2.label>
-  <WoW_NightElf_Weaponry_T2.description>Tier 2 weapons for the NightElf Faction. Includes the Kaldorei mooncleaver and halberd.</WoW_NightElf_Weaponry_T2.description>
+  <WoW_NightElf_Weaponry_T2.label>暗夜精灵T2武器</WoW_NightElf_Weaponry_T2.label>
+  <WoW_NightElf_Weaponry_T2.description>暗夜精灵T2武器</WoW_NightElf_Weaponry_T2.description>
 
 
   <!-- HighElf Tier 1 Weaponry -->
 
-  <WoW_HighElf_Weaponry_T1.label>HighElf Basic Weaponry</WoW_HighElf_Weaponry_T1.label>
-  <WoW_HighElf_Weaponry_T1.description>Tier 1 weapons for the HighElf Faction. Includes the Silver Covenant dagger.</WoW_HighElf_Weaponry_T1.description>
+  <WoW_HighElf_Weaponry_T1.label>银色盟约T1武器</WoW_HighElf_Weaponry_T1.label>
+  <WoW_HighElf_Weaponry_T1.description>银色盟约T2武器</WoW_HighElf_Weaponry_T1.description>
 
 
   <!-- HighElf Tier 2 Weaponry -->
 
-  <WoW_HighElf_Weaponry_T2.label>HighElf Good Weaponry</WoW_HighElf_Weaponry_T2.label>
-  <WoW_HighElf_Weaponry_T2.description>Tier 2 weapons for the HighElf Faction. Includes Includes the Silver Covenant warhammer, glaive, and sabre.</WoW_HighElf_Weaponry_T2.description>
+  <WoW_HighElf_Weaponry_T2.label>银色盟约T2武器</WoW_HighElf_Weaponry_T2.label>
+  <WoW_HighElf_Weaponry_T2.description>银色盟约T2武器</WoW_HighElf_Weaponry_T2.description>
 
 
   <!-- Draenei Tier 1 Weaponry -->
 
-  <WoW_Draenei_Weaponry_T1.label>Draenei Basic Weaponry</WoW_Draenei_Weaponry_T1.label>
-  <WoW_Draenei_Weaponry_T1.description>Tier 1 weapons for the Draenei Faction. Includes the Draenic gavel.</WoW_Draenei_Weaponry_T1.description>
+  <WoW_Draenei_Weaponry_T1.label>德莱尼T1武器</WoW_Draenei_Weaponry_T1.label>
+  <WoW_Draenei_Weaponry_T1.description>德莱尼T1武器</WoW_Draenei_Weaponry_T1.description>
 
 
   <!-- Draenei Tier 2 Weaponry -->
 
-  <WoW_Draenei_Weaponry_T2.label>Draenei Good Weaponry</WoW_Draenei_Weaponry_T2.label>
-  <WoW_Draenei_Weaponry_T2.description>Tier 2 weapons for the Draenei Faction. Includes the Draenic mace and hammer.</WoW_Draenei_Weaponry_T2.description>
+  <WoW_Draenei_Weaponry_T2.label>德莱尼T2武器</WoW_Draenei_Weaponry_T2.label>
+  <WoW_Draenei_Weaponry_T2.description>德莱尼T2武器</WoW_Draenei_Weaponry_T2.description>
 
 
   <!-- Horde Tier 1 Weaponry -->
 
-  <WoW_Horde_Weaponry_T1.label>Horde Basic Weaponry</WoW_Horde_Weaponry_T1.label>
-  <WoW_Horde_Weaponry_T1.description>Tier 1 weapons for the Horde Faction. Includes the Horde warcleaver and gladius.</WoW_Horde_Weaponry_T1.description>
+  <WoW_Horde_Weaponry_T1.label>部落T1武器</WoW_Horde_Weaponry_T1.label>
+  <WoW_Horde_Weaponry_T1.description>部落T1武器</WoW_Horde_Weaponry_T1.description>
 
 
   <!-- Horde Tier 2 Weaponry -->
 
-  <WoW_Horde_Weaponry_T2.label>Horde Good Weaponry</WoW_Horde_Weaponry_T2.label>
-  <WoW_Horde_Weaponry_T2.description>Tier 2 weapons for the Horde Faction. Includes the Horde maul and greatspear.</WoW_Horde_Weaponry_T2.description>
+  <WoW_Horde_Weaponry_T2.label>部落T2武器</WoW_Horde_Weaponry_T2.label>
+  <WoW_Horde_Weaponry_T2.description>部落T2武器</WoW_Horde_Weaponry_T2.description>
 
 
   <!-- BloodElf Tier 1 Weaponry -->
 
-  <WoW_BloodElf_Weaponry_T1.label>BloodElf Basic Weaponry</WoW_BloodElf_Weaponry_T1.label>
-  <WoW_BloodElf_Weaponry_T1.description>Tier 1 weapons for the BloodElf Faction. Includes the Sin'dorei warblade and warmace</WoW_BloodElf_Weaponry_T1.description>
+  <WoW_BloodElf_Weaponry_T1.label>血精灵T1武器</WoW_BloodElf_Weaponry_T1.label>
+  <WoW_BloodElf_Weaponry_T1.description>血精灵T1武器</WoW_BloodElf_Weaponry_T1.description>
 
 
   <!-- BloodElf Tier 2 Weaponry -->
 
-  <WoW_BloodElf_Weaponry_T2.label>BloodElf Good Weaponry</WoW_BloodElf_Weaponry_T2.label>
-  <WoW_BloodElf_Weaponry_T2.description>Tier 2 weapons for the BloodElf Faction. Includes the Sin'dorei ranseur and glaive.</WoW_BloodElf_Weaponry_T2.description>
+  <WoW_BloodElf_Weaponry_T2.label>血精灵T2武器</WoW_BloodElf_Weaponry_T2.label>
+  <WoW_BloodElf_Weaponry_T2.description>血精灵T2武器</WoW_BloodElf_Weaponry_T2.description>
 
 
   <!-- Forsaken Tier 1 Weaponry -->
 
-  <WoW_Forsaken_Weaponry_T1.label>Forsaken Basic Weaponry</WoW_Forsaken_Weaponry_T1.label>
-  <WoW_Forsaken_Weaponry_T1.description>Tier 1 weapons for the Forsaken Faction. Includes the Forsaken cleaver and dirk.</WoW_Forsaken_Weaponry_T1.description>
+  <WoW_Forsaken_Weaponry_T1.label>被遗忘者T1武器</WoW_Forsaken_Weaponry_T1.label>
+  <WoW_Forsaken_Weaponry_T1.description>被遗忘者T1武器</WoW_Forsaken_Weaponry_T1.description>
 
 
   <!-- Forsaken Tier 2 Weaponry -->
 
-  <WoW_Forsaken_Weaponry_T2.label>Forsaken Good Weaponry</WoW_Forsaken_Weaponry_T2.label>
-  <WoW_Forsaken_Weaponry_T2.description>Tier 2 weapons for the Forsaken Faction. Includes the Forsaken blade, crescent blade, and halberd.</WoW_Forsaken_Weaponry_T2.description>
+  <WoW_Forsaken_Weaponry_T2.label>被遗忘者T2武器</WoW_Forsaken_Weaponry_T2.label>
+  <WoW_Forsaken_Weaponry_T2.description>被遗忘者T2武器</WoW_Forsaken_Weaponry_T2.description>
 
 
 </LanguageData>

@@ -3,13 +3,13 @@
 
   <!-- HighElf Visitor Trader -->
 
-  <Traderkind_HighElf_Visitor.label>silver covenant wandering merchant</Traderkind_HighElf_Visitor.label>
+  <Traderkind_HighElf_Visitor.label>银色盟约旅行商人</Traderkind_HighElf_Visitor.label>
 
 
   <!-- HighElf Caravan Trader -->
 
-  <Traderkind_HighElf_Caravan_General.label>silver covenant general goods merchant</Traderkind_HighElf_Caravan_General.label>
-  <Traderkind_HighElf_Caravan_Armament.label>HighElf siege trader</Traderkind_HighElf_Caravan_Armament.label>
+  <Traderkind_HighElf_Caravan_General.label>银色盟约普通商人</Traderkind_HighElf_Caravan_General.label>
+  <Traderkind_HighElf_Caravan_Armament.label>银色盟约作战供应商</Traderkind_HighElf_Caravan_Armament.label>
 
 
 </LanguageData>

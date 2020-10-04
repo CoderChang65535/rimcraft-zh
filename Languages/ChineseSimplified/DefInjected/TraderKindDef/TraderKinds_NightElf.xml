@@ -3,13 +3,13 @@
 
   <!-- NightElf Visitor Trader -->
 
-  <Traderkind_NightElf_Visitor.label>kaldorei wandering merchant</Traderkind_NightElf_Visitor.label>
+  <Traderkind_NightElf_Visitor.label>暗夜精灵旅行商人</Traderkind_NightElf_Visitor.label>
 
 
   <!-- NightElf Caravan Trader -->
 
-  <Traderkind_NightElf_Caravan_General.label>kaldorei general goods merchant</Traderkind_NightElf_Caravan_General.label>
-  <Traderkind_NightElf_Caravan_Armament.label>kaldorei siege trader</Traderkind_NightElf_Caravan_Armament.label>
+  <Traderkind_NightElf_Caravan_General.label>暗夜精灵普通商人</Traderkind_NightElf_Caravan_General.label>
+  <Traderkind_NightElf_Caravan_Armament.label>暗夜精灵作战供应商</Traderkind_NightElf_Caravan_Armament.label>
 
 
 </LanguageData>

@@ -3,13 +3,13 @@
 
   <!-- Draenei Visitor Trader -->
 
-  <Traderkind_Draenei_Visitor.label>draenei wandering merchant</Traderkind_Draenei_Visitor.label>
+  <Traderkind_Draenei_Visitor.label>德莱尼旅行商人</Traderkind_Draenei_Visitor.label>
 
 
   <!-- Draenei Caravan Trader -->
 
-  <Traderkind_Draenei_Caravan_General.label>draenei general goods merchant</Traderkind_Draenei_Caravan_General.label>
-  <Traderkind_Draenei_Caravan_Armament.label>draenei siege trader</Traderkind_Draenei_Caravan_Armament.label>
+  <Traderkind_Draenei_Caravan_General.label>德莱尼普通商人</Traderkind_Draenei_Caravan_General.label>
+  <Traderkind_Draenei_Caravan_Armament.label>德莱尼作战供应商</Traderkind_Draenei_Caravan_Armament.label>
 
 
 </LanguageData>
