@@ -3,7 +3,7 @@
 	<name>Rimcraft Chinese Pack 边缘魔兽汉化包</name>
 	<author>CN-CoderZhang</author>
 	<supportedVersions>
-		<li>1.1</li>
+		<li>1.2</li>
 	</supportedVersions>
 	<packageId>CNCoderZhang.Rimcraft.ZH</packageId>
 	<loadAfter>
