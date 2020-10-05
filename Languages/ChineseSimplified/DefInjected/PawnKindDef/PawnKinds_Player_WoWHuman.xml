@@ -3,10 +3,10 @@
 
   <WoWHuman.label>难民</WoWHuman.label>
   <WoWHuman.labelPlural>难民</WoWHuman.labelPlural>
-  <WoWHuman.labelMale>男性难民</WoWHuman.labelMale>
-  <WoWHuman.labelMalePlural>男性难民</WoWHuman.labelMalePlural>
-  <WoWHuman.labelFemale>女性难民</WoWHuman.labelFemale>
-  <WoWHuman.labelFemalePlural>女性难民</WoWHuman.labelFemalePlural>
+  <WoWHuman.labelMale>男性 难民</WoWHuman.labelMale>
+  <WoWHuman.labelMalePlural>男性 难民</WoWHuman.labelMalePlural>
+  <WoWHuman.labelFemale>女性 难民</WoWHuman.labelFemale>
+  <WoWHuman.labelFemalePlural>女性 难民</WoWHuman.labelFemalePlural>
 
 
 </LanguageData>

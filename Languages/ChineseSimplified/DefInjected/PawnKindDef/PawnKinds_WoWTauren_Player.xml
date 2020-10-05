@@ -3,12 +3,12 @@
 
   <!-- Tauren Player Pawn -->
 
-  <WoWTauren.label>tauren colonist</WoWTauren.label>
-  <WoWTauren.labelPlural>tauren colonists</WoWTauren.labelPlural>
-  <WoWTauren.labelMale>male tauren colonist</WoWTauren.labelMale>
-  <WoWTauren.labelMalePlural>male tauren colonists</WoWTauren.labelMalePlural>
-  <WoWTauren.labelFemale>female tauren colonist</WoWTauren.labelFemale>
-  <WoWTauren.labelFemalePlural>female tauren colonists</WoWTauren.labelFemalePlural>
+  <WoWTauren.label>牛头人殖民者</WoWTauren.label>
+  <WoWTauren.labelPlural>牛头人殖民者</WoWTauren.labelPlural>
+  <WoWTauren.labelMale>男性 牛头人殖民者</WoWTauren.labelMale>
+  <WoWTauren.labelMalePlural>男性 牛头人殖民者</WoWTauren.labelMalePlural>
+  <WoWTauren.labelFemale>女性 牛头人殖民者</WoWTauren.labelFemale>
+  <WoWTauren.labelFemalePlural>女性 牛头人殖民者</WoWTauren.labelFemalePlural>
 
 
 </LanguageData>

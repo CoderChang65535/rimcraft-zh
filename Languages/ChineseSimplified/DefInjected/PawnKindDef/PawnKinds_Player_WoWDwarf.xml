@@ -3,10 +3,10 @@
 
   <WoWDwarf.label>难民</WoWDwarf.label>
   <WoWDwarf.labelPlural>难民</WoWDwarf.labelPlural>
-  <WoWDwarf.labelMale>男性难民</WoWDwarf.labelMale>
-  <WoWDwarf.labelMalePlural>男性难民</WoWDwarf.labelMalePlural>
-  <WoWDwarf.labelFemale>女性难民</WoWDwarf.labelFemale>
-  <WoWDwarf.labelFemalePlural>女性难民</WoWDwarf.labelFemalePlural>
+  <WoWDwarf.labelMale>男性 难民</WoWDwarf.labelMale>
+  <WoWDwarf.labelMalePlural>男性 难民</WoWDwarf.labelMalePlural>
+  <WoWDwarf.labelFemale>女性 难民</WoWDwarf.labelFemale>
+  <WoWDwarf.labelFemalePlural>女性 难民</WoWDwarf.labelFemalePlural>
 
 
 </LanguageData>

@@ -3,57 +3,57 @@
 
   <!-- Goblin Civilians -->
 
-  <WoW_Goblin_Villager.label>Goblin villager</WoW_Goblin_Villager.label>
-  <WoW_Goblin_Villager.labelPlural>Goblin villagers</WoW_Goblin_Villager.labelPlural>
-  <WoW_Goblin_Villager.labelMale>male Goblin villager</WoW_Goblin_Villager.labelMale>
-  <WoW_Goblin_Villager.labelMalePlural>male Goblin villagers</WoW_Goblin_Villager.labelMalePlural>
-  <WoW_Goblin_Villager.labelFemale>female Goblin villager</WoW_Goblin_Villager.labelFemale>
-  <WoW_Goblin_Villager.labelFemalePlural>female Goblin villagers</WoW_Goblin_Villager.labelFemalePlural>
+  <WoW_Goblin_Villager.label>地精村民</WoW_Goblin_Villager.label>
+  <WoW_Goblin_Villager.labelPlural>地精村民</WoW_Goblin_Villager.labelPlural>
+  <WoW_Goblin_Villager.labelMale>男性 地精村民</WoW_Goblin_Villager.labelMale>
+  <WoW_Goblin_Villager.labelMalePlural>男性 地精村民</WoW_Goblin_Villager.labelMalePlural>
+  <WoW_Goblin_Villager.labelFemale>女性 地精村民</WoW_Goblin_Villager.labelFemale>
+  <WoW_Goblin_Villager.labelFemalePlural>女性 地精村民</WoW_Goblin_Villager.labelFemalePlural>
 
-  <WoW_Goblin_Trader.label>Goblin trader</WoW_Goblin_Trader.label>
-  <WoW_Goblin_Trader.labelPlural>Goblin traders</WoW_Goblin_Trader.labelPlural>
-  <WoW_Goblin_Trader.labelMale>male Goblin trader</WoW_Goblin_Trader.labelMale>
-  <WoW_Goblin_Trader.labelMalePlural>male Goblin traders</WoW_Goblin_Trader.labelMalePlural>
-  <WoW_Goblin_Trader.labelFemale>female Goblin trader</WoW_Goblin_Trader.labelFemale>
-  <WoW_Goblin_Trader.labelFemalePlural>female Goblin traders</WoW_Goblin_Trader.labelFemalePlural>
+  <WoW_Goblin_Trader.label>地精商人</WoW_Goblin_Trader.label>
+  <WoW_Goblin_Trader.labelPlural>地精商人</WoW_Goblin_Trader.labelPlural>
+  <WoW_Goblin_Trader.labelMale>男性 地精商人</WoW_Goblin_Trader.labelMale>
+  <WoW_Goblin_Trader.labelMalePlural>男性 地精商人</WoW_Goblin_Trader.labelMalePlural>
+  <WoW_Goblin_Trader.labelFemale>女性 地精商人</WoW_Goblin_Trader.labelFemale>
+  <WoW_Goblin_Trader.labelFemalePlural>女性 地精商人</WoW_Goblin_Trader.labelFemalePlural>
 
-  <WoW_Goblin_slave.label>Goblin slave</WoW_Goblin_slave.label>
-  <WoW_Goblin_slave.labelPlural>Goblin slaves</WoW_Goblin_slave.labelPlural>
-  <WoW_Goblin_slave.labelMale>male Goblin slave</WoW_Goblin_slave.labelMale>
-  <WoW_Goblin_slave.labelMalePlural>male Goblin slaves</WoW_Goblin_slave.labelMalePlural>
-  <WoW_Goblin_slave.labelFemale>female Goblin slave</WoW_Goblin_slave.labelFemale>
-  <WoW_Goblin_slave.labelFemalePlural>female Goblin slaves</WoW_Goblin_slave.labelFemalePlural>
+  <WoW_Goblin_slave.label>地精奴隶</WoW_Goblin_slave.label>
+  <WoW_Goblin_slave.labelPlural>地精奴隶</WoW_Goblin_slave.labelPlural>
+  <WoW_Goblin_slave.labelMale>男性 地精奴隶</WoW_Goblin_slave.labelMale>
+  <WoW_Goblin_slave.labelMalePlural>男性 地精奴隶</WoW_Goblin_slave.labelMalePlural>
+  <WoW_Goblin_slave.labelFemale>女性 地精奴隶</WoW_Goblin_slave.labelFemale>
+  <WoW_Goblin_slave.labelFemalePlural>女性 地精奴隶</WoW_Goblin_slave.labelFemalePlural>
 
 
   <!-- Goblin Military -->
 
-  <WoW_Goblin_Tinker.label>goblin tinker</WoW_Goblin_Tinker.label>
-  <WoW_Goblin_Tinker.labelPlural>goblin tinkers</WoW_Goblin_Tinker.labelPlural>
-  <WoW_Goblin_Tinker.labelMale>male goblin tinker</WoW_Goblin_Tinker.labelMale>
-  <WoW_Goblin_Tinker.labelMalePlural>male goblin tinkers</WoW_Goblin_Tinker.labelMalePlural>
-  <WoW_Goblin_Tinker.labelFemale>female goblin tinker</WoW_Goblin_Tinker.labelFemale>
-  <WoW_Goblin_Tinker.labelFemalePlural>female goblin tinkers</WoW_Goblin_Tinker.labelFemalePlural>
+  <WoW_Goblin_Tinker.label>地精修补匠</WoW_Goblin_Tinker.label>
+  <WoW_Goblin_Tinker.labelPlural>地精修补匠</WoW_Goblin_Tinker.labelPlural>
+  <WoW_Goblin_Tinker.labelMale>男性 地精修补匠</WoW_Goblin_Tinker.labelMale>
+  <WoW_Goblin_Tinker.labelMalePlural>男性 地精修补匠</WoW_Goblin_Tinker.labelMalePlural>
+  <WoW_Goblin_Tinker.labelFemale>女性 地精修补匠</WoW_Goblin_Tinker.labelFemale>
+  <WoW_Goblin_Tinker.labelFemalePlural>女性 地精修补匠</WoW_Goblin_Tinker.labelFemalePlural>
 
-  <WoW_Goblin_Bruiser.label>goblin bruiser</WoW_Goblin_Bruiser.label>
-  <WoW_Goblin_Bruiser.labelPlural>goblin bruisers</WoW_Goblin_Bruiser.labelPlural>
-  <WoW_Goblin_Bruiser.labelMale>male goblin bruiser</WoW_Goblin_Bruiser.labelMale>
-  <WoW_Goblin_Bruiser.labelMalePlural>male goblin bruisers</WoW_Goblin_Bruiser.labelMalePlural>
-  <WoW_Goblin_Bruiser.labelFemale>female goblin bruiser</WoW_Goblin_Bruiser.labelFemale>
-  <WoW_Goblin_Bruiser.labelFemalePlural>female goblin bruisers</WoW_Goblin_Bruiser.labelFemalePlural>
+  <WoW_Goblin_Bruiser.label>地精战士</WoW_Goblin_Bruiser.label>
+  <WoW_Goblin_Bruiser.labelPlural>地精战士</WoW_Goblin_Bruiser.labelPlural>
+  <WoW_Goblin_Bruiser.labelMale>男性 地精战士</WoW_Goblin_Bruiser.labelMale>
+  <WoW_Goblin_Bruiser.labelMalePlural>男性 地精战士</WoW_Goblin_Bruiser.labelMalePlural>
+  <WoW_Goblin_Bruiser.labelFemale>女性 地精战士</WoW_Goblin_Bruiser.labelFemale>
+  <WoW_Goblin_Bruiser.labelFemalePlural>女性 地精战士</WoW_Goblin_Bruiser.labelFemalePlural>
 
-  <WoW_Goblin_Overseer.label>goblin overseer</WoW_Goblin_Overseer.label>
-  <WoW_Goblin_Overseer.labelPlural>goblin overseers</WoW_Goblin_Overseer.labelPlural>
-  <WoW_Goblin_Overseer.labelMale>male goblin overseer</WoW_Goblin_Overseer.labelMale>
-  <WoW_Goblin_Overseer.labelMalePlural>male goblin overseers</WoW_Goblin_Overseer.labelMalePlural>
-  <WoW_Goblin_Overseer.labelFemale>female goblin overseer</WoW_Goblin_Overseer.labelFemale>
-  <WoW_Goblin_Overseer.labelFemalePlural>female goblin overseers</WoW_Goblin_Overseer.labelFemalePlural>
+  <WoW_Goblin_Overseer.label>地精工头</WoW_Goblin_Overseer.label>
+  <WoW_Goblin_Overseer.labelPlural>地精工头</WoW_Goblin_Overseer.labelPlural>
+  <WoW_Goblin_Overseer.labelMale>男性 地精工头</WoW_Goblin_Overseer.labelMale>
+  <WoW_Goblin_Overseer.labelMalePlural>男性 地精工头</WoW_Goblin_Overseer.labelMalePlural>
+  <WoW_Goblin_Overseer.labelFemale>女性 地精工头</WoW_Goblin_Overseer.labelFemale>
+  <WoW_Goblin_Overseer.labelFemalePlural>女性 地精工头</WoW_Goblin_Overseer.labelFemalePlural>
 
-  <WoW_Goblin_Baron.label>goblin baron</WoW_Goblin_Baron.label>
-  <WoW_Goblin_Baron.labelPlural>goblin barons</WoW_Goblin_Baron.labelPlural>
-  <WoW_Goblin_Baron.labelMale>male goblin baron</WoW_Goblin_Baron.labelMale>
-  <WoW_Goblin_Baron.labelMalePlural>male goblin barons</WoW_Goblin_Baron.labelMalePlural>
-  <WoW_Goblin_Baron.labelFemale>female goblin baron</WoW_Goblin_Baron.labelFemale>
-  <WoW_Goblin_Baron.labelFemalePlural>female goblin barons</WoW_Goblin_Baron.labelFemalePlural>
+  <WoW_Goblin_Baron.label>地精男爵</WoW_Goblin_Baron.label>
+  <WoW_Goblin_Baron.labelPlural>地精男爵</WoW_Goblin_Baron.labelPlural>
+  <WoW_Goblin_Baron.labelMale>男性 地精男爵</WoW_Goblin_Baron.labelMale>
+  <WoW_Goblin_Baron.labelMalePlural>男性 地精男爵</WoW_Goblin_Baron.labelMalePlural>
+  <WoW_Goblin_Baron.labelFemale>女性 地精男爵</WoW_Goblin_Baron.labelFemale>
+  <WoW_Goblin_Baron.labelFemalePlural>女性 地精男爵</WoW_Goblin_Baron.labelFemalePlural>
 
 
 </LanguageData>

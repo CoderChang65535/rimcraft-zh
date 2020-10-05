@@ -3,12 +3,12 @@
 
   <!-- Goblin Player Pawn -->
 
-  <WoWGoblin.label>goblin colonist</WoWGoblin.label>
-  <WoWGoblin.labelPlural>goblin colonists</WoWGoblin.labelPlural>
-  <WoWGoblin.labelMale>male goblin colonist</WoWGoblin.labelMale>
-  <WoWGoblin.labelMalePlural>male goblin colonists</WoWGoblin.labelMalePlural>
-  <WoWGoblin.labelFemale>female goblin colonist</WoWGoblin.labelFemale>
-  <WoWGoblin.labelFemalePlural>female goblin colonists</WoWGoblin.labelFemalePlural>
+  <WoWGoblin.label>地精殖民者</WoWGoblin.label>
+  <WoWGoblin.labelPlural>地精殖民者</WoWGoblin.labelPlural>
+  <WoWGoblin.labelMale>男性 地精殖民者</WoWGoblin.labelMale>
+  <WoWGoblin.labelMalePlural>男性 地精殖民者</WoWGoblin.labelMalePlural>
+  <WoWGoblin.labelFemale>女性 地精殖民者</WoWGoblin.labelFemale>
+  <WoWGoblin.labelFemalePlural>女性 地精殖民者</WoWGoblin.labelFemalePlural>
 
 
 </LanguageData>

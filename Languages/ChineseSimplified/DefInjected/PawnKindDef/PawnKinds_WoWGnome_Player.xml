@@ -3,12 +3,12 @@
 
   <!-- Gnome Player Pawn -->
 
-  <WoWGnome.label>gnome colonist</WoWGnome.label>
-  <WoWGnome.labelPlural>gnome colonists</WoWGnome.labelPlural>
-  <WoWGnome.labelMale>male gnome colonist</WoWGnome.labelMale>
-  <WoWGnome.labelMalePlural>male gnome colonists</WoWGnome.labelMalePlural>
-  <WoWGnome.labelFemale>female gnome colonist</WoWGnome.labelFemale>
-  <WoWGnome.labelFemalePlural>female gnome colonists</WoWGnome.labelFemalePlural>
+  <WoWGnome.label>侏儒殖民者</WoWGnome.label>
+  <WoWGnome.labelPlural>侏儒殖民者</WoWGnome.labelPlural>
+  <WoWGnome.labelMale>男性 侏儒殖民者</WoWGnome.labelMale>
+  <WoWGnome.labelMalePlural>男性 侏儒殖民者</WoWGnome.labelMalePlural>
+  <WoWGnome.labelFemale>女性 侏儒殖民者</WoWGnome.labelFemale>
+  <WoWGnome.labelFemalePlural>女性 侏儒殖民者</WoWGnome.labelFemalePlural>
 
 
 </LanguageData>

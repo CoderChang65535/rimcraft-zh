@@ -3,12 +3,12 @@
 
   <!-- Dwarf Player Pawn -->
 
-  <WoWDwarf.label>dwarf colonist</WoWDwarf.label>
-  <WoWDwarf.labelPlural>dwarf colonists</WoWDwarf.labelPlural>
-  <WoWDwarf.labelMale>male dwarf colonist</WoWDwarf.labelMale>
-  <WoWDwarf.labelMalePlural>male dwarf colonists</WoWDwarf.labelMalePlural>
-  <WoWDwarf.labelFemale>female dwarf colonist</WoWDwarf.labelFemale>
-  <WoWDwarf.labelFemalePlural>female dwarf colonists</WoWDwarf.labelFemalePlural>
+  <WoWDwarf.label>矮人殖民者</WoWDwarf.label>
+  <WoWDwarf.labelPlural>矮人殖民者</WoWDwarf.labelPlural>
+  <WoWDwarf.labelMale>男性 矮人殖民者</WoWDwarf.labelMale>
+  <WoWDwarf.labelMalePlural>男性 矮人殖民者</WoWDwarf.labelMalePlural>
+  <WoWDwarf.labelFemale>女性 矮人殖民者</WoWDwarf.labelFemale>
+  <WoWDwarf.labelFemalePlural>女性 矮人殖民者</WoWDwarf.labelFemalePlural>
 
 
 </LanguageData>

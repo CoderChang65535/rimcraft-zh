@@ -3,12 +3,12 @@
 
   <!-- WoWHuman Player Pawn -->
 
-  <WoWHuman.label>azerothian human colonist</WoWHuman.label>
-  <WoWHuman.labelPlural>azerothian human colonists</WoWHuman.labelPlural>
-  <WoWHuman.labelMale>male azerothian human colonist</WoWHuman.labelMale>
-  <WoWHuman.labelMalePlural>male azerothian human colonists</WoWHuman.labelMalePlural>
-  <WoWHuman.labelFemale>female azerothian human colonist</WoWHuman.labelFemale>
-  <WoWHuman.labelFemalePlural>female azerothian human colonists</WoWHuman.labelFemalePlural>
+  <WoWHuman.label>人类殖民者</WoWHuman.label>
+  <WoWHuman.labelPlural>人类殖民者</WoWHuman.labelPlural>
+  <WoWHuman.labelMale>男性 人类殖民者</WoWHuman.labelMale>
+  <WoWHuman.labelMalePlural>男性 人类殖民者</WoWHuman.labelMalePlural>
+  <WoWHuman.labelFemale>女性 人类殖民者</WoWHuman.labelFemale>
+  <WoWHuman.labelFemalePlural>女性 人类殖民者</WoWHuman.labelFemalePlural>
 
 
 </LanguageData>

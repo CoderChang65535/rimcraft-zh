@@ -3,12 +3,12 @@
 
   <!-- Draenei Player Pawn -->
 
-  <WoWDraenei.label>draenei colonist</WoWDraenei.label>
-  <WoWDraenei.labelPlural>draenei colonists</WoWDraenei.labelPlural>
-  <WoWDraenei.labelMale>male draenei colonist</WoWDraenei.labelMale>
-  <WoWDraenei.labelMalePlural>male draenei colonists</WoWDraenei.labelMalePlural>
-  <WoWDraenei.labelFemale>female draenei colonist</WoWDraenei.labelFemale>
-  <WoWDraenei.labelFemalePlural>female draenei colonists</WoWDraenei.labelFemalePlural>
+  <WoWDraenei.label>德莱尼殖民者</WoWDraenei.label>
+  <WoWDraenei.labelPlural>德莱尼殖民者</WoWDraenei.labelPlural>
+  <WoWDraenei.labelMale>男性 德莱尼殖民者</WoWDraenei.labelMale>
+  <WoWDraenei.labelMalePlural>男性 德莱尼殖民者</WoWDraenei.labelMalePlural>
+  <WoWDraenei.labelFemale>女性 德莱尼殖民者</WoWDraenei.labelFemale>
+  <WoWDraenei.labelFemalePlural>女性 德莱尼殖民者</WoWDraenei.labelFemalePlural>
 
 
 </LanguageData>

@@ -1,30 +1,30 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <WoW_Animal_Mastiff.label>gilnean mastiff</WoW_Animal_Mastiff.label>
-  <WoW_Animal_Mastiff.labelPlural>mastiffs</WoW_Animal_Mastiff.labelPlural>
-  <WoW_Animal_Mastiff.lifeStages.0.label>gilnean mastiff puppy</WoW_Animal_Mastiff.lifeStages.0.label>
-  <WoW_Animal_Mastiff.lifeStages.0.labelPlural>gilnean mastiff puppies</WoW_Animal_Mastiff.lifeStages.0.labelPlural>
-  <WoW_Animal_Mastiff.lifeStages.0.labelMale>male gilnean mastiff puppy</WoW_Animal_Mastiff.lifeStages.0.labelMale>
-  <WoW_Animal_Mastiff.lifeStages.0.labelMalePlural>male gilnean mastiff puppies</WoW_Animal_Mastiff.lifeStages.0.labelMalePlural>
-  <WoW_Animal_Mastiff.lifeStages.0.labelFemale>female gilnean mastiff puppy</WoW_Animal_Mastiff.lifeStages.0.labelFemale>
-  <WoW_Animal_Mastiff.lifeStages.0.labelFemalePlural>female gilnean mastiff puppies</WoW_Animal_Mastiff.lifeStages.0.labelFemalePlural>
-  <WoW_Animal_Mastiff.lifeStages.1.label>gilnean mastiff</WoW_Animal_Mastiff.lifeStages.1.label>
-  <WoW_Animal_Mastiff.lifeStages.1.labelPlural>mastiffs</WoW_Animal_Mastiff.lifeStages.1.labelPlural>
-  <WoW_Animal_Mastiff.lifeStages.1.labelMale>male gilnean mastiff</WoW_Animal_Mastiff.lifeStages.1.labelMale>
-  <WoW_Animal_Mastiff.lifeStages.1.labelMalePlural>male gilnean mastiffs</WoW_Animal_Mastiff.lifeStages.1.labelMalePlural>
-  <WoW_Animal_Mastiff.lifeStages.1.labelFemale>female gilnean mastiff</WoW_Animal_Mastiff.lifeStages.1.labelFemale>
-  <WoW_Animal_Mastiff.lifeStages.1.labelFemalePlural>female gilnean mastiffs</WoW_Animal_Mastiff.lifeStages.1.labelFemalePlural>
-  <WoW_Animal_Mastiff.lifeStages.2.label>gilnean mastiff</WoW_Animal_Mastiff.lifeStages.2.label>
-  <WoW_Animal_Mastiff.lifeStages.2.labelPlural>mastiffs</WoW_Animal_Mastiff.lifeStages.2.labelPlural>
-  <WoW_Animal_Mastiff.lifeStages.2.labelMale>male gilnean mastiff</WoW_Animal_Mastiff.lifeStages.2.labelMale>
-  <WoW_Animal_Mastiff.lifeStages.2.labelMalePlural>male gilnean mastiffs</WoW_Animal_Mastiff.lifeStages.2.labelMalePlural>
-  <WoW_Animal_Mastiff.lifeStages.2.labelFemale>female gilnean mastiff</WoW_Animal_Mastiff.lifeStages.2.labelFemale>
-  <WoW_Animal_Mastiff.lifeStages.2.labelFemalePlural>female gilnean mastiffs</WoW_Animal_Mastiff.lifeStages.2.labelFemalePlural>
-  <WoW_Animal_Mastiff.labelMale>male gilnean mastiff</WoW_Animal_Mastiff.labelMale>
-  <WoW_Animal_Mastiff.labelMalePlural>male mastiffs</WoW_Animal_Mastiff.labelMalePlural>
-  <WoW_Animal_Mastiff.labelFemale>female gilnean mastiff</WoW_Animal_Mastiff.labelFemale>
-  <WoW_Animal_Mastiff.labelFemalePlural>female mastiffs</WoW_Animal_Mastiff.labelFemalePlural>
+  <WoW_Animal_Mastiff.label>吉尔尼安猎犬</WoW_Animal_Mastiff.label>
+  <WoW_Animal_Mastiff.labelPlural>吉尔尼安猎犬</WoW_Animal_Mastiff.labelPlural>
+  <WoW_Animal_Mastiff.lifeStages.0.label>吉尔尼安猎犬幼犬</WoW_Animal_Mastiff.lifeStages.0.label>
+  <WoW_Animal_Mastiff.lifeStages.0.labelPlural>吉尔尼安猎犬幼犬</WoW_Animal_Mastiff.lifeStages.0.labelPlural>
+  <WoW_Animal_Mastiff.lifeStages.0.labelMale>男性 吉尔尼安猎犬幼犬</WoW_Animal_Mastiff.lifeStages.0.labelMale>
+  <WoW_Animal_Mastiff.lifeStages.0.labelMalePlural>男性 吉尔尼安猎犬幼犬</WoW_Animal_Mastiff.lifeStages.0.labelMalePlural>
+  <WoW_Animal_Mastiff.lifeStages.0.labelFemale>女性 吉尔尼安猎犬幼犬</WoW_Animal_Mastiff.lifeStages.0.labelFemale>
+  <WoW_Animal_Mastiff.lifeStages.0.labelFemalePlural>女性 吉尔尼安猎犬幼犬</WoW_Animal_Mastiff.lifeStages.0.labelFemalePlural>
+  <WoW_Animal_Mastiff.lifeStages.1.label>吉尔尼安猎犬</WoW_Animal_Mastiff.lifeStages.1.label>
+  <WoW_Animal_Mastiff.lifeStages.1.labelPlural>吉尔尼安猎犬</WoW_Animal_Mastiff.lifeStages.1.labelPlural>
+  <WoW_Animal_Mastiff.lifeStages.1.labelMale>男性 吉尔尼安猎犬</WoW_Animal_Mastiff.lifeStages.1.labelMale>
+  <WoW_Animal_Mastiff.lifeStages.1.labelMalePlural>男性 吉尔尼安猎犬</WoW_Animal_Mastiff.lifeStages.1.labelMalePlural>
+  <WoW_Animal_Mastiff.lifeStages.1.labelFemale>女性 吉尔尼安猎犬</WoW_Animal_Mastiff.lifeStages.1.labelFemale>
+  <WoW_Animal_Mastiff.lifeStages.1.labelFemalePlural>女性 吉尔尼安猎犬</WoW_Animal_Mastiff.lifeStages.1.labelFemalePlural>
+  <WoW_Animal_Mastiff.lifeStages.2.label>吉尔尼安猎犬</WoW_Animal_Mastiff.lifeStages.2.label>
+  <WoW_Animal_Mastiff.lifeStages.2.labelPlural>吉尔尼安猎犬</WoW_Animal_Mastiff.lifeStages.2.labelPlural>
+  <WoW_Animal_Mastiff.lifeStages.2.labelMale>男性 吉尔尼安猎犬</WoW_Animal_Mastiff.lifeStages.2.labelMale>
+  <WoW_Animal_Mastiff.lifeStages.2.labelMalePlural>男性 吉尔尼安猎犬</WoW_Animal_Mastiff.lifeStages.2.labelMalePlural>
+  <WoW_Animal_Mastiff.lifeStages.2.labelFemale>女性 吉尔尼安猎犬</WoW_Animal_Mastiff.lifeStages.2.labelFemale>
+  <WoW_Animal_Mastiff.lifeStages.2.labelFemalePlural>女性 吉尔尼安猎犬</WoW_Animal_Mastiff.lifeStages.2.labelFemalePlural>
+  <WoW_Animal_Mastiff.labelMale>男性 吉尔尼安猎犬</WoW_Animal_Mastiff.labelMale>
+  <WoW_Animal_Mastiff.labelMalePlural>男性 吉尔尼安猎犬</WoW_Animal_Mastiff.labelMalePlural>
+  <WoW_Animal_Mastiff.labelFemale>女性 吉尔尼安猎犬</WoW_Animal_Mastiff.labelFemale>
+  <WoW_Animal_Mastiff.labelFemalePlural>女性 吉尔尼安猎犬</WoW_Animal_Mastiff.labelFemalePlural>
 
 
 </LanguageData>

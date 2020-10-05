@@ -3,12 +3,12 @@
 
   <!-- HighElf Player Pawn -->
 
-  <WoWHighElf.label>high elf colonist</WoWHighElf.label>
-  <WoWHighElf.labelPlural>high elf colonists</WoWHighElf.labelPlural>
-  <WoWHighElf.labelMale>male high elf colonist</WoWHighElf.labelMale>
-  <WoWHighElf.labelMalePlural>male high elf colonists</WoWHighElf.labelMalePlural>
-  <WoWHighElf.labelFemale>female high elf colonist</WoWHighElf.labelFemale>
-  <WoWHighElf.labelFemalePlural>female high elf colonists</WoWHighElf.labelFemalePlural>
+  <WoWHighElf.label>高等精灵殖民者</WoWHighElf.label>
+  <WoWHighElf.labelPlural>高等精灵殖民者</WoWHighElf.labelPlural>
+  <WoWHighElf.labelMale>男性 高等精灵殖民者</WoWHighElf.labelMale>
+  <WoWHighElf.labelMalePlural>男性 高等精灵殖民者</WoWHighElf.labelMalePlural>
+  <WoWHighElf.labelFemale>女性 高等精灵殖民者</WoWHighElf.labelFemale>
+  <WoWHighElf.labelFemalePlural>女性 高等精灵殖民者</WoWHighElf.labelFemalePlural>
 
 
 </LanguageData>

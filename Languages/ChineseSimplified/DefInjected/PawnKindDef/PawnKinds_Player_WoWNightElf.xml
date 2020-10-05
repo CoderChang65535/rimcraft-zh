@@ -3,10 +3,10 @@
 
   <WoWNightElf.label>难民</WoWNightElf.label>
   <WoWNightElf.labelPlural>难民</WoWNightElf.labelPlural>
-  <WoWNightElf.labelMale>男性难民</WoWNightElf.labelMale>
-  <WoWNightElf.labelMalePlural>男性难民</WoWNightElf.labelMalePlural>
-  <WoWNightElf.labelFemale>女性难民</WoWNightElf.labelFemale>
-  <WoWNightElf.labelFemalePlural>女性难民</WoWNightElf.labelFemalePlural>
+  <WoWNightElf.labelMale>男性 难民</WoWNightElf.labelMale>
+  <WoWNightElf.labelMalePlural>男性 难民</WoWNightElf.labelMalePlural>
+  <WoWNightElf.labelFemale>女性 难民</WoWNightElf.labelFemale>
+  <WoWNightElf.labelFemalePlural>女性 难民</WoWNightElf.labelFemalePlural>
 
 
 </LanguageData>

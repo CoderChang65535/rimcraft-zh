@@ -3,12 +3,12 @@
 
   <!-- Forsaken High Elf Player Pawn -->
 
-  <WoWForsakenHighElf.label>forsaken high elf colonist</WoWForsakenHighElf.label>
-  <WoWForsakenHighElf.labelPlural>forsaken high elf colonists</WoWForsakenHighElf.labelPlural>
-  <WoWForsakenHighElf.labelMale>male forsaken high elf colonist</WoWForsakenHighElf.labelMale>
-  <WoWForsakenHighElf.labelMalePlural>male forsaken high elf colonists</WoWForsakenHighElf.labelMalePlural>
-  <WoWForsakenHighElf.labelFemale>female forsaken high elf colonist</WoWForsakenHighElf.labelFemale>
-  <WoWForsakenHighElf.labelFemalePlural>female forsaken high elf colonists</WoWForsakenHighElf.labelFemalePlural>
+  <WoWForsakenHighElf.label>被遗忘者高等精灵殖民者</WoWForsakenHighElf.label>
+  <WoWForsakenHighElf.labelPlural>被遗忘者高等精灵殖民者</WoWForsakenHighElf.labelPlural>
+  <WoWForsakenHighElf.labelMale>男性 被遗忘者高等精灵殖民者</WoWForsakenHighElf.labelMale>
+  <WoWForsakenHighElf.labelMalePlural>男性 被遗忘者高等精灵殖民者</WoWForsakenHighElf.labelMalePlural>
+  <WoWForsakenHighElf.labelFemale>女性 被遗忘者高等精灵殖民者</WoWForsakenHighElf.labelFemale>
+  <WoWForsakenHighElf.labelFemalePlural>女性 被遗忘者高等精灵殖民者</WoWForsakenHighElf.labelFemalePlural>
 
 
 </LanguageData>

@@ -3,10 +3,10 @@
 
   <WoWTauren.label>殖民者</WoWTauren.label>
   <WoWTauren.labelPlural>殖民者</WoWTauren.labelPlural>
-  <WoWTauren.labelMale>男性殖民者</WoWTauren.labelMale>
-  <WoWTauren.labelMalePlural>男性殖民者</WoWTauren.labelMalePlural>
-  <WoWTauren.labelFemale>女性殖民者</WoWTauren.labelFemale>
-  <WoWTauren.labelFemalePlural>女性殖民者</WoWTauren.labelFemalePlural>
+  <WoWTauren.labelMale>男性 殖民者</WoWTauren.labelMale>
+  <WoWTauren.labelMalePlural>男性 殖民者</WoWTauren.labelMalePlural>
+  <WoWTauren.labelFemale>女性 殖民者</WoWTauren.labelFemale>
+  <WoWTauren.labelFemalePlural>女性 殖民者</WoWTauren.labelFemalePlural>
 
 
 </LanguageData>

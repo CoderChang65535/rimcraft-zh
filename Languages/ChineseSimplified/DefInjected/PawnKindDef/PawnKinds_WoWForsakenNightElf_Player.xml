@@ -3,12 +3,12 @@
 
   <!-- Forsaken Night Elf Player Pawn -->
 
-  <WoWForsakenNightElf.label>forsaken night elf colonist</WoWForsakenNightElf.label>
-  <WoWForsakenNightElf.labelPlural>forsaken night elf colonists</WoWForsakenNightElf.labelPlural>
-  <WoWForsakenNightElf.labelMale>male forsaken night elf colonist</WoWForsakenNightElf.labelMale>
-  <WoWForsakenNightElf.labelMalePlural>male forsaken night elf colonists</WoWForsakenNightElf.labelMalePlural>
-  <WoWForsakenNightElf.labelFemale>female forsaken night elf colonist</WoWForsakenNightElf.labelFemale>
-  <WoWForsakenNightElf.labelFemalePlural>female forsaken night elf colonists</WoWForsakenNightElf.labelFemalePlural>
+  <WoWForsakenNightElf.label>被遗忘者暗夜精灵殖民者</WoWForsakenNightElf.label>
+  <WoWForsakenNightElf.labelPlural>被遗忘者暗夜精灵殖民者</WoWForsakenNightElf.labelPlural>
+  <WoWForsakenNightElf.labelMale>男性 被遗忘者暗夜精灵殖民者</WoWForsakenNightElf.labelMale>
+  <WoWForsakenNightElf.labelMalePlural>男性 被遗忘者暗夜精灵殖民者</WoWForsakenNightElf.labelMalePlural>
+  <WoWForsakenNightElf.labelFemale>女性 被遗忘者暗夜精灵殖民者</WoWForsakenNightElf.labelFemale>
+  <WoWForsakenNightElf.labelFemalePlural>女性 被遗忘者暗夜精灵殖民者</WoWForsakenNightElf.labelFemalePlural>
 
 
 </LanguageData>

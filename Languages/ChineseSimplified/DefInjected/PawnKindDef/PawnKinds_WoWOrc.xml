@@ -5,62 +5,62 @@
 
   <WoW_Orc_Villager.label>兽人村民</WoW_Orc_Villager.label>
   <WoW_Orc_Villager.labelPlural>兽人村民</WoW_Orc_Villager.labelPlural>
-  <WoW_Orc_Villager.labelMale>男性兽人村民</WoW_Orc_Villager.labelMale>
-  <WoW_Orc_Villager.labelMalePlural>男性兽人村民</WoW_Orc_Villager.labelMalePlural>
-  <WoW_Orc_Villager.labelFemale>女性兽人村民</WoW_Orc_Villager.labelFemale>
-  <WoW_Orc_Villager.labelFemalePlural>女性兽人村民</WoW_Orc_Villager.labelFemalePlural>
+  <WoW_Orc_Villager.labelMale>男性 兽人村民</WoW_Orc_Villager.labelMale>
+  <WoW_Orc_Villager.labelMalePlural>男性 兽人村民</WoW_Orc_Villager.labelMalePlural>
+  <WoW_Orc_Villager.labelFemale>女性 兽人村民</WoW_Orc_Villager.labelFemale>
+  <WoW_Orc_Villager.labelFemalePlural>女性 兽人村民</WoW_Orc_Villager.labelFemalePlural>
 
   <WoW_Orc_Trader.label>兽人交易者</WoW_Orc_Trader.label>
   <WoW_Orc_Trader.labelPlural>兽人交易者</WoW_Orc_Trader.labelPlural>
-  <WoW_Orc_Trader.labelMale>男性兽人交易者</WoW_Orc_Trader.labelMale>
-  <WoW_Orc_Trader.labelMalePlural>男性兽人交易者</WoW_Orc_Trader.labelMalePlural>
-  <WoW_Orc_Trader.labelFemale>女性兽人交易者</WoW_Orc_Trader.labelFemale>
-  <WoW_Orc_Trader.labelFemalePlural>女性兽人交易者</WoW_Orc_Trader.labelFemalePlural>
+  <WoW_Orc_Trader.labelMale>男性 兽人交易者</WoW_Orc_Trader.labelMale>
+  <WoW_Orc_Trader.labelMalePlural>男性 兽人交易者</WoW_Orc_Trader.labelMalePlural>
+  <WoW_Orc_Trader.labelFemale>女性 兽人交易者</WoW_Orc_Trader.labelFemale>
+  <WoW_Orc_Trader.labelFemalePlural>女性 兽人交易者</WoW_Orc_Trader.labelFemalePlural>
 
   <WoW_Orc_slave.label>兽人奴隶</WoW_Orc_slave.label>
   <WoW_Orc_slave.labelPlural>兽人奴隶</WoW_Orc_slave.labelPlural>
-  <WoW_Orc_slave.labelMale>男性兽人奴隶</WoW_Orc_slave.labelMale>
-  <WoW_Orc_slave.labelMalePlural>男性兽人奴隶</WoW_Orc_slave.labelMalePlural>
-  <WoW_Orc_slave.labelFemale>女性兽人奴隶</WoW_Orc_slave.labelFemale>
-  <WoW_Orc_slave.labelFemalePlural>女性兽人奴隶</WoW_Orc_slave.labelFemalePlural>
+  <WoW_Orc_slave.labelMale>男性 兽人奴隶</WoW_Orc_slave.labelMale>
+  <WoW_Orc_slave.labelMalePlural>男性 兽人奴隶</WoW_Orc_slave.labelMalePlural>
+  <WoW_Orc_slave.labelFemale>女性 兽人奴隶</WoW_Orc_slave.labelFemale>
+  <WoW_Orc_slave.labelFemalePlural>女性 兽人奴隶</WoW_Orc_slave.labelFemalePlural>
 
 
   <!-- Orc Military -->
 
   <WoW_Orc_Scout.label>兽人斥候</WoW_Orc_Scout.label>
   <WoW_Orc_Scout.labelPlural>兽人斥候</WoW_Orc_Scout.labelPlural>
-  <WoW_Orc_Scout.labelMale>男性兽人斥候</WoW_Orc_Scout.labelMale>
-  <WoW_Orc_Scout.labelMalePlural>男性兽人斥候</WoW_Orc_Scout.labelMalePlural>
-  <WoW_Orc_Scout.labelFemale>女性兽人斥候</WoW_Orc_Scout.labelFemale>
-  <WoW_Orc_Scout.labelFemalePlural>女性兽人斥候</WoW_Orc_Scout.labelFemalePlural>
+  <WoW_Orc_Scout.labelMale>男性 兽人斥候</WoW_Orc_Scout.labelMale>
+  <WoW_Orc_Scout.labelMalePlural>男性 兽人斥候</WoW_Orc_Scout.labelMalePlural>
+  <WoW_Orc_Scout.labelFemale>女性 兽人斥候</WoW_Orc_Scout.labelFemale>
+  <WoW_Orc_Scout.labelFemalePlural>女性 兽人斥候</WoW_Orc_Scout.labelFemalePlural>
 
   <WoW_Orc_Legionnaire.label>兽人军士</WoW_Orc_Legionnaire.label>
   <WoW_Orc_Legionnaire.labelPlural>兽人军士</WoW_Orc_Legionnaire.labelPlural>
-  <WoW_Orc_Legionnaire.labelMale>男性兽人军士</WoW_Orc_Legionnaire.labelMale>
-  <WoW_Orc_Legionnaire.labelMalePlural>男性兽人军士</WoW_Orc_Legionnaire.labelMalePlural>
-  <WoW_Orc_Legionnaire.labelFemale>女性兽人军士</WoW_Orc_Legionnaire.labelFemale>
-  <WoW_Orc_Legionnaire.labelFemalePlural>女性兽人军士</WoW_Orc_Legionnaire.labelFemalePlural>
+  <WoW_Orc_Legionnaire.labelMale>男性 兽人军士</WoW_Orc_Legionnaire.labelMale>
+  <WoW_Orc_Legionnaire.labelMalePlural>男性 兽人军士</WoW_Orc_Legionnaire.labelMalePlural>
+  <WoW_Orc_Legionnaire.labelFemale>女性 兽人军士</WoW_Orc_Legionnaire.labelFemale>
+  <WoW_Orc_Legionnaire.labelFemalePlural>女性 兽人军士</WoW_Orc_Legionnaire.labelFemalePlural>
 
   <WoW_Orc_Champion.label>兽人勇士</WoW_Orc_Champion.label>
   <WoW_Orc_Champion.labelPlural>兽人勇士</WoW_Orc_Champion.labelPlural>
-  <WoW_Orc_Champion.labelMale>男性兽人勇士</WoW_Orc_Champion.labelMale>
-  <WoW_Orc_Champion.labelMalePlural>男性兽人勇士</WoW_Orc_Champion.labelMalePlural>
-  <WoW_Orc_Champion.labelFemale>女性兽人勇士</WoW_Orc_Champion.labelFemale>
-  <WoW_Orc_Champion.labelFemalePlural>女性兽人勇士</WoW_Orc_Champion.labelFemalePlural>
+  <WoW_Orc_Champion.labelMale>男性 兽人勇士</WoW_Orc_Champion.labelMale>
+  <WoW_Orc_Champion.labelMalePlural>男性 兽人勇士</WoW_Orc_Champion.labelMalePlural>
+  <WoW_Orc_Champion.labelFemale>女性 兽人勇士</WoW_Orc_Champion.labelFemale>
+  <WoW_Orc_Champion.labelFemalePlural>女性 兽人勇士</WoW_Orc_Champion.labelFemalePlural>
 
   <WoW_Orc_Bladesmaster.label>兽人剑圣</WoW_Orc_Bladesmaster.label>
   <WoW_Orc_Bladesmaster.labelPlural>兽人剑圣</WoW_Orc_Bladesmaster.labelPlural>
-  <WoW_Orc_Bladesmaster.labelMale>男性兽人剑圣</WoW_Orc_Bladesmaster.labelMale>
-  <WoW_Orc_Bladesmaster.labelMalePlural>男性兽人剑圣</WoW_Orc_Bladesmaster.labelMalePlural>
-  <WoW_Orc_Bladesmaster.labelFemale>女性兽人剑圣</WoW_Orc_Bladesmaster.labelFemale>
-  <WoW_Orc_Bladesmaster.labelFemalePlural>女性兽人剑圣</WoW_Orc_Bladesmaster.labelFemalePlural>
+  <WoW_Orc_Bladesmaster.labelMale>男性 兽人剑圣</WoW_Orc_Bladesmaster.labelMale>
+  <WoW_Orc_Bladesmaster.labelMalePlural>男性 兽人剑圣</WoW_Orc_Bladesmaster.labelMalePlural>
+  <WoW_Orc_Bladesmaster.labelFemale>女性 兽人剑圣</WoW_Orc_Bladesmaster.labelFemale>
+  <WoW_Orc_Bladesmaster.labelFemalePlural>女性 兽人剑圣</WoW_Orc_Bladesmaster.labelFemalePlural>
 
   <WoW_Orc_HighWarlord.label>兽人高阶督军</WoW_Orc_HighWarlord.label>
   <WoW_Orc_HighWarlord.labelPlural>兽人高阶督军</WoW_Orc_HighWarlord.labelPlural>
-  <WoW_Orc_HighWarlord.labelMale>男性兽人高阶督军</WoW_Orc_HighWarlord.labelMale>
-  <WoW_Orc_HighWarlord.labelMalePlural>男性兽人高阶督军</WoW_Orc_HighWarlord.labelMalePlural>
-  <WoW_Orc_HighWarlord.labelFemale>女性兽人高阶督军</WoW_Orc_HighWarlord.labelFemale>
-  <WoW_Orc_HighWarlord.labelFemalePlural>女性兽人高阶督军</WoW_Orc_HighWarlord.labelFemalePlural>
+  <WoW_Orc_HighWarlord.labelMale>男性 兽人高阶督军</WoW_Orc_HighWarlord.labelMale>
+  <WoW_Orc_HighWarlord.labelMalePlural>男性 兽人高阶督军</WoW_Orc_HighWarlord.labelMalePlural>
+  <WoW_Orc_HighWarlord.labelFemale>女性 兽人高阶督军</WoW_Orc_HighWarlord.labelFemale>
+  <WoW_Orc_HighWarlord.labelFemalePlural>女性 兽人高阶督军</WoW_Orc_HighWarlord.labelFemalePlural>
 
 
 </LanguageData>

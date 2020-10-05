@@ -3,12 +3,12 @@
 
   <!-- Orc Player Pawn -->
 
-  <WoWOrc.label>orc colonist</WoWOrc.label>
-  <WoWOrc.labelPlural>orc colonists</WoWOrc.labelPlural>
-  <WoWOrc.labelMale>male orc colonist</WoWOrc.labelMale>
-  <WoWOrc.labelMalePlural>male orc colonists</WoWOrc.labelMalePlural>
-  <WoWOrc.labelFemale>female orc colonist</WoWOrc.labelFemale>
-  <WoWOrc.labelFemalePlural>female orc colonists</WoWOrc.labelFemalePlural>
+  <WoWOrc.label>兽人殖民者</WoWOrc.label>
+  <WoWOrc.labelPlural>兽人殖民者</WoWOrc.labelPlural>
+  <WoWOrc.labelMale>男性 兽人殖民者</WoWOrc.labelMale>
+  <WoWOrc.labelMalePlural>男性 兽人殖民者</WoWOrc.labelMalePlural>
+  <WoWOrc.labelFemale>女性 兽人殖民者</WoWOrc.labelFemale>
+  <WoWOrc.labelFemalePlural>女性 兽人殖民者</WoWOrc.labelFemalePlural>
 
 
 </LanguageData>

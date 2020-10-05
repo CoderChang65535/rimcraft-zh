@@ -5,48 +5,48 @@
 
   <WoW_Gnome_Villager.label>侏儒村民</WoW_Gnome_Villager.label>
   <WoW_Gnome_Villager.labelPlural>侏儒村民</WoW_Gnome_Villager.labelPlural>
-  <WoW_Gnome_Villager.labelMale>男性侏儒村民</WoW_Gnome_Villager.labelMale>
-  <WoW_Gnome_Villager.labelMalePlural>男性侏儒村民</WoW_Gnome_Villager.labelMalePlural>
-  <WoW_Gnome_Villager.labelFemale>女性侏儒村民</WoW_Gnome_Villager.labelFemale>
-  <WoW_Gnome_Villager.labelFemalePlural>女性侏儒村民</WoW_Gnome_Villager.labelFemalePlural>
+  <WoW_Gnome_Villager.labelMale>男性 侏儒村民</WoW_Gnome_Villager.labelMale>
+  <WoW_Gnome_Villager.labelMalePlural>男性 侏儒村民</WoW_Gnome_Villager.labelMalePlural>
+  <WoW_Gnome_Villager.labelFemale>女性 侏儒村民</WoW_Gnome_Villager.labelFemale>
+  <WoW_Gnome_Villager.labelFemalePlural>女性 侏儒村民</WoW_Gnome_Villager.labelFemalePlural>
 
   <WoW_Gnome_Trader.label>侏儒交易者</WoW_Gnome_Trader.label>
   <WoW_Gnome_Trader.labelPlural>侏儒交易者</WoW_Gnome_Trader.labelPlural>
-  <WoW_Gnome_Trader.labelMale>男性侏儒交易者</WoW_Gnome_Trader.labelMale>
-  <WoW_Gnome_Trader.labelMalePlural>男性侏儒交易者</WoW_Gnome_Trader.labelMalePlural>
-  <WoW_Gnome_Trader.labelFemale>女性侏儒交易者</WoW_Gnome_Trader.labelFemale>
-  <WoW_Gnome_Trader.labelFemalePlural>女性侏儒交易者</WoW_Gnome_Trader.labelFemalePlural>
+  <WoW_Gnome_Trader.labelMale>男性 侏儒交易者</WoW_Gnome_Trader.labelMale>
+  <WoW_Gnome_Trader.labelMalePlural>男性 侏儒交易者</WoW_Gnome_Trader.labelMalePlural>
+  <WoW_Gnome_Trader.labelFemale>女性 侏儒交易者</WoW_Gnome_Trader.labelFemale>
+  <WoW_Gnome_Trader.labelFemalePlural>女性 侏儒交易者</WoW_Gnome_Trader.labelFemalePlural>
 
   <WoW_Gnome_Slave.label>侏儒奴隶</WoW_Gnome_Slave.label>
   <WoW_Gnome_Slave.labelPlural>侏儒奴隶</WoW_Gnome_Slave.labelPlural>
-  <WoW_Gnome_Slave.labelMale>男性侏儒奴隶</WoW_Gnome_Slave.labelMale>
-  <WoW_Gnome_Slave.labelMalePlural>男性侏儒奴隶</WoW_Gnome_Slave.labelMalePlural>
-  <WoW_Gnome_Slave.labelFemale>女性侏儒奴隶</WoW_Gnome_Slave.labelFemale>
-  <WoW_Gnome_Slave.labelFemalePlural>女性侏儒奴隶</WoW_Gnome_Slave.labelFemalePlural>
+  <WoW_Gnome_Slave.labelMale>男性 侏儒奴隶</WoW_Gnome_Slave.labelMale>
+  <WoW_Gnome_Slave.labelMalePlural>男性 侏儒奴隶</WoW_Gnome_Slave.labelMalePlural>
+  <WoW_Gnome_Slave.labelFemale>女性 侏儒奴隶</WoW_Gnome_Slave.labelFemale>
+  <WoW_Gnome_Slave.labelFemalePlural>女性 侏儒奴隶</WoW_Gnome_Slave.labelFemalePlural>
 
 
   <!-- Gnome Military -->
 
   <WoW_Gnome_Engineer.label>侏儒工程师</WoW_Gnome_Engineer.label>
   <WoW_Gnome_Engineer.labelPlural>侏儒工程师</WoW_Gnome_Engineer.labelPlural>
-  <WoW_Gnome_Engineer.labelMale>男性侏儒工程师</WoW_Gnome_Engineer.labelMale>
-  <WoW_Gnome_Engineer.labelMalePlural>男性侏儒工程师</WoW_Gnome_Engineer.labelMalePlural>
-  <WoW_Gnome_Engineer.labelFemale>女性侏儒工程师</WoW_Gnome_Engineer.labelFemale>
-  <WoW_Gnome_Engineer.labelFemalePlural>女性侏儒工程师</WoW_Gnome_Engineer.labelFemalePlural>
+  <WoW_Gnome_Engineer.labelMale>男性 侏儒工程师</WoW_Gnome_Engineer.labelMale>
+  <WoW_Gnome_Engineer.labelMalePlural>男性 侏儒工程师</WoW_Gnome_Engineer.labelMalePlural>
+  <WoW_Gnome_Engineer.labelFemale>女性 侏儒工程师</WoW_Gnome_Engineer.labelFemale>
+  <WoW_Gnome_Engineer.labelFemalePlural>女性 侏儒工程师</WoW_Gnome_Engineer.labelFemalePlural>
 
   <WoW_Gnome_Tinker.label>侏儒修补匠</WoW_Gnome_Tinker.label>
   <WoW_Gnome_Tinker.labelPlural>侏儒修补匠</WoW_Gnome_Tinker.labelPlural>
-  <WoW_Gnome_Tinker.labelMale>男性侏儒修补匠</WoW_Gnome_Tinker.labelMale>
-  <WoW_Gnome_Tinker.labelMalePlural>男性侏儒修补匠</WoW_Gnome_Tinker.labelMalePlural>
-  <WoW_Gnome_Tinker.labelFemale>女性侏儒修补匠</WoW_Gnome_Tinker.labelFemale>
-  <WoW_Gnome_Tinker.labelFemalePlural>女性侏儒修补匠</WoW_Gnome_Tinker.labelFemalePlural>
+  <WoW_Gnome_Tinker.labelMale>男性 侏儒修补匠</WoW_Gnome_Tinker.labelMale>
+  <WoW_Gnome_Tinker.labelMalePlural>男性 侏儒修补匠</WoW_Gnome_Tinker.labelMalePlural>
+  <WoW_Gnome_Tinker.labelFemale>女性 侏儒修补匠</WoW_Gnome_Tinker.labelFemale>
+  <WoW_Gnome_Tinker.labelFemalePlural>女性 侏儒修补匠</WoW_Gnome_Tinker.labelFemalePlural>
 
   <WoW_Gnome_Mekgineer.label>侏儒机械师</WoW_Gnome_Mekgineer.label>
   <WoW_Gnome_Mekgineer.labelPlural>侏儒机械师</WoW_Gnome_Mekgineer.labelPlural>
-  <WoW_Gnome_Mekgineer.labelMale>男性侏儒机械师</WoW_Gnome_Mekgineer.labelMale>
-  <WoW_Gnome_Mekgineer.labelMalePlural>男性侏儒机械师</WoW_Gnome_Mekgineer.labelMalePlural>
-  <WoW_Gnome_Mekgineer.labelFemale>女性侏儒机械师</WoW_Gnome_Mekgineer.labelFemale>
-  <WoW_Gnome_Mekgineer.labelFemalePlural>女性侏儒机械师</WoW_Gnome_Mekgineer.labelFemalePlural>
+  <WoW_Gnome_Mekgineer.labelMale>男性 侏儒机械师</WoW_Gnome_Mekgineer.labelMale>
+  <WoW_Gnome_Mekgineer.labelMalePlural>男性 侏儒机械师</WoW_Gnome_Mekgineer.labelMalePlural>
+  <WoW_Gnome_Mekgineer.labelFemale>女性 侏儒机械师</WoW_Gnome_Mekgineer.labelFemale>
+  <WoW_Gnome_Mekgineer.labelFemalePlural>女性 侏儒机械师</WoW_Gnome_Mekgineer.labelFemalePlural>
 
 
 </LanguageData>

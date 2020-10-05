@@ -5,55 +5,55 @@
 
   <WoW_Dwarf_Citizen.label>矮人居民</WoW_Dwarf_Citizen.label>
   <WoW_Dwarf_Citizen.labelPlural>矮人居民</WoW_Dwarf_Citizen.labelPlural>
-  <WoW_Dwarf_Citizen.labelMale>男性矮人居民</WoW_Dwarf_Citizen.labelMale>
-  <WoW_Dwarf_Citizen.labelMalePlural>男性矮人居民</WoW_Dwarf_Citizen.labelMalePlural>
-  <WoW_Dwarf_Citizen.labelFemale>女性矮人居民</WoW_Dwarf_Citizen.labelFemale>
-  <WoW_Dwarf_Citizen.labelFemalePlural>女性矮人居民</WoW_Dwarf_Citizen.labelFemalePlural>
+  <WoW_Dwarf_Citizen.labelMale>男性 矮人居民</WoW_Dwarf_Citizen.labelMale>
+  <WoW_Dwarf_Citizen.labelMalePlural>男性 矮人居民</WoW_Dwarf_Citizen.labelMalePlural>
+  <WoW_Dwarf_Citizen.labelFemale>女性 矮人居民</WoW_Dwarf_Citizen.labelFemale>
+  <WoW_Dwarf_Citizen.labelFemalePlural>女性 矮人居民</WoW_Dwarf_Citizen.labelFemalePlural>
 
   <WoW_Dwarf_Trader.label>矮人交易者</WoW_Dwarf_Trader.label>
   <WoW_Dwarf_Trader.labelPlural>矮人交易者</WoW_Dwarf_Trader.labelPlural>
-  <WoW_Dwarf_Trader.labelMale>男性矮人交易者</WoW_Dwarf_Trader.labelMale>
-  <WoW_Dwarf_Trader.labelMalePlural>男性矮人交易者</WoW_Dwarf_Trader.labelMalePlural>
-  <WoW_Dwarf_Trader.labelFemale>女性矮人交易者</WoW_Dwarf_Trader.labelFemale>
-  <WoW_Dwarf_Trader.labelFemalePlural>女性矮人交易者</WoW_Dwarf_Trader.labelFemalePlural>
+  <WoW_Dwarf_Trader.labelMale>男性 矮人交易者</WoW_Dwarf_Trader.labelMale>
+  <WoW_Dwarf_Trader.labelMalePlural>男性 矮人交易者</WoW_Dwarf_Trader.labelMalePlural>
+  <WoW_Dwarf_Trader.labelFemale>女性 矮人交易者</WoW_Dwarf_Trader.labelFemale>
+  <WoW_Dwarf_Trader.labelFemalePlural>女性 矮人交易者</WoW_Dwarf_Trader.labelFemalePlural>
 
   <WoW_Dwarf_Slave.label>矮人奴隶</WoW_Dwarf_Slave.label>
   <WoW_Dwarf_Slave.labelPlural>矮人奴隶</WoW_Dwarf_Slave.labelPlural>
-  <WoW_Dwarf_Slave.labelMale>男性矮人奴隶</WoW_Dwarf_Slave.labelMale>
-  <WoW_Dwarf_Slave.labelMalePlural>男性矮人奴隶</WoW_Dwarf_Slave.labelMalePlural>
-  <WoW_Dwarf_Slave.labelFemale>女性矮人奴隶</WoW_Dwarf_Slave.labelFemale>
-  <WoW_Dwarf_Slave.labelFemalePlural>女性矮人奴隶</WoW_Dwarf_Slave.labelFemalePlural>
+  <WoW_Dwarf_Slave.labelMale>男性 矮人奴隶</WoW_Dwarf_Slave.labelMale>
+  <WoW_Dwarf_Slave.labelMalePlural>男性 矮人奴隶</WoW_Dwarf_Slave.labelMalePlural>
+  <WoW_Dwarf_Slave.labelFemale>女性 矮人奴隶</WoW_Dwarf_Slave.labelFemale>
+  <WoW_Dwarf_Slave.labelFemalePlural>女性 矮人奴隶</WoW_Dwarf_Slave.labelFemalePlural>
 
 
   <!-- WoWDwarf Military -->
 
   <WoW_Dwarf_Guard.label>矮人守卫</WoW_Dwarf_Guard.label>
   <WoW_Dwarf_Guard.labelPlural>矮人守卫</WoW_Dwarf_Guard.labelPlural>
-  <WoW_Dwarf_Guard.labelMale>男性矮人守卫</WoW_Dwarf_Guard.labelMale>
-  <WoW_Dwarf_Guard.labelMalePlural>男性矮人守卫</WoW_Dwarf_Guard.labelMalePlural>
-  <WoW_Dwarf_Guard.labelFemale>女性矮人守卫</WoW_Dwarf_Guard.labelFemale>
-  <WoW_Dwarf_Guard.labelFemalePlural>女性矮人守卫</WoW_Dwarf_Guard.labelFemalePlural>
+  <WoW_Dwarf_Guard.labelMale>男性 矮人守卫</WoW_Dwarf_Guard.labelMale>
+  <WoW_Dwarf_Guard.labelMalePlural>男性 矮人守卫</WoW_Dwarf_Guard.labelMalePlural>
+  <WoW_Dwarf_Guard.labelFemale>女性 矮人守卫</WoW_Dwarf_Guard.labelFemale>
+  <WoW_Dwarf_Guard.labelFemalePlural>女性 矮人守卫</WoW_Dwarf_Guard.labelFemalePlural>
 
   <WoW_Dwarf_Mountaineer.label>矮人巡山人</WoW_Dwarf_Mountaineer.label>
   <WoW_Dwarf_Mountaineer.labelPlural>矮人巡山人</WoW_Dwarf_Mountaineer.labelPlural>
-  <WoW_Dwarf_Mountaineer.labelMale>男性矮人巡山人</WoW_Dwarf_Mountaineer.labelMale>
-  <WoW_Dwarf_Mountaineer.labelMalePlural>男性矮人巡山人</WoW_Dwarf_Mountaineer.labelMalePlural>
-  <WoW_Dwarf_Mountaineer.labelFemale>女性矮人巡山人</WoW_Dwarf_Mountaineer.labelFemale>
-  <WoW_Dwarf_Mountaineer.labelFemalePlural>女性矮人巡山人</WoW_Dwarf_Mountaineer.labelFemalePlural>
+  <WoW_Dwarf_Mountaineer.labelMale>男性 矮人巡山人</WoW_Dwarf_Mountaineer.labelMale>
+  <WoW_Dwarf_Mountaineer.labelMalePlural>男性 矮人巡山人</WoW_Dwarf_Mountaineer.labelMalePlural>
+  <WoW_Dwarf_Mountaineer.labelFemale>女性 矮人巡山人</WoW_Dwarf_Mountaineer.labelFemale>
+  <WoW_Dwarf_Mountaineer.labelFemalePlural>女性 矮人巡山人</WoW_Dwarf_Mountaineer.labelFemalePlural>
 
   <WoW_Dwarf_Officer.label>矮人官员</WoW_Dwarf_Officer.label>
   <WoW_Dwarf_Officer.labelPlural>矮人官员</WoW_Dwarf_Officer.labelPlural>
-  <WoW_Dwarf_Officer.labelMale>男性矮人官员</WoW_Dwarf_Officer.labelMale>
-  <WoW_Dwarf_Officer.labelMalePlural>男性矮人官员</WoW_Dwarf_Officer.labelMalePlural>
-  <WoW_Dwarf_Officer.labelFemale>女性矮人官员</WoW_Dwarf_Officer.labelFemale>
-  <WoW_Dwarf_Officer.labelFemalePlural>女性矮人官员</WoW_Dwarf_Officer.labelFemalePlural>
+  <WoW_Dwarf_Officer.labelMale>男性 矮人官员</WoW_Dwarf_Officer.labelMale>
+  <WoW_Dwarf_Officer.labelMalePlural>男性 矮人官员</WoW_Dwarf_Officer.labelMalePlural>
+  <WoW_Dwarf_Officer.labelFemale>女性 矮人官员</WoW_Dwarf_Officer.labelFemale>
+  <WoW_Dwarf_Officer.labelFemalePlural>女性 矮人官员</WoW_Dwarf_Officer.labelFemalePlural>
 
-  <WoW_Dwarf_MountainLord.label>矮人 mountain lord</WoW_Dwarf_MountainLord.label>
+  <WoW_Dwarf_MountainLord.label>矮人山脉领主</WoW_Dwarf_MountainLord.label>
   <WoW_Dwarf_MountainLord.labelPlural>矮人山脉领主</WoW_Dwarf_MountainLord.labelPlural>
-  <WoW_Dwarf_MountainLord.labelMale>男性矮人 mountain lord</WoW_Dwarf_MountainLord.labelMale>
-  <WoW_Dwarf_MountainLord.labelMalePlural>男性矮人山脉领主</WoW_Dwarf_MountainLord.labelMalePlural>
-  <WoW_Dwarf_MountainLord.labelFemale>女性矮人 mountain lord</WoW_Dwarf_MountainLord.labelFemale>
-  <WoW_Dwarf_MountainLord.labelFemalePlural>女性矮人山脉领主</WoW_Dwarf_MountainLord.labelFemalePlural>
+  <WoW_Dwarf_MountainLord.labelMale>男性 矮人山脉领主</WoW_Dwarf_MountainLord.labelMale>
+  <WoW_Dwarf_MountainLord.labelMalePlural>男性 矮人山脉领主</WoW_Dwarf_MountainLord.labelMalePlural>
+  <WoW_Dwarf_MountainLord.labelFemale>女性 矮人山脉领主</WoW_Dwarf_MountainLord.labelFemale>
+  <WoW_Dwarf_MountainLord.labelFemalePlural>女性 矮人山脉领主</WoW_Dwarf_MountainLord.labelFemalePlural>
 
 
 </LanguageData>
