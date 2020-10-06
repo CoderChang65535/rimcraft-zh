@@ -4,6 +4,7 @@
   <!-- Unicorn Def -->
 
   <WoW_Animal_Unicorn.label>独角兽</WoW_Animal_Unicorn.label>
+  <WoW_Animal_Unicorn.race.meatLabel>独角兽肉</WoW_Animal_Unicorn.race.meatLabel>
   <WoW_Animal_Unicorn.description>独角兽是生活在艾泽拉斯的马样生物，与马不同，独角兽的头上长着角。 奎尔多雷马是曾经在永恒之井的海岸附近放牧的马种的后代</WoW_Animal_Unicorn.description>
   <WoW_Animal_Unicorn.tools.1.label>角</WoW_Animal_Unicorn.tools.1.label>
   <WoW_Animal_Unicorn.tools.2.label>左蹄</WoW_Animal_Unicorn.tools.2.label>

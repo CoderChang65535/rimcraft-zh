@@ -4,6 +4,7 @@
   <!-- Nightsaber Def -->
 
   <WoW_Animal_Nightsaber.label>夜刃豹</WoW_Animal_Nightsaber.label>
+  <WoW_Animal_Nightsaber.race.meatLabel>夜刃豹肉</WoW_Animal_Nightsaber.race.meatLabel>
   <WoW_Animal_Nightsaber.description>Nightsabers are large saber cats found in Kalimdor, commonly used as mounts by the night elves. Elune made them silver and black so they could meld into the shadows on a moonlit night. Considered one of Azeroth's perfect predators, these agile beasts can sprint through dense forests without making a sound. Before they were domesticated by the Sentinel Army and trained as mounts, Kalimdor's savage nightsaber panthers were considered to be among the continent's most vicious inhabitants. While many of these grand predatory beasts still prowl the dusky shores and forests of the night elves' homeland, the finest pedigrees of the species, recognized by their superior swiftness and agility, now serve a more practical purpose for those skilled enough to ride them.</WoW_Animal_Nightsaber.description>
   <WoW_Animal_Nightsaber.tools.0.label>左爪</WoW_Animal_Nightsaber.tools.0.label>
   <WoW_Animal_Nightsaber.tools.1.label>右爪</WoW_Animal_Nightsaber.tools.1.label>

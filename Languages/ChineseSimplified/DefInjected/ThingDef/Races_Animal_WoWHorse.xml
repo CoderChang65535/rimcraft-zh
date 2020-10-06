@@ -4,6 +4,7 @@
   <!-- Horse Def -->
 
   <WoW_Animal_Horse.label>吉尔尼安山马</WoW_Animal_Horse.label>
+  <WoW_Animal_Horse.race.meatLabel>吉尔尼安山马肉</WoW_Animal_Horse.race.meatLabel>
   <WoW_Animal_Horse.description>一种艾泽拉斯世界的马种。自第一次战争爆发以来，这些可信赖的骏马便和它们的人类主人并肩战斗。这些坐骑以敏捷和活泼著称，适合英勇骑手驾驭。</WoW_Animal_Horse.description>
   <WoW_Animal_Horse.tools.1.label>头</WoW_Animal_Horse.tools.1.label>
   <WoW_Animal_Horse.tools.2.label>左蹄</WoW_Animal_Horse.tools.2.label>

@@ -4,6 +4,7 @@
   <!-- DireWolf Def -->
 
   <WoW_Animal_Direwolf.label>恐狼</WoW_Animal_Direwolf.label>
+  <WoW_Animal_Direwolf.race.meatLabel>恐狼肉</WoW_Animal_Direwolf.race.meatLabel>
   <WoW_Animal_Direwolf.description>Dire wolves look like normal wolves, but these creatures are nearly twice the size. These powerful beasts, 8-9 feet long and weighing 600-800 pounds, are the most well-known orc mounts. As tall as a man, these great wolves have long tusked jaws that look like they could snap an iron bar. Untamed dire wolves hunt and fight much like their smaller brethren. Any substantial opposition will cause a pack to break off, looking for easier prey. Trained dire wolves will attempt to bite at vulnerable tendons in the legs or try to pierce the necks of opposing mounts.</WoW_Animal_Direwolf.description>
   <WoW_Animal_Direwolf.tools.0.label>左爪</WoW_Animal_Direwolf.tools.0.label>
   <WoW_Animal_Direwolf.tools.1.label>右爪</WoW_Animal_Direwolf.tools.1.label>
