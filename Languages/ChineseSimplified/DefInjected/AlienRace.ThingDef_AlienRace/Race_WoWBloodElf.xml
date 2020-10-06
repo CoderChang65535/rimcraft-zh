@@ -9,8 +9,8 @@
   <WoW_BloodElf.tools.1.label>右拳</WoW_BloodElf.tools.1.label>
   <WoW_BloodElf.tools.2.label>牙齿</WoW_BloodElf.tools.2.label>
   <WoW_BloodElf.tools.3.label>头</WoW_BloodElf.tools.3.label>
-  <WoW_BloodElf.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>skin</WoW_BloodElf.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>
-  <WoW_BloodElf.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>hair</WoW_BloodElf.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>
+  <WoW_BloodElf.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>皮肤</WoW_BloodElf.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>
+  <WoW_BloodElf.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>头发</WoW_BloodElf.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>
 
 
 </LanguageData>

@@ -5,8 +5,8 @@
 
   <WoW_HighMountainTauren.label>高岭牛头人</WoW_HighMountainTauren.label>
   <WoW_HighMountainTauren.description>高岭牛头人是在破碎群岛至高岭地区发现的牛头人的分支，分为四个部族（至高岭，河鬃，天角和鲜血图腾）。他们是上古之战时期协助暗夜精灵抵抗燃烧军团的牛头人胡恩·高岭的部族的直接后裔。 高岭牛头人与他们位于卡利姆多的表兄弟非常相似，主要区别是它们突出的角，雄性拥有比雌性更大的角。高岭牛头人在自己的角上雕刻并进行装饰，以显示他们属于的部族，甚至表明他们在其中的地位。</WoW_HighMountainTauren.description>
-  <WoW_HighMountainTauren.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>skin</WoW_HighMountainTauren.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>
-  <WoW_HighMountainTauren.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>hair</WoW_HighMountainTauren.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>
+  <WoW_HighMountainTauren.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>皮肤</WoW_HighMountainTauren.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>
+  <WoW_HighMountainTauren.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>头发</WoW_HighMountainTauren.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>
 
 
 </LanguageData>

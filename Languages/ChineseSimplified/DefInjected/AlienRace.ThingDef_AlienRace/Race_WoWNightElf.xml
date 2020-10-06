@@ -5,8 +5,8 @@
 
   <WoW_NightElf.label>暗夜精灵</WoW_NightElf.label>
   <WoW_NightElf.description>卡多雷，暗夜精灵是一个强大而神秘的种族，其起源可以追溯到远古。这些在当时不朽的生物是最早研究奥术的种族之一，并在一万年前的上古之战后使得奥术在全世界传播。暗夜精灵的深远影响和古老的遗产使他们成为一个自给自足且具有自我意识的族群，他们经常表现出强烈的孤立主义色彩。</WoW_NightElf.description>
-  <WoW_NightElf.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>skin</WoW_NightElf.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>
-  <WoW_NightElf.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>hair</WoW_NightElf.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>
+  <WoW_NightElf.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>皮肤</WoW_NightElf.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>
+  <WoW_NightElf.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>头发</WoW_NightElf.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>
   <WoW_NightElf.tools.0.label>左拳</WoW_NightElf.tools.0.label>
   <WoW_NightElf.tools.1.label>右拳</WoW_NightElf.tools.1.label>
   <WoW_NightElf.tools.2.label>牙齿</WoW_NightElf.tools.2.label>

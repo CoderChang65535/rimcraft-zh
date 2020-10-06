@@ -5,8 +5,8 @@
 
   <WoW_LightforgedDraenei.label>光铸德莱尼</WoW_LightforgedDraenei.label>
   <WoW_LightforgedDraenei.description>光铸德莱尼特是圣光联军和联盟的一部分德莱尼。千百年来，圣光联军在扭曲虚空对抗燃烧军团，久经沙场的德莱尼人将经历一场仪式，将圣光的精髓注入他们的身体。在阿古斯的战争结束之后，光铸德莱尼人承担了一项新任务：保护艾泽拉斯，并帮助他们的同盟抵抗部落的侵略。他们向国王安度因·乌瑞恩和联盟宣誓效忠。</WoW_LightforgedDraenei.description>
-  <WoW_LightforgedDraenei.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>skin</WoW_LightforgedDraenei.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>
-  <WoW_LightforgedDraenei.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>hair</WoW_LightforgedDraenei.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>
+  <WoW_LightforgedDraenei.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>皮肤</WoW_LightforgedDraenei.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>
+  <WoW_LightforgedDraenei.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>头发</WoW_LightforgedDraenei.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>
 
 
 </LanguageData>

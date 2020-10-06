@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <WoW_Animal_Mastiff.label>Gilnean Mastiff</WoW_Animal_Mastiff.label>
-  <WoW_Animal_Mastiff.description>Mastiffs are a breed of dogs found primarily in Lordaeron. They appear to be common pets and companions of human societies, including vrykul. While mostly found domesticated, wild mastiffs can also be found in Gilneas.</WoW_Animal_Mastiff.description>
-  <WoW_Animal_Mastiff.tools.0.label>left claw</WoW_Animal_Mastiff.tools.0.label>
-  <WoW_Animal_Mastiff.tools.1.label>right claw</WoW_Animal_Mastiff.tools.1.label>
-  <WoW_Animal_Mastiff.tools.3.label>head</WoW_Animal_Mastiff.tools.3.label>
+  <WoW_Animal_Mastiff.label>吉尔尼安猎犬</WoW_Animal_Mastiff.label>
+  <WoW_Animal_Mastiff.description>吉尔尼安猎犬是一种在洛丹伦发现的犬种。它们是包括维库人在内的人类社会中常见的宠物和伙伴。虽然大部分被驯化，但在吉尔尼斯也可以找到野生的个体。</WoW_Animal_Mastiff.description>
+  <WoW_Animal_Mastiff.tools.0.label>左爪</WoW_Animal_Mastiff.tools.0.label>
+  <WoW_Animal_Mastiff.tools.1.label>右爪</WoW_Animal_Mastiff.tools.1.label>
+  <WoW_Animal_Mastiff.tools.3.label>头</WoW_Animal_Mastiff.tools.3.label>
 
 
 </LanguageData>

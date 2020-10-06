@@ -5,8 +5,8 @@
 
   <WoW_Goblin.label>地精</WoW_Goblin.label>
   <WoW_Goblin.description>地精和侏儒一样擅长工程学，也是最出色的商人，几乎在任何地方你都可以找到他们寻找商机的身影。（原作者好像放了一段德莱尼的描述在这里）</WoW_Goblin.description>
-  <WoW_Goblin.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>skin</WoW_Goblin.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>
-  <WoW_Goblin.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>hair</WoW_Goblin.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>
+  <WoW_Goblin.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>皮肤</WoW_Goblin.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>
+  <WoW_Goblin.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>头发</WoW_Goblin.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>
   <WoW_Goblin.tools.0.label>左拳</WoW_Goblin.tools.0.label>
   <WoW_Goblin.tools.1.label>右拳</WoW_Goblin.tools.1.label>
   <WoW_Goblin.tools.2.label>牙齿</WoW_Goblin.tools.2.label>

@@ -5,8 +5,8 @@
 
   <WoW_Pandaren.label>熊猫人</WoW_Pandaren.label>
   <WoW_Pandaren.description>神秘的熊猫人是艾泽拉斯最神出鬼没的种族之一。 他们来自潘达利亚和迷踪岛，热爱大自然的和美酒的熊猫状人形生物。一句话概括熊猫人的文化就是他们活在当下。他们热情地拥抱生活、充满活力、专心致志。 美食对于他们意义非凡，他们也珍惜与家人在一起时光。他们全力以赴应对每一件事、每一个作品，喜欢睡觉。熊猫人努力工作玩乐，运用模仿动物的形意拳，喜欢讲精彩的故事，认真饮酒认真睡觉。</WoW_Pandaren.description>
-  <WoW_Pandaren.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>skin</WoW_Pandaren.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>
-  <WoW_Pandaren.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>hair</WoW_Pandaren.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>
+  <WoW_Pandaren.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>皮肤</WoW_Pandaren.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>
+  <WoW_Pandaren.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>头发</WoW_Pandaren.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>
   <WoW_Pandaren.tools.0.label>左拳</WoW_Pandaren.tools.0.label>
   <WoW_Pandaren.tools.1.label>右拳</WoW_Pandaren.tools.1.label>
   <WoW_Pandaren.tools.2.label>牙齿</WoW_Pandaren.tools.2.label>
