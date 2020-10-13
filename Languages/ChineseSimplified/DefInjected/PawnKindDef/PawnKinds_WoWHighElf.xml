@@ -5,69 +5,62 @@
 
   <WoW_HighElf_Villager.label>高等精灵村民</WoW_HighElf_Villager.label>
   <WoW_HighElf_Villager.labelPlural>高等精灵村民</WoW_HighElf_Villager.labelPlural>
-  <WoW_HighElf_Villager.labelMale>男性高等精灵村民</WoW_HighElf_Villager.labelMale>
-  <WoW_HighElf_Villager.labelMalePlural>男性高等精灵村民</WoW_HighElf_Villager.labelMalePlural>
-  <WoW_HighElf_Villager.labelFemale>女性高等精灵村民</WoW_HighElf_Villager.labelFemale>
-  <WoW_HighElf_Villager.labelFemalePlural>女性高等精灵村民</WoW_HighElf_Villager.labelFemalePlural>
+  <WoW_HighElf_Villager.labelMale>男性 高等精灵村民</WoW_HighElf_Villager.labelMale>
+  <WoW_HighElf_Villager.labelMalePlural>男性 高等精灵村民</WoW_HighElf_Villager.labelMalePlural>
+  <WoW_HighElf_Villager.labelFemale>女性 高等精灵村民</WoW_HighElf_Villager.labelFemale>
+  <WoW_HighElf_Villager.labelFemalePlural>女性 高等精灵村民</WoW_HighElf_Villager.labelFemalePlural>
 
   <WoW_HighElf_Trader.label>高等精灵交易者</WoW_HighElf_Trader.label>
   <WoW_HighElf_Trader.labelPlural>高等精灵交易者</WoW_HighElf_Trader.labelPlural>
-  <WoW_HighElf_Trader.labelMale>男性高等精灵交易者</WoW_HighElf_Trader.labelMale>
-  <WoW_HighElf_Trader.labelMalePlural>男性高等精灵交易者</WoW_HighElf_Trader.labelMalePlural>
-  <WoW_HighElf_Trader.labelFemale>女性高等精灵交易者</WoW_HighElf_Trader.labelFemale>
-  <WoW_HighElf_Trader.labelFemalePlural>女性高等精灵交易者</WoW_HighElf_Trader.labelFemalePlural>
+  <WoW_HighElf_Trader.labelMale>男性 高等精灵交易者</WoW_HighElf_Trader.labelMale>
+  <WoW_HighElf_Trader.labelMalePlural>男性 高等精灵交易者</WoW_HighElf_Trader.labelMalePlural>
+  <WoW_HighElf_Trader.labelFemale>女性 高等精灵交易者</WoW_HighElf_Trader.labelFemale>
+  <WoW_HighElf_Trader.labelFemalePlural>女性 高等精灵交易者</WoW_HighElf_Trader.labelFemalePlural>
 
   <WoW_HighElf_Slave.label>高等精灵奴隶</WoW_HighElf_Slave.label>
   <WoW_HighElf_Slave.labelPlural>高等精灵奴隶</WoW_HighElf_Slave.labelPlural>
-  <WoW_HighElf_Slave.labelMale>男性高等精灵奴隶</WoW_HighElf_Slave.labelMale>
-  <WoW_HighElf_Slave.labelMalePlural>男性高等精灵奴隶</WoW_HighElf_Slave.labelMalePlural>
-  <WoW_HighElf_Slave.labelFemale>女性高等精灵奴隶</WoW_HighElf_Slave.labelFemale>
-  <WoW_HighElf_Slave.labelFemalePlural>女性高等精灵奴隶</WoW_HighElf_Slave.labelFemalePlural>
+  <WoW_HighElf_Slave.labelMale>男性 高等精灵奴隶</WoW_HighElf_Slave.labelMale>
+  <WoW_HighElf_Slave.labelMalePlural>男性 高等精灵奴隶</WoW_HighElf_Slave.labelMalePlural>
+  <WoW_HighElf_Slave.labelFemale>女性 高等精灵奴隶</WoW_HighElf_Slave.labelFemale>
+  <WoW_HighElf_Slave.labelFemalePlural>女性 高等精灵奴隶</WoW_HighElf_Slave.labelFemalePlural>
 
 
   <!-- High Elf Military -->
 
-  <WoW_HighElf_Guard.label>高等精灵守卫</WoW_HighElf_Guard.label>
-  <WoW_HighElf_Guard.labelPlural>高等精灵守卫</WoW_HighElf_Guard.labelPlural>
-  <WoW_HighElf_Guard.labelMale>男性高等精灵守卫</WoW_HighElf_Guard.labelMale>
-  <WoW_HighElf_Guard.labelMalePlural>男性高等精灵守卫</WoW_HighElf_Guard.labelMalePlural>
-  <WoW_HighElf_Guard.labelFemale>女性高等精灵守卫</WoW_HighElf_Guard.labelFemale>
-  <WoW_HighElf_Guard.labelFemalePlural>女性高等精灵守卫</WoW_HighElf_Guard.labelFemalePlural>
-
-  <HighElfScout.label>高等精灵斥候</HighElfScout.label>
-  <HighElfScout.labelPlural>高等精灵斥候</HighElfScout.labelPlural>
-  <HighElfScout.labelMale>男性高等精灵斥候</HighElfScout.labelMale>
-  <HighElfScout.labelMalePlural>男性高等精灵斥候</HighElfScout.labelMalePlural>
-  <HighElfScout.labelFemale>女性高等精灵斥候</HighElfScout.labelFemale>
-  <HighElfScout.labelFemalePlural>女性高等精灵斥候</HighElfScout.labelFemalePlural>
+  <WoW_HighElf_Scout.label>高等精灵斥候</WoW_HighElf_Scout.label>
+  <WoW_HighElf_Scout.labelPlural>高等精灵斥候</WoW_HighElf_Scout.labelPlural>
+  <WoW_HighElf_Scout.labelMale>男性 高等精灵斥候</WoW_HighElf_Scout.labelMale>
+  <WoW_HighElf_Scout.labelMalePlural>男性 高等精灵斥候</WoW_HighElf_Scout.labelMalePlural>
+  <WoW_HighElf_Scout.labelFemale>女性 高等精灵斥候</WoW_HighElf_Scout.labelFemale>
+  <WoW_HighElf_Scout.labelFemalePlural>女性 高等精灵斥候</WoW_HighElf_Scout.labelFemalePlural>
 
   <WoW_HighElf_Ranger.label>高等精灵游侠</WoW_HighElf_Ranger.label>
   <WoW_HighElf_Ranger.labelPlural>高等精灵游侠</WoW_HighElf_Ranger.labelPlural>
-  <WoW_HighElf_Ranger.labelMale>男性高等精灵游侠</WoW_HighElf_Ranger.labelMale>
-  <WoW_HighElf_Ranger.labelMalePlural>男性高等精灵游侠</WoW_HighElf_Ranger.labelMalePlural>
-  <WoW_HighElf_Ranger.labelFemale>女性高等精灵游侠</WoW_HighElf_Ranger.labelFemale>
-  <WoW_HighElf_Ranger.labelFemalePlural>女性高等精灵游侠</WoW_HighElf_Ranger.labelFemalePlural>
+  <WoW_HighElf_Ranger.labelMale>男性 高等精灵游侠</WoW_HighElf_Ranger.labelMale>
+  <WoW_HighElf_Ranger.labelMalePlural>男性 高等精灵游侠</WoW_HighElf_Ranger.labelMalePlural>
+  <WoW_HighElf_Ranger.labelFemale>女性 高等精灵游侠</WoW_HighElf_Ranger.labelFemale>
+  <WoW_HighElf_Ranger.labelFemalePlural>女性 高等精灵游侠</WoW_HighElf_Ranger.labelFemalePlural>
 
   <WoW_HighElf_Swordsman.label>高等精灵剑士</WoW_HighElf_Swordsman.label>
   <WoW_HighElf_Swordsman.labelPlural>高等精灵剑士</WoW_HighElf_Swordsman.labelPlural>
-  <WoW_HighElf_Swordsman.labelMale>男性高等精灵剑士</WoW_HighElf_Swordsman.labelMale>
-  <WoW_HighElf_Swordsman.labelMalePlural>男性高等精灵剑士</WoW_HighElf_Swordsman.labelMalePlural>
-  <WoW_HighElf_Swordsman.labelFemale>女性高等精灵剑士</WoW_HighElf_Swordsman.labelFemale>
-  <WoW_HighElf_Swordsman.labelFemalePlural>女性高等精灵剑士</WoW_HighElf_Swordsman.labelFemalePlural>
+  <WoW_HighElf_Swordsman.labelMale>男性 高等精灵剑士</WoW_HighElf_Swordsman.labelMale>
+  <WoW_HighElf_Swordsman.labelMalePlural>男性 高等精灵剑士</WoW_HighElf_Swordsman.labelMalePlural>
+  <WoW_HighElf_Swordsman.labelFemale>女性 高等精灵剑士</WoW_HighElf_Swordsman.labelFemale>
+  <WoW_HighElf_Swordsman.labelFemalePlural>女性 高等精灵剑士</WoW_HighElf_Swordsman.labelFemalePlural>
 
   <WoW_HighElf_SpellBreaker.label>高等精灵破法者</WoW_HighElf_SpellBreaker.label>
   <WoW_HighElf_SpellBreaker.labelPlural>高等精灵破法者</WoW_HighElf_SpellBreaker.labelPlural>
-  <WoW_HighElf_SpellBreaker.labelMale>男性高等精灵破法者</WoW_HighElf_SpellBreaker.labelMale>
-  <WoW_HighElf_SpellBreaker.labelMalePlural>男性高等精灵破法者</WoW_HighElf_SpellBreaker.labelMalePlural>
-  <WoW_HighElf_SpellBreaker.labelFemale>女性高等精灵破法者</WoW_HighElf_SpellBreaker.labelFemale>
-  <WoW_HighElf_SpellBreaker.labelFemalePlural>女性高等精灵破法者</WoW_HighElf_SpellBreaker.labelFemalePlural>
+  <WoW_HighElf_SpellBreaker.labelMale>男性 高等精灵破法者</WoW_HighElf_SpellBreaker.labelMale>
+  <WoW_HighElf_SpellBreaker.labelMalePlural>男性 高等精灵破法者</WoW_HighElf_SpellBreaker.labelMalePlural>
+  <WoW_HighElf_SpellBreaker.labelFemale>女性 高等精灵破法者</WoW_HighElf_SpellBreaker.labelFemale>
+  <WoW_HighElf_SpellBreaker.labelFemalePlural>女性 高等精灵破法者</WoW_HighElf_SpellBreaker.labelFemalePlural>
 
   <WoW_HighElf_RangerCaptain.label>高等精灵游侠队长</WoW_HighElf_RangerCaptain.label>
   <WoW_HighElf_RangerCaptain.labelPlural>高等精灵游侠队长</WoW_HighElf_RangerCaptain.labelPlural>
-  <WoW_HighElf_RangerCaptain.labelMale>男性高等精灵游侠队长</WoW_HighElf_RangerCaptain.labelMale>
-  <WoW_HighElf_RangerCaptain.labelMalePlural>男性高等精灵游侠队长</WoW_HighElf_RangerCaptain.labelMalePlural>
-  <WoW_HighElf_RangerCaptain.labelFemale>女性高等精灵游侠队长</WoW_HighElf_RangerCaptain.labelFemale>
-  <WoW_HighElf_RangerCaptain.labelFemalePlural>女性高等精灵游侠队长</WoW_HighElf_RangerCaptain.labelFemalePlural>
+  <WoW_HighElf_RangerCaptain.labelMale>男性 高等精灵游侠队长</WoW_HighElf_RangerCaptain.labelMale>
+  <WoW_HighElf_RangerCaptain.labelMalePlural>男性 高等精灵游侠队长</WoW_HighElf_RangerCaptain.labelMalePlural>
+  <WoW_HighElf_RangerCaptain.labelFemale>女性 高等精灵游侠队长</WoW_HighElf_RangerCaptain.labelFemale>
+  <WoW_HighElf_RangerCaptain.labelFemalePlural>女性 高等精灵游侠队长</WoW_HighElf_RangerCaptain.labelFemalePlural>
 
 
 </LanguageData>

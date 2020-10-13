@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Orc Player Pawn -->
+
+  <WoWOrc.label>兽人殖民者</WoWOrc.label>
+  <WoWOrc.labelPlural>兽人殖民者</WoWOrc.labelPlural>
+  <WoWOrc.labelMale>男性 兽人殖民者</WoWOrc.labelMale>
+  <WoWOrc.labelMalePlural>男性 兽人殖民者</WoWOrc.labelMalePlural>
+  <WoWOrc.labelFemale>女性 兽人殖民者</WoWOrc.labelFemale>
+  <WoWOrc.labelFemalePlural>女性 兽人殖民者</WoWOrc.labelFemalePlural>
+
+
+</LanguageData>

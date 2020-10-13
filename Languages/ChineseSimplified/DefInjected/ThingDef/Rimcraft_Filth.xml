@@ -1,10 +1,24 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!-- Draenei -->
+  <!-- Orc -->
 
   <FilthBloodOrc.label>血</FilthBloodOrc.label>
+
+
+  <!-- Draenei -->
+
   <FilthBloodDraenei.label>血</FilthBloodDraenei.label>
+
+
+  <!-- Forsaken -->
+
+  <FilthBloodForsaken.label>被遗忘者血</FilthBloodForsaken.label>
+
+
+  <!-- Scourge -->
+
+  <FilthBloodScourge.label>骨屑</FilthBloodScourge.label>
 
 
 </LanguageData>

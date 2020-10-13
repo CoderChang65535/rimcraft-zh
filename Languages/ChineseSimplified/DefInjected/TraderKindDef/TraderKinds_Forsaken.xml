@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Forsaken Visitor Trader -->
+
+  <Traderkind_Forsaken_Visitor.label>被遗忘者旅行商人</Traderkind_Forsaken_Visitor.label>
+
+
+  <!-- Forsaken Caravan Trader -->
+
+  <Traderkind_Forsaken_Caravan_General.label>被遗忘者普通商人</Traderkind_Forsaken_Caravan_General.label>
+  <Traderkind_Forsaken_Caravan_Armament.label>被遗忘者作战供应商</Traderkind_Forsaken_Caravan_Armament.label>
+  <Traderkind_Forsaken_Caravan_Slaver.label>被遗忘者奴隶商人</Traderkind_Forsaken_Caravan_Slaver.label>
+
+
+</LanguageData>

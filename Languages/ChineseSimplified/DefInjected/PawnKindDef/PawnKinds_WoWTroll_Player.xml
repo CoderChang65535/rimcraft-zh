@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Troll Player Pawn -->
+
+  <WoWTroll.label>巨魔殖民者</WoWTroll.label>
+  <WoWTroll.labelPlural>巨魔殖民者</WoWTroll.labelPlural>
+  <WoWTroll.labelMale>男性 巨魔殖民者</WoWTroll.labelMale>
+  <WoWTroll.labelMalePlural>男性 巨魔殖民者</WoWTroll.labelMalePlural>
+  <WoWTroll.labelFemale>女性 巨魔殖民者</WoWTroll.labelFemale>
+  <WoWTroll.labelFemalePlural>女性 巨魔殖民者</WoWTroll.labelFemalePlural>
+
+
+</LanguageData>

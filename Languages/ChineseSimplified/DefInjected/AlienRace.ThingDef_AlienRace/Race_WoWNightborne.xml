@@ -5,6 +5,8 @@
 
   <WoW_Nightborne.label>夜之子</WoW_Nightborne.label>
   <WoW_Nightborne.description>夜之子，在他们的语言中称作夏多雷，是居住在苏拉玛的强大而神秘的精灵。自一万年前这座城市与世界上的其他地区分离以来，他们就不再是暗夜精灵，而是进化为独立的精灵种族。他们大多数隐居在古城苏拉玛，直到最近一直由大魔导师艾利桑德领导。夜之子的大部分特征源于对暗月井的长期依赖，暗月井是苏拉玛上层居民在远古战争中创造的古老力量之源。夜之子由于暴露在暗月井的能量中而逐渐将其从最初的卡多雷外观转变为目前更基于夜晚的深色形态。</WoW_Nightborne.description>
+  <WoW_Nightborne.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>皮肤</WoW_Nightborne.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>
+  <WoW_Nightborne.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>头发</WoW_Nightborne.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>
 
 
 </LanguageData>

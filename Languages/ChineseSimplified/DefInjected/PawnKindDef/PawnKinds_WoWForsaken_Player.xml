@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Forsaken Player Pawn -->
+
+  <WoWForsaken.label>被遗忘者殖民者</WoWForsaken.label>
+  <WoWForsaken.labelPlural>被遗忘者殖民者</WoWForsaken.labelPlural>
+  <WoWForsaken.labelMale>男性 被遗忘者殖民者</WoWForsaken.labelMale>
+  <WoWForsaken.labelMalePlural>男性 被遗忘者殖民者</WoWForsaken.labelMalePlural>
+  <WoWForsaken.labelFemale>女性 被遗忘者殖民者</WoWForsaken.labelFemale>
+  <WoWForsaken.labelFemalePlural>女性 被遗忘者殖民者</WoWForsaken.labelFemalePlural>
+
+
+</LanguageData>

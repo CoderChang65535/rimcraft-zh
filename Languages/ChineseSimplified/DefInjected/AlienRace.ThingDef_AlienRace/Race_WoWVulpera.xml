@@ -5,6 +5,8 @@
 
   <WoW_Vulpera.label>Vulpera</WoW_Vulpera.label>
   <WoW_Vulpera.description>狐人是居住在赞达拉附近的沃顿沙漠中一个种族。他们聪明机灵，通过在沙漠中捡拾和交易生存。尽管长期以来被蛇人帝国的塞塔里斯人追捕和奴役，但在部落冒险者的帮助下，他们得以反击，做为回报，他们宣布了对部落的忠诚。</WoW_Vulpera.description>
+  <WoW_Vulpera.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>皮肤</WoW_Vulpera.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>
+  <WoW_Vulpera.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>头发</WoW_Vulpera.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>
 
 
 </LanguageData>

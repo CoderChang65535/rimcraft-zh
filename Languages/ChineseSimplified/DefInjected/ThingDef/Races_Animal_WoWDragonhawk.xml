@@ -4,6 +4,7 @@
   <!-- Dragonhawk Def -->
 
   <WoW_Animal_Dragonhawk.label>龙鹰</WoW_Animal_Dragonhawk.label>
+  <WoW_Animal_Dragonhawk.race.meatLabel>龙鹰肉</WoW_Animal_Dragonhawk.race.meatLabel>
   <WoW_Animal_Dragonhawk.description>Dragonhawks are flying creatures native to Quel'Thalas and tamed by the blood elves of Quel'Thalas. They are deft predators that rend their foes with razor-sharp talons. Dragonhawks are among the deadliest known predators. They are able to spot prey from great distances, rush in, and rend with both talon and beak. In addition, they're capable of breathing fire. Dragonhawks liberated from troll enslavement are considered among the most loyal of all their kin.</WoW_Animal_Dragonhawk.description>
   <WoW_Animal_Dragonhawk.tools.0.label>爪</WoW_Animal_Dragonhawk.tools.0.label>
   <WoW_Animal_Dragonhawk.tools.1.label>喙</WoW_Animal_Dragonhawk.tools.1.label>

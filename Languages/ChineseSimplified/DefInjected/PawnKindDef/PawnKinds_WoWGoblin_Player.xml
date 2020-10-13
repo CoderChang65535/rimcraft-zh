@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Goblin Player Pawn -->
+
+  <WoWGoblin.label>地精殖民者</WoWGoblin.label>
+  <WoWGoblin.labelPlural>地精殖民者</WoWGoblin.labelPlural>
+  <WoWGoblin.labelMale>男性 地精殖民者</WoWGoblin.labelMale>
+  <WoWGoblin.labelMalePlural>男性 地精殖民者</WoWGoblin.labelMalePlural>
+  <WoWGoblin.labelFemale>女性 地精殖民者</WoWGoblin.labelFemale>
+  <WoWGoblin.labelFemalePlural>女性 地精殖民者</WoWGoblin.labelFemalePlural>
+
+
+</LanguageData>

@@ -5,6 +5,8 @@
 
   <WoW_Tauren.label>牛头人</WoW_Tauren.label>
   <WoW_Tauren.description>牛头人是居住在卡利姆多中部大平原上的牛状人形生物。他们一直受到半人马的骚扰，半人马迫使牛头人在恶劣的贫瘠之地中定居。尽管牛头人身材高大，天性和平又崇尚荣耀，但他们仍然是凶猛的战士。他们的文化重视狩猎和萨满，他们对大地母亲的崇拜以及对自然的尊重也是如此。</WoW_Tauren.description>
+  <WoW_Tauren.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>皮肤</WoW_Tauren.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>
+  <WoW_Tauren.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>头发</WoW_Tauren.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>
   <WoW_Tauren.tools.0.label>左拳</WoW_Tauren.tools.0.label>
   <WoW_Tauren.tools.1.label>右拳</WoW_Tauren.tools.1.label>
   <WoW_Tauren.tools.2.label>牙齿</WoW_Tauren.tools.2.label>

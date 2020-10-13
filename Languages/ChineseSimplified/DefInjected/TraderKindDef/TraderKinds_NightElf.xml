@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- NightElf Visitor Trader -->
+
+  <Traderkind_NightElf_Visitor.label>暗夜精灵旅行商人</Traderkind_NightElf_Visitor.label>
+
+
+  <!-- NightElf Caravan Trader -->
+
+  <Traderkind_NightElf_Caravan_General.label>暗夜精灵普通商人</Traderkind_NightElf_Caravan_General.label>
+  <Traderkind_NightElf_Caravan_Armament.label>暗夜精灵作战供应商</Traderkind_NightElf_Caravan_Armament.label>
+
+
+</LanguageData>

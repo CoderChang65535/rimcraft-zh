@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ForsakenUndeathRot.label>plague of undeath</ForsakenUndeathRot.label>
+  <ForsakenUndeathRot.description>Poison in the bloodstream. This can come from various sources, including environmental toxins, venomous bites, or poisoned weapons.
+\nAt high doses, toxic buildup is lethal. Even at low doses, it can generate cancers.
+\nCreatures who die with toxic buildup cannot be eaten.</ForsakenUndeathRot.description>
+  <ForsakenUndeathRot.stages.0.label>initial</ForsakenUndeathRot.stages.0.label>
+  <ForsakenUndeathRot.stages.1.label>initial</ForsakenUndeathRot.stages.1.label>
+  <ForsakenUndeathRot.stages.2.label>minor</ForsakenUndeathRot.stages.2.label>
+  <ForsakenUndeathRot.stages.3.label>moderate</ForsakenUndeathRot.stages.3.label>
+  <ForsakenUndeathRot.stages.4.label>serious</ForsakenUndeathRot.stages.4.label>
+  <ForsakenUndeathRot.stages.5.label>extreme</ForsakenUndeathRot.stages.5.label>
+
+
+</LanguageData>

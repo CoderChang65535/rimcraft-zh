@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Worgen Player Pawn -->
+
+  <WoWWorgen.label>狼人殖民者</WoWWorgen.label>
+  <WoWWorgen.labelPlural>狼人殖民者</WoWWorgen.labelPlural>
+  <WoWWorgen.labelMale>男性 狼人殖民者</WoWWorgen.labelMale>
+  <WoWWorgen.labelMalePlural>男性 狼人殖民者</WoWWorgen.labelMalePlural>
+  <WoWWorgen.labelFemale>女性 狼人殖民者</WoWWorgen.labelFemale>
+  <WoWWorgen.labelFemalePlural>女性 狼人殖民者</WoWWorgen.labelFemalePlural>
+
+
+</LanguageData>

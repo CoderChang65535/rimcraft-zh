@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Forsaken High Elf Player Pawn -->
+
+  <WoWForsakenHighElf.label>被遗忘者高等精灵殖民者</WoWForsakenHighElf.label>
+  <WoWForsakenHighElf.labelPlural>被遗忘者高等精灵殖民者</WoWForsakenHighElf.labelPlural>
+  <WoWForsakenHighElf.labelMale>男性 被遗忘者高等精灵殖民者</WoWForsakenHighElf.labelMale>
+  <WoWForsakenHighElf.labelMalePlural>男性 被遗忘者高等精灵殖民者</WoWForsakenHighElf.labelMalePlural>
+  <WoWForsakenHighElf.labelFemale>女性 被遗忘者高等精灵殖民者</WoWForsakenHighElf.labelFemale>
+  <WoWForsakenHighElf.labelFemalePlural>女性 被遗忘者高等精灵殖民者</WoWForsakenHighElf.labelFemalePlural>
+
+
+</LanguageData>

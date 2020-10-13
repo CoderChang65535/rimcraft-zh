@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Draenei Player Pawn -->
+
+  <WoWDraenei.label>德莱尼殖民者</WoWDraenei.label>
+  <WoWDraenei.labelPlural>德莱尼殖民者</WoWDraenei.labelPlural>
+  <WoWDraenei.labelMale>男性 德莱尼殖民者</WoWDraenei.labelMale>
+  <WoWDraenei.labelMalePlural>男性 德莱尼殖民者</WoWDraenei.labelMalePlural>
+  <WoWDraenei.labelFemale>女性 德莱尼殖民者</WoWDraenei.labelFemale>
+  <WoWDraenei.labelFemalePlural>女性 德莱尼殖民者</WoWDraenei.labelFemalePlural>
+
+
+</LanguageData>

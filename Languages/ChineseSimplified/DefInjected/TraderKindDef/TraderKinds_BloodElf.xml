@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- BloodElf Visitor Trader -->
+
+  <Traderkind_BloodElf_Visitor.label>血精灵旅行商人</Traderkind_BloodElf_Visitor.label>
+
+
+  <!-- BloodElf Caravan Trader -->
+
+  <Traderkind_BloodElf_Caravan_General.label>血精灵普通商人</Traderkind_BloodElf_Caravan_General.label>
+  <Traderkind_BloodElf_Caravan_Armament.label>血精灵作战供应商</Traderkind_BloodElf_Caravan_Armament.label>
+  <Traderkind_BloodElf_Caravan_Slaver.label>血精灵奴隶商人</Traderkind_BloodElf_Caravan_Slaver.label>
+
+
+</LanguageData>

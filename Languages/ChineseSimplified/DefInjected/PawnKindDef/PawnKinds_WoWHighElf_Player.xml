@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- HighElf Player Pawn -->
+
+  <WoWHighElf.label>高等精灵殖民者</WoWHighElf.label>
+  <WoWHighElf.labelPlural>高等精灵殖民者</WoWHighElf.labelPlural>
+  <WoWHighElf.labelMale>男性 高等精灵殖民者</WoWHighElf.labelMale>
+  <WoWHighElf.labelMalePlural>男性 高等精灵殖民者</WoWHighElf.labelMalePlural>
+  <WoWHighElf.labelFemale>女性 高等精灵殖民者</WoWHighElf.labelFemale>
+  <WoWHighElf.labelFemalePlural>女性 高等精灵殖民者</WoWHighElf.labelFemalePlural>
+
+
+</LanguageData>

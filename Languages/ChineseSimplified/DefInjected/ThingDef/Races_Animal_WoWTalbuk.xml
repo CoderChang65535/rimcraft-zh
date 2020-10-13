@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Talbuk Def -->
+
+  <WoW_Animal_Talbuk.label>塔布羊</WoW_Animal_Talbuk.label>
+  <WoW_Animal_Talbuk.race.meatLabel>塔布羊肉</WoW_Animal_Talbuk.race.meatLabel>
+  <WoW_Animal_Talbuk.description>塔布羊是阿古斯原生色彩鲜艳的羚羊生物。一些塔布羊和德莱尼人一起坐上吉尼达尔逃离了阿古斯。</WoW_Animal_Talbuk.description>
+  <WoW_Animal_Talbuk.tools.1.label>角</WoW_Animal_Talbuk.tools.1.label>
+  <WoW_Animal_Talbuk.tools.2.label>左蹄</WoW_Animal_Talbuk.tools.2.label>
+  <WoW_Animal_Talbuk.tools.3.label>右蹄</WoW_Animal_Talbuk.tools.3.label>
+
+
+</LanguageData>

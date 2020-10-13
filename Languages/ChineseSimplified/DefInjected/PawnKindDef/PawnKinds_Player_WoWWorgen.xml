@@ -3,10 +3,10 @@
 
   <WoWWorgen.label>难民</WoWWorgen.label>
   <WoWWorgen.labelPlural>难民</WoWWorgen.labelPlural>
-  <WoWWorgen.labelMale>男性难民</WoWWorgen.labelMale>
-  <WoWWorgen.labelMalePlural>男性难民</WoWWorgen.labelMalePlural>
-  <WoWWorgen.labelFemale>女性难民</WoWWorgen.labelFemale>
-  <WoWWorgen.labelFemalePlural>女性难民</WoWWorgen.labelFemalePlural>
+  <WoWWorgen.labelMale>男性 难民</WoWWorgen.labelMale>
+  <WoWWorgen.labelMalePlural>男性 难民</WoWWorgen.labelMalePlural>
+  <WoWWorgen.labelFemale>女性 难民</WoWWorgen.labelFemale>
+  <WoWWorgen.labelFemalePlural>女性 难民</WoWWorgen.labelFemalePlural>
 
 
 </LanguageData>

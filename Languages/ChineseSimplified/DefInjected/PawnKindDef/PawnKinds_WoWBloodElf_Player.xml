@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- BloodElf Player Pawn -->
+
+  <WoWBloodElf.label>血精灵殖民者</WoWBloodElf.label>
+  <WoWBloodElf.labelPlural>血精灵殖民者</WoWBloodElf.labelPlural>
+  <WoWBloodElf.labelMale>男性 血精灵殖民者</WoWBloodElf.labelMale>
+  <WoWBloodElf.labelMalePlural>男性 血精灵殖民者</WoWBloodElf.labelMalePlural>
+  <WoWBloodElf.labelFemale>女性 血精灵殖民者</WoWBloodElf.labelFemale>
+  <WoWBloodElf.labelFemalePlural>女性 血精灵殖民者</WoWBloodElf.labelFemalePlural>
+
+
+</LanguageData>

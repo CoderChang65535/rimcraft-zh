@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- WoWHuman Player Pawn -->
+
+  <WoWHuman.label>人类殖民者</WoWHuman.label>
+  <WoWHuman.labelPlural>人类殖民者</WoWHuman.labelPlural>
+  <WoWHuman.labelMale>男性 人类殖民者</WoWHuman.labelMale>
+  <WoWHuman.labelMalePlural>男性 人类殖民者</WoWHuman.labelMalePlural>
+  <WoWHuman.labelFemale>女性 人类殖民者</WoWHuman.labelFemale>
+  <WoWHuman.labelFemalePlural>女性 人类殖民者</WoWHuman.labelFemalePlural>
+
+
+</LanguageData>

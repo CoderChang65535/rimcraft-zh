@@ -5,69 +5,62 @@
 
   <WoW_BloodElf_Villager.label>血精灵村民</WoW_BloodElf_Villager.label>
   <WoW_BloodElf_Villager.labelPlural>血精灵村民</WoW_BloodElf_Villager.labelPlural>
-  <WoW_BloodElf_Villager.labelMale>男性血精灵村民</WoW_BloodElf_Villager.labelMale>
-  <WoW_BloodElf_Villager.labelMalePlural>男性血精灵村民</WoW_BloodElf_Villager.labelMalePlural>
-  <WoW_BloodElf_Villager.labelFemale>女性血精灵村民</WoW_BloodElf_Villager.labelFemale>
-  <WoW_BloodElf_Villager.labelFemalePlural>女性血精灵村民</WoW_BloodElf_Villager.labelFemalePlural>
+  <WoW_BloodElf_Villager.labelMale>男性 血精灵村民</WoW_BloodElf_Villager.labelMale>
+  <WoW_BloodElf_Villager.labelMalePlural>男性 血精灵村民</WoW_BloodElf_Villager.labelMalePlural>
+  <WoW_BloodElf_Villager.labelFemale>女性 血精灵村民</WoW_BloodElf_Villager.labelFemale>
+  <WoW_BloodElf_Villager.labelFemalePlural>女性 血精灵村民</WoW_BloodElf_Villager.labelFemalePlural>
 
   <WoW_BloodElf_Trader.label>血精灵交易者</WoW_BloodElf_Trader.label>
   <WoW_BloodElf_Trader.labelPlural>血精灵交易者</WoW_BloodElf_Trader.labelPlural>
-  <WoW_BloodElf_Trader.labelMale>男性血精灵交易者</WoW_BloodElf_Trader.labelMale>
-  <WoW_BloodElf_Trader.labelMalePlural>男性血精灵交易者</WoW_BloodElf_Trader.labelMalePlural>
-  <WoW_BloodElf_Trader.labelFemale>女性血精灵交易者</WoW_BloodElf_Trader.labelFemale>
-  <WoW_BloodElf_Trader.labelFemalePlural>女性血精灵交易者</WoW_BloodElf_Trader.labelFemalePlural>
+  <WoW_BloodElf_Trader.labelMale>男性 血精灵交易者</WoW_BloodElf_Trader.labelMale>
+  <WoW_BloodElf_Trader.labelMalePlural>男性 血精灵交易者</WoW_BloodElf_Trader.labelMalePlural>
+  <WoW_BloodElf_Trader.labelFemale>女性 血精灵交易者</WoW_BloodElf_Trader.labelFemale>
+  <WoW_BloodElf_Trader.labelFemalePlural>女性 血精灵交易者</WoW_BloodElf_Trader.labelFemalePlural>
 
   <WoW_BloodElf_Slave.label>血精灵奴隶</WoW_BloodElf_Slave.label>
   <WoW_BloodElf_Slave.labelPlural>血精灵奴隶</WoW_BloodElf_Slave.labelPlural>
-  <WoW_BloodElf_Slave.labelMale>男性血精灵奴隶</WoW_BloodElf_Slave.labelMale>
-  <WoW_BloodElf_Slave.labelMalePlural>男性血精灵奴隶</WoW_BloodElf_Slave.labelMalePlural>
-  <WoW_BloodElf_Slave.labelFemale>女性血精灵奴隶</WoW_BloodElf_Slave.labelFemale>
-  <WoW_BloodElf_Slave.labelFemalePlural>女性血精灵奴隶</WoW_BloodElf_Slave.labelFemalePlural>
+  <WoW_BloodElf_Slave.labelMale>男性 血精灵奴隶</WoW_BloodElf_Slave.labelMale>
+  <WoW_BloodElf_Slave.labelMalePlural>男性 血精灵奴隶</WoW_BloodElf_Slave.labelMalePlural>
+  <WoW_BloodElf_Slave.labelFemale>女性 血精灵奴隶</WoW_BloodElf_Slave.labelFemale>
+  <WoW_BloodElf_Slave.labelFemalePlural>女性 血精灵奴隶</WoW_BloodElf_Slave.labelFemalePlural>
 
 
   <!-- Blood Elf Military -->
 
   <WoW_BloodElf_Guardian.label>血精灵守卫</WoW_BloodElf_Guardian.label>
   <WoW_BloodElf_Guardian.labelPlural>血精灵守卫</WoW_BloodElf_Guardian.labelPlural>
-  <WoW_BloodElf_Guardian.labelMale>男性血精灵守卫</WoW_BloodElf_Guardian.labelMale>
-  <WoW_BloodElf_Guardian.labelMalePlural>男性血精灵守卫</WoW_BloodElf_Guardian.labelMalePlural>
-  <WoW_BloodElf_Guardian.labelFemale>女性血精灵守卫</WoW_BloodElf_Guardian.labelFemale>
-  <WoW_BloodElf_Guardian.labelFemalePlural>女性血精灵守卫</WoW_BloodElf_Guardian.labelFemalePlural>
-
-  <WoW_BloodElf_Initiate.label>血精灵新兵</WoW_BloodElf_Initiate.label>
-  <WoW_BloodElf_Initiate.labelPlural>血精灵新兵</WoW_BloodElf_Initiate.labelPlural>
-  <WoW_BloodElf_Initiate.labelMale>男性血精灵新兵</WoW_BloodElf_Initiate.labelMale>
-  <WoW_BloodElf_Initiate.labelMalePlural>男性血精灵新兵</WoW_BloodElf_Initiate.labelMalePlural>
-  <WoW_BloodElf_Initiate.labelFemale>女性血精灵新兵</WoW_BloodElf_Initiate.labelFemale>
-  <WoW_BloodElf_Initiate.labelFemalePlural>女性血精灵新兵</WoW_BloodElf_Initiate.labelFemalePlural>
+  <WoW_BloodElf_Guardian.labelMale>男性 血精灵守卫</WoW_BloodElf_Guardian.labelMale>
+  <WoW_BloodElf_Guardian.labelMalePlural>男性 血精灵守卫</WoW_BloodElf_Guardian.labelMalePlural>
+  <WoW_BloodElf_Guardian.labelFemale>女性 血精灵守卫</WoW_BloodElf_Guardian.labelFemale>
+  <WoW_BloodElf_Guardian.labelFemalePlural>女性 血精灵守卫</WoW_BloodElf_Guardian.labelFemalePlural>
 
   <WoW_BloodElf_Farstrider.label>血精灵远行者</WoW_BloodElf_Farstrider.label>
   <WoW_BloodElf_Farstrider.labelPlural>血精灵远行者</WoW_BloodElf_Farstrider.labelPlural>
-  <WoW_BloodElf_Farstrider.labelMale>男性血精灵远行者</WoW_BloodElf_Farstrider.labelMale>
-  <WoW_BloodElf_Farstrider.labelMalePlural>男性血精灵远行者</WoW_BloodElf_Farstrider.labelMalePlural>
-  <WoW_BloodElf_Farstrider.labelFemale>女性血精灵远行者</WoW_BloodElf_Farstrider.labelFemale>
-  <WoW_BloodElf_Farstrider.labelFemalePlural>女性血精灵远行者</WoW_BloodElf_Farstrider.labelFemalePlural>
+  <WoW_BloodElf_Farstrider.labelMale>男性 血精灵远行者</WoW_BloodElf_Farstrider.labelMale>
+  <WoW_BloodElf_Farstrider.labelMalePlural>男性 血精灵远行者</WoW_BloodElf_Farstrider.labelMalePlural>
+  <WoW_BloodElf_Farstrider.labelFemale>女性 血精灵远行者</WoW_BloodElf_Farstrider.labelFemale>
+  <WoW_BloodElf_Farstrider.labelFemalePlural>女性 血精灵远行者</WoW_BloodElf_Farstrider.labelFemalePlural>
 
   <WoW_BloodElf_BloodKnight.label>血精灵血骑士</WoW_BloodElf_BloodKnight.label>
   <WoW_BloodElf_BloodKnight.labelPlural>血精灵血骑士</WoW_BloodElf_BloodKnight.labelPlural>
-  <WoW_BloodElf_BloodKnight.labelMale>男性血精灵血骑士</WoW_BloodElf_BloodKnight.labelMale>
-  <WoW_BloodElf_BloodKnight.labelMalePlural>男性血精灵血骑士</WoW_BloodElf_BloodKnight.labelMalePlural>
-  <WoW_BloodElf_BloodKnight.labelFemale>女性血精灵血骑士</WoW_BloodElf_BloodKnight.labelFemale>
-  <WoW_BloodElf_BloodKnight.labelFemalePlural>女性血精灵血骑士</WoW_BloodElf_BloodKnight.labelFemalePlural>
+  <WoW_BloodElf_BloodKnight.labelMale>男性 血精灵血骑士</WoW_BloodElf_BloodKnight.labelMale>
+  <WoW_BloodElf_BloodKnight.labelMalePlural>男性 血精灵血骑士</WoW_BloodElf_BloodKnight.labelMalePlural>
+  <WoW_BloodElf_BloodKnight.labelFemale>女性 血精灵血骑士</WoW_BloodElf_BloodKnight.labelFemale>
+  <WoW_BloodElf_BloodKnight.labelFemalePlural>女性 血精灵血骑士</WoW_BloodElf_BloodKnight.labelFemalePlural>
 
   <WoW_BloodElf_SpellBreaker.label>血精灵破法者</WoW_BloodElf_SpellBreaker.label>
   <WoW_BloodElf_SpellBreaker.labelPlural>血精灵破法者</WoW_BloodElf_SpellBreaker.labelPlural>
-  <WoW_BloodElf_SpellBreaker.labelMale>男性血精灵破法者</WoW_BloodElf_SpellBreaker.labelMale>
-  <WoW_BloodElf_SpellBreaker.labelMalePlural>男性血精灵破法者</WoW_BloodElf_SpellBreaker.labelMalePlural>
-  <WoW_BloodElf_SpellBreaker.labelFemale>女性血精灵破法者</WoW_BloodElf_SpellBreaker.labelFemale>
-  <WoW_BloodElf_SpellBreaker.labelFemalePlural>女性血精灵破法者</WoW_BloodElf_SpellBreaker.labelFemalePlural>
+  <WoW_BloodElf_SpellBreaker.labelMale>男性 血精灵破法者</WoW_BloodElf_SpellBreaker.labelMale>
+  <WoW_BloodElf_SpellBreaker.labelMalePlural>男性 血精灵破法者</WoW_BloodElf_SpellBreaker.labelMalePlural>
+  <WoW_BloodElf_SpellBreaker.labelFemale>女性 血精灵破法者</WoW_BloodElf_SpellBreaker.labelFemale>
+  <WoW_BloodElf_SpellBreaker.labelFemalePlural>女性 血精灵破法者</WoW_BloodElf_SpellBreaker.labelFemalePlural>
 
   <WoW_BloodElf_KnightLord.label>血精灵骑士领主</WoW_BloodElf_KnightLord.label>
   <WoW_BloodElf_KnightLord.labelPlural>血精灵骑士领主</WoW_BloodElf_KnightLord.labelPlural>
-  <WoW_BloodElf_KnightLord.labelMale>男性血精灵骑士领主</WoW_BloodElf_KnightLord.labelMale>
-  <WoW_BloodElf_KnightLord.labelMalePlural>男性血精灵骑士领主</WoW_BloodElf_KnightLord.labelMalePlural>
-  <WoW_BloodElf_KnightLord.labelFemale>女性血精灵骑士领主</WoW_BloodElf_KnightLord.labelFemale>
-  <WoW_BloodElf_KnightLord.labelFemalePlural>女性血精灵骑士领主</WoW_BloodElf_KnightLord.labelFemalePlural>
+  <WoW_BloodElf_KnightLord.labelMale>男性 血精灵骑士领主</WoW_BloodElf_KnightLord.labelMale>
+  <WoW_BloodElf_KnightLord.labelMalePlural>男性 血精灵骑士领主</WoW_BloodElf_KnightLord.labelMalePlural>
+  <WoW_BloodElf_KnightLord.labelFemale>女性 血精灵骑士领主</WoW_BloodElf_KnightLord.labelFemale>
+  <WoW_BloodElf_KnightLord.labelFemalePlural>女性 血精灵骑士领主</WoW_BloodElf_KnightLord.labelFemalePlural>
 
 
 </LanguageData>

@@ -5,48 +5,48 @@
 
   <WoW_Tauren_Villager.label>牛头人村民</WoW_Tauren_Villager.label>
   <WoW_Tauren_Villager.labelPlural>牛头人村民</WoW_Tauren_Villager.labelPlural>
-  <WoW_Tauren_Villager.labelMale>男性牛头人村民</WoW_Tauren_Villager.labelMale>
-  <WoW_Tauren_Villager.labelMalePlural>男性牛头人村民</WoW_Tauren_Villager.labelMalePlural>
-  <WoW_Tauren_Villager.labelFemale>女性牛头人村民</WoW_Tauren_Villager.labelFemale>
-  <WoW_Tauren_Villager.labelFemalePlural>女性牛头人村民</WoW_Tauren_Villager.labelFemalePlural>
+  <WoW_Tauren_Villager.labelMale>男性 牛头人村民</WoW_Tauren_Villager.labelMale>
+  <WoW_Tauren_Villager.labelMalePlural>男性 牛头人村民</WoW_Tauren_Villager.labelMalePlural>
+  <WoW_Tauren_Villager.labelFemale>女性 牛头人村民</WoW_Tauren_Villager.labelFemale>
+  <WoW_Tauren_Villager.labelFemalePlural>女性 牛头人村民</WoW_Tauren_Villager.labelFemalePlural>
 
   <WoW_Tauren_Trader.label>牛头人交易者</WoW_Tauren_Trader.label>
   <WoW_Tauren_Trader.labelPlural>牛头人交易者</WoW_Tauren_Trader.labelPlural>
-  <WoW_Tauren_Trader.labelMale>男性牛头人交易者</WoW_Tauren_Trader.labelMale>
-  <WoW_Tauren_Trader.labelMalePlural>男性牛头人交易者</WoW_Tauren_Trader.labelMalePlural>
-  <WoW_Tauren_Trader.labelFemale>女性牛头人交易者</WoW_Tauren_Trader.labelFemale>
-  <WoW_Tauren_Trader.labelFemalePlural>女性牛头人交易者</WoW_Tauren_Trader.labelFemalePlural>
+  <WoW_Tauren_Trader.labelMale>男性 牛头人交易者</WoW_Tauren_Trader.labelMale>
+  <WoW_Tauren_Trader.labelMalePlural>男性 牛头人交易者</WoW_Tauren_Trader.labelMalePlural>
+  <WoW_Tauren_Trader.labelFemale>女性 牛头人交易者</WoW_Tauren_Trader.labelFemale>
+  <WoW_Tauren_Trader.labelFemalePlural>女性 牛头人交易者</WoW_Tauren_Trader.labelFemalePlural>
 
   <WoW_Tauren_Slave.label>牛头人奴隶</WoW_Tauren_Slave.label>
   <WoW_Tauren_Slave.labelPlural>牛头人奴隶</WoW_Tauren_Slave.labelPlural>
-  <WoW_Tauren_Slave.labelMale>男性牛头人奴隶</WoW_Tauren_Slave.labelMale>
-  <WoW_Tauren_Slave.labelMalePlural>男性牛头人奴隶</WoW_Tauren_Slave.labelMalePlural>
-  <WoW_Tauren_Slave.labelFemale>女性牛头人奴隶</WoW_Tauren_Slave.labelFemale>
-  <WoW_Tauren_Slave.labelFemalePlural>女性牛头人奴隶</WoW_Tauren_Slave.labelFemalePlural>
+  <WoW_Tauren_Slave.labelMale>男性 牛头人奴隶</WoW_Tauren_Slave.labelMale>
+  <WoW_Tauren_Slave.labelMalePlural>男性 牛头人奴隶</WoW_Tauren_Slave.labelMalePlural>
+  <WoW_Tauren_Slave.labelFemale>女性 牛头人奴隶</WoW_Tauren_Slave.labelFemale>
+  <WoW_Tauren_Slave.labelFemalePlural>女性 牛头人奴隶</WoW_Tauren_Slave.labelFemalePlural>
 
 
   <!-- Tauren Military -->
 
   <WoW_Tauren_Naturalist.label>牛头人自然学者</WoW_Tauren_Naturalist.label>
   <WoW_Tauren_Naturalist.labelPlural>牛头人自然学者</WoW_Tauren_Naturalist.labelPlural>
-  <WoW_Tauren_Naturalist.labelMale>男性牛头人自然学者</WoW_Tauren_Naturalist.labelMale>
-  <WoW_Tauren_Naturalist.labelMalePlural>男性牛头人自然学者</WoW_Tauren_Naturalist.labelMalePlural>
-  <WoW_Tauren_Naturalist.labelFemale>女性牛头人自然学者</WoW_Tauren_Naturalist.labelFemale>
-  <WoW_Tauren_Naturalist.labelFemalePlural>女性牛头人自然学者</WoW_Tauren_Naturalist.labelFemalePlural>
+  <WoW_Tauren_Naturalist.labelMale>男性 牛头人自然学者</WoW_Tauren_Naturalist.labelMale>
+  <WoW_Tauren_Naturalist.labelMalePlural>男性 牛头人自然学者</WoW_Tauren_Naturalist.labelMalePlural>
+  <WoW_Tauren_Naturalist.labelFemale>女性 牛头人自然学者</WoW_Tauren_Naturalist.labelFemale>
+  <WoW_Tauren_Naturalist.labelFemalePlural>女性 牛头人自然学者</WoW_Tauren_Naturalist.labelFemalePlural>
 
   <WoW_Tauren_Warrior.label>牛头人战士</WoW_Tauren_Warrior.label>
   <WoW_Tauren_Warrior.labelPlural>牛头人战士</WoW_Tauren_Warrior.labelPlural>
-  <WoW_Tauren_Warrior.labelMale>男性牛头人战士</WoW_Tauren_Warrior.labelMale>
-  <WoW_Tauren_Warrior.labelMalePlural>男性牛头人战士</WoW_Tauren_Warrior.labelMalePlural>
-  <WoW_Tauren_Warrior.labelFemale>女性牛头人战士</WoW_Tauren_Warrior.labelFemale>
-  <WoW_Tauren_Warrior.labelFemalePlural>女性牛头人战士</WoW_Tauren_Warrior.labelFemalePlural>
+  <WoW_Tauren_Warrior.labelMale>男性 牛头人战士</WoW_Tauren_Warrior.labelMale>
+  <WoW_Tauren_Warrior.labelMalePlural>男性 牛头人战士</WoW_Tauren_Warrior.labelMalePlural>
+  <WoW_Tauren_Warrior.labelFemale>女性 牛头人战士</WoW_Tauren_Warrior.labelFemale>
+  <WoW_Tauren_Warrior.labelFemalePlural>女性 牛头人战士</WoW_Tauren_Warrior.labelFemalePlural>
 
   <WoW_Tauren_Elder.label>牛头人长老</WoW_Tauren_Elder.label>
   <WoW_Tauren_Elder.labelPlural>牛头人长老</WoW_Tauren_Elder.labelPlural>
-  <WoW_Tauren_Elder.labelMale>男性牛头人长老</WoW_Tauren_Elder.labelMale>
-  <WoW_Tauren_Elder.labelMalePlural>男性牛头人长老</WoW_Tauren_Elder.labelMalePlural>
-  <WoW_Tauren_Elder.labelFemale>女性牛头人长老</WoW_Tauren_Elder.labelFemale>
-  <WoW_Tauren_Elder.labelFemalePlural>女性牛头人长老</WoW_Tauren_Elder.labelFemalePlural>
+  <WoW_Tauren_Elder.labelMale>男性 牛头人长老</WoW_Tauren_Elder.labelMale>
+  <WoW_Tauren_Elder.labelMalePlural>男性 牛头人长老</WoW_Tauren_Elder.labelMalePlural>
+  <WoW_Tauren_Elder.labelFemale>女性 牛头人长老</WoW_Tauren_Elder.labelFemale>
+  <WoW_Tauren_Elder.labelFemalePlural>女性 牛头人长老</WoW_Tauren_Elder.labelFemalePlural>
 
 
 </LanguageData>

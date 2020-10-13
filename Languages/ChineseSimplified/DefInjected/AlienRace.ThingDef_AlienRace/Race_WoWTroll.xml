@@ -5,6 +5,8 @@
 
   <WoW_Troll.label>巨魔</WoW_Troll.label>
   <WoW_Troll.description>巨魔是一种多样的智慧种族，可以在艾泽拉斯的每个地方找到他们。他们是艾泽拉斯最早的土著民族之一。巨魔是一个存在多个亚种的物种，每个亚种在身体和文化上都与其他亚种不同。他们的四肢袖长有理，难以置信的敏捷性和力量使他们成为熟练的猎人。</WoW_Troll.description>
+  <WoW_Troll.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>皮肤</WoW_Troll.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>
+  <WoW_Troll.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>头发</WoW_Troll.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>
   <WoW_Troll.tools.0.label>左拳</WoW_Troll.tools.0.label>
   <WoW_Troll.tools.1.label>右拳</WoW_Troll.tools.1.label>
   <WoW_Troll.tools.2.label>牙齿</WoW_Troll.tools.2.label>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Draenei Visitor Trader -->
+
+  <Traderkind_Draenei_Visitor.label>德莱尼旅行商人</Traderkind_Draenei_Visitor.label>
+
+
+  <!-- Draenei Caravan Trader -->
+
+  <Traderkind_Draenei_Caravan_General.label>德莱尼普通商人</Traderkind_Draenei_Caravan_General.label>
+  <Traderkind_Draenei_Caravan_Armament.label>德莱尼作战供应商</Traderkind_Draenei_Caravan_Armament.label>
+
+
+</LanguageData>

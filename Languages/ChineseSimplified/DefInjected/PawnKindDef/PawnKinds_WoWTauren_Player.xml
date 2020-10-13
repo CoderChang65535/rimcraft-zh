@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Tauren Player Pawn -->
+
+  <WoWTauren.label>牛头人殖民者</WoWTauren.label>
+  <WoWTauren.labelPlural>牛头人殖民者</WoWTauren.labelPlural>
+  <WoWTauren.labelMale>男性 牛头人殖民者</WoWTauren.labelMale>
+  <WoWTauren.labelMalePlural>男性 牛头人殖民者</WoWTauren.labelMalePlural>
+  <WoWTauren.labelFemale>女性 牛头人殖民者</WoWTauren.labelFemale>
+  <WoWTauren.labelFemalePlural>女性 牛头人殖民者</WoWTauren.labelFemalePlural>
+
+
+</LanguageData>

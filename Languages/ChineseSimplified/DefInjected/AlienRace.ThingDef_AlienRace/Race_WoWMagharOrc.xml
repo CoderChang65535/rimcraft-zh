@@ -5,6 +5,8 @@
 
   <WoW_MagharOrc.label>玛格汉兽人</WoW_MagharOrc.label>
   <WoW_MagharOrc.description>玛格汉兽人也被称为“棕色兽人”，是免于燃烧军团腐蚀的兽人。在德拉诺由于疾病而被隔离在卡拉达尔。他们具有高贵的萨满教传统，以生存为中心，建立了强大的部落社会，通过仪式化的战斗和个人荣誉来调节自己。</WoW_MagharOrc.description>
+  <WoW_MagharOrc.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>皮肤</WoW_MagharOrc.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>
+  <WoW_MagharOrc.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>头发</WoW_MagharOrc.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>
 
 
 </LanguageData>

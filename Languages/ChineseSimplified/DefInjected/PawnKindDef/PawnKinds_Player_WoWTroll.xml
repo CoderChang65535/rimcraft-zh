@@ -3,10 +3,10 @@
 
   <WoWTroll.label>殖民者</WoWTroll.label>
   <WoWTroll.labelPlural>殖民者</WoWTroll.labelPlural>
-  <WoWTroll.labelMale>男性殖民者</WoWTroll.labelMale>
-  <WoWTroll.labelMalePlural>男性殖民者</WoWTroll.labelMalePlural>
-  <WoWTroll.labelFemale>女性殖民者</WoWTroll.labelFemale>
-  <WoWTroll.labelFemalePlural>女性殖民者</WoWTroll.labelFemalePlural>
+  <WoWTroll.labelMale>男性 殖民者</WoWTroll.labelMale>
+  <WoWTroll.labelMalePlural>男性 殖民者</WoWTroll.labelMalePlural>
+  <WoWTroll.labelFemale>女性 殖民者</WoWTroll.labelFemale>
+  <WoWTroll.labelFemalePlural>女性 殖民者</WoWTroll.labelFemalePlural>
 
 
 </LanguageData>

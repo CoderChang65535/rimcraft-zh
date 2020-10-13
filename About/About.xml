@@ -3,7 +3,7 @@
 	<name>Rimcraft Chinese Pack 边缘魔兽汉化包</name>
 	<author>CN-CoderZhang</author>
 	<supportedVersions>
-		<li>1.1</li>
+		<li>1.2</li>
 	</supportedVersions>
 	<packageId>CNCoderZhang.Rimcraft.ZH</packageId>
 	<loadAfter>
@@ -19,6 +19,9 @@
 		<li>Ryflamer.Rimcraft.OutlanderPatch</li>
 		<li>Ryflamer.Rimcraft.PiratePatch</li>
 		<li>Ryflamer.Rimcraft.TribalPatch</li>
+		<li>Ryflamer.Rimcraft.Scenarios</li>
+		<li>Ryflamer.Rimcraft.Weaponry</li>
+		<li>Ryflamer.Rimcraft.WeaponryPatch</li>
 	</loadBefore>
 
 	<url>https://github.com/CoderChang65535/rimcraft-zh/</url>
@@ -38,5 +41,8 @@ Rimcraft的汉化mod【【【尚未完成】】】
 - [Ry]Rimcraft Factions
 - [Ry]Rimcraft Outlander Patch
 - [Ry]Rimcraft Tribal Patch
+- [Ry]Rimcraft Scenarios
+- [Ry]Rimcraft Weaponry
+- [Ry]Rimcraft Weaponry Patch
 	</description>
 </ModMetaData>

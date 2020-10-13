@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- NightElf Player Pawn -->
+
+  <WoWNightElf.label>暗夜精灵殖民者</WoWNightElf.label>
+  <WoWNightElf.labelPlural>暗夜精灵殖民者</WoWNightElf.labelPlural>
+  <WoWNightElf.labelMale>男性 暗夜精灵殖民者</WoWNightElf.labelMale>
+  <WoWNightElf.labelMalePlural>男性 暗夜精灵殖民者</WoWNightElf.labelMalePlural>
+  <WoWNightElf.labelFemale>女性 暗夜精灵殖民者</WoWNightElf.labelFemale>
+  <WoWNightElf.labelFemalePlural>女性 暗夜精灵殖民者</WoWNightElf.labelFemalePlural>
+
+
+</LanguageData>

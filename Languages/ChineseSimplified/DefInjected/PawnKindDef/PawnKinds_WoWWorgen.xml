@@ -5,48 +5,48 @@
 
   <WoW_Worgen_Villager.label>狼人村民</WoW_Worgen_Villager.label>
   <WoW_Worgen_Villager.labelPlural>狼人村民</WoW_Worgen_Villager.labelPlural>
-  <WoW_Worgen_Villager.labelMale>男性狼人村民</WoW_Worgen_Villager.labelMale>
-  <WoW_Worgen_Villager.labelMalePlural>男性狼人村民</WoW_Worgen_Villager.labelMalePlural>
-  <WoW_Worgen_Villager.labelFemale>女性狼人村民</WoW_Worgen_Villager.labelFemale>
-  <WoW_Worgen_Villager.labelFemalePlural>女性狼人村民</WoW_Worgen_Villager.labelFemalePlural>
+  <WoW_Worgen_Villager.labelMale>男性 狼人村民</WoW_Worgen_Villager.labelMale>
+  <WoW_Worgen_Villager.labelMalePlural>男性 狼人村民</WoW_Worgen_Villager.labelMalePlural>
+  <WoW_Worgen_Villager.labelFemale>女性 狼人村民</WoW_Worgen_Villager.labelFemale>
+  <WoW_Worgen_Villager.labelFemalePlural>女性 狼人村民</WoW_Worgen_Villager.labelFemalePlural>
 
   <WoW_Worgen_Trader.label>狼人交易者</WoW_Worgen_Trader.label>
   <WoW_Worgen_Trader.labelPlural>狼人交易者</WoW_Worgen_Trader.labelPlural>
-  <WoW_Worgen_Trader.labelMale>男性狼人交易者</WoW_Worgen_Trader.labelMale>
-  <WoW_Worgen_Trader.labelMalePlural>男性狼人交易者</WoW_Worgen_Trader.labelMalePlural>
-  <WoW_Worgen_Trader.labelFemale>女性狼人交易者</WoW_Worgen_Trader.labelFemale>
-  <WoW_Worgen_Trader.labelFemalePlural>女性狼人交易者</WoW_Worgen_Trader.labelFemalePlural>
+  <WoW_Worgen_Trader.labelMale>男性 狼人交易者</WoW_Worgen_Trader.labelMale>
+  <WoW_Worgen_Trader.labelMalePlural>男性 狼人交易者</WoW_Worgen_Trader.labelMalePlural>
+  <WoW_Worgen_Trader.labelFemale>女性 狼人交易者</WoW_Worgen_Trader.labelFemale>
+  <WoW_Worgen_Trader.labelFemalePlural>女性 狼人交易者</WoW_Worgen_Trader.labelFemalePlural>
 
   <WoW_Worgen_Slave.label>狼人奴隶</WoW_Worgen_Slave.label>
   <WoW_Worgen_Slave.labelPlural>狼人奴隶</WoW_Worgen_Slave.labelPlural>
-  <WoW_Worgen_Slave.labelMale>男性狼人奴隶</WoW_Worgen_Slave.labelMale>
-  <WoW_Worgen_Slave.labelMalePlural>男性狼人奴隶</WoW_Worgen_Slave.labelMalePlural>
-  <WoW_Worgen_Slave.labelFemale>女性狼人奴隶</WoW_Worgen_Slave.labelFemale>
-  <WoW_Worgen_Slave.labelFemalePlural>女性狼人奴隶</WoW_Worgen_Slave.labelFemalePlural>
+  <WoW_Worgen_Slave.labelMale>男性 狼人奴隶</WoW_Worgen_Slave.labelMale>
+  <WoW_Worgen_Slave.labelMalePlural>男性 狼人奴隶</WoW_Worgen_Slave.labelMalePlural>
+  <WoW_Worgen_Slave.labelFemale>女性 狼人奴隶</WoW_Worgen_Slave.labelFemale>
+  <WoW_Worgen_Slave.labelFemalePlural>女性 狼人奴隶</WoW_Worgen_Slave.labelFemalePlural>
 
 
   <!-- Worgen Military -->
 
   <WoW_Worgen_Mauler.label>狼人拳师</WoW_Worgen_Mauler.label>
   <WoW_Worgen_Mauler.labelPlural>狼人拳师</WoW_Worgen_Mauler.labelPlural>
-  <WoW_Worgen_Mauler.labelMale>男性狼人拳师</WoW_Worgen_Mauler.labelMale>
-  <WoW_Worgen_Mauler.labelMalePlural>男性狼人拳师</WoW_Worgen_Mauler.labelMalePlural>
-  <WoW_Worgen_Mauler.labelFemale>女性狼人拳师</WoW_Worgen_Mauler.labelFemale>
-  <WoW_Worgen_Mauler.labelFemalePlural>女性狼人拳师</WoW_Worgen_Mauler.labelFemalePlural>
+  <WoW_Worgen_Mauler.labelMale>男性 狼人拳师</WoW_Worgen_Mauler.labelMale>
+  <WoW_Worgen_Mauler.labelMalePlural>男性 狼人拳师</WoW_Worgen_Mauler.labelMalePlural>
+  <WoW_Worgen_Mauler.labelFemale>女性 狼人拳师</WoW_Worgen_Mauler.labelFemale>
+  <WoW_Worgen_Mauler.labelFemalePlural>女性 狼人拳师</WoW_Worgen_Mauler.labelFemalePlural>
 
   <WoW_Worgen_Swiftclaw.label>狼人迅爪战士</WoW_Worgen_Swiftclaw.label>
   <WoW_Worgen_Swiftclaw.labelPlural>狼人迅爪战士</WoW_Worgen_Swiftclaw.labelPlural>
-  <WoW_Worgen_Swiftclaw.labelMale>男性狼人迅爪战士</WoW_Worgen_Swiftclaw.labelMale>
-  <WoW_Worgen_Swiftclaw.labelMalePlural>男性狼人迅爪战士</WoW_Worgen_Swiftclaw.labelMalePlural>
-  <WoW_Worgen_Swiftclaw.labelFemale>女性狼人迅爪战士</WoW_Worgen_Swiftclaw.labelFemale>
-  <WoW_Worgen_Swiftclaw.labelFemalePlural>女性狼人迅爪战士</WoW_Worgen_Swiftclaw.labelFemalePlural>
+  <WoW_Worgen_Swiftclaw.labelMale>男性 狼人迅爪战士</WoW_Worgen_Swiftclaw.labelMale>
+  <WoW_Worgen_Swiftclaw.labelMalePlural>男性 狼人迅爪战士</WoW_Worgen_Swiftclaw.labelMalePlural>
+  <WoW_Worgen_Swiftclaw.labelFemale>女性 狼人迅爪战士</WoW_Worgen_Swiftclaw.labelFemale>
+  <WoW_Worgen_Swiftclaw.labelFemalePlural>女性 狼人迅爪战士</WoW_Worgen_Swiftclaw.labelFemalePlural>
 
   <WoW_Worgen_Ravager.label>狼人破坏者</WoW_Worgen_Ravager.label>
   <WoW_Worgen_Ravager.labelPlural>狼人破坏者</WoW_Worgen_Ravager.labelPlural>
-  <WoW_Worgen_Ravager.labelMale>男性狼人破坏者</WoW_Worgen_Ravager.labelMale>
-  <WoW_Worgen_Ravager.labelMalePlural>男性狼人破坏者</WoW_Worgen_Ravager.labelMalePlural>
-  <WoW_Worgen_Ravager.labelFemale>女性狼人破坏者</WoW_Worgen_Ravager.labelFemale>
-  <WoW_Worgen_Ravager.labelFemalePlural>女性狼人破坏者</WoW_Worgen_Ravager.labelFemalePlural>
+  <WoW_Worgen_Ravager.labelMale>男性 狼人破坏者</WoW_Worgen_Ravager.labelMale>
+  <WoW_Worgen_Ravager.labelMalePlural>男性 狼人破坏者</WoW_Worgen_Ravager.labelMalePlural>
+  <WoW_Worgen_Ravager.labelFemale>女性 狼人破坏者</WoW_Worgen_Ravager.labelFemale>
+  <WoW_Worgen_Ravager.labelFemalePlural>女性 狼人破坏者</WoW_Worgen_Ravager.labelFemalePlural>
 
 
 </LanguageData>

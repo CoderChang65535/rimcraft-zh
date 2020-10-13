@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ironforge Visitor Trader -->
+
+  <Traderkind_Ironforge_Visitor.label>矮人旅行商人</Traderkind_Ironforge_Visitor.label>
+
+
+  <!-- Ironforge Caravan Trader -->
+
+  <Traderkind_Ironforge_Caravan_General.label>矮人普通商人</Traderkind_Ironforge_Caravan_General.label>
+  <Traderkind_Ironforge_Caravan_Armament.label>矮人作战供应商</Traderkind_Ironforge_Caravan_Armament.label>
+
+
+</LanguageData>

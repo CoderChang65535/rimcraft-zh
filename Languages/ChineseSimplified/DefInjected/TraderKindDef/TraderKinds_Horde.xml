@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Horde Visitor Trader -->
+
+  <Traderkind_Horde_Visitor.label>部落旅行商人</Traderkind_Horde_Visitor.label>
+
+
+  <!-- Horde Caravan Trader -->
+
+  <Traderkind_Horde_Caravan_General.label>部落普通商人</Traderkind_Horde_Caravan_General.label>
+  <Traderkind_Horde_Caravan_Armament.label>部落作战供应商</Traderkind_Horde_Caravan_Armament.label>
+  <Traderkind_Horde_Caravan_Slaver.label>部落奴隶商人</Traderkind_Horde_Caravan_Slaver.label>
+
+
+</LanguageData>

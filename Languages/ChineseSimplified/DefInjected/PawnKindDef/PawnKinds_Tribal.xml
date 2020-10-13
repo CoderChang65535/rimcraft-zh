@@ -3,222 +3,222 @@
 
   <!-- Poverty tier - penitent -->
 
-  <WoWTribalPenitentBase.label>penitent</WoWTribalPenitentBase.label>
+  <WoWTribalPenitentBase.label忏悔者/WoWTribalPenitentBase.label>
 
 
   <!-- Low tier - archer -->
 
-  <WoWTribalArcherBase.label>archer</WoWTribalArcherBase.label>
+  <WoWTribalArcherBase.label>弓箭手</WoWTribalArcherBase.label>
 
 
   <!-- Mid tier - warrior, hunter, trader -->
 
-  <WoWTribalWarriorBase.label>warrior</WoWTribalWarriorBase.label>
+  <WoWTribalWarriorBase.label>战士</WoWTribalWarriorBase.label>
 
 
   <!-- WoW_Tribal_Penitent -->
 
   <WoW_Tribal_Penitent_NightElf.label>暗夜精灵忏悔者</WoW_Tribal_Penitent_NightElf.label>
   <WoW_Tribal_Penitent_NightElf.labelPlural>暗夜精灵忏悔者</WoW_Tribal_Penitent_NightElf.labelPlural>
-  <WoW_Tribal_Penitent_NightElf.labelMale>男性暗夜精灵忏悔者</WoW_Tribal_Penitent_NightElf.labelMale>
-  <WoW_Tribal_Penitent_NightElf.labelMalePlural>男性暗夜精灵忏悔者</WoW_Tribal_Penitent_NightElf.labelMalePlural>
-  <WoW_Tribal_Penitent_NightElf.labelFemale>女性暗夜精灵忏悔者</WoW_Tribal_Penitent_NightElf.labelFemale>
-  <WoW_Tribal_Penitent_NightElf.labelFemalePlural>女性暗夜精灵忏悔者</WoW_Tribal_Penitent_NightElf.labelFemalePlural>
+  <WoW_Tribal_Penitent_NightElf.labelMale>男性 暗夜精灵忏悔者</WoW_Tribal_Penitent_NightElf.labelMale>
+  <WoW_Tribal_Penitent_NightElf.labelMalePlural>男性 暗夜精灵忏悔者</WoW_Tribal_Penitent_NightElf.labelMalePlural>
+  <WoW_Tribal_Penitent_NightElf.labelFemale>女性 暗夜精灵忏悔者</WoW_Tribal_Penitent_NightElf.labelFemale>
+  <WoW_Tribal_Penitent_NightElf.labelFemalePlural>女性 暗夜精灵忏悔者</WoW_Tribal_Penitent_NightElf.labelFemalePlural>
 
   <WoW_Tribal_Penitent_BloodElf.label>血精灵忏悔者</WoW_Tribal_Penitent_BloodElf.label>
   <WoW_Tribal_Penitent_BloodElf.labelPlural>血精灵忏悔者</WoW_Tribal_Penitent_BloodElf.labelPlural>
-  <WoW_Tribal_Penitent_BloodElf.labelMale>男性血精灵忏悔者</WoW_Tribal_Penitent_BloodElf.labelMale>
-  <WoW_Tribal_Penitent_BloodElf.labelMalePlural>男性血精灵忏悔者</WoW_Tribal_Penitent_BloodElf.labelMalePlural>
-  <WoW_Tribal_Penitent_BloodElf.labelFemale>女性血精灵忏悔者</WoW_Tribal_Penitent_BloodElf.labelFemale>
-  <WoW_Tribal_Penitent_BloodElf.labelFemalePlural>女性血精灵忏悔者</WoW_Tribal_Penitent_BloodElf.labelFemalePlural>
+  <WoW_Tribal_Penitent_BloodElf.labelMale>男性 血精灵忏悔者</WoW_Tribal_Penitent_BloodElf.labelMale>
+  <WoW_Tribal_Penitent_BloodElf.labelMalePlural>男性 血精灵忏悔者</WoW_Tribal_Penitent_BloodElf.labelMalePlural>
+  <WoW_Tribal_Penitent_BloodElf.labelFemale>女性 血精灵忏悔者</WoW_Tribal_Penitent_BloodElf.labelFemale>
+  <WoW_Tribal_Penitent_BloodElf.labelFemalePlural>女性 血精灵忏悔者</WoW_Tribal_Penitent_BloodElf.labelFemalePlural>
 
   <WoW_Tribal_Penitent_WoWHuman.label>人类忏悔者</WoW_Tribal_Penitent_WoWHuman.label>
   <WoW_Tribal_Penitent_WoWHuman.labelPlural>人类忏悔者</WoW_Tribal_Penitent_WoWHuman.labelPlural>
-  <WoW_Tribal_Penitent_WoWHuman.labelMale>男性人类忏悔者</WoW_Tribal_Penitent_WoWHuman.labelMale>
-  <WoW_Tribal_Penitent_WoWHuman.labelMalePlural>男性人类忏悔者</WoW_Tribal_Penitent_WoWHuman.labelMalePlural>
-  <WoW_Tribal_Penitent_WoWHuman.labelFemale>女性人类忏悔者</WoW_Tribal_Penitent_WoWHuman.labelFemale>
-  <WoW_Tribal_Penitent_WoWHuman.labelFemalePlural>女性人类忏悔者</WoW_Tribal_Penitent_WoWHuman.labelFemalePlural>
+  <WoW_Tribal_Penitent_WoWHuman.labelMale>男性 人类忏悔者</WoW_Tribal_Penitent_WoWHuman.labelMale>
+  <WoW_Tribal_Penitent_WoWHuman.labelMalePlural>男性 人类忏悔者</WoW_Tribal_Penitent_WoWHuman.labelMalePlural>
+  <WoW_Tribal_Penitent_WoWHuman.labelFemale>女性 人类忏悔者</WoW_Tribal_Penitent_WoWHuman.labelFemale>
+  <WoW_Tribal_Penitent_WoWHuman.labelFemalePlural>女性 人类忏悔者</WoW_Tribal_Penitent_WoWHuman.labelFemalePlural>
 
   <WoW_Tribal_Penitent_Orc.label>兽人忏悔者</WoW_Tribal_Penitent_Orc.label>
   <WoW_Tribal_Penitent_Orc.labelPlural>兽人忏悔者</WoW_Tribal_Penitent_Orc.labelPlural>
-  <WoW_Tribal_Penitent_Orc.labelMale>男性兽人忏悔者</WoW_Tribal_Penitent_Orc.labelMale>
-  <WoW_Tribal_Penitent_Orc.labelMalePlural>男性兽人忏悔者</WoW_Tribal_Penitent_Orc.labelMalePlural>
-  <WoW_Tribal_Penitent_Orc.labelFemale>女性兽人忏悔者</WoW_Tribal_Penitent_Orc.labelFemale>
-  <WoW_Tribal_Penitent_Orc.labelFemalePlural>女性兽人忏悔者</WoW_Tribal_Penitent_Orc.labelFemalePlural>
+  <WoW_Tribal_Penitent_Orc.labelMale>男性 兽人忏悔者</WoW_Tribal_Penitent_Orc.labelMale>
+  <WoW_Tribal_Penitent_Orc.labelMalePlural>男性 兽人忏悔者</WoW_Tribal_Penitent_Orc.labelMalePlural>
+  <WoW_Tribal_Penitent_Orc.labelFemale>女性 兽人忏悔者</WoW_Tribal_Penitent_Orc.labelFemale>
+  <WoW_Tribal_Penitent_Orc.labelFemalePlural>女性 兽人忏悔者</WoW_Tribal_Penitent_Orc.labelFemalePlural>
 
   <WoW_Tribal_Penitent_HighElf.label>高等精灵忏悔者</WoW_Tribal_Penitent_HighElf.label>
   <WoW_Tribal_Penitent_HighElf.labelPlural>高等精灵忏悔者</WoW_Tribal_Penitent_HighElf.labelPlural>
-  <WoW_Tribal_Penitent_HighElf.labelMale>男性高等精灵忏悔者</WoW_Tribal_Penitent_HighElf.labelMale>
-  <WoW_Tribal_Penitent_HighElf.labelMalePlural>男性高等精灵忏悔者</WoW_Tribal_Penitent_HighElf.labelMalePlural>
-  <WoW_Tribal_Penitent_HighElf.labelFemale>女性高等精灵忏悔者</WoW_Tribal_Penitent_HighElf.labelFemale>
-  <WoW_Tribal_Penitent_HighElf.labelFemalePlural>女性高等精灵忏悔者</WoW_Tribal_Penitent_HighElf.labelFemalePlural>
+  <WoW_Tribal_Penitent_HighElf.labelMale>男性 高等精灵忏悔者</WoW_Tribal_Penitent_HighElf.labelMale>
+  <WoW_Tribal_Penitent_HighElf.labelMalePlural>男性 高等精灵忏悔者</WoW_Tribal_Penitent_HighElf.labelMalePlural>
+  <WoW_Tribal_Penitent_HighElf.labelFemale>女性 高等精灵忏悔者</WoW_Tribal_Penitent_HighElf.labelFemale>
+  <WoW_Tribal_Penitent_HighElf.labelFemalePlural>女性 高等精灵忏悔者</WoW_Tribal_Penitent_HighElf.labelFemalePlural>
 
   <WoW_Tribal_Penitent_Troll.label>巨魔忏悔者</WoW_Tribal_Penitent_Troll.label>
   <WoW_Tribal_Penitent_Troll.labelPlural>巨魔忏悔者</WoW_Tribal_Penitent_Troll.labelPlural>
-  <WoW_Tribal_Penitent_Troll.labelMale>男性巨魔忏悔者</WoW_Tribal_Penitent_Troll.labelMale>
-  <WoW_Tribal_Penitent_Troll.labelMalePlural>男性巨魔忏悔者</WoW_Tribal_Penitent_Troll.labelMalePlural>
-  <WoW_Tribal_Penitent_Troll.labelFemale>女性巨魔忏悔者</WoW_Tribal_Penitent_Troll.labelFemale>
-  <WoW_Tribal_Penitent_Troll.labelFemalePlural>女性巨魔忏悔者</WoW_Tribal_Penitent_Troll.labelFemalePlural>
+  <WoW_Tribal_Penitent_Troll.labelMale>男性 巨魔忏悔者</WoW_Tribal_Penitent_Troll.labelMale>
+  <WoW_Tribal_Penitent_Troll.labelMalePlural>男性 巨魔忏悔者</WoW_Tribal_Penitent_Troll.labelMalePlural>
+  <WoW_Tribal_Penitent_Troll.labelFemale>女性 巨魔忏悔者</WoW_Tribal_Penitent_Troll.labelFemale>
+  <WoW_Tribal_Penitent_Troll.labelFemalePlural>女性 巨魔忏悔者</WoW_Tribal_Penitent_Troll.labelFemalePlural>
 
   <WoW_Tribal_Penitent_Forsaken.label>被遗忘者忏悔者</WoW_Tribal_Penitent_Forsaken.label>
   <WoW_Tribal_Penitent_Forsaken.labelPlural>被遗忘者忏悔者</WoW_Tribal_Penitent_Forsaken.labelPlural>
-  <WoW_Tribal_Penitent_Forsaken.labelMale>男性被遗忘者忏悔者</WoW_Tribal_Penitent_Forsaken.labelMale>
-  <WoW_Tribal_Penitent_Forsaken.labelMalePlural>男性被遗忘者忏悔者</WoW_Tribal_Penitent_Forsaken.labelMalePlural>
-  <WoW_Tribal_Penitent_Forsaken.labelFemale>女性被遗忘者忏悔者</WoW_Tribal_Penitent_Forsaken.labelFemale>
-  <WoW_Tribal_Penitent_Forsaken.labelFemalePlural>女性被遗忘者忏悔者</WoW_Tribal_Penitent_Forsaken.labelFemalePlural>
+  <WoW_Tribal_Penitent_Forsaken.labelMale>男性 被遗忘者忏悔者</WoW_Tribal_Penitent_Forsaken.labelMale>
+  <WoW_Tribal_Penitent_Forsaken.labelMalePlural>男性 被遗忘者忏悔者</WoW_Tribal_Penitent_Forsaken.labelMalePlural>
+  <WoW_Tribal_Penitent_Forsaken.labelFemale>女性 被遗忘者忏悔者</WoW_Tribal_Penitent_Forsaken.labelFemale>
+  <WoW_Tribal_Penitent_Forsaken.labelFemalePlural>女性 被遗忘者忏悔者</WoW_Tribal_Penitent_Forsaken.labelFemalePlural>
 
   <WoW_Tribal_Penitent_Draenei.label>德莱尼忏悔者</WoW_Tribal_Penitent_Draenei.label>
   <WoW_Tribal_Penitent_Draenei.labelPlural>德莱尼忏悔者</WoW_Tribal_Penitent_Draenei.labelPlural>
-  <WoW_Tribal_Penitent_Draenei.labelMale>男性德莱尼忏悔者</WoW_Tribal_Penitent_Draenei.labelMale>
-  <WoW_Tribal_Penitent_Draenei.labelMalePlural>男性德莱尼忏悔者</WoW_Tribal_Penitent_Draenei.labelMalePlural>
-  <WoW_Tribal_Penitent_Draenei.labelFemale>女性德莱尼忏悔者</WoW_Tribal_Penitent_Draenei.labelFemale>
-  <WoW_Tribal_Penitent_Draenei.labelFemalePlural>女性德莱尼忏悔者</WoW_Tribal_Penitent_Draenei.labelFemalePlural>
+  <WoW_Tribal_Penitent_Draenei.labelMale>男性 德莱尼忏悔者</WoW_Tribal_Penitent_Draenei.labelMale>
+  <WoW_Tribal_Penitent_Draenei.labelMalePlural>男性 德莱尼忏悔者</WoW_Tribal_Penitent_Draenei.labelMalePlural>
+  <WoW_Tribal_Penitent_Draenei.labelFemale>女性 德莱尼忏悔者</WoW_Tribal_Penitent_Draenei.labelFemale>
+  <WoW_Tribal_Penitent_Draenei.labelFemalePlural>女性 德莱尼忏悔者</WoW_Tribal_Penitent_Draenei.labelFemalePlural>
 
   <WoW_Tribal_Penitent_Gnome.label>侏儒忏悔者</WoW_Tribal_Penitent_Gnome.label>
   <WoW_Tribal_Penitent_Gnome.labelPlural>侏儒忏悔者</WoW_Tribal_Penitent_Gnome.labelPlural>
-  <WoW_Tribal_Penitent_Gnome.labelMale>男性侏儒忏悔者</WoW_Tribal_Penitent_Gnome.labelMale>
-  <WoW_Tribal_Penitent_Gnome.labelMalePlural>男性侏儒忏悔者</WoW_Tribal_Penitent_Gnome.labelMalePlural>
-  <WoW_Tribal_Penitent_Gnome.labelFemale>女性侏儒忏悔者</WoW_Tribal_Penitent_Gnome.labelFemale>
-  <WoW_Tribal_Penitent_Gnome.labelFemalePlural>女性侏儒忏悔者</WoW_Tribal_Penitent_Gnome.labelFemalePlural>
+  <WoW_Tribal_Penitent_Gnome.labelMale>男性 侏儒忏悔者</WoW_Tribal_Penitent_Gnome.labelMale>
+  <WoW_Tribal_Penitent_Gnome.labelMalePlural>男性 侏儒忏悔者</WoW_Tribal_Penitent_Gnome.labelMalePlural>
+  <WoW_Tribal_Penitent_Gnome.labelFemale>女性 侏儒忏悔者</WoW_Tribal_Penitent_Gnome.labelFemale>
+  <WoW_Tribal_Penitent_Gnome.labelFemalePlural>女性 侏儒忏悔者</WoW_Tribal_Penitent_Gnome.labelFemalePlural>
 
 
   <!-- WoW_Tribal_Archer -->
 
   <WoW_Tribal_Archer_NightElf.label>暗夜精灵弓箭手</WoW_Tribal_Archer_NightElf.label>
   <WoW_Tribal_Archer_NightElf.labelPlural>暗夜精灵弓箭手</WoW_Tribal_Archer_NightElf.labelPlural>
-  <WoW_Tribal_Archer_NightElf.labelMale>男性暗夜精灵弓箭手</WoW_Tribal_Archer_NightElf.labelMale>
-  <WoW_Tribal_Archer_NightElf.labelMalePlural>男性暗夜精灵弓箭手</WoW_Tribal_Archer_NightElf.labelMalePlural>
-  <WoW_Tribal_Archer_NightElf.labelFemale>女性暗夜精灵弓箭手</WoW_Tribal_Archer_NightElf.labelFemale>
-  <WoW_Tribal_Archer_NightElf.labelFemalePlural>女性暗夜精灵弓箭手</WoW_Tribal_Archer_NightElf.labelFemalePlural>
+  <WoW_Tribal_Archer_NightElf.labelMale>男性 暗夜精灵弓箭手</WoW_Tribal_Archer_NightElf.labelMale>
+  <WoW_Tribal_Archer_NightElf.labelMalePlural>男性 暗夜精灵弓箭手</WoW_Tribal_Archer_NightElf.labelMalePlural>
+  <WoW_Tribal_Archer_NightElf.labelFemale>女性 暗夜精灵弓箭手</WoW_Tribal_Archer_NightElf.labelFemale>
+  <WoW_Tribal_Archer_NightElf.labelFemalePlural>女性 暗夜精灵弓箭手</WoW_Tribal_Archer_NightElf.labelFemalePlural>
 
   <WoW_Tribal_Archer_BloodElf.label>血精灵弓箭手</WoW_Tribal_Archer_BloodElf.label>
   <WoW_Tribal_Archer_BloodElf.labelPlural>血精灵弓箭手</WoW_Tribal_Archer_BloodElf.labelPlural>
-  <WoW_Tribal_Archer_BloodElf.labelMale>男性血精灵弓箭手</WoW_Tribal_Archer_BloodElf.labelMale>
-  <WoW_Tribal_Archer_BloodElf.labelMalePlural>男性血精灵弓箭手</WoW_Tribal_Archer_BloodElf.labelMalePlural>
-  <WoW_Tribal_Archer_BloodElf.labelFemale>女性血精灵弓箭手</WoW_Tribal_Archer_BloodElf.labelFemale>
-  <WoW_Tribal_Archer_BloodElf.labelFemalePlural>女性血精灵弓箭手</WoW_Tribal_Archer_BloodElf.labelFemalePlural>
+  <WoW_Tribal_Archer_BloodElf.labelMale>男性 血精灵弓箭手</WoW_Tribal_Archer_BloodElf.labelMale>
+  <WoW_Tribal_Archer_BloodElf.labelMalePlural>男性 血精灵弓箭手</WoW_Tribal_Archer_BloodElf.labelMalePlural>
+  <WoW_Tribal_Archer_BloodElf.labelFemale>女性 血精灵弓箭手</WoW_Tribal_Archer_BloodElf.labelFemale>
+  <WoW_Tribal_Archer_BloodElf.labelFemalePlural>女性 血精灵弓箭手</WoW_Tribal_Archer_BloodElf.labelFemalePlural>
 
   <WoW_Tribal_Archer_WoWHuman.label>人类弓箭手</WoW_Tribal_Archer_WoWHuman.label>
   <WoW_Tribal_Archer_WoWHuman.labelPlural>人类弓箭手</WoW_Tribal_Archer_WoWHuman.labelPlural>
-  <WoW_Tribal_Archer_WoWHuman.labelMale>男性人类弓箭手</WoW_Tribal_Archer_WoWHuman.labelMale>
-  <WoW_Tribal_Archer_WoWHuman.labelMalePlural>男性人类弓箭手</WoW_Tribal_Archer_WoWHuman.labelMalePlural>
-  <WoW_Tribal_Archer_WoWHuman.labelFemale>女性人类弓箭手</WoW_Tribal_Archer_WoWHuman.labelFemale>
-  <WoW_Tribal_Archer_WoWHuman.labelFemalePlural>女性人类弓箭手</WoW_Tribal_Archer_WoWHuman.labelFemalePlural>
+  <WoW_Tribal_Archer_WoWHuman.labelMale>男性 人类弓箭手</WoW_Tribal_Archer_WoWHuman.labelMale>
+  <WoW_Tribal_Archer_WoWHuman.labelMalePlural>男性 人类弓箭手</WoW_Tribal_Archer_WoWHuman.labelMalePlural>
+  <WoW_Tribal_Archer_WoWHuman.labelFemale>女性 人类弓箭手</WoW_Tribal_Archer_WoWHuman.labelFemale>
+  <WoW_Tribal_Archer_WoWHuman.labelFemalePlural>女性 人类弓箭手</WoW_Tribal_Archer_WoWHuman.labelFemalePlural>
 
   <WoW_Tribal_Archer_Orc.label>兽人弓箭手</WoW_Tribal_Archer_Orc.label>
   <WoW_Tribal_Archer_Orc.labelPlural>兽人弓箭手</WoW_Tribal_Archer_Orc.labelPlural>
-  <WoW_Tribal_Archer_Orc.labelMale>男性兽人弓箭手</WoW_Tribal_Archer_Orc.labelMale>
-  <WoW_Tribal_Archer_Orc.labelMalePlural>男性兽人弓箭手</WoW_Tribal_Archer_Orc.labelMalePlural>
-  <WoW_Tribal_Archer_Orc.labelFemale>女性兽人弓箭手</WoW_Tribal_Archer_Orc.labelFemale>
-  <WoW_Tribal_Archer_Orc.labelFemalePlural>女性兽人弓箭手</WoW_Tribal_Archer_Orc.labelFemalePlural>
+  <WoW_Tribal_Archer_Orc.labelMale>男性 兽人弓箭手</WoW_Tribal_Archer_Orc.labelMale>
+  <WoW_Tribal_Archer_Orc.labelMalePlural>男性 兽人弓箭手</WoW_Tribal_Archer_Orc.labelMalePlural>
+  <WoW_Tribal_Archer_Orc.labelFemale>女性 兽人弓箭手</WoW_Tribal_Archer_Orc.labelFemale>
+  <WoW_Tribal_Archer_Orc.labelFemalePlural>女性 兽人弓箭手</WoW_Tribal_Archer_Orc.labelFemalePlural>
 
   <WoW_Tribal_Archer_HighElf.label>高等精灵弓箭手</WoW_Tribal_Archer_HighElf.label>
   <WoW_Tribal_Archer_HighElf.labelPlural>高等精灵弓箭手</WoW_Tribal_Archer_HighElf.labelPlural>
-  <WoW_Tribal_Archer_HighElf.labelMale>男性高等精灵弓箭手</WoW_Tribal_Archer_HighElf.labelMale>
-  <WoW_Tribal_Archer_HighElf.labelMalePlural>男性高等精灵弓箭手</WoW_Tribal_Archer_HighElf.labelMalePlural>
-  <WoW_Tribal_Archer_HighElf.labelFemale>女性高等精灵弓箭手</WoW_Tribal_Archer_HighElf.labelFemale>
-  <WoW_Tribal_Archer_HighElf.labelFemalePlural>女性高等精灵弓箭手</WoW_Tribal_Archer_HighElf.labelFemalePlural>
+  <WoW_Tribal_Archer_HighElf.labelMale>男性 高等精灵弓箭手</WoW_Tribal_Archer_HighElf.labelMale>
+  <WoW_Tribal_Archer_HighElf.labelMalePlural>男性 高等精灵弓箭手</WoW_Tribal_Archer_HighElf.labelMalePlural>
+  <WoW_Tribal_Archer_HighElf.labelFemale>女性 高等精灵弓箭手</WoW_Tribal_Archer_HighElf.labelFemale>
+  <WoW_Tribal_Archer_HighElf.labelFemalePlural>女性 高等精灵弓箭手</WoW_Tribal_Archer_HighElf.labelFemalePlural>
 
   <WoW_Tribal_Archer_Troll.label>巨魔弓箭手</WoW_Tribal_Archer_Troll.label>
   <WoW_Tribal_Archer_Troll.labelPlural>巨魔弓箭手</WoW_Tribal_Archer_Troll.labelPlural>
-  <WoW_Tribal_Archer_Troll.labelMale>男性巨魔弓箭手</WoW_Tribal_Archer_Troll.labelMale>
-  <WoW_Tribal_Archer_Troll.labelMalePlural>男性巨魔弓箭手</WoW_Tribal_Archer_Troll.labelMalePlural>
-  <WoW_Tribal_Archer_Troll.labelFemale>女性巨魔弓箭手</WoW_Tribal_Archer_Troll.labelFemale>
-  <WoW_Tribal_Archer_Troll.labelFemalePlural>女性巨魔弓箭手</WoW_Tribal_Archer_Troll.labelFemalePlural>
+  <WoW_Tribal_Archer_Troll.labelMale>男性 巨魔弓箭手</WoW_Tribal_Archer_Troll.labelMale>
+  <WoW_Tribal_Archer_Troll.labelMalePlural>男性 巨魔弓箭手</WoW_Tribal_Archer_Troll.labelMalePlural>
+  <WoW_Tribal_Archer_Troll.labelFemale>女性 巨魔弓箭手</WoW_Tribal_Archer_Troll.labelFemale>
+  <WoW_Tribal_Archer_Troll.labelFemalePlural>女性 巨魔弓箭手</WoW_Tribal_Archer_Troll.labelFemalePlural>
 
   <WoW_Tribal_Archer_Forsaken.label>被遗忘者弓箭手</WoW_Tribal_Archer_Forsaken.label>
   <WoW_Tribal_Archer_Forsaken.labelPlural>被遗忘者弓箭手</WoW_Tribal_Archer_Forsaken.labelPlural>
-  <WoW_Tribal_Archer_Forsaken.labelMale>男性被遗忘者弓箭手</WoW_Tribal_Archer_Forsaken.labelMale>
-  <WoW_Tribal_Archer_Forsaken.labelMalePlural>男性被遗忘者弓箭手</WoW_Tribal_Archer_Forsaken.labelMalePlural>
-  <WoW_Tribal_Archer_Forsaken.labelFemale>女性被遗忘者弓箭手</WoW_Tribal_Archer_Forsaken.labelFemale>
-  <WoW_Tribal_Archer_Forsaken.labelFemalePlural>女性被遗忘者弓箭手</WoW_Tribal_Archer_Forsaken.labelFemalePlural>
+  <WoW_Tribal_Archer_Forsaken.labelMale>男性 被遗忘者弓箭手</WoW_Tribal_Archer_Forsaken.labelMale>
+  <WoW_Tribal_Archer_Forsaken.labelMalePlural>男性 被遗忘者弓箭手</WoW_Tribal_Archer_Forsaken.labelMalePlural>
+  <WoW_Tribal_Archer_Forsaken.labelFemale>女性 被遗忘者弓箭手</WoW_Tribal_Archer_Forsaken.labelFemale>
+  <WoW_Tribal_Archer_Forsaken.labelFemalePlural>女性 被遗忘者弓箭手</WoW_Tribal_Archer_Forsaken.labelFemalePlural>
 
   <WoW_Tribal_Archer_Draenei.label>德莱尼弓箭手</WoW_Tribal_Archer_Draenei.label>
   <WoW_Tribal_Archer_Draenei.labelPlural>德莱尼弓箭手</WoW_Tribal_Archer_Draenei.labelPlural>
-  <WoW_Tribal_Archer_Draenei.labelMale>男性德莱尼弓箭手</WoW_Tribal_Archer_Draenei.labelMale>
-  <WoW_Tribal_Archer_Draenei.labelMalePlural>男性德莱尼弓箭手</WoW_Tribal_Archer_Draenei.labelMalePlural>
-  <WoW_Tribal_Archer_Draenei.labelFemale>女性德莱尼弓箭手</WoW_Tribal_Archer_Draenei.labelFemale>
-  <WoW_Tribal_Archer_Draenei.labelFemalePlural>女性德莱尼弓箭手</WoW_Tribal_Archer_Draenei.labelFemalePlural>
+  <WoW_Tribal_Archer_Draenei.labelMale>男性 德莱尼弓箭手</WoW_Tribal_Archer_Draenei.labelMale>
+  <WoW_Tribal_Archer_Draenei.labelMalePlural>男性 德莱尼弓箭手</WoW_Tribal_Archer_Draenei.labelMalePlural>
+  <WoW_Tribal_Archer_Draenei.labelFemale>女性 德莱尼弓箭手</WoW_Tribal_Archer_Draenei.labelFemale>
+  <WoW_Tribal_Archer_Draenei.labelFemalePlural>女性 德莱尼弓箭手</WoW_Tribal_Archer_Draenei.labelFemalePlural>
 
   <WoW_Tribal_Archer_Gnome.label>侏儒弓箭手</WoW_Tribal_Archer_Gnome.label>
   <WoW_Tribal_Archer_Gnome.labelPlural>侏儒弓箭手</WoW_Tribal_Archer_Gnome.labelPlural>
-  <WoW_Tribal_Archer_Gnome.labelMale>男性侏儒弓箭手</WoW_Tribal_Archer_Gnome.labelMale>
-  <WoW_Tribal_Archer_Gnome.labelMalePlural>男性侏儒弓箭手</WoW_Tribal_Archer_Gnome.labelMalePlural>
-  <WoW_Tribal_Archer_Gnome.labelFemale>女性侏儒弓箭手</WoW_Tribal_Archer_Gnome.labelFemale>
-  <WoW_Tribal_Archer_Gnome.labelFemalePlural>女性侏儒弓箭手</WoW_Tribal_Archer_Gnome.labelFemalePlural>
+  <WoW_Tribal_Archer_Gnome.labelMale>男性 侏儒弓箭手</WoW_Tribal_Archer_Gnome.labelMale>
+  <WoW_Tribal_Archer_Gnome.labelMalePlural>男性 侏儒弓箭手</WoW_Tribal_Archer_Gnome.labelMalePlural>
+  <WoW_Tribal_Archer_Gnome.labelFemale>女性 侏儒弓箭手</WoW_Tribal_Archer_Gnome.labelFemale>
+  <WoW_Tribal_Archer_Gnome.labelFemalePlural>女性 侏儒弓箭手</WoW_Tribal_Archer_Gnome.labelFemalePlural>
 
 
   <!-- WoW_Tribal_Warrior -->
 
   <WoW_Tribal_Warrior_NightElf.label>暗夜精灵战士</WoW_Tribal_Warrior_NightElf.label>
   <WoW_Tribal_Warrior_NightElf.labelPlural>暗夜精灵战士</WoW_Tribal_Warrior_NightElf.labelPlural>
-  <WoW_Tribal_Warrior_NightElf.labelMale>男性暗夜精灵战士</WoW_Tribal_Warrior_NightElf.labelMale>
-  <WoW_Tribal_Warrior_NightElf.labelMalePlural>男性暗夜精灵战士</WoW_Tribal_Warrior_NightElf.labelMalePlural>
-  <WoW_Tribal_Warrior_NightElf.labelFemale>女性暗夜精灵战士</WoW_Tribal_Warrior_NightElf.labelFemale>
-  <WoW_Tribal_Warrior_NightElf.labelFemalePlural>女性暗夜精灵战士</WoW_Tribal_Warrior_NightElf.labelFemalePlural>
+  <WoW_Tribal_Warrior_NightElf.labelMale>男性 暗夜精灵战士</WoW_Tribal_Warrior_NightElf.labelMale>
+  <WoW_Tribal_Warrior_NightElf.labelMalePlural>男性 暗夜精灵战士</WoW_Tribal_Warrior_NightElf.labelMalePlural>
+  <WoW_Tribal_Warrior_NightElf.labelFemale>女性 暗夜精灵战士</WoW_Tribal_Warrior_NightElf.labelFemale>
+  <WoW_Tribal_Warrior_NightElf.labelFemalePlural>女性 暗夜精灵战士</WoW_Tribal_Warrior_NightElf.labelFemalePlural>
 
   <WoW_Tribal_Warrior_BloodElf.label>血精灵战士</WoW_Tribal_Warrior_BloodElf.label>
   <WoW_Tribal_Warrior_BloodElf.labelPlural>血精灵战士</WoW_Tribal_Warrior_BloodElf.labelPlural>
-  <WoW_Tribal_Warrior_BloodElf.labelMale>男性血精灵战士</WoW_Tribal_Warrior_BloodElf.labelMale>
-  <WoW_Tribal_Warrior_BloodElf.labelMalePlural>男性血精灵战士</WoW_Tribal_Warrior_BloodElf.labelMalePlural>
-  <WoW_Tribal_Warrior_BloodElf.labelFemale>女性血精灵战士</WoW_Tribal_Warrior_BloodElf.labelFemale>
-  <WoW_Tribal_Warrior_BloodElf.labelFemalePlural>女性血精灵战士</WoW_Tribal_Warrior_BloodElf.labelFemalePlural>
+  <WoW_Tribal_Warrior_BloodElf.labelMale>男性 血精灵战士</WoW_Tribal_Warrior_BloodElf.labelMale>
+  <WoW_Tribal_Warrior_BloodElf.labelMalePlural>男性 血精灵战士</WoW_Tribal_Warrior_BloodElf.labelMalePlural>
+  <WoW_Tribal_Warrior_BloodElf.labelFemale>女性 血精灵战士</WoW_Tribal_Warrior_BloodElf.labelFemale>
+  <WoW_Tribal_Warrior_BloodElf.labelFemalePlural>女性 血精灵战士</WoW_Tribal_Warrior_BloodElf.labelFemalePlural>
 
   <WoW_Tribal_Warrior_WoWHuman.label>人类战士</WoW_Tribal_Warrior_WoWHuman.label>
   <WoW_Tribal_Warrior_WoWHuman.labelPlural>人类战士</WoW_Tribal_Warrior_WoWHuman.labelPlural>
-  <WoW_Tribal_Warrior_WoWHuman.labelMale>男性人类战士</WoW_Tribal_Warrior_WoWHuman.labelMale>
-  <WoW_Tribal_Warrior_WoWHuman.labelMalePlural>男性人类战士</WoW_Tribal_Warrior_WoWHuman.labelMalePlural>
-  <WoW_Tribal_Warrior_WoWHuman.labelFemale>女性人类战士</WoW_Tribal_Warrior_WoWHuman.labelFemale>
-  <WoW_Tribal_Warrior_WoWHuman.labelFemalePlural>女性人类战士</WoW_Tribal_Warrior_WoWHuman.labelFemalePlural>
+  <WoW_Tribal_Warrior_WoWHuman.labelMale>男性 人类战士</WoW_Tribal_Warrior_WoWHuman.labelMale>
+  <WoW_Tribal_Warrior_WoWHuman.labelMalePlural>男性 人类战士</WoW_Tribal_Warrior_WoWHuman.labelMalePlural>
+  <WoW_Tribal_Warrior_WoWHuman.labelFemale>女性 人类战士</WoW_Tribal_Warrior_WoWHuman.labelFemale>
+  <WoW_Tribal_Warrior_WoWHuman.labelFemalePlural>女性 人类战士</WoW_Tribal_Warrior_WoWHuman.labelFemalePlural>
 
   <WoW_Tribal_Warrior_Orc.label>兽人战士</WoW_Tribal_Warrior_Orc.label>
   <WoW_Tribal_Warrior_Orc.labelPlural>兽人战士</WoW_Tribal_Warrior_Orc.labelPlural>
-  <WoW_Tribal_Warrior_Orc.labelMale>男性兽人战士</WoW_Tribal_Warrior_Orc.labelMale>
-  <WoW_Tribal_Warrior_Orc.labelMalePlural>男性兽人战士</WoW_Tribal_Warrior_Orc.labelMalePlural>
-  <WoW_Tribal_Warrior_Orc.labelFemale>女性兽人战士</WoW_Tribal_Warrior_Orc.labelFemale>
-  <WoW_Tribal_Warrior_Orc.labelFemalePlural>女性兽人战士</WoW_Tribal_Warrior_Orc.labelFemalePlural>
+  <WoW_Tribal_Warrior_Orc.labelMale>男性 兽人战士</WoW_Tribal_Warrior_Orc.labelMale>
+  <WoW_Tribal_Warrior_Orc.labelMalePlural>男性 兽人战士</WoW_Tribal_Warrior_Orc.labelMalePlural>
+  <WoW_Tribal_Warrior_Orc.labelFemale>女性 兽人战士</WoW_Tribal_Warrior_Orc.labelFemale>
+  <WoW_Tribal_Warrior_Orc.labelFemalePlural>女性 兽人战士</WoW_Tribal_Warrior_Orc.labelFemalePlural>
 
   <WoW_Tribal_Warrior_HighElf.label>高等精灵战士</WoW_Tribal_Warrior_HighElf.label>
   <WoW_Tribal_Warrior_HighElf.labelPlural>高等精灵战士</WoW_Tribal_Warrior_HighElf.labelPlural>
-  <WoW_Tribal_Warrior_HighElf.labelMale>男性高等精灵战士</WoW_Tribal_Warrior_HighElf.labelMale>
-  <WoW_Tribal_Warrior_HighElf.labelMalePlural>男性高等精灵战士</WoW_Tribal_Warrior_HighElf.labelMalePlural>
-  <WoW_Tribal_Warrior_HighElf.labelFemale>女性高等精灵战士</WoW_Tribal_Warrior_HighElf.labelFemale>
-  <WoW_Tribal_Warrior_HighElf.labelFemalePlural>女性高等精灵战士</WoW_Tribal_Warrior_HighElf.labelFemalePlural>
+  <WoW_Tribal_Warrior_HighElf.labelMale>男性 高等精灵战士</WoW_Tribal_Warrior_HighElf.labelMale>
+  <WoW_Tribal_Warrior_HighElf.labelMalePlural>男性 高等精灵战士</WoW_Tribal_Warrior_HighElf.labelMalePlural>
+  <WoW_Tribal_Warrior_HighElf.labelFemale>女性 高等精灵战士</WoW_Tribal_Warrior_HighElf.labelFemale>
+  <WoW_Tribal_Warrior_HighElf.labelFemalePlural>女性 高等精灵战士</WoW_Tribal_Warrior_HighElf.labelFemalePlural>
 
   <WoW_Tribal_Warrior_Troll.label>巨魔战士</WoW_Tribal_Warrior_Troll.label>
   <WoW_Tribal_Warrior_Troll.labelPlural>巨魔战士</WoW_Tribal_Warrior_Troll.labelPlural>
-  <WoW_Tribal_Warrior_Troll.labelMale>男性巨魔战士</WoW_Tribal_Warrior_Troll.labelMale>
-  <WoW_Tribal_Warrior_Troll.labelMalePlural>男性巨魔战士</WoW_Tribal_Warrior_Troll.labelMalePlural>
-  <WoW_Tribal_Warrior_Troll.labelFemale>女性巨魔战士</WoW_Tribal_Warrior_Troll.labelFemale>
-  <WoW_Tribal_Warrior_Troll.labelFemalePlural>女性巨魔战士</WoW_Tribal_Warrior_Troll.labelFemalePlural>
+  <WoW_Tribal_Warrior_Troll.labelMale>男性 巨魔战士</WoW_Tribal_Warrior_Troll.labelMale>
+  <WoW_Tribal_Warrior_Troll.labelMalePlural>男性 巨魔战士</WoW_Tribal_Warrior_Troll.labelMalePlural>
+  <WoW_Tribal_Warrior_Troll.labelFemale>女性 巨魔战士</WoW_Tribal_Warrior_Troll.labelFemale>
+  <WoW_Tribal_Warrior_Troll.labelFemalePlural>女性 巨魔战士</WoW_Tribal_Warrior_Troll.labelFemalePlural>
 
   <WoW_Tribal_Warrior_Forsaken.label>被遗忘者战士</WoW_Tribal_Warrior_Forsaken.label>
   <WoW_Tribal_Warrior_Forsaken.labelPlural>被遗忘者战士</WoW_Tribal_Warrior_Forsaken.labelPlural>
-  <WoW_Tribal_Warrior_Forsaken.labelMale>男性被遗忘者战士</WoW_Tribal_Warrior_Forsaken.labelMale>
-  <WoW_Tribal_Warrior_Forsaken.labelMalePlural>男性被遗忘者战士</WoW_Tribal_Warrior_Forsaken.labelMalePlural>
-  <WoW_Tribal_Warrior_Forsaken.labelFemale>女性被遗忘者战士</WoW_Tribal_Warrior_Forsaken.labelFemale>
-  <WoW_Tribal_Warrior_Forsaken.labelFemalePlural>女性被遗忘者战士</WoW_Tribal_Warrior_Forsaken.labelFemalePlural>
+  <WoW_Tribal_Warrior_Forsaken.labelMale>男性 被遗忘者战士</WoW_Tribal_Warrior_Forsaken.labelMale>
+  <WoW_Tribal_Warrior_Forsaken.labelMalePlural>男性 被遗忘者战士</WoW_Tribal_Warrior_Forsaken.labelMalePlural>
+  <WoW_Tribal_Warrior_Forsaken.labelFemale>女性 被遗忘者战士</WoW_Tribal_Warrior_Forsaken.labelFemale>
+  <WoW_Tribal_Warrior_Forsaken.labelFemalePlural>女性 被遗忘者战士</WoW_Tribal_Warrior_Forsaken.labelFemalePlural>
 
   <WoW_Tribal_Warrior_Draenei.label>德莱尼战士</WoW_Tribal_Warrior_Draenei.label>
   <WoW_Tribal_Warrior_Draenei.labelPlural>德莱尼战士</WoW_Tribal_Warrior_Draenei.labelPlural>
-  <WoW_Tribal_Warrior_Draenei.labelMale>男性德莱尼战士</WoW_Tribal_Warrior_Draenei.labelMale>
-  <WoW_Tribal_Warrior_Draenei.labelMalePlural>男性德莱尼战士</WoW_Tribal_Warrior_Draenei.labelMalePlural>
-  <WoW_Tribal_Warrior_Draenei.labelFemale>女性德莱尼战士</WoW_Tribal_Warrior_Draenei.labelFemale>
-  <WoW_Tribal_Warrior_Draenei.labelFemalePlural>女性德莱尼战士</WoW_Tribal_Warrior_Draenei.labelFemalePlural>
+  <WoW_Tribal_Warrior_Draenei.labelMale>男性 德莱尼战士</WoW_Tribal_Warrior_Draenei.labelMale>
+  <WoW_Tribal_Warrior_Draenei.labelMalePlural>男性 德莱尼战士</WoW_Tribal_Warrior_Draenei.labelMalePlural>
+  <WoW_Tribal_Warrior_Draenei.labelFemale>女性 德莱尼战士</WoW_Tribal_Warrior_Draenei.labelFemale>
+  <WoW_Tribal_Warrior_Draenei.labelFemalePlural>女性 德莱尼战士</WoW_Tribal_Warrior_Draenei.labelFemalePlural>
 
   <WoW_Tribal_Warrior_Worgen.label>狼人战士</WoW_Tribal_Warrior_Worgen.label>
   <WoW_Tribal_Warrior_Worgen.labelPlural>狼人战士</WoW_Tribal_Warrior_Worgen.labelPlural>
-  <WoW_Tribal_Warrior_Worgen.labelMale>男性狼人战士</WoW_Tribal_Warrior_Worgen.labelMale>
-  <WoW_Tribal_Warrior_Worgen.labelMalePlural>男性狼人战士</WoW_Tribal_Warrior_Worgen.labelMalePlural>
-  <WoW_Tribal_Warrior_Worgen.labelFemale>女性狼人战士</WoW_Tribal_Warrior_Worgen.labelFemale>
-  <WoW_Tribal_Warrior_Worgen.labelFemalePlural>女性狼人战士</WoW_Tribal_Warrior_Worgen.labelFemalePlural>
+  <WoW_Tribal_Warrior_Worgen.labelMale>男性 狼人战士</WoW_Tribal_Warrior_Worgen.labelMale>
+  <WoW_Tribal_Warrior_Worgen.labelMalePlural>男性 狼人战士</WoW_Tribal_Warrior_Worgen.labelMalePlural>
+  <WoW_Tribal_Warrior_Worgen.labelFemale>女性 狼人战士</WoW_Tribal_Warrior_Worgen.labelFemale>
+  <WoW_Tribal_Warrior_Worgen.labelFemalePlural>女性 狼人战士</WoW_Tribal_Warrior_Worgen.labelFemalePlural>
 
   <WoW_Tribal_Warrior_Gnome.label>侏儒战士</WoW_Tribal_Warrior_Gnome.label>
   <WoW_Tribal_Warrior_Gnome.labelPlural>侏儒战士</WoW_Tribal_Warrior_Gnome.labelPlural>
-  <WoW_Tribal_Warrior_Gnome.labelMale>男性侏儒战士</WoW_Tribal_Warrior_Gnome.labelMale>
-  <WoW_Tribal_Warrior_Gnome.labelMalePlural>男性侏儒战士</WoW_Tribal_Warrior_Gnome.labelMalePlural>
-  <WoW_Tribal_Warrior_Gnome.labelFemale>女性侏儒战士</WoW_Tribal_Warrior_Gnome.labelFemale>
-  <WoW_Tribal_Warrior_Gnome.labelFemalePlural>女性侏儒战士</WoW_Tribal_Warrior_Gnome.labelFemalePlural>
+  <WoW_Tribal_Warrior_Gnome.labelMale>男性 侏儒战士</WoW_Tribal_Warrior_Gnome.labelMale>
+  <WoW_Tribal_Warrior_Gnome.labelMalePlural>男性 侏儒战士</WoW_Tribal_Warrior_Gnome.labelMalePlural>
+  <WoW_Tribal_Warrior_Gnome.labelFemale>女性 侏儒战士</WoW_Tribal_Warrior_Gnome.labelFemale>
+  <WoW_Tribal_Warrior_Gnome.labelFemalePlural>女性 侏儒战士</WoW_Tribal_Warrior_Gnome.labelFemalePlural>
 
 
 </LanguageData>

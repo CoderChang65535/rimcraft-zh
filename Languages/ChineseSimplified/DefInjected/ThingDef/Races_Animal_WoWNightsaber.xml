@@ -4,28 +4,11 @@
   <!-- Nightsaber Def -->
 
   <WoW_Animal_Nightsaber.label>夜刃豹</WoW_Animal_Nightsaber.label>
+  <WoW_Animal_Nightsaber.race.meatLabel>夜刃豹肉</WoW_Animal_Nightsaber.race.meatLabel>
   <WoW_Animal_Nightsaber.description>Nightsabers are large saber cats found in Kalimdor, commonly used as mounts by the night elves. Elune made them silver and black so they could meld into the shadows on a moonlit night. Considered one of Azeroth's perfect predators, these agile beasts can sprint through dense forests without making a sound. Before they were domesticated by the Sentinel Army and trained as mounts, Kalimdor's savage nightsaber panthers were considered to be among the continent's most vicious inhabitants. While many of these grand predatory beasts still prowl the dusky shores and forests of the night elves' homeland, the finest pedigrees of the species, recognized by their superior swiftness and agility, now serve a more practical purpose for those skilled enough to ride them.</WoW_Animal_Nightsaber.description>
   <WoW_Animal_Nightsaber.tools.0.label>左爪</WoW_Animal_Nightsaber.tools.0.label>
   <WoW_Animal_Nightsaber.tools.1.label>右爪</WoW_Animal_Nightsaber.tools.1.label>
   <WoW_Animal_Nightsaber.tools.3.label>头</WoW_Animal_Nightsaber.tools.3.label>
-
-
-  <!-- Frostsaber Def -->
-
-  <WoW_Animal_Frostsaber.label>霜刃豹</WoW_Animal_Frostsaber.label>
-  <WoW_Animal_Frostsaber.description>Frostsabers are legendary cats native to Winterspring, and they are highly sought after by the most experienced Sentinels as mounts. The night elves view frostsabers as sacred, and treat them with more respect than almost any other creature. Frostsabers are difficult to train, and thus traditionally only experienced Sentinels were ever capable of convincing one to serve as a mount. In recent years, with the coming of the goblins to Winterspring, Wintersaber Trainers have begun selling their trained mounts for the first time in history. Traditionalists view this as blasphemous, but many understand that the coin from such sales often goes to a worthy cause (and Frostsaber Trainers are highly selective about just who they are willing to sell to). Frostsaber cats are intelligent and loyal when domesticated, but feral and aggressive when left in their natural environments. The frostsaber cat is a fearless opponent, its thick fur having the resilience to shrug off minor damage. It uses its fangs and claws against those foolish enough to engage it in melee combat.</WoW_Animal_Frostsaber.description>
-  <WoW_Animal_Frostsaber.tools.0.label>左爪</WoW_Animal_Frostsaber.tools.0.label>
-  <WoW_Animal_Frostsaber.tools.1.label>右爪</WoW_Animal_Frostsaber.tools.1.label>
-  <WoW_Animal_Frostsaber.tools.3.label>头</WoW_Animal_Frostsaber.tools.3.label>
-
-
-  <!-- Manasaber Def -->
-
-  <WoW_Animal_Manasaber.label>魔刃豹</WoW_Animal_Manasaber.label>
-  <WoW_Animal_Manasaber.description>Manasabers, are a type of saber cat on the Broken Isles, mainly Suramar, that have been altered by the nightborne or by ley-line exposure. They are purple and covered with runes. They are usually the favored mounts and animal companions of the nightborne. It is currently not known whether mana sabers are dependent on external sources of mana like the nightborne are. It is possible that mana sabers in the wild can only be sustained through passive ley-line exposure. It is also possible that they 'puncture and leak energy' from their targets to feed on.</WoW_Animal_Manasaber.description>
-  <WoW_Animal_Manasaber.tools.0.label>左爪</WoW_Animal_Manasaber.tools.0.label>
-  <WoW_Animal_Manasaber.tools.1.label>右爪</WoW_Animal_Manasaber.tools.1.label>
-  <WoW_Animal_Manasaber.tools.3.label>头</WoW_Animal_Manasaber.tools.3.label>
 
 
 </LanguageData>

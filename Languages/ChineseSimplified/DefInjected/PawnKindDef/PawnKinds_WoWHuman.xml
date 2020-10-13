@@ -5,69 +5,63 @@
 
   <WoW_Human_Peon.label>人类工人</WoW_Human_Peon.label>
   <WoW_Human_Peon.labelPlural>人类工人</WoW_Human_Peon.labelPlural>
-  <WoW_Human_Peon.labelMale>男性人类工人</WoW_Human_Peon.labelMale>
-  <WoW_Human_Peon.labelMalePlural>男性人类工人</WoW_Human_Peon.labelMalePlural>
-  <WoW_Human_Peon.labelFemale>女性人类工人</WoW_Human_Peon.labelFemale>
-  <WoW_Human_Peon.labelFemalePlural>女性人类工人</WoW_Human_Peon.labelFemalePlural>
+  <WoW_Human_Peon.labelMale>男性 人类工人</WoW_Human_Peon.labelMale>
+  <WoW_Human_Peon.labelMalePlural>男性 人类工人</WoW_Human_Peon.labelMalePlural>
+  <WoW_Human_Peon.labelFemale>女性 人类工人</WoW_Human_Peon.labelFemale>
+  <WoW_Human_Peon.labelFemalePlural>女性 人类工人</WoW_Human_Peon.labelFemalePlural>
 
   <WoW_Human_Trader.label>人类交易者</WoW_Human_Trader.label>
   <WoW_Human_Trader.labelPlural>人类交易者</WoW_Human_Trader.labelPlural>
-  <WoW_Human_Trader.labelMale>男性人类交易者</WoW_Human_Trader.labelMale>
-  <WoW_Human_Trader.labelMalePlural>男性人类交易者</WoW_Human_Trader.labelMalePlural>
-  <WoW_Human_Trader.labelFemale>女性人类交易者</WoW_Human_Trader.labelFemale>
-  <WoW_Human_Trader.labelFemalePlural>女性人类交易者</WoW_Human_Trader.labelFemalePlural>
+  <WoW_Human_Trader.labelMale>男性 人类交易者</WoW_Human_Trader.labelMale>
+  <WoW_Human_Trader.labelMalePlural>男性 人类交易者</WoW_Human_Trader.labelMalePlural>
+  <WoW_Human_Trader.labelFemale>女性 人类交易者</WoW_Human_Trader.labelFemale>
+  <WoW_Human_Trader.labelFemalePlural>女性 人类交易者</WoW_Human_Trader.labelFemalePlural>
 
   <WoW_Human_Slave.label>人类奴隶</WoW_Human_Slave.label>
   <WoW_Human_Slave.labelPlural>人类奴隶</WoW_Human_Slave.labelPlural>
-  <WoW_Human_Slave.labelMale>男性人类奴隶</WoW_Human_Slave.labelMale>
-  <WoW_Human_Slave.labelMalePlural>男性人类奴隶</WoW_Human_Slave.labelMalePlural>
-  <WoW_Human_Slave.labelFemale>女性人类奴隶</WoW_Human_Slave.labelFemale>
-  <WoW_Human_Slave.labelFemalePlural>女性人类奴隶</WoW_Human_Slave.labelFemalePlural>
+  <WoW_Human_Slave.labelMale>男性 人类奴隶</WoW_Human_Slave.labelMale>
+  <WoW_Human_Slave.labelMalePlural>男性 人类奴隶</WoW_Human_Slave.labelMalePlural>
+  <WoW_Human_Slave.labelFemale>女性 人类奴隶</WoW_Human_Slave.labelFemale>
+  <WoW_Human_Slave.labelFemalePlural>女性 人类奴隶</WoW_Human_Slave.labelFemalePlural>
 
 
   <!-- WoWHuman Military -->
 
-  <WoW_Human_Guard.label>联盟守卫</WoW_Human_Guard.label>
-  <WoW_Human_Guard.labelPlural>联盟守卫</WoW_Human_Guard.labelPlural>
-  <WoW_Human_Guard.labelMale>男性联盟守卫</WoW_Human_Guard.labelMale>
-  <WoW_Human_Guard.labelMalePlural>男性联盟守卫</WoW_Human_Guard.labelMalePlural>
-  <WoW_Human_Guard.labelFemale>女性联盟守卫</WoW_Human_Guard.labelFemale>
-  <WoW_Human_Guard.labelFemalePlural>女性联盟守卫</WoW_Human_Guard.labelFemalePlural>
-
   <WoW_Human_Private.label>联盟海盗</WoW_Human_Private.label>
   <WoW_Human_Private.labelPlural>联盟海盗</WoW_Human_Private.labelPlural>
-  <WoW_Human_Private.labelMale>男性联盟海盗</WoW_Human_Private.labelMale>
-  <WoW_Human_Private.labelMalePlural>男性联盟海盗</WoW_Human_Private.labelMalePlural>
-  <WoW_Human_Private.labelFemale>女性联盟海盗</WoW_Human_Private.labelFemale>
-  <WoW_Human_Private.labelFemalePlural>女性联盟海盗</WoW_Human_Private.labelFemalePlural>
+  <WoW_Human_Private.labelMale>男性 联盟海盗</WoW_Human_Private.labelMale>
+  <WoW_Human_Private.labelMalePlural>男性 联盟海盗</WoW_Human_Private.labelMalePlural>
+  <WoW_Human_Private.labelFemale>女性 联盟海盗</WoW_Human_Private.labelFemale>
+  <WoW_Human_Private.labelFemalePlural>女性 联盟海盗</WoW_Human_Private.labelFemalePlural>
 
   <WoW_Human_Knight.label>联盟骑士</WoW_Human_Knight.label>
   <WoW_Human_Knight.labelPlural>联盟骑士</WoW_Human_Knight.labelPlural>
-  <WoW_Human_Knight.labelMale>男性联盟骑士</WoW_Human_Knight.labelMale>
-  <WoW_Human_Knight.labelMalePlural>男性联盟骑士</WoW_Human_Knight.labelMalePlural>
-  <WoW_Human_Knight.labelFemale>女性联盟骑士</WoW_Human_Knight.labelFemale>
-  <WoW_Human_Knight.labelFemalePlural>女性联盟骑士</WoW_Human_Knight.labelFemalePlural>
+  <WoW_Human_Knight.labelMale>男性 联盟骑士</WoW_Human_Knight.labelMale>
+  <WoW_Human_Knight.labelMalePlural>男性 联盟骑士</WoW_Human_Knight.labelMalePlural>
+  <WoW_Human_Knight.labelFemale>女性 联盟骑士</WoW_Human_Knight.labelFemale>
+  <WoW_Human_Knight.labelFemalePlural>女性 联盟骑士</WoW_Human_Knight.labelFemalePlural>
+
 
   <WoW_Human_Sergeant.label>联盟军士</WoW_Human_Sergeant.label>
   <WoW_Human_Sergeant.labelPlural>联盟军士</WoW_Human_Sergeant.labelPlural>
-  <WoW_Human_Sergeant.labelMale>男性联盟军士</WoW_Human_Sergeant.labelMale>
-  <WoW_Human_Sergeant.labelMalePlural>男性联盟军士</WoW_Human_Sergeant.labelMalePlural>
-  <WoW_Human_Sergeant.labelFemale>女性联盟军士</WoW_Human_Sergeant.labelFemale>
-  <WoW_Human_Sergeant.labelFemalePlural>女性联盟军士</WoW_Human_Sergeant.labelFemalePlural>
+  <WoW_Human_Sergeant.labelMale>男性 联盟军士</WoW_Human_Sergeant.labelMale>
+  <WoW_Human_Sergeant.labelMalePlural>男性 联盟军士</WoW_Human_Sergeant.labelMalePlural>
+  <WoW_Human_Sergeant.labelFemale>女性 联盟军士</WoW_Human_Sergeant.labelFemale>
+  <WoW_Human_Sergeant.labelFemalePlural>女性 联盟军士</WoW_Human_Sergeant.labelFemalePlural>
 
   <WoW_Human_Marshal.label>联盟元帅</WoW_Human_Marshal.label>
   <WoW_Human_Marshal.labelPlural>联盟元帅</WoW_Human_Marshal.labelPlural>
-  <WoW_Human_Marshal.labelMale>男性联盟元帅</WoW_Human_Marshal.labelMale>
-  <WoW_Human_Marshal.labelMalePlural>男性联盟元帅</WoW_Human_Marshal.labelMalePlural>
-  <WoW_Human_Marshal.labelFemale>女性联盟元帅</WoW_Human_Marshal.labelFemale>
-  <WoW_Human_Marshal.labelFemalePlural>女性联盟元帅</WoW_Human_Marshal.labelFemalePlural>
+  <WoW_Human_Marshal.labelMale>男性 联盟元帅</WoW_Human_Marshal.labelMale>
+  <WoW_Human_Marshal.labelMalePlural>男性 联盟元帅</WoW_Human_Marshal.labelMalePlural>
+  <WoW_Human_Marshal.labelFemale>女性 联盟元帅</WoW_Human_Marshal.labelFemale>
+  <WoW_Human_Marshal.labelFemalePlural>女性 联盟元帅</WoW_Human_Marshal.labelFemalePlural>
 
   <WoW_Human_GrandMarshal.label>联盟大元帅</WoW_Human_GrandMarshal.label>
   <WoW_Human_GrandMarshal.labelPlural>联盟大元帅</WoW_Human_GrandMarshal.labelPlural>
-  <WoW_Human_GrandMarshal.labelMale>男性联盟大元帅</WoW_Human_GrandMarshal.labelMale>
-  <WoW_Human_GrandMarshal.labelMalePlural>男性联盟大元帅</WoW_Human_GrandMarshal.labelMalePlural>
-  <WoW_Human_GrandMarshal.labelFemale>女性联盟大元帅</WoW_Human_GrandMarshal.labelFemale>
-  <WoW_Human_GrandMarshal.labelFemalePlural>女性联盟大元帅</WoW_Human_GrandMarshal.labelFemalePlural>
+  <WoW_Human_GrandMarshal.labelMale>男性 联盟大元帅</WoW_Human_GrandMarshal.labelMale>
+  <WoW_Human_GrandMarshal.labelMalePlural>男性 联盟大元帅</WoW_Human_GrandMarshal.labelMalePlural>
+  <WoW_Human_GrandMarshal.labelFemale>女性 联盟大元帅</WoW_Human_GrandMarshal.labelFemale>
+  <WoW_Human_GrandMarshal.labelFemalePlural>女性 联盟大元帅</WoW_Human_GrandMarshal.labelFemalePlural>
 
 
 </LanguageData>

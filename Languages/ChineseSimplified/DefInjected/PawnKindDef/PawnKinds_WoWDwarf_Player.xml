@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Dwarf Player Pawn -->
+
+  <WoWDwarf.label>矮人殖民者</WoWDwarf.label>
+  <WoWDwarf.labelPlural>矮人殖民者</WoWDwarf.labelPlural>
+  <WoWDwarf.labelMale>男性 矮人殖民者</WoWDwarf.labelMale>
+  <WoWDwarf.labelMalePlural>男性 矮人殖民者</WoWDwarf.labelMalePlural>
+  <WoWDwarf.labelFemale>女性 矮人殖民者</WoWDwarf.labelFemale>
+  <WoWDwarf.labelFemalePlural>女性 矮人殖民者</WoWDwarf.labelFemalePlural>
+
+
+</LanguageData>
